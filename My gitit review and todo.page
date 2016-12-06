@@ -1,0 +1,17 @@
+---
+categories: org
+format: Markdown
+...
+
+# Advantages
+
+* Works well with any browser
+* Haskell!;)
+* Git! ;) (and thus easy sync)
+* Fast
+
+# Todo
+
+* Want this on public server, but not clear how to prevent editing by anybody
+* Lots of additional hassle before the page is created (need default change description)
+* Need automatic creation of the reference to parent page when creating new one
