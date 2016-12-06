@@ -1,5 +1,5 @@
 ---
-categories: org
+categories: org org/interoperability
 ...
 
 It seems tagspaces work by adding tags to the filename itself. This is very portable. 
