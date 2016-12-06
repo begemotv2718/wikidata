@@ -1,0 +1,13 @@
+---
+categories: git
+...
+
+# Cheat sheet: move existing repository to github
+
+* Create new repository on github: be sure to **not** preinitialize it with README or License
+* Issue the following git commands
+~~~{ .bash }
+git remote remove origin
+git remote add origin ssh://git@github.com/begemotv2718/repo.git
+git push -u origin master
+~~~
