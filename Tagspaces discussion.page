@@ -8,7 +8,7 @@ It seems tagspaces work by adding tags to the filename itself. This is very port
 
 # Advantages
 
-* Simple sync
+* Simple sync [Dropbox, etc. sync](https://www.tagspaces.org/blog/filesync-tagspaces-and-dropbox/)
 * Probably robust
 
 # Disadvantages
