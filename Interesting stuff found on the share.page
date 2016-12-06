@@ -1,0 +1,8 @@
+---
+format: Markdown
+categories: references linux
+...
+
+* [Как проверить свой сайт на стандартные уязвимости](http://webhamster.ru/mytetrashare/index/mtb0/1327783727qft5b6s1lt) -- инструкции по использованию nmap для поиска уязвимостей
+* [Основные понятия iptables в Linux - подробное объяснение приниципа работы и формата конфигов](http://webhamster.ru/mytetrashare/index/mtb0/1474022759ccgmz60u9g) 
+* * [Базовый URL](http://www.k-max.name/linux/netfilter-iptables-v-linux/#jump)
