@@ -19,6 +19,8 @@ Useful links:
 # Neural networks and language modeling
 
 While researching on raspberryPi voice recognition I came up with the general NN training framework, which is able to produce generative model after learning. Talking with Cheusov also suggests that it is very easy to use trained NN in the generative model.
+Relevant story: [Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus) package (which produces phonetisation out of word spelling) ininially was using [OpenFST]( http://www.openfst.org/twiki/bin/view/FST/WebHome) (which, basically, produce finite state machine from the list of examples of phonetisation) but they recently switched to rnn neural network based model ([RNNLM]( http://www.fit.vutbr.cz/~imikolov/rnnlm/) -- **R**ecurrent **N**eural **N**etwork **L**anguage **M**odelling.
+
 
 # Neural networks and renorm-group
 
