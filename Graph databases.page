@@ -1,0 +1,13 @@
+---
+categories: org databases ai
+...
+
+[Wiki link](https://en.wikipedia.org/wiki/Graph_database)
+
+## Interesting projects
+
+[OpenCog](https://en.wikipedia.org/wiki/OpenCog). Languages: C++,python,scheme (No Java!). Aimed to reach AI -- thus likely to be related to [Lenat](https://en.wikipedia.org/wiki/Eurisko)?
+
+[Neo4j](https://en.wikipedia.org/wiki/Neo4j) Java ;(. Otherwise seems to be popular and actively developing?
+
+[Cayley](https://cayley.io/) 
