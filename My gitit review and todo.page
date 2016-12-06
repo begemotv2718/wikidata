@@ -15,3 +15,4 @@ format: Markdown
 * Want this on public server, but not clear how to prevent editing by anybody
 * Lots of additional hassle before the page is created (need default change description)
 * Need automatic creation of the reference to parent page when creating new one
+* Export from del.icio.us and other sources
