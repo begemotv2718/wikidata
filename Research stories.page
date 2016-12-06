@@ -3,4 +3,8 @@ format: Markdown
 categories: research_topics
 ...
 
-[Neural network and finite automata]()
+* [Neural network and finite automata]()
+* [Renorm group everywhere]()
+* [Abstract nonsense everywhere]()
+* [Relativistic raytraycing]()
+
