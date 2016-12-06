@@ -3,3 +3,23 @@ format: Markdown
 categories: research_topics NN ML regex
 ...
 
+[Parent](Research stories)
+
+# Complexity theory and neural networks
+
+## Books
+
+# Neural networks and dynamic systems
+
+It is possible that certain dynamic systems (such as immune system in humans/animals) may have behavior similar to NN (e.g. have memory and learning properties). 
+
+Useful links:
+[Rev. Mod. Phys. Immunology for Physicists ](http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.69.1219)
+
+# Neural networks and language modeling
+
+While researching on raspberryPi voice recognition I came up with the general NN training framework, which is able to produce generative model after learning. Talking with Cheusov also suggests that it is very easy to use trained NN in the generative model.
+
+# Neural networks and renorm-group
+
+[Renormalization group]() topic  
