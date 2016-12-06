@@ -1,0 +1,14 @@
+---
+categories: org
+...
+
+It seems tagspaces work by adding tags to the filename itself. This is very portable. 
+
+# Advantages
+
+* Simple sync
+* Probably robust
+
+# Disadvantages
+
+* Tag is not as good as general graphs
