@@ -6,10 +6,7 @@ categories: org
 Исследование начато с [этого оригинального поста](https://habrahabr.ru/post/316814/). 
 Список предложений:
 
-* [MyTetra](http://webhamster.ru/site/page/index/articles/projectcode/105)
-* * [MyTetra Share](http://webhamster.ru/site/page/index/articles/projectcode/267)
-* * [Interesting stuff found on the share]()
-* * Tried, problems: unusual syntax, etc
+* [MyTetra](http://webhamster.ru/site/page/index/articles/projectcode/105) [MyTetra discussion]()
 * [Fossil](http://fossil-scm.org/index.html/doc/trunk/www/index.wiki) (not tried)
 * [TiddlyWiki](http://tiddlywiki.com/) (problems: Make my browser slow) [Mozilla addon](https://addons.mozilla.org/en-GB/firefox/addon/tiddlyfox/)
 * [Emacs org mode]()
