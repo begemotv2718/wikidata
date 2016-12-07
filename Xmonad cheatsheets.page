@@ -14,6 +14,7 @@ categories: xmonad haskell
 ## Script to run Xephyr from xmonad 
 From [this page](https://docu.blackdot.be/configuration/xmonad)
 
+
 **.xmonad/bin/xmonad-xephyr-run**
 
 ```bash
@@ -37,7 +38,24 @@ else
 fi
 ```
 
-****
+**.xmonad/bin/xmonad-xephyr-kill**
+
+```bash
+#!/bin/sh
+
+PID=$(ps aux | grep Xephyr | grep :3 | grep -v grep | awk '{ print $2 }')
+
+if [ ! -z $PID ]; then
+	kill $PID
+fi
+```
+
+Key binding
+
+```haskell
+keys' conf@(XConfig {XMonad.modMask = modMask}) = M.fromList [
+     ((modMask,			    xK_p	), bindOn [("3:classic", spawn "/home/sjorge/.xmonad/bin/xmonad-xephyr-run")
+```
 
 ## Running xmonad inside xnest
 
