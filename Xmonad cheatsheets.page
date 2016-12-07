@@ -128,3 +128,21 @@ kill $XNEST_PROC
 # Running some applications in xmonad
 
 [Change default fullscreen behavior](https://bbs.archlinux.org/viewtopic.php?id=138703) -- The idea is to look for _NET_WM_FULLSCREEN atom handling. The issue solution is for i3.
+
+# Xmonad documentation
+
+[Main document source](http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Doc-Extending.html)
+
+## Interesting layouts to possible try
+
+## Floating layout
+
+### Review of [Does anyone have a sane floating layout in Xmonad](https://bbs.archlinux.org/viewtopic.php?id=80124)
+
+Questions addressed
+1. To raise a window I need to hold the mod key and mouse click. I'd like to simply click to raise.
+2. If there are more than one instance of a program running, raising one instance raises them all.
+3. Switching focus between windows with the keyboard doesn't work with new windows unless it's been raised with the mouse once.
+
+
+Something to implemen
