@@ -184,6 +184,8 @@ myDish = limitWindows 5 $ Dishes nmaster ratio
 
 ## Floating layout
 
+[Documentation for XMonad.Layout.SimpleFloat](http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Layout-SimpleFloat.html)
+
 ### Review of [Does anyone have a sane floating layout in Xmonad](https://bbs.archlinux.org/viewtopic.php?id=80124)
 
 **Questions addressed**
