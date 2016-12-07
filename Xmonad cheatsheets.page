@@ -10,6 +10,10 @@ categories: xmonad haskell
 * [Xnest](https://en.wikipedia.org/wiki/Xnest) wiki page
 * [Xephyr](https://en.wikipedia.org/wiki/Xephyr) wiki page
 
+## Running xmonad inside xnest
+
+[From this discussion](https://mail.haskell.org/pipermail/xmonad/2007-June/001128.html)
+
 ```bash
 #!/bin/sh
 
