@@ -180,4 +180,6 @@ magnifiercz' :: Rational -> l a -> ModifiedLayout Magnifier l a -- Increase the 
 3. Switching focus between windows with the keyboard doesn't work with new windows unless it's been raised with the mouse once.
 
 
-Something to implemen
+**Suggest xmonad config with possible solution**
+
+[Archive link](http://web.archive.org/web/20100110160025/http://www.pbrisbin.com:8080/dotfiles/xmonad.hs)
