@@ -9,6 +9,7 @@ categories: xmonad haskell
 * [This page](http://download.swsoft.com/virtuozzo/virtuozzo4.0/docs/en/lin/VzLinuxUG/11482.htm) discuss startup of window manager. The main nontrivial piece of information here is link to /usr/X11R6/lib/X11/xinit/Xclients in startup
 * [Xnest](https://en.wikipedia.org/wiki/Xnest) wiki page
 * [Xephyr](https://en.wikipedia.org/wiki/Xephyr) wiki page
+
 ```
 #!/bin/sh
 
