@@ -3,6 +3,7 @@ format: Markdown
 categories: xmonad haskell xwindows
 ...
 
+
 # Non-tiling window manager inside Xmonad
 
 * [Stackexchange: running non-tiling in xmonad](http://superuser.com/questions/443655/running-a-non-tiling-window-manager-inside-an-xmonad-tile) Recommend to use xnest
@@ -132,6 +133,16 @@ kill $XNEST_PROC
 # Xmonad documentation
 
 [Main document source](http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Doc-Extending.html)
+
+## Setting behavior for particular applications
+
+Run xprop
+
+    -**resource** (also known as **appName**) is the first element in WM_CLASS(STRING)
+    -**className** is the second element in WM_CLASS(STRING)
+    -**title** is WM_NAME(STRING) 
+
+
 
 ## Interesting layouts to possible try
 
