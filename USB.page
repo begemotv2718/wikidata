@@ -1,0 +1,11 @@
+---
+categories: hardware,usb
+...
+
+* [USB in a NutShell](http://www.beyondlogic.org/usbnutshell/usb1.shtml)
+* [USB made simple](http://www.usbmadesimple.co.uk/)
+* Habr
+    * [Разбираем и собираем обратно стек USB](https://habrahabr.ru/post/236401/) Автор пытается сравнивать стек USB c сетевым стеком. В остальном статья полезна ссылками
+        * USB HID devices
+            * ИБП
+             
