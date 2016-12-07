@@ -135,6 +135,27 @@ kill $XNEST_PROC
 
 ## Interesting layouts to possible try
 
+### [Xmonad layouts for netbooks](http://joeyh.name/blog/entry/xmonad_layouts_for_netbooks/)
+
+Some interesting ideas from this site
+
+#### Coding layout
+
+
+```haskell
+myCode = limitWindows 3 $ magnifiercz' 1.4 $ FixedColumn 1 20 80 10
+```  
+
+**Explanation**
+
+```haskell
+data FixedColumn a = FixedColumn !Int -- Number of windows in the master pane
+                                 !Int -- Number to increment by when resizing
+                                 !Int -- Default width of master pane
+                                 !Int -- Column width for normal windows
+                        deriving (Read, Show)
+```
+
 ## Floating layout
 
 ### Review of [Does anyone have a sane floating layout in Xmonad](https://bbs.archlinux.org/viewtopic.php?id=80124)
