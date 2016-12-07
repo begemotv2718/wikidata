@@ -54,6 +54,8 @@ Some switches
 
 & means Xephyr is going to run in the background. Nothing serious, it will merely relinquish the command of the terminal windows back to you. 
 
+
+
 ## Script to run Xephyr from xmonad 
 From [this page](https://docu.blackdot.be/configuration/xmonad)
 
@@ -118,3 +120,7 @@ xsetroot -display :1 -solid gray
 wait $!
 kill $XNEST_PROC
 ```
+
+## Funny stuff
+
+[Running i3 inside emacs](https://www.reddit.com/r/emacs/comments/34htzr/eyebrowse_i3_window_manager_inside_emacs/)
