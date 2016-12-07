@@ -36,6 +36,24 @@ Some switches
 -C Requests compression of all data (including stdin, stdout, stderr, and data for forwarded X11 and TCP connections). The compression algorithm is the same used by gzip(1), and the ''level'' can be controlled by the CompressionLevel option for protocol version 1. Compression is desirable on modem lines and other slow connections, but will only slow down things on fast networks. The default value can be set on a host-by-host basis in the configuration files; see the Compression option. 
 ```
 
+### Some explanations 
+
+[Xephyr - Multiple nested X sessions ](http://web.archive.org/web/20160520083948/http://www.dedoimedo.com/computers/xephyr.html) Actually this is expanded version of the previous Ubuntu forums stuff
+
+ -ac disables access control restrictions and allows you to forward X sessions. This is probably similar to running xhost +, which allows you to accept forwarded X sessions to your own.
+
+- screen <resolution> is the screen size of the forwarded sessions. You can choose anything you want, but it's best to keep it within the limits of your native resolution.
+
+-br sets the background color to black. You can choose others if you want.
+
+-reset -terminate is a sort of a failsafe mechanism that should make sure Xephyr closes automatically after the last X session (client) has been killed.
+
+2> /dev/null redirects any error message to /dev/null, a device that is a sort of a black hole, it eats anything sent to it and never gives back. Think of it as your digital trash bin.
+
+:1 is the display that you are using Xephyr for. In general, the default display is :0, which is your monitor. Any additional display, real or virtual, needs a new port. In this case, we're using :1, but we can also use :3, :17 or anything.
+
+& means Xephyr is going to run in the background. Nothing serious, it will merely relinquish the command of the terminal windows back to you. 
+
 ## Script to run Xephyr from xmonad 
 From [this page](https://docu.blackdot.be/configuration/xmonad)
 
