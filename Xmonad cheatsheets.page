@@ -1,0 +1,25 @@
+---
+format: Markdown
+categories: xmonad haskell
+...
+
+# Non-tiling window manager inside Xmonad
+
+* [Stackexchange: running non-tiling in xmonad](http://superuser.com/questions/443655/running-a-non-tiling-window-manager-inside-an-xmonad-tile) Recommend to use xnest
+* [This page](http://download.swsoft.com/virtuozzo/virtuozzo4.0/docs/en/lin/VzLinuxUG/11482.htm) discuss startup of window manager. The main nontrivial piece of information here is link to /usr/X11R6/lib/X11/xinit/Xclients in startup
+* [Xnest](https://en.wikipedia.org/wiki/Xnest) wiki page
+* [Xephyr](https://en.wikipedia.org/wiki/Xephyr) wiki page
+```
+#!/bin/sh
+
+Xnest :1 -name "Xnest" +kb -ac -bw 5 -geometry 1260x780 &
+XNEST_PROC=$!
+
+DISPLAY=:1
+xsetroot -display :1 -solid gray
+
+/home/gimbo/xmonad/xmonad/dist/build/xmonad/xmonad
+
+wait $!
+kill $XNEST_PROC
+```
