@@ -10,7 +10,7 @@ categories: xmonad haskell
 * [Xnest](https://en.wikipedia.org/wiki/Xnest) wiki page
 * [Xephyr](https://en.wikipedia.org/wiki/Xephyr) wiki page
 
-```
+```bash
 #!/bin/sh
 
 Xnest :1 -name "Xnest" +kb -ac -bw 5 -geometry 1260x780 &
