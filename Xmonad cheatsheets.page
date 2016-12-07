@@ -124,3 +124,7 @@ kill $XNEST_PROC
 ## Funny stuff
 
 [Running i3 inside emacs](https://www.reddit.com/r/emacs/comments/34htzr/eyebrowse_i3_window_manager_inside_emacs/)
+
+# Running some applications in xmonad
+
+[Change default fullscreen behavior](https://bbs.archlinux.org/viewtopic.php?id=138703) -- The idea is to look for _NET_WM_FULLSCREEN atom handling. The issue solution is for i3.
