@@ -135,6 +135,10 @@ kill $XNEST_PROC
 
 ## Interesting layouts to possible try
 
+### [XMonad.Layout.Circle](http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Layout-Circle.html)
+
+![Example](http://3.bp.blogspot.com/-meTdO2jsbVw/UtDveOYpvnI/AAAAAAAAArw/x48C8g3WreI/s1600/circle001.png)
+
 ### [Xmonad layouts for netbooks](http://joeyh.name/blog/entry/xmonad_layouts_for_netbooks/)
 
 Some interesting ideas from this site
