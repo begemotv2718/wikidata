@@ -1,6 +1,6 @@
 ---
 format: Markdown
-categories: xmonad haskell
+categories: xmonad haskell xwindows
 ...
 
 # Non-tiling window manager inside Xmonad
@@ -10,6 +10,31 @@ categories: xmonad haskell
 * [This page](http://download.swsoft.com/virtuozzo/virtuozzo4.0/docs/en/lin/VzLinuxUG/11482.htm) discuss startup of window manager. The main nontrivial piece of information here is link to /usr/X11R6/lib/X11/xinit/Xclients in startup
 * [Xnest](https://en.wikipedia.org/wiki/Xnest) wiki page
 * [Xephyr](https://en.wikipedia.org/wiki/Xephyr) wiki page
+
+## Offtopic: Xephyr in general
+[This page on ubuntu forums](https://ubuntuforums.org/showthread.php?p=3816948) discuss using Xephyr for X session to ssh (to have every application of remote server in the contained window)
+
+The main interesting piece of truth: 
+
+**execute to start Xephyr**
+
+```bash
+Xephyr -ac -screen 1280x1024 -br -reset -terminate 2> /dev/null :2 &
+```
+
+
+**execute on remote server**
+
+```bash
+ssh -XfC  user@server xfce4-session
+```
+
+Some switches
+
+```
+-f Requests ssh to go to background just before command execution. This is useful if ssh is going to ask for passwords or passphrases, but the user wants it in the background. This implies -n. The recommended way to start X11 programs at a remote site is with something like ssh -f host xterm. 
+-C Requests compression of all data (including stdin, stdout, stderr, and data for forwarded X11 and TCP connections). The compression algorithm is the same used by gzip(1), and the ''level'' can be controlled by the CompressionLevel option for protocol version 1. Compression is desirable on modem lines and other slow connections, but will only slow down things on fast networks. The default value can be set on a host-by-host basis in the configuration files; see the Compression option. 
+```
 
 ## Script to run Xephyr from xmonad 
 From [this page](https://docu.blackdot.be/configuration/xmonad)
