@@ -10,6 +10,32 @@ categories: xmonad haskell
 * [Xnest](https://en.wikipedia.org/wiki/Xnest) wiki page
 * [Xephyr](https://en.wikipedia.org/wiki/Xephyr) wiki page
 
+## Script to run Xephyr from xmonad 
+From [this page](https://docu.blackdot.be/configuration/xmonad)
+
+**.xmonad/bin/xmonad-xephyr-run**
+
+```bash
+#!/bin/sh
+
+if [ "$(ps aux | grep Xephyr | grep -v grep | grep -vi virtualbox | wc -l)" -lt 1 ]; then
+	exec Xephyr -screen 1366x752 -terminate -title "Xmonad Classic" :3 &
+	xdotool search --classname "Xephyr" windowmove 0 16
+	xdotool search --classname "Xephyr" windowsize 1366 752
+	sleep 1
+	export DISPLAY=:3
+	exec xfce4-session
+	sleep 1
+	exe=`dmenu_run_xephyr -nb black -sb black -nf "#555753" -sf "#8AE234"`
+	eval "exec $exe"
+else
+	export DISPLAY=:3
+	exe=`dmenu_run_xephyr -nb black -sb black -nf "#555753" -sf "#8AE234"`
+	eval "exec $exe"
+
+fi
+```
+
 ## Running xmonad inside xnest
 
 [From this discussion](https://mail.haskell.org/pipermail/xmonad/2007-June/001128.html)
