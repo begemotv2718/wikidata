@@ -150,7 +150,7 @@ Some interesting ideas from this site
 myCode = limitWindows 3 $ magnifiercz' 1.4 $ FixedColumn 1 20 80 10
 ```  
 
-**Explanation**
+**Explanation for FixedColumn**
 
 ```haskell
 data FixedColumn a = FixedColumn !Int -- Number of windows in the master pane
@@ -159,6 +159,15 @@ data FixedColumn a = FixedColumn !Int -- Number of windows in the master pane
                                  !Int -- Column width for normal windows
                         deriving (Read, Show)
 ```
+
+**Explanation for magnifiercz'**
+
+[Documentation](http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Layout-Magnifier.html)
+
+```haskell
+magnifiercz' :: Rational -> l a -> ModifiedLayout Magnifier l a -- Increase the size of the window that has focus by a custom zoom, unless if it is the master window. 
+```
+
 
 ## Floating layout
 
