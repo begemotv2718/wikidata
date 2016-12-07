@@ -167,7 +167,20 @@ data FixedColumn a = FixedColumn !Int -- Number of windows in the master pane
 ```haskell
 magnifiercz' :: Rational -> l a -> ModifiedLayout Magnifier l a -- Increase the size of the window that has focus by a custom zoom, unless if it is the master window. 
 ```
+##### Dishes layout
 
+![Image](http://joeyh.name/blog/entry/xmonad_layouts_for_netbooks/380x-logs.png)
+
+Something like rotated fixedcolumn: one big panel and many small below
+
+```haskell
+myDish = limitWindows 5 $ Dishes nmaster ratio
+    where
+        -- The default number of windows in the master pane
+        nmaster = 1
+        -- Default proportion of screen occupied by other panes
+        ratio = 1/5
+```
 
 ## Floating layout
 
