@@ -1,0 +1,21 @@
+---
+categories: functional_programming, design_patterns
+...
+
+# Links collection
+
+## Scott Wlaschin  Functional Programming Patterns
+
+[Link](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
+
+Presentation is 249 pages long. 
+
+Interesting ones:
+
+| OOP            | Functional programming |
+|----------------|------------------------|
+| Single resp    | Functions              |
+| Open/closed    | Functions              |
+| Dep. inversion | Functions              |
+| etc.           | Functions;)            |
+|-----------------------------------------|
