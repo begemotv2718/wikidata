@@ -40,6 +40,12 @@ Actually the presentation itself is about best practices in functional programmi
 * Continuations ( pass functions to handle internal conditions in his case)
 * Monads for error handling, Monoids, etc. Nothing really fancy here
 
+## Norvig
+
+[Design Patterns in Dynamic Languages](http://norvig.com/design-patterns/)
+
+
+
 # See also
 
 * [Design patterns]()
