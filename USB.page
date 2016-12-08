@@ -246,5 +246,9 @@ static const struct usb_config_1 usb_config_1 = {
 
 ```
 
+### USB HID stack in FreeBSD
+
+[uhidd](https://wiki.freebsd.org/uhidd)
+
 
              
