@@ -176,7 +176,7 @@ const uint8_t RHID_ReportDescriptor[RHID_SIZ_REPORT_DESC] =
 
 ```
 
-###Эмулятор ИБП на USB hid
+###Эмулятор ИБП на USB
 
 [Реализация USB-интерфейса ИБП на основе ARM-платы MC HCK](https://geektimes.ru/post/258726/)
 
@@ -185,6 +185,8 @@ const uint8_t RHID_ReportDescriptor[RHID_SIZ_REPORT_DESC] =
 Процессор [MK20DX32VLF5](https://github.com/mchck/mchck/wiki/MCU-Features---MK20DX32VLF5)
 
 [Код проекта на GitHub](https://github.com/kolontsov/richcomm-ups-mchck/)
+
+Как выясняется, никаким HID тут и не пахнет
 
 #### Дескрипторы
 
