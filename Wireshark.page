@@ -1,0 +1,16 @@
+---
+categories: linux,networking,wireshark
+...
+
+# Links related to Wireshark
+
+## Расшифровка зашифрованного трафика
+
+[Расшифровка зашифрованного трафика](https://habrahabr.ru/post/253521/)
+
+```bash
+export SSLKEYLOGFILE=~/path/to/sslkeylog.log
+```
+
+Wireshark->Preferences->Protocols->SSL->(Pre)-Master-Secret log filename (/path/to/sslkeylog.log)
+
