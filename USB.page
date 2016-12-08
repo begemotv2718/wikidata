@@ -22,6 +22,8 @@ categories: hardware,usb
 * REPORT_ID = 3 — передает один байт в МК. Просто, чтобы показать, как передать данные МК. Мы будем передавать положение ползунка.
 * REPORT_ID = 4 — это репорт для передачи данных ПК. Возвращает информацию о текущем состоянии светодиодов, кнопок (если они есть) и возвращает переданный в репорте с ID=3 байт, чтобы показать, что данные приняты.
 
+Данные обрабатываются просто с сырого буфера endpointа.
+
 #### Device descriptors
 
 ```C
@@ -173,5 +175,74 @@ const uint8_t RHID_ReportDescriptor[RHID_SIZ_REPORT_DESC] =
 
 
 ```
-###
+
+###Эмулятор ИБП на USB hid
+
+[Реализация USB-интерфейса ИБП на основе ARM-платы MC HCK](https://geektimes.ru/post/258726/)
+
+Здесь используется плата MC HCK, для нее вполне себе отдельная [опенсорсная библиотека](https://github.com/mchck/mchck)
+
+Процессор [MK20DX32VLF5](https://github.com/mchck/mchck/wiki/MCU-Features---MK20DX32VLF5)
+
+[Код проекта на GitHub](https://github.com/kolontsov/richcomm-ups-mchck/)
+
+#### Дескрипторы
+
+```C
+static const struct usb_desc_dev_t device_dev_desc = {
+        .bLength = sizeof(struct usb_desc_dev_t),
+        .bDescriptorType = USB_DESC_DEV,
+        .bcdUSB = { .maj = 2 },
+        .bDeviceClass = USB_DEV_CLASS_SEE_IFACE,
+        .bDeviceSubClass = USB_DEV_SUBCLASS_SEE_IFACE,
+        .bDeviceProtocol = USB_DEV_PROTO_SEE_IFACE,
+        .bMaxPacketSize0 = EP0_BUFSIZE,
+        .idVendor = RCM_VENDOR,
+        .idProduct = RCM_PRODUCT,
+        .bcdDevice = { .sub = 1 },
+        .iManufacturer = 1,
+        .iProduct = 2,
+        .iSerialNumber = 3,
+        .bNumConfigurations = 1,
+}
+
+static const struct usb_config_1 usb_config_1 = {
+        .config = {
+                .bLength = sizeof(struct usb_desc_config_t),
+                .bDescriptorType = USB_DESC_CONFIG,
+                .wTotalLength = sizeof(struct usb_config_1),
+                .bNumInterfaces = 1,
+                .bConfigurationValue = 1,
+                .iConfiguration = 0, 
+                .one = 1,
+                .bMaxPower = 10
+        },
+        .usb_function_0 = {
+                .iface = {
+                        .bLength = sizeof(struct usb_desc_iface_t),
+                        .bDescriptorType = USB_DESC_IFACE,
+                        .bInterfaceNumber = 0, 
+                        .bAlternateSetting = 0, 
+                        .bNumEndpoints = 1,  
+                        .iInterface = 0, 
+                        .bInterfaceClass = RCM_CLASS,
+                        .bInterfaceSubClass = RCM_SUBCLASS,
+                        .bInterfaceProtocol = RCM_PROTOCOL,
+                        .iInterface = 0
+                },
+                .int_in_ep = {
+                        .bLength = sizeof(struct usb_desc_ep_t),
+                        .bDescriptorType = USB_DESC_EP,
+                        .bEndpointAddress = UPS_REPLY_EP,
+                        .type = USB_EP_INTR,
+                        .wMaxPacketSize = UPS_REPLY_EP_SIZE,
+                        .bInterval = 0xFF
+                }
+        },
+};
+
+
+```
+
+
              
