@@ -39,3 +39,7 @@ Function decorators in Python take function, return function, suitable for furth
 ## Memento
 
 Any construction with undo. Editors, database with rollback. Usually implemented by storing data as a list of transactions?
+
+# See also
+
+* [Functional programming and design patterns]()
