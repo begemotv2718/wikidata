@@ -52,6 +52,9 @@ Actually the presentation itself is about best practices in functional programmi
 
 design patterns *in general* only exist to patch up shortcomings in the language. And if another language can solve the same problem trivially, that other language won't have need of a design pattern for it. Users of that language may not even be aware that the problem exists, because, well, it's not a problem in that language.
 
+## Design patterns in terms of Haskell
+
+[Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 
 # See also
 
