@@ -1,0 +1,41 @@
+---
+categories: design_patterns
+...
+
+# Links
+
+* [Perl design patterns](http://www.perldesignpatterns.com/?PerlDesignPatterns)
+* [Design patterns in Java core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries/2707195#2707195) Quite comprehensive
+
+
+# Notes
+
+## Observer pattern
+
+Actually, simple publish/subscribe scheme. Very popular in robotic operating systems. 
+
+Одобряэм.
+
+## Composite pattern
+
+Most graphical redactors have grouping operation. Also very good idea for any modular design. 
+
+Одобряэм. 
+
+## Visitor pattern
+
+Not clear for me. Most examples look quite artificial. The useful ones seems to be equivalent to 'fold' of 'traverse' in functional languages.
+
+Bullshit?
+
+## Decorator 
+
+Take object return object with decorator suitable for further decoration. 
+
+Function decorators in Python take function, return function, suitable for further decoration.
+
+Одобряэм.
+
+## Memento
+
+Any construction with undo. Editors, database with rollback. Usually implemented by storing data as a list of transactions?
