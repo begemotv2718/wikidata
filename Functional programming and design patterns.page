@@ -44,6 +44,13 @@ Actually the presentation itself is about best practices in functional programmi
 
 [Design Patterns in Dynamic Languages](http://norvig.com/design-patterns/)
 
+## Stackoverflow thread
+
+[Does Functional Programming Replace GoF Design Patterns?](http://stackoverflow.com/questions/327955/does-functional-programming-replace-gof-design-patterns)
+
+### Some notable citations
+
+design patterns *in general* only exist to patch up shortcomings in the language. And if another language can solve the same problem trivially, that other language won't have need of a design pattern for it. Users of that language may not even be aware that the problem exists, because, well, it's not a problem in that language.
 
 
 # See also
