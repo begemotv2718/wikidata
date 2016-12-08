@@ -2,6 +2,12 @@
 categories: functional_programming, design_patterns
 ...
 
+# Motivation
+
+I more or less understand functional programming. However, every single hiring/assesment panel worries about bullshit like design patterns. Therefore it would be nice to be prepared to answer.
+
+More humble motivation: man should be skilled in different way of thinking.
+
 # Links collection
 
 ## Scott Wlaschin  Functional Programming Patterns
@@ -19,3 +25,19 @@ Interesting ones:
 | Dep. inversion | Functions              |
 | etc.           | Functions;)            |
 |----------------|------------------------|
+
+What we envisioned: Smalltalk. 
+What we got: C++, Object oriented Cobol, PHP, Java
+
+Actually the presentation itself is about best practices in functional programming. There nothing here concerning parallels of the GoF design patterns and FP structures. Not helpful to the goal but somewhat amusing.
+
+#### Ideas
+* Aim for totality (include constrains on the function domain in type)
+* Make illegal states irrepresentable (include errors in type)
+* Algebraic sum type is better than inheritance??? (not clear why)
+* Transformation oriented programming ( Input -> (transform to internal model) -> Internal model -> (transform from internal model) -> Output)
+* Functions are interfaces
+* Continuations ( pass functions to handle internal conditions in his case)
+* Monads for error handling, Monoids, etc. Nothing really fancy here
+
+## 
