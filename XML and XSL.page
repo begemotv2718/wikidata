@@ -4,6 +4,8 @@ categories: xml
 
 # Script to prettyprint xml
 
+[From here](http://vim.wikia.com/wiki/Automatically_indent_an_XML_file_using_XSLT)
+
 ```xsl
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
  <xsl:output method="xml" indent="yes"/>
