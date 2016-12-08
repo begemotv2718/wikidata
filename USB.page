@@ -8,6 +8,7 @@ categories: hardware,usb
 
 ## [Разбираем и собираем обратно стек USB](https://habrahabr.ru/post/236401/)
  Автор пытается сравнивать стек USB c сетевым стеком. В остальном статья полезна ссылками
+
 ### USB HID Demo from Raja
 
 [USB HID Demo](https://habrahabr.ru/post/208026/)
