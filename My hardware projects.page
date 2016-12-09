@@ -2,4 +2,5 @@
 categories: hardware
 ...
 
-[USB hid and maple mini]()
+* [Bus pirate for i2c bus]()
+* [USB hid and maple mini]()
