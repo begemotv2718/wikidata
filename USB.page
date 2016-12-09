@@ -44,6 +44,11 @@ The host periodically polls the device's interrupt IN endpoint during operation.
 
 [Web archive link](http://web.archive.org/web/20121014123205/http://www.lvr.com/hidpage.htm)
 
+
+## V-USB generic design with HID Automator
+
+[Web archive link](http://web.archive.org/web/20150222114723/http://www.obdev.at/products/vusb/automator.html)
+
 ## Tutorial 1
 
 [A closer look to USB HID Class](http://www.tracesystemsinc.com/USB_Tutorials_web/USB/B1_USB_Classes/Books/A3_A_Closer_Look_at_HID_Class/sbook2.htm)
