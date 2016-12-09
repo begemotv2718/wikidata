@@ -48,9 +48,6 @@ The host periodically polls the device's interrupt IN endpoint during operation.
 
 [HIDs UP -- Web archive](http://web.archive.org/web/20080511180026/http://www.embedded.com/2000/0010/0010ia2.htm)
 
-## Application note -- Human interface devices tutorial
-
-[AN249](files/AN249.pdf)
 
 ### Excerpt
 
@@ -62,6 +59,9 @@ Besides the requirements that apply to all devices, HIDs have additional require
 * For interrupt IN transfers, the device must place the report data in the interrupt endpoint's buffer and enable the endpoint. For interrupt OUT transfers, the device must enable the endpoint and retrieve received report data (usually signaled by a device interrupt) from the interrupt endpoint's buffer. 
 
 
+## Application note -- Human interface devices tutorial
+
+[AN249](files/AN249.pdf)
 
 ## V-USB generic design with HID Automator
 
