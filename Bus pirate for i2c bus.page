@@ -1,0 +1,13 @@
+---
+categories: hardware, bus_pirate
+...
+
+* [Bus pirate page link](http://dangerousprototypes.com/docs/Bus_Pirate_I2C)
+
+
+| Bus pirate | I2C   |
+|------------|-------|
+| MOSI       | SDA   |
+| CLK        | SCL   |
+| GND        | GND   |
+
