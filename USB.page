@@ -82,6 +82,7 @@ Advantages over the official tool include:
 ## Questions without answers
 
 * How data send through EP1 corresponds to data get with GET_REPORT request?
+* Can we have HID device with only control transfers (seems to be YES)?
 
 
 # Habr links
