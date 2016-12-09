@@ -34,6 +34,12 @@ The host periodically polls the device's interrupt IN endpoint during operation.
 * HID reports are wonderful!!!
 * HIDMaker FS will do all magic for you!!!
 
+## Instructables -- adapting Wii (i2c) joystick to USB
+
+This is a tutorial on adapting Wii Classic Controller to use over USB. The project uses V-USB library.
+
+[USB Descriptors](http://www.instructables.com/id/USB-Wii-Classic-Controller/step4/USB-Descriptors/)
+
 ## Linux -- writing HID devices
 
 ### Hidrd
