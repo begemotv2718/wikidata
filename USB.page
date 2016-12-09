@@ -5,6 +5,25 @@ categories: hardware,usb
 * [USB in a NutShell](http://www.beyondlogic.org/usbnutshell/usb1.shtml)
 * [USB made simple](http://www.usbmadesimple.co.uk/)
 
+# USB HID
+
+## Wikipedia article
+
+[Wikipedia article](https://en.wikipedia.org/wiki/Human_interface_device)
+[Second wikipedia article](https://en.wikipedia.org/wiki/USB_human_interface_device_class)
+
+###Summary
+
+* Protocol produced by Microsoft
+* Articles has prolonged discussion on keyboard and mice
+
+####Excerpt
+
+The USB HID class requires that every device describes how it will communicate with the host device in order to accurately predict and define all current and future human interface devices. During enumeration the device describes how its reports are to be structured so that the host device can properly prepare to receive this information.
+
+The host periodically polls the device's interrupt IN endpoint during operation. When the device has data to send it forms a report and sends it as a reply to the poll token. Common devices such as keyboards and mice send reports that are compliant with standards set by the USB Implementers Forum (USB-IF).[8] When a vendor makes a custom USB HID class device, the reports formed by the device need to match the report description given during enumeration and the driver installed on the host system. In this way it is possible for the USB HID class to be extremely flexible.
+ 
+
 # Habr links
 
 ## [Разбираем и собираем обратно стек USB](https://habrahabr.ru/post/236401/)
