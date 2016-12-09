@@ -15,6 +15,10 @@ categories: hardware,usb
 
 [Typical HID -- A mouse](http://www.usbmadesimple.co.uk/ums_5.htm)
 
+[Mouse descriptors](http://www.usbmadesimple.co.uk/ums_ms_desc_conf.htm)
+
+The data described by report descriptors arrive on ep1. 
+
 ### Important image
 
 ![](http://www.usbmadesimple.co.uk/ums_g_mouse_com.gif)
@@ -75,6 +79,9 @@ Advantages over the official tool include:
 * smaller native descriptor output,
 * non-interactive report descriptor generation, allowing for use in software/firmware builds.
 
+## Questions without answers
+
+* How data send through EP1 corresponds to data get with GET_REPORT request?
 
 
 # Habr links
