@@ -30,7 +30,11 @@ The host periodically polls the device's interrupt IN endpoint during operation.
 [A closer look to USB HID Class](http://www.tracesystemsinc.com/USB_Tutorials_web/USB/B1_USB_Classes/Books/A3_A_Closer_Look_at_HID_Class/sbook2.htm)
 
 * HID description can describe data up to 1 bit
-* HID reports can include units 
+* HID reports can include units and scale
+* HID reports are wonderful!!!
+* HIDMaker FS will do all magic for you!!!
+
+
 
 
 # Habr links
