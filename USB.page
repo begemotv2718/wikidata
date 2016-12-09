@@ -44,6 +44,20 @@ The host periodically polls the device's interrupt IN endpoint during operation.
 
 [Web archive link](http://web.archive.org/web/20121014123205/http://www.lvr.com/hidpage.htm)
 
+## HIDs UP
+
+[HIDs UP -- Web archive](http://web.archive.org/web/20080511180026/http://www.embedded.com/2000/0010/0010ia2.htm)
+
+### Excerpt
+
+Besides the requirements that apply to all devices, HIDs have additional requirements:
+
+* A HID must have an interrupt IN endpoint for sending periodic data to the host. An interrupt OUT endpoint for receiving periodic data from the host is optional
+* A HID must contain a class descriptor and one or more report descriptors
+* A HID must support the HID-specific control request Get_Report and may support the optional request Set_Report
+* For interrupt IN transfers, the device must place the report data in the interrupt endpoint's buffer and enable the endpoint. For interrupt OUT transfers, the device must enable the endpoint and retrieve received report data (usually signaled by a device interrupt) from the interrupt endpoint's buffer. 
+
+
 
 ## V-USB generic design with HID Automator
 
