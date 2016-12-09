@@ -16,6 +16,7 @@ categories: hardware,usb
 
 * Protocol produced by Microsoft
 * Articles has prolonged discussion on keyboard and mice
+* Only control and interrupt transfers are used. IN transaction (device to host) implemented for all devices OUT is optional
 
 ####Excerpt
 
@@ -23,6 +24,14 @@ The USB HID class requires that every device describes how it will communicate w
 
 The host periodically polls the device's interrupt IN endpoint during operation. When the device has data to send it forms a report and sends it as a reply to the poll token. Common devices such as keyboards and mice send reports that are compliant with standards set by the USB Implementers Forum (USB-IF).[8] When a vendor makes a custom USB HID class device, the reports formed by the device need to match the report description given during enumeration and the driver installed on the host system. In this way it is possible for the USB HID class to be extremely flexible.
  
+
+## Tutorial 1
+
+[A closer look to USB HID Class](http://www.tracesystemsinc.com/USB_Tutorials_web/USB/B1_USB_Classes/Books/A3_A_Closer_Look_at_HID_Class/sbook2.htm)
+
+* HID description can describe data up to 1 bit
+* HID reports can include units 
+
 
 # Habr links
 
