@@ -48,6 +48,10 @@ The host periodically polls the device's interrupt IN endpoint during operation.
 
 [HIDs UP -- Web archive](http://web.archive.org/web/20080511180026/http://www.embedded.com/2000/0010/0010ia2.htm)
 
+## Application note -- Human interface devices tutorial
+
+[AN249](files/AN249.pdf)
+
 ### Excerpt
 
 Besides the requirements that apply to all devices, HIDs have additional requirements:
