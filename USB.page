@@ -34,6 +34,28 @@ The host periodically polls the device's interrupt IN endpoint during operation.
 * HID reports are wonderful!!!
 * HIDMaker FS will do all magic for you!!!
 
+## Linux -- writing HID devices
+
+### Hidrd
+
+[Github link](https://github.com/DIGImend/hidrd)
+
+Hidrd is a library and a tool for reading, writing and converting HID report descriptors in/between various formats, with support as follows:
+
+| Format                           | Reading | Writing |
+| -------------------------------- | ------- | ------- |
+| Native (binary)                  | Yes     | Yes     |
+| XML                              | Yes     | Yes     |
+| HID specification example format | No      | Yes     |
+| C source code                    | No      | Yes     |
+
+Hidrd contains `hidrd-convert` - a tool for converting report descriptors between formats. As it supports reading and writing XML, it is suitable for descriptor authoring and editing, on par with and in some ways better than the official [HID Descriptor Tool](http://www.usb.org/developers/hidpage#HID%20Descriptor%20Tool).
+
+Advantages over the official tool include:
+* running on *nix natively,
+* reading native (binary) descriptors,
+* smaller native descriptor output,
+* non-interactive report descriptor generation, allowing for use in software/firmware builds.
 
 
 
