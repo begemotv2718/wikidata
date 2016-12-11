@@ -21,4 +21,3 @@ git clone messy_project/ clean_project/
 cd clean_project/
 git filter-branch --subdirectory-filter <subdir_name> -- --all
 ```
-```
