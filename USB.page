@@ -5,6 +5,10 @@ categories: hardware,usb
 * [USB in a NutShell](http://www.beyondlogic.org/usbnutshell/usb1.shtml)
 * [USB made simple](http://www.usbmadesimple.co.uk/)
 
+# Libopencm3 USB system organization 
+
+[Libopencm3 USB subsystem]()
+
 # USB HID
 
 ## General information
