@@ -7,8 +7,18 @@ format: Markdown
 
 * Create new repository on github: be sure to **not** preinitialize it with README or License
 * Issue the following git commands
-~~~~~~
+
+```bash
     git remote remove origin
     git remote add origin ssh://git@github.com/begemotv2718/repo.git
     git push -u origin master
-~~~~~~
+```
+
+# Make git subdirectory into separate project
+
+```bash
+git clone messy_project/ clean_project/
+cd clean_project/
+git filter-branch --subdirectory-filter <subdir_name> -- --all
+```
+```
