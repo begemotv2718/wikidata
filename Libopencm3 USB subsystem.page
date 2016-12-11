@@ -1,0 +1,33 @@
+---
+categories: usb,libopencm3
+...
+
+# USB poll principle of operation
+
+## stm32f1
+
+From USB_ISTR_REG we read endpoint (bits 0..3) and direction (bit 4) and some other statuses (ctr -- correct transfer, bit 31).
+
+To distinguish OUT and SETUP transaction (which both has out direction) we read USB_EP_SETUP bit in USB_EP register.
+
+We determine `type` of the transaction
+
+```haskell
+type = USB_TRANSACTION_SETUP | USB_TRANSACTION_OUT | USB_TRANSACTION_IN
+```
+
+According to endpoint and transaction type we call 
+
+```C
+  dev->user_callback_ctr[ep][type]
+```
+
+EP0 (control) endpoint has the predefined handlers named `_usbd_control_setup`, `_usbd_control_out`, `_usbd_control_in`.
+
+At least `_usbd_control_setup` and `_usbd_control_out` use `usb_control_dispatch` function. This function dispatch user-provided callbacks for the control requests. The user callbacks are provided with the function 
+
+```C
+void usbd_register_control_callback(usbd_device? device, uint8_t type, uint8_t type_mask, (*callback)(usbd_device *dev, ?))
+```
+
+Field `type` should match `request->bmRequestType & type_mask` for the corresponding handler to be invoked.
