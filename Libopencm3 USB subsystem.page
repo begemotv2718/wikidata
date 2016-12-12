@@ -31,3 +31,9 @@ void usbd_register_control_callback(usbd_device? device, uint8_t type, uint8_t t
 ```
 
 Field `type` should match `request->bmRequestType & type_mask` for the corresponding handler to be invoked.
+
+# Class functions setup
+
+Class functions setup happen inside callback which is set up using `usbd_register_set_config_callback(usbd_device *dev, usbd_set_config_callback callback)` function.
+
+These callbacks are called from `usb_standard_set_configuration` function, which is in order called to handle request `USB_REQ_SET_CONFIGURATION` inside `_usbd_standard_request_device`, which is in turn called from `_usbd_standard_request` in case `req->bmRequestType & USB_REQ_TYPE_RECIPIENT == USB_REQ_TYPE_DEVICE`, which is in turn called in `usb_control_dispatch`.
