@@ -20,9 +20,14 @@ categories: language,math,programming
 
 [Sequitur algorithm](https://en.wikipedia.org/wiki/Sequitur_algorithm)
 
+## Implementations
+
+* [Python implementation discussion](http://stackoverflow.com/questions/32402789/python-implementation-of-the-sequitur-algorithm)
+
 ## Applications
 
 * [Sequitur grapheme to phoneme converter (g2p)](http://www-i6.informatik.rwth-aachen.de/web/Software/g2p.html)
+
 
 ## Sequitur vs LZW
 
