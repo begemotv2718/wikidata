@@ -19,6 +19,14 @@ categories: language,math,programming
 * [Useful C++ implementation](http://sequitur.info/latest/sequitur.tgz)
 * [Algorithm description](http://www.sequitur.info/jair)
 
+## Description
+
+The algorithm try to maintain two invariants: 
+
+1. There are no duplicate digraph (pair of symbols) in the encoding of the data encountered so far (if there are a rule should be created replacing this pair of symbols by a different symbol). 
+2. There are no rules that apply only once (only inside a different rule). If we encounter such rule, we should remove it and expand it where it exists.
+
+To have effectiveness we need a database of all digraphs and a database of all rules with efficient search.
 
 ## Wikipedia
 
