@@ -19,12 +19,22 @@ Useful links:
 # Neural networks and language modeling
 
 While researching on raspberryPi voice recognition I came up with the general NN training framework, which is able to produce generative model after learning. Talking with Cheusov also suggests that it is very easy to use trained NN in the generative model.
-Relevant story: [Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus) package (which produces phonetisation out of word spelling) ininially was using [OpenFST]( http://www.openfst.org/twiki/bin/view/FST/WebHome) (which, basically, produce finite state machine from the list of examples of phonetisation) but they recently switched to rnn neural network based model ([RNNLM]( http://www.fit.vutbr.cz/~imikolov/rnnlm/) -- **R**ecurrent **N**eural **N**etwork **L**anguage **M**odelling.
+Relevant story: [Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus) package (which produces phonetisation out of word spelling) ininially was using [OpenFST]( http://www.openfst.org/twiki/bin/view/FST/WebHome) (which, basically, produce finite state machine from the list of examples of phonetisation) but they recently switched to rnn neural network based model ([RNNLM]( http://www.fit.vutbr.cz/~imikolov/rnnlm/) -- **R**ecurrent **N**eural **N**etwork **L**anguage **M**odelling).
+
+## How OpenFST works in phonetisaurus
+
+###Hidden Markov model learning
+
+If we have HMM with known arc weights and probabilities we can use [Viterbi algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm) to reconstruct the best sequence of states of finite automaton which leads to observed states.
+
+If we want to learn arc weights we can use [expectation maximization algorithm](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) to learn weights of the arcs and emission probabilities. 
+
+Apparently phonetisaurus use precisely this idea.   
 
 
 # Neural networks and renorm-group
 
-[Renormalization group]() topic  
+* [Renormalization group]() topic  
 
 # See also
 
