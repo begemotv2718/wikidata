@@ -45,3 +45,10 @@ Stop recording after 3.0 seconds of silence is detected
               Removes silence from the beginning, middle, or end of  the  audio.
               `Silence' is determined by a specified threshold.
 ```
+
+## Reading lines
+
+```bash 
+cat /tmp/test | ( while read; do echo -ne "$REPLY\000"; done;)| xargs -0 /tmp/test.sh
+```
+
