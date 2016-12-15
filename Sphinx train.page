@@ -1,0 +1,29 @@
+---
+categories: personal_projects,language
+...
+
+The project is about adapting `sphinx` speech recognition engine to the user/hardware combination.
+
+# Shell script
+
+## Menu for phrases
+
+[Whiptail usage](https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail)
+
+### Relevant fragment
+
+```bash
+whiptail --title "Menu example" --menu "Choose an option" 25 78 16 \
+"<-- Back" "Return to the main menu." \
+"Add User" "Add a user to the system." \
+"Modify User" "Modify an existing user." \
+"List Users" "List all users on the system." \
+"Add Group" "Add a user group to the system." \
+"Modify Group" "Modify a group and its list of members." \
+"List Groups" "List all groups on the system."
+```
+
+```bash
+eval `resize`
+whiptail ... $LINES $COLUMNS $(( $LINES - 8 )) ...
+```
