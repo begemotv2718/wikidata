@@ -1,0 +1,39 @@
+---
+categories: language
+...
+
+# General things to run CMU sphinx
+
+CMU Sphinx normal linux runnable is `pocketsphinx`, which exists in two variants `pocketsphinx_continuous` and `pocketsphinx_batch`
+
+## Typical invocation
+
+### Microphone input
+
+```bash
+ALSA_OSS_PCM_DEVICE="hw:CARD=MS,DEV=0" aoss pocketsphinx_continuous -hmm ru-RU-adapt/ -dict msu_ru_nsh.dic -lm <some language model>  -inmic yes
+```
+
+Here 
+
+    -hmm -- directory, which contain acoustic model files
+    -dict -- file that contain dictionary (dictionary maps word to phonemes)
+    -lm --  file that contain language model
+
+# Modifying and preparing files for sphinx
+
+## Adapting existing acoustic model
+
+* [Adapting acoustic model -- CMU wiki](http://cmusphinx.sourceforge.net/wiki/tutorialadapt)
+* [My notes]
+
+## Generating dictionary from the list of words
+
+* Phonetisaurus
+
+## Generating language model
+
+* [CMUCLMTK on CMU wiki](http://cmusphinx.sourceforge.net/wiki/cmuclmtkdevelopment)
+* [SVN repository](https://cmusphinx.svn.sourceforge.net/svnroot/cmusphinx/trunk/cmuclmtk)
+
+
