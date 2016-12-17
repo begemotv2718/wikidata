@@ -108,7 +108,7 @@ do
       ((i++))
       if [[ -e `get_file_name $i` ]]
       then
-        echo $REPLY >> $OUTFILE_PHRASES
+        echo "<s> $REPLY </s>" >> $OUTFILE_PHRASES
         get_file_name $i >> $OUTFILE_FILES
       fi
     done < $1
