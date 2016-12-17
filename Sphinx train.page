@@ -184,7 +184,7 @@ $SPHINX_FE -argfile $SRCDIR/feat.params \
 
 ```
 
-I replaced `-ts2cbfn .ptm.` with `-ts2cbfn .cont.` because of the issue
+I replaced `-ts2cbfn .ptm.` with `-ts2cbfn .cont.` because of the issue `of codebooks in mean/var files, xxx, inconsistent with ts2cb mapping`
 
 ## Isues
 
