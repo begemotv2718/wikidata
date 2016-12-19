@@ -15,3 +15,7 @@ categories: linux
 PPD files are automatically generated from ```foomatic-db``` xml database.
 
 The main line in ppd file for non-postscript printer is '*cupsFilter'.
+
+# Order of filters and sequence of application
+
+```/usr/share/cups/mime/mime.convs```
