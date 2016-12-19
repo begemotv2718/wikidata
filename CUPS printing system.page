@@ -1,0 +1,17 @@
+---
+categories: linux
+...
+
+# End of pipe
+
+```bash
+/usr/lib/cups/backend/*
+```
+
+* usb -- typical usb printer
+
+# PPD files
+
+PPD files are automatically generated from ```foomatic-db``` xml database.
+
+The main line in ppd file for non-postscript printer is '*cupsFilter'.
