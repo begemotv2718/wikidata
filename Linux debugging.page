@@ -1,0 +1,23 @@
+---
+categories: linux
+...
+
+# Radare2
+
+* [Cheatsheet on github](https://github.com/pwntester/cheatsheets/blob/master/radare2.md)
+
+List of tools
+
+* ```rasm2 -L``` list all supported assemblers
+* ```rabin2``` -- options 'g','zz' (dump strings, load addr)
+* ```radiff2 -C <exe1> <exe2>``` code similarity
+
+radare2 in its shell supports redirects to external programs
+
+####Call graph 
+
+```
+ag > /tmp/gr.dat
+```
+
+ 
