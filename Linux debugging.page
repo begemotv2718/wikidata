@@ -11,6 +11,7 @@ List of tools
 * ```rasm2 -L``` list all supported assemblers
 * ```rabin2``` -- options 'g','zz' (dump strings, load addr)
 * ```radiff2 -C <exe1> <exe2>``` code similarity
+* ```rafind2``` -- tool for code search (like grep).
 
 radare2 in its shell supports redirects to external programs
 
