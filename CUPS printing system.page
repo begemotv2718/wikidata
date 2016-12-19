@@ -16,6 +16,15 @@ PPD files are automatically generated from ```foomatic-db``` xml database.
 
 The main line in ppd file for non-postscript printer is '*cupsFilter'.
 
-# Order of filters and sequence of application
+# Filters and sequence of application
 
-```/usr/share/cups/mime/mime.convs```
+* ```/usr/share/cups/mime/mime.convs```
+* ```/usr/share/cups/mime/cupsfilters.convs```
+
+The cups should look to the mime type of the source file, find the mime type accepted by final printer filter in ppd file ( *cupsFilter line) and construct the sequence of filters transforming the initial file into final optimizing the transformation cost.
+
+# Important systems not yet clear
+
+* ```man cups-driverd```
+* spooling
+* How ppd files work for postscript printers: who read them.
