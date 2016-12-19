@@ -36,4 +36,24 @@ Here
 * [CMUCLMTK on CMU wiki](http://cmusphinx.sourceforge.net/wiki/cmuclmtkdevelopment)
 * [SVN repository](https://cmusphinx.svn.sourceforge.net/svnroot/cmusphinx/trunk/cmuclmtk)
 
+### Finite state grammar
 
+```
+#JSGF V1.0;
+/**
+ * JSGF Grammar for Hello World example
+ */
+grammar hello;
+public <greet> = (good morning | hello) ( bhiksha | evandro | paul | philip | rita | will );
+```
+
+[Link to w3c describing format](http://www.w3.org/TR/jsgf/)
+
+### Commands to build lm grammar using cmuclmtk
+
+```bash
+text2wfreq < weather.txt | wfreq2vocab > weather.vocab
+text2idngram -vocab weather.vocab -idngram weather.idngram < weather.txt
+idngram2lm -vocab_type 0 -idngram weather.idngram -vocab \
+     weather.vocab -arpa weather.lm
+```
