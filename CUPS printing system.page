@@ -2,6 +2,10 @@
 categories: linux
 ...
 
+# Daemon
+
+```/usr/sbin/cupsd``` listens on port 631
+
 # End of pipe
 
 ```bash
