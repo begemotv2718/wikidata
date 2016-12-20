@@ -18,6 +18,12 @@ The main line in ppd file for non-postscript printer is '*cupsFilter'.
 
 # Filters and sequence of application
 
+## foomatic-rip
+
+```foomatic-rip``` is a universal cups filter which can be used for debugging and spooler-less printing. 
+
+## Conversions
+
 * ```/usr/share/cups/mime/mime.convs```
 * ```/usr/share/cups/mime/cupsfilters.convs```
 
