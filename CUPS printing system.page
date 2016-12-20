@@ -38,3 +38,6 @@ The cups should look to the mime type of the source file, find the mime type acc
 * ```man cups-driverd```
 * spooling
 * How ppd files work for postscript printers: who read them.
+
+# Use case: Xerox_Phaser
+ 
