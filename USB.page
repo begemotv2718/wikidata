@@ -86,6 +86,11 @@ This is a tutorial on adapting Wii Classic Controller to use over USB. The proje
 
 [USB Descriptors](http://www.instructables.com/id/USB-Wii-Classic-Controller/step4/USB-Descriptors/)
 
+## Writing hid report descriptor tutorial
+
+[Tutorial about USB HID Report Descriptors](http://eleccelerator.com/tutorial-about-usb-hid-report-descriptors/)
+
+
 ## Linux -- writing HID devices
 
 ### Hidrd
