@@ -11,6 +11,7 @@ categories: hardware,cnc
 # G-codes
 
 * [Some useful g-code list](http://www.shapeoko.com/wiki/index.php/G-Code)
+* [LinuxCNC gcodes](http://www.linuxcnc.org/docs/2.5/html/gcode/gcode.html#sec:G2-G3-Arc)
 
 Most useful G-codes
 
