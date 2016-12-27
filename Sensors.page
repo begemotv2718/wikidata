@@ -4,6 +4,17 @@ categories: hardware
 
 # Gas sensors
 
+## CO2 sensors
+
+* [Triggering article -- habr, BarsMonster](https://habrahabr.ru/post/187210/)
+
+### Theory
+
+* [Nondispersive infrared sensor](https://en.wikipedia.org/wiki/Nondispersive_infrared_sensor)
+* [CO2 absorption spectrum](http://webbook.nist.gov/cgi/cbook.cgi?ID=C124389&Type=IR-SPEC&Index=1#IR-SPEC)
+
+### Shopping
+
 * [Expensive CO2 sensors](http://www.co2meter.com/collections/co2-sensors)
 
 # GPS
