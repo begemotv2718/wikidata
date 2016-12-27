@@ -13,8 +13,10 @@ categories: hardware
 The signal is transmitted over usual UART port
 
 * [Wiki on NMEA 0183](https://ru.wikipedia.org/wiki/NMEA_0183)
-
+* [NMEA for boats](http://www.boat-project.com/tutorials/nmea0183.htm)
 * [Arduino tutorial on GPS interfacing](http://playground.arduino.cc/Tutorials/GPS)
+
+
 
 
 Parallax module, the following strings are automatically transmitted when the "/RAW" pin is pulled low:
