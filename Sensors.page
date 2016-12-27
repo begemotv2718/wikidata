@@ -5,3 +5,11 @@ categories: hardware
 # Gas sensors
 
 * [Expensive CO2 sensors](http://www.co2meter.com/collections/co2-sensors)
+
+# GPS
+
+## NMEA GPS protocol 
+
+The signal is transmitted over usual UART port
+
+[Arduino tutorial on GPS interfacing](http://playground.arduino.cc/Tutorials/GPS)
