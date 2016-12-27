@@ -13,7 +13,7 @@ categories: hardware,cnc
 * [Some useful g-code list](http://www.shapeoko.com/wiki/index.php/G-Code)
 * [LinuxCNC gcodes](http://www.linuxcnc.org/docs/2.5/html/gcode/gcode.html#sec:G2-G3-Arc)
 
-Most useful G-codes
+## Most useful G-codes
 
 | Code | Example | Meaning    |
 |------|---------|------------|
@@ -25,3 +25,7 @@ Most useful G-codes
 | M3   |                       | Switch tool on  clockwise |
 | M4   |                       | Tool on counter-clockwise |
 | M5   |                       | Stop tool                 |
+
+## Convert vector image to G-code
+
+* [Inkscape plugin](http://www.cnc-club.ru/forum/viewtopic.php?f=15&t=35&start=20#p194)
