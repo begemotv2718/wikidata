@@ -15,6 +15,7 @@ The signal is transmitted over usual UART port
 [Arduino tutorial on GPS interfacing](http://playground.arduino.cc/Tutorials/GPS)
 
 Parallax module, the following strings are automatically transmitted when the "/RAW" pin is pulled low:
+
 * \$GPGGA: Global Positioning System Fix Data
 * \$GPGSV: GPS satellites in view
 * \$GPGSA: GPS DOP and active satellites
