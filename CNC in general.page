@@ -9,3 +9,15 @@ categories: hardware,cnc
 # Laser cutter
 
 # G-codes
+
+* [Some useful g-code list](http://www.shapeoko.com/wiki/index.php/G-Code)
+
+Most useful G-codes
+
+! Code ! Example ! Meaning !
+| G0   | G0 X10.0 Y20.0 | Move to position (as fast as possible) |
+| G1   | G1 X20.0 Y20.0 F100.0 | Linear motion to position with given feed rate |
+| G2   |                       | Circular motion |
+| M3   |                       | Switch tool on  clockwise |
+| M4   |                       | Tool on counter-clockwise |
+| M5   |                       | Stop tool                 |
