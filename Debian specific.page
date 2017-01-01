@@ -1,0 +1,9 @@
+---
+categories: linux,debian
+...
+
+# Debian cleanup
+
+* ```deborphan``` -- find packages not used by the other packages
+* ```apt-rdepends``` -- search for package dependences (including reverse ones)
+* ```apt-get autoremove``` -- remove automatically installed packages no longer needed
