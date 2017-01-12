@@ -20,7 +20,14 @@ categories: programming
 ## Static analysis tools
 
 * [Facebook infer](http://fbinfer.com/)
+    * [Installation](http://fbinfer.com/docs/getting-started.html) [github](https://github.com/facebook/infer)
     * [Some background](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
+         * [Separation logic](http://fbinfer.com/docs/separation-logic-and-bi-abduction.html#biabduction)
+
+
+## Parsing tools
+
+* [Python C parser -- github](https://github.com/albertz/PyCParser)
 
 # More specific software
 
