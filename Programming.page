@@ -15,6 +15,13 @@ categories: programming
 * [Perl]()
 * [Haskell]()
 
+# Automatic verification
+
+## Static analysis tools
+
+* [Facebook infer](http://fbinfer.com/)
+    * [Some background](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
+
 # More specific software
 
 * [Wireshark]()
