@@ -1,6 +1,6 @@
 ---
 format: Markdown
-categories: references linux
+categories: references,linux,org/mytetra
 ...
 
 * [Как проверить свой сайт на стандартные уязвимости](http://webhamster.ru/mytetrashare/index/mtb0/1327783727qft5b6s1lt) -- инструкции по использованию nmap для поиска уязвимостей
