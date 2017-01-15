@@ -28,6 +28,7 @@ Relevant links
 * [Habr page](https://habrahabr.ru/post/115026/)
 * [Haskell Data.IntervalMap.FingerTree](https://hackage.haskell.org/package/fingertree-0.1.1.0/docs/Data-IntervalMap-FingerTree.html)
 * [Another Haskell IntervalMap](http://www.chr-breitkopf.de/comp/IntervalMap/index.html)
+* [SOverflow question about intervalmap](http://stackoverflow.com/questions/3893281/haskell-range-map-library)
 * [Haskell Data.Time.Calendar](https://hackage.haskell.org/package/time-1.7.0.1/docs/Data-Time-Calendar.html)
 * [Haskell Aeson applicative parse of JSON](http://blog.raynes.me/blog/2012/11/27/easy-json-parsing-in-haskell-with-aeson/)
 
