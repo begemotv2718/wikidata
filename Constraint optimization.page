@@ -1,0 +1,9 @@
+---
+categories: programming,mathematics,math
+...
+
+# Summary
+
+Here I would like to collect information on various constraint optimization problems. I used to have a research direction on this topic (started from automatic poetry generation toy task).
+
+* [Python constraint optimization solver](http://labix.org/python-constraint#head-ac04c8e8bcd72bda1fb01e8823e60e21d79bf8a3)
