@@ -104,4 +104,10 @@ Parallax module, the following strings are automatically transmitted when the "/
  12   = Mode indicator, (A=Autonomous, D=Differential, E=Estimated, N=Data not valid)
  13   = Checksum
 ```
+# FLIR -- Deep infrared cameras
 
+## Shopping
+
+Currently 60x60 and 60x80 cameras became affordable.
+
+* [Sparkfun 60x80 FlIR camera](https://www.sparkfun.com/products/13233)
