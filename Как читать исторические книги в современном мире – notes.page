@@ -67,6 +67,7 @@ Relevant links
 * [Turtle loader: also in java and needs maven](https://github.com/mybyte/tools/tree/master/Turtle%20loader)
     * [Blog post explaining how this should work](http://michaelbloggs.blogspot.com.by/2013/05/importing-ttl-turtle-ontologies-in-neo4j.html)
 * [Stackoverflow: explanations how to import rdf into neo4j which leads to the links above](http://stackoverflow.com/questions/19676485/import-rdf-xml-or-turtle-into-neo4j)
+* [Neo4j python interface](https://neo4j.com/developer/python/)
 
 ### Working with dbpedia
 
