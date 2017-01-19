@@ -60,7 +60,11 @@ Relevant links
         * [Some soft to work with freebase dump](https://github.com/nchah/freebase-triples) Suggests to use cayley and neo4j graph databases.
 * [Wikidata query service](https://query.wikidata.org/)
 
-## Working with dbpedia
+### Neo4j
+
+* [Storing and quering rdf in Neo4j](http://www.snee.com/bobdc.blog/2014/01/storing-and-querying-rdf-in-ne.html) -- using just curl to post json
+
+### Working with dbpedia
 
 * [Simple work with dbpedia: importing json](http://skipperkongen.dk/category/free-data/) [Example of getting json](http://dbpedia.org/data/Peter_the_Great.json)
 
