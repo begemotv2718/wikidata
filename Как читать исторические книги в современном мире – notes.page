@@ -63,6 +63,7 @@ Relevant links
 ### Neo4j
 
 * [Storing and quering rdf in Neo4j](http://www.snee.com/bobdc.blog/2014/01/storing-and-querying-rdf-in-ne.html) -- using just curl to post json
+* [Dbpedia2neo in java](https://github.com/claudiomartella/dbpedia4neo) Needs maven to build, seems to be quite bulky
 
 ### Working with dbpedia
 
