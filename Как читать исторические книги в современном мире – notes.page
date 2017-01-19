@@ -65,6 +65,7 @@ Relevant links
 * [Storing and quering rdf in Neo4j](http://www.snee.com/bobdc.blog/2014/01/storing-and-querying-rdf-in-ne.html) -- using just curl to post json
 * [Dbpedia2neo in java](https://github.com/claudiomartella/dbpedia4neo) Needs maven to build, seems to be quite bulky
 * [Turtle loader: also in java and needs maven](https://github.com/mybyte/tools/tree/master/Turtle%20loader)
+    * [Blog post explaining how this should work](http://michaelbloggs.blogspot.com.by/2013/05/importing-ttl-turtle-ontologies-in-neo4j.html)
 
 ### Working with dbpedia
 
