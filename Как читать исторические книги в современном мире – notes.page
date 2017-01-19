@@ -56,5 +56,22 @@ Relevant links
     * referenced article [doi:10.1126/science.1240064](http://www.sciencemag.org/lookup/doi/10.1126/science.1240064)
     * [freebase](https://github.com/nchah/freebase-triples) The site freebase.org is discontinued in 2016. The data dumps are available. Currently the dump is about 30Gb gzip, 400Gb uncompressed.
         * [Some soft to work with freebase dump](https://github.com/nchah/freebase-triples) Suggests to use cayley and neo4j graph databases.
-* [Simple work with dbpedia: importing json](http://skipperkongen.dk/category/free-data/) [Example of getting json](http://dbpedia.org/data/Peter_the_Great.json)
 * [Wikidata query service](https://query.wikidata.org/)
+
+## Working with dbpedia
+
+* [Simple work with dbpedia: importing json](http://skipperkongen.dk/category/free-data/) [Example of getting json](http://dbpedia.org/data/Peter_the_Great.json)
+
+```python
+
+import requests
+ 
+data = requests.get('http://dbpedia.org/data/Matteo_Donati.json').json()
+matteo = data['http://dbpedia.org/resource/Matteo_Donati']
+ 
+# matteo is a dictionary with lots of keys
+# that correspond to the player's properties.
+# Each value is a list of dictionaries itself.
+ 
+height = matteo['http://dbpedia.org/ontology/height'][0]['value']
+```
