@@ -164,3 +164,12 @@ http://geektimes.ru/post/255286/
 * CO -- 25ppm (USA)
 * NO2 -- 3-5ppm
 * NH3 -- 50ppm
+
+
+
+### MQ table
+
+| Sensor  |  Sensitivity                     | $V_H$        |  Type  | Concentration | Datasheet ref | 
+|----------------------------------------------------------------------------------------------------|
+| MQ-2    |  Methane, butane, LPG, Smoke, CO | $5.0V\pm0.1$ |  Rs    | 100 -- 1000ppm| [1](https://www.pololu.com/file/0J309/MQ2.pdf)|
+| MQ-3    |  Alcohol gas                     | $5.0V\pm0.2$ |  Rs    | 0.04-4 mg/L   | [2](https://www.pololu.com/file/0J310/MQ3.pdf)|
