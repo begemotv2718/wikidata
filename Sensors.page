@@ -188,3 +188,4 @@ http://geektimes.ru/post/255286/
 | MQ-4    |  Natural gas, Methane            | $5.0V\pm0.2$ |  Rs    | 300-10000ppm  | [3](https://www.pololu.com/file/0J311/MQ4.pdf)|
 | MQ-5    |  Methane, LPG, town gas, iso-butane, propane slightly alcohol, co| $5.0V\pm0.1$ | Rs | 200-10000ppm | [4](https://www.parallax.com/sites/default/files/downloads/605-00009-MQ-5-Datasheet.pdf) | MQ-6    | LPG, iso-butane, propane,LNG     | $5.0V\pm0.1$ |  Rs    |  200-10000ppm | [5](https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-6.pdf)|
 | MQ-7    | CO, also sensitive to H~2~       | 5.0V, 1.4V alternating| Rs | 20ppm-2000ppm | [6](https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-7.pdf) |
+| MQ-8    | H~2~, small sensitivity to alcohol, even smaller to CO| 5.0V | Rs | 100-10000ppm  | [7](https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Biometric/MQ-8.pdf) |
