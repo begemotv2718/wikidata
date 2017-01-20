@@ -161,11 +161,23 @@ http://geektimes.ru/post/255286/
 Для справки ПДК по некоторым веществам:
 
 
-* CO -- 25ppm (USA)
+* CO -- 25-50ppm (USA)
 * NO2 -- 3-5ppm
 * NH3 -- 50ppm
 
+### CO health effects 
 
+|Concentration | Symptoms |
+|--------------|----------|
+|35 ppm |Headache and dizziness within six to eight hours of constant exposure|
+|100 ppm|Slight headache in two to three hours|
+|200 ppm|Slight headache within two to three hours; loss of judgment|
+|400 ppm|Frontal headache within one to two hours|
+|800 ppm|Dizziness, nausea, and convulsions within 45 min; insensible within 2 hours|
+|1,600 ppm|Headache, [[tachycardia|increased heart rate]], dizziness, and nausea within 20 min; death in less than 2 hours|
+|3,200 ppm|Headache, dizziness and nausea in five to ten minutes. Death within 30 minutes.|
+|6,400 ppm|Headache and dizziness in one to two minutes. Convulsions, respiratory arrest, and death in less than 20 minutes.|
+|12,800 ppm|Unconsciousness after 2–3 breaths. Death in less than three minutes.|
 
 ### MQ table
 
