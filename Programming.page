@@ -31,6 +31,13 @@ categories: programming
 
 * [Python C parser -- github](https://github.com/albertz/PyCParser)
 
+# Compilers
+
+## C compiler
+
+* sdcc
+    * [sdcc design document -- pdf](https://web.archive.org/web/20090617011643/http://www.circuitcellar.com/SA/Articles2/Dutta-121.pdf)
+
 # Graphics
 
 ## 3D
