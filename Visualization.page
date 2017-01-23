@@ -11,4 +11,5 @@ categories: visualization
 # External links
 
 * [Newtonnew: интерактивные карты и презентации](https://newtonew.com/overview/visualize-me)
-* [habr: t-SNE algorithm for concept mapping -- embed higher dimension space into low dimension](https://habrahabr.ru/post/267041/)
+* [habr: t-SNE algorithm for concept mapping -- non-linearly embed higher dimension space into low dimension](https://habrahabr.ru/post/267041/)
+    * [t-SNE implementation in R and python with guide](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
