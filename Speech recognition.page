@@ -19,3 +19,4 @@ categories: ML,language_processing
     * Commercial engines for batch processing
         * [Speechmatics](https://app.speechmatics.com/)
         * [Vocapia](http://www.vocapia.com/speech-to-text-api.html)
+    * Make your own google api -- [Cloud asr](https://github.com/UFAL-DSG/cloud-asr)
