@@ -37,6 +37,7 @@ categories: programming
 
 * sdcc
     * [sdcc design document -- pdf](https://web.archive.org/web/20090617011643/http://www.circuitcellar.com/SA/Articles2/Dutta-121.pdf)
+    * [sdcc MCU simulation](https://sourceforge.net/p/sdcc/code/HEAD/tree/trunk/sdcc/sim/ucsim/stm8.src/inst.cc)
 
 # Graphics
 
