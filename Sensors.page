@@ -165,6 +165,12 @@ http://geektimes.ru/post/255286/
 * NO2 -- 3-5ppm
 * NH3 -- 50ppm
 
+### Theory of operation of SnO~2~ sensors
+
+* [IOP paper](http://iopscience.iop.org/article/10.1088/0957-0233/4/7/001)
+
+General idea: SnO~2~ is a semiconductor with high affinity to oxigen. The agents reducing oxigen (such as various combustible 
+
 ### CO health effects 
 
 |Concentration | Symptoms |
