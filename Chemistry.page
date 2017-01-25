@@ -6,6 +6,8 @@ categories: chemistry
 
 ## Wikipedia references summary
 
+For fuels containing hydrogen there exist lower and higher heat values, the higher corresponds to condensing all water produced in the reaction.
+
 ## Nice tutorial article
 
  [Why Combustions Are Always Exothermic, Yielding About 418 kJ per Mole of O~2~](http://pubs.acs.org/doi/10.1021/acs.jchemed.5b00333)
@@ -16,6 +18,4 @@ The main energy reach molecule is O~2~, so the heat value of the fuel mostly dep
 
 $\Delta_c H^0 = -417 \mathrm{kJ/mol}\,\nu_{0_2}-44 \mathrm{kJ/mol}\, \nu_{H_2 O}$
 
-$\nu_{0_2}=c+h/4-o/2$
-
-$\nu_{H_2 O}=h/2$
+For a compound with formula $C_c H_h O_o N_n$ we have $\nu_{0_2}=c+h/4-o/2$, $\nu_{H_2 O}=h/2$. The paper than plots the heat of combustion of many fuels with $c>n+o$ and found quite nice fit within few percent.
