@@ -18,4 +18,6 @@ The main energy reach molecule is O~2~, so the heat value of the fuel mostly dep
 
 $\Delta_c H^0 = -417 \mathrm{kJ/mol}\,\nu_{0_2}-44 \mathrm{kJ/mol}\, \nu_{H_2 O}$
 
+For [isooctane](https://en.wikipedia.org/wiki/2,2,4-Trimethylpentane) the formula gives heat of combustion 5608 kJ/mol , the real value is 5460 kJ/mol. For [n-heptane](https://en.wikipedia.org/wiki/Heptane) formula gives 4939 kJ/mol , real value 4825 kJ/mol
+
 For a compound with formula $C_c H_h O_o N_n$ we have $\nu_{0_2}=c+h/4-o/2$, $\nu_{H_2 O}=h/2$. The paper than plots the heat of combustion of many fuels with $c>n+o$ and found quite nice fit within few percent.
