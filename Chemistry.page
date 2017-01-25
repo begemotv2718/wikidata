@@ -14,4 +14,4 @@ categories: chemistry
 
 The main energy reach molecule is O~2~, so the heat value of the fuel mostly depend on how much oxygen the compound can bind rather than on how many bonds the compound has itself. There is also some amount of energy due to H~2~O production since condensing water releases much energy (hydrogen bonds). This is, however, relevant only to higher heat value of compound.
 
-$\Delta_c H^0 = -417 \mathrm{kJ/mol} \nu_{0_2}-44 \mathrm{kJ/mol} \nu_{H_2 O}$
+$\Delta_c H^0 = -417 \mathrm{kJ/mol}\,\nu_{0_2}-44 \mathrm{kJ/mol}\, \nu_{H_2 O}$
