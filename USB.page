@@ -366,5 +366,8 @@ static const struct usb_config_1 usb_config_1 = {
 
 [uhidd](https://wiki.freebsd.org/uhidd)
 
+### USB HID stack in Linux
 
+* [hidraw kernel documentation](http://lxr.free-electrons.com/source/Documentation/usb/hiddev.txt?v=2.6.24)
+* [github reference using hidraw](https://github.com/signal11/hidapi)
              
