@@ -6,4 +6,5 @@ categories: fpga, hardware
 
 ## IceStorm 
 
-[Their web page](http://www.clifford.at/icestorm/) -- idea is reverse engineering of bitstream format for lattice semiconductors [ice stick](http://www.latticesemi.com/icestick).
+* [Their web page](http://www.clifford.at/icestorm/) -- idea is reverse engineering of bitstream format for lattice semiconductors [ice stick](http://www.latticesemi.com/icestick).
+* [yosis](http://www.clifford.at/yosys/)
