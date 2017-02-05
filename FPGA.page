@@ -1,0 +1,9 @@
+---
+categories: fpga, hardware
+...
+
+# Open source tools
+
+## IceStorm 
+
+[Their web page](http://www.clifford.at/icestorm/) -- idea is reverse engineering of bitstream format for lattice semiconductors [ice stick](http://www.latticesemi.com/icestick).
