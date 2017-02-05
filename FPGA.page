@@ -11,3 +11,8 @@ categories: fpga, hardware
 
 ## hdl-make
 * [reference](http://www.ohwr.org/projects/hdl-make) -- aim to provide makefile generator for hdl. Have web interface and seems to aim to replace ide, like Xilinx one
+
+# Repositories of open hardware
+
+* [ohwr](http://www.ohwr.org/projects/)
+
