@@ -8,6 +8,7 @@ categories: fpga, hardware
 
 * [Their web page](http://www.clifford.at/icestorm/) -- idea is reverse engineering of bitstream format for lattice semiconductors [ice stick](http://www.latticesemi.com/icestick).
 * [yosis](http://www.clifford.at/yosys/)
+* [arachne-pnr](https://github.com/cseed/arachne-pnr) -- open source fpga routing
 
 ## hdl-make
 * [reference](http://www.ohwr.org/projects/hdl-make) -- aim to provide makefile generator for hdl. Have web interface and seems to aim to replace ide, like Xilinx one
