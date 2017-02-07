@@ -8,7 +8,10 @@ Here I would like to collect information on various constraint optimization prob
 
 * [Python constraint optimization solver](http://labix.org/python-constraint#head-ac04c8e8bcd72bda1fb01e8823e60e21d79bf8a3)
 
-* [Rosette](https://emina.github.io/rosette/) -- programming language interface for SMT/SAT solvers.
+* [Rosette](https://emina.github.io/rosette/) -- programming language interface for SMT/SAT solvers. [Talk by creator](https://www.youtube.com/watch?v=G2kx1aFpT6M). 
+     * rule system verification
+     * rule system synthesis
+     * etc.
 
 # Prolog
 
