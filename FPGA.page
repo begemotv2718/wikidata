@@ -23,6 +23,21 @@ Resources
 * [Their web page](http://www.clifford.at/icestorm/) -- idea is reverse engineering of bitstream format for lattice semiconductors [ice stick](http://www.latticesemi.com/icestick).
 * [yosis](http://www.clifford.at/yosys/)
 * [arachne-pnr](https://github.com/cseed/arachne-pnr) -- open source fpga routing
+* It uses ghdl front-end for compiling vhdl 
+    * [ghdlsynth-beta](https://github.com/tgingold/ghdlsynth-beta)
+    * [ghdl](https://github.com/tgingold/ghdl)
+
+### Sequence of compilation
+
+```
+ghdl -a leds.vhdl 
+ghdl -a blink.vhdl # add sources
+yosys -p 'ghdl leds; synth_ice40 -blif leds.blif' # ghdl{frontend command} leds{unit name}; synth_ice40{synthesis script} leds.blif{output file}
+arachne-pnr -d 1k -o leds.asc -p leds.pcf leds.blif # -d 1k {device} leds.asc {output} leds.pcf { pinout constrain, same as for Xilinx }
+icepack leds.asc leds.bin
+iceprog leds.bin
+```
+
 
 ## hdl-make
 * [reference](http://www.ohwr.org/projects/hdl-make) -- aim to provide makefile generator for hdl. Have web interface and seems to aim to replace ide, like Xilinx one
