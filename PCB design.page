@@ -27,3 +27,7 @@ Dependencies:
 ## KicadToGEDA
 
 [github, written in java](https://github.com/erichVK5/KicadModuleToGEDA)
+
+## Parsing kickad files with haskell
+
+[parsing kicad with haskell](https://github.com/monostable/haskell-kicad-data)
