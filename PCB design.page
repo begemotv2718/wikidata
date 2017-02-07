@@ -23,3 +23,7 @@ Dependencies:
 * python-imaging (tested with 1.1.7)
 
 [Github reference](https://github.com/andete/madparts)
+
+## KicadToGEDA
+
+[github, written in java](https://github.com/erichVK5/KicadModuleToGEDA)
