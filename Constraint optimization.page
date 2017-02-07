@@ -12,6 +12,7 @@ Here I would like to collect information on various constraint optimization prob
      * rule system verification
      * rule system synthesis
      * etc.
+     * Initial inspiration: MemSAT, [MIT Alloy](http://alloy.mit.edu/alloy/), Kodkod (efficient solver for alloy?)
 
 # Prolog
 
