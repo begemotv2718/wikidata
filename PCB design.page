@@ -6,3 +6,20 @@ categories: hardware
 
 * gEDA
 * Kicad
+
+# Footprint libraries and tools
+
+## Madparts
+
+[Madparts -- programmatic design of footprint](https://madparts.org/footprint.html) -- uses [coffeescript](http://coffeescript.org/) to create parts. No real dependence on javascript, just on python libraries. Supports import/export from eagle and kicad. Does not support gEDA, but author will be happy to contact about this. 
+
+Dependencies:
+
+* python (tested with 2.7)
+* numpy (tested with 1.7.1)
+* pyside (tested with 1.1.2)
+* python-opengl (tested with 3.0.1)
+* python-bs4 (beautiful soup) (tested with 4.2.0)
+* python-imaging (tested with 1.1.7)
+
+[Github reference](https://github.com/andete/madparts)
