@@ -2,6 +2,12 @@
 categories: programming, programming_languages
 ...
 
+[Why prolog lost its steam](http://www.kmjn.org/notes/prolog_lost_steam.html)
+
+* Some typical prolog problems can be formulated with recursive sql.
+* Rule system of trust building based on Rete algorithm [Jess](http://jessrules.com/).
+
+
 # MiniSat solver
 
 * [Here](https://www.cs.bgu.ac.il/~mcodish/Papers/Sources/lpsat.pdf) -- in this paper authors describe the interface of minisat to prolog. Link to source code does not seems to be included
