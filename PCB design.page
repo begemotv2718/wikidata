@@ -31,3 +31,7 @@ Dependencies:
 ## Parsing kickad files with haskell
 
 [parsing kicad with haskell](https://github.com/monostable/haskell-kicad-data)
+
+## Kicad footprints with scheme and racket
+
+[Footwork](https://github.com/monostable/footwork)
