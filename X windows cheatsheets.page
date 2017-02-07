@@ -5,3 +5,7 @@ categories: xwindows linux
 * [Window managers](http://web.archive.org/web/20160529110130/http://www.xwinman.org/basics.php) Ликбез, не очень полезный
 * [Xplain : X in browsers and explaining X protocol](http://magcius.github.io/xplain/article/index.html)
 * Xdotool -- how to automate X.
+
+# Protocol
+
+[Design and Implementation of the X Rendering Extension](https://keithp.com/~keithp/talks/usenix2001/xrender/xrender.html#composite-op.section)
