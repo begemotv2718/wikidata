@@ -2,6 +2,20 @@
 categories: fpga, hardware
 ...
 
+
+# Design languages
+
+## SpinalHDL
+
+[SpinalHDL] -- Scala extension compilable to verilog/vhdl.
+
+Resources
+
+* [Github](https://github.com/SpinalHDL/SpinalHDL)
+* [Online documentation](https://spinalhdl.github.io/SpinalDoc)
+* [Base project](https://github.com/SpinalHDL/SpinalBaseProject)
+
+
 # Open source tools
 
 ## IceStorm 
