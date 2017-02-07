@@ -10,3 +10,9 @@ Attempt to marry tensorflow to GNURadio to recognize different kind of modulatio
 
  
 [Git repository gr-tf gnuradio-tensorflow](https://github.com/osh/gr-tf)
+
+# GR-inspector
+
+GR-inspector is an attempt to create GNURadio block that can recognize the modulation. It uses some tensorflow modules, but currently it is more in the spirit of aiding manual recognition of modulation.
+
+[Github link](https://github.com/gnuradio/gr-inspector)
