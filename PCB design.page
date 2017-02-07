@@ -34,4 +34,4 @@ Dependencies:
 
 ## Kicad footprints with scheme and racket
 
-[Footwork](https://github.com/monostable/footwork)
+[Footwork](https://github.com/monostable/footwork) use [Racket programming language](http://racket-lang.org/) (dialect of scheme). Attempts to use Rosette SMT solver to verify constraints.
