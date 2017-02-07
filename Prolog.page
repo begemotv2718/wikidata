@@ -2,6 +2,10 @@
 categories: programming, programming_languages
 ...
 
+# Implementation of Prolog on MiniSat solver
+
+* [Here](https://www.cs.bgu.ac.il/~mcodish/Papers/Sources/lpsat.pdf)
+
 # See also 
 
 * [Constraint optimization]()
