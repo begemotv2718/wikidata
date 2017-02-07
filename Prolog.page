@@ -2,9 +2,9 @@
 categories: programming, programming_languages
 ...
 
-# Implementation of Prolog on MiniSat solver
+# MiniSat solver
 
-* [Here](https://www.cs.bgu.ac.il/~mcodish/Papers/Sources/lpsat.pdf)
+* [Here](https://www.cs.bgu.ac.il/~mcodish/Papers/Sources/lpsat.pdf) -- in this paper authors describe the interface of minisat to prolog. Link to source code does not seems to be included
 
 # See also 
 
