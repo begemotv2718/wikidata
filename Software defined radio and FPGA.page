@@ -1,0 +1,15 @@
+---
+categories: SDR, FPGA, hardware
+...
+
+# RFNoC
+
+RFNoC is a set of blocks provided by Ettus research under free license to build part of gnuradio blocks in fpga. The blocks seems to be specific for their hardware, but could be of general use.
+
+[Quite comprehensive introduction including writing own blocks](https://kb.ettus.com/Getting_Started_with_RFNoC_Development)
+
+
+# Parent pages
+
+[FPGA]()
+[Software defined radio]()
