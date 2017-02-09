@@ -47,6 +47,10 @@ Rosette is a solver-aided programming language that extends Racket with language
 
 # Linking
 
+## General
+
+* [Shared libraries](http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html)
+
 ## Overlinking and underlinking
 
 * [Overlinking](http://wiki.rosalab.ru/ru/index.php/Overlinking) -- when a binary depend on libraries that is actually a dependence of its other libraries but not of the binary itself (emacs depends on libpng, libpng depends on libz, emacs should not depend on libz by itself, otherwise it is overlinked).
@@ -60,6 +64,10 @@ In theory, when linking something, only the needed libraries are passed to the c
 ## API vs ABI
 
 [API vs ABI: stackoverflow](http://stackoverflow.com/questions/2171177/what-is-application-binary-interface-abi)
+
+## LD_PRELOAD
+
+[stackoverflow](http://stackoverflow.com/questions/426230/what-is-the-ld-preload-trick)
 
 # Graphics
 
