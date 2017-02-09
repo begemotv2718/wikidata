@@ -45,6 +45,18 @@ Rosette is a solver-aided programming language that extends Racket with language
     * [sdcc design document -- pdf](https://web.archive.org/web/20090617011643/http://www.circuitcellar.com/SA/Articles2/Dutta-121.pdf)
     * [sdcc MCU simulation](https://sourceforge.net/p/sdcc/code/HEAD/tree/trunk/sdcc/sim/ucsim/stm8.src/inst.cc)
 
+# Linking
+
+## Overlinking and underlinking
+
+* [Overlinking](http://wiki.rosalab.ru/ru/index.php/Overlinking) -- when a binary depend on libraries that is actually a dependence of its other libraries but not of the binary itself (emacs depends on libpng, libpng depends on libz, emacs should not depend on libz by itself, otherwise it is overlinked).
+* [Underlinking](http://wiki.rosalab.ru/ru/index.php/Underlinking)
+* [as-needed](https://wiki.gentoo.org/wiki/Project:Quality_Assurance/As-needed)
+
+The --as-needed flag is passed to the GNU linker (GNU ld ). The flag tells the linker to link in the produced binary only the libraries containing symbols actually used by the binary itself. This binary can be either a final executable or another library.
+
+In theory, when linking something, only the needed libraries are passed to the command line used to invoke the linker. But to workaround systems with broken linkers or not using ELF format, many libraries declare some "dependencies" that get pulled in while linking. A simple example can be found by looking at the libraries declared as dependencies by gtk+ 2.0
+
 
 # Graphics
 
