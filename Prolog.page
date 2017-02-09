@@ -7,6 +7,11 @@ categories: programming, programming_languages
 * Some typical prolog problems can be formulated with recursive sql.
 * Rule system of trust building based on Rete algorithm [Jess](http://jessrules.com/).
 
+# Prolog implementations
+
+gprolog, swi-prolog, yap, etc.
+
+[Comparing performance](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW312.pdf)
 
 # MiniSat solver
 
