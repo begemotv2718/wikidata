@@ -57,6 +57,9 @@ The --as-needed flag is passed to the GNU linker (GNU ld ). The flag tells the l
 
 In theory, when linking something, only the needed libraries are passed to the command line used to invoke the linker. But to workaround systems with broken linkers or not using ELF format, many libraries declare some "dependencies" that get pulled in while linking. A simple example can be found by looking at the libraries declared as dependencies by gtk+ 2.0
 
+## API vs ABI
+
+[API vs ABI: stackoverflow](http://stackoverflow.com/questions/2171177/what-is-application-binary-interface-abi)
 
 # Graphics
 
