@@ -5,3 +5,9 @@ categories: SDR, hardware, programming
 [Machine learning and Software defined radio]()
 
 [Software defined radio and FPGA]()
+
+# GNURadio
+
+* [OutOfTreeModules tutorial](http://gnuradio.org/redmine/projects/gnuradio/wiki/OutOfTreeModules)
+* [Passive radar with $16 dual coherent channel rtlsdr dongle receiver](http://kaira.sgo.fi/2013/09/passive-radar-with-16-dual-coherent.html)
+* [RTL-SDR Tutorial: Decoding Digital Voice (P25, DMR, NXDN, D-STAR) with DSD](http://www.rtl-sdr.com/rtl-sdr-radio-scanner-tutorial-decoding-digital-voice-p25-with-dsd/)
