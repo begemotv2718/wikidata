@@ -12,3 +12,7 @@ categories: linux
 * [Recomendations on using qemu: mostly trivial](https://gist.github.com/Liryna/10710751)
     * Compiling with ```-static``` flag
     * Specifying library path on command line
+
+# uClinux
+
+[Getting started](http://www.uclinux.org/get_started/)
