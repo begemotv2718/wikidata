@@ -211,6 +211,13 @@ Parallax module, the following strings are automatically transmitted when the "/
  12   = Mode indicator, (A=Autonomous, D=Differential, E=Estimated, N=Data not valid)
  13   = Checksum
 ```
+
+## Precision time modules
+
+* [U-blox](https://www.u-blox.com/en/timing)
+
+This module was used to provide reference for internal oscillator on sound card in the interesting experiment on [measuring  distance to ionosphere using dcf77 source](https://video.fosdem.org/2017/AW1.120/dcf77.vp8.webm) (FOSDEM, 2017)
+
 # FLIR -- Deep infrared cameras
 
 ## Shopping
@@ -302,3 +309,5 @@ General idea: SnO~2~ is a semiconductor with high affinity to oxigen. The agents
 | MQ-5    |  Methane, LPG, town gas, iso-butane, propane slightly alcohol, co| $5.0V\pm0.1$ | Rs | 200-10000ppm | [4](https://www.parallax.com/sites/default/files/downloads/605-00009-MQ-5-Datasheet.pdf) | MQ-6    | LPG, iso-butane, propane,LNG     | $5.0V\pm0.1$ |  Rs    |  200-10000ppm | [5](https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-6.pdf)|
 | MQ-7    | CO, also sensitive to H~2~       | 5.0V, 1.4V alternating| Rs | 20ppm-2000ppm | [6](https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-7.pdf) |
 | MQ-8    | H~2~, small sensitivity to alcohol, even smaller to CO| 5.0V | Rs | 100-10000ppm  | [7](https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Biometric/MQ-8.pdf) |
+
+
