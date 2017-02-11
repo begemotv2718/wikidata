@@ -7,6 +7,13 @@ categories: linux
 * [CUPS printing system]()
 * [Debian specific]()
 
+# Moving part of disk to new partition
+
+* To preserve attributes when copying use ```cp -a```
+* Another option: use ```rsync -a srcdir dstdir```. Note that srcdir is created inside dstdir. 
+* 'mv' usually preserve attributes
+
+
 # Arm cross compilation
 
 * [Recomendations on using qemu: mostly trivial](https://gist.github.com/Liryna/10710751)
