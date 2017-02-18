@@ -5,6 +5,8 @@ categories: linux, kernel
 # Writing kernel module for raspberry pi
 
 * [GPIO interrupts in kernel on raspberry pi](http://morethanuser.blogspot.hu/2013/04/raspbery-pi-gpio-interrupts-in-kernel.html) (I used this while writing geiger counter module)
+* [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html)
+
 ```bash
 cd ${HOME}/rpi
 git clone ssh://git@github.com/raspberrypi/tools.git
