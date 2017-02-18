@@ -9,6 +9,8 @@ categories: linux, kernel
 * [Rpi kernel module for interrupt management](https://www.disk91.com/2015/technology/systems/rf433-raspberry-pi-gpio-kernel-driver-for-interrupt-management/)
 * [Compiling modules for rpi](http://bchavez.bitarmory.com/archive/2013/01/16/compiling-kernel-modules-for-raspberry-pi.aspx)
 
+Kernel compilation See [Rpi kernel complilation: Cross compiling from Linux](http://elinux.org/Raspberry_Pi_Kernel_Compilation#2._Cross_compiling_from_Linux)
+
 ```bash
 cd ${HOME}/rpi
 git clone ssh://git@github.com/raspberrypi/tools.git
