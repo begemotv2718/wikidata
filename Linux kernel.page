@@ -26,6 +26,8 @@ git clone git://github.com/raspberrypi/firmware.git
 export MODULES_TEMP=/home/adamov/rpi/modules
 make ARCH=arm CROSS_COMPILE=${CCPREFIX} INSTALL_MOD_PATH=${MODULES_TEMP} modules_install
 ```
+Some notes on configuring [here](http://elinux.org/RPiconfig)
+
 
 In module directory create Makefile. Guide to writing makefile -- kernel doc [https://www.kernel.org/doc/Documentation/kbuild/modules.txt](https://www.kernel.org/doc/Documentation/kbuild/modules.txt) How to Build External Modules
 
