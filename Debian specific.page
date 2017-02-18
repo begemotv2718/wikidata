@@ -9,3 +9,7 @@ categories: linux,debian
 * ```apt-get autoremove``` -- remove automatically installed packages no longer needed
 * ```dpkg-query -l | grep '^ii'``` -- list installed packages
 * ```dlocate``` -- find a package that specific file belongs to
+
+# See also
+
+* [Kernel debug]()
