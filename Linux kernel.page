@@ -5,6 +5,7 @@ categories: linux, kernel
 # Writing kernel module for raspberry pi
 
 * [GPIO interrupts in kernel on raspberry pi](http://morethanuser.blogspot.hu/2013/04/raspbery-pi-gpio-interrupts-in-kernel.html) (I used this while writing geiger counter module)
+    * [Derek Molloy Kernel gpio buttons and leds](http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/)
 * [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html)
 * [Rpi kernel module for interrupt management](https://www.disk91.com/2015/technology/systems/rf433-raspberry-pi-gpio-kernel-driver-for-interrupt-management/)
 * [Compiling modules for rpi](http://bchavez.bitarmory.com/archive/2013/01/16/compiling-kernel-modules-for-raspberry-pi.aspx)
