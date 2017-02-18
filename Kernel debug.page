@@ -1,0 +1,32 @@
+---
+categories: linux, kernel, debug
+...
+
+# Netconsole
+
+Since modern notebooks does not have COM or UART ports (or these ports are well hidden) there is a tool that provides quite low level network logging on ethernet interface. 
+
+The main sources of wisdom:
+
+* [Debian: debugging system freeze](https://debian-administration.org/article/492/Debugging_system_freezes)
+* [Using netconsole to see kernel messages](http://web.archive.org/web/20080616135606/http://www.coraid.com/support/cln/CLN-HOWTO/ar01s09.html)
+
+## Debugging freezing issue
+
+Create a  file in  ```/etc/modprobe.d/``` containing the following line
+
+```options netconsole netconsole=32769@192.168.1.1/eth1,32769@192.168.1.6/01:23:34:56:78:9A```
+
+Here
+
+* 192.168.1.1 -- desired address of our computer
+* eth1 -- ethernet interface
+* 32769 -- port (UDP)
+* 192.168.1.6 -- address of the logger machine
+* 01:23:34:56:78:9A -- mac address of the logging machine or mac address of the router if the logging machine is not in the same network.
+
+Start netconsole with ```modprobe netconsole```. Debian stock kernels have support for this.
+
+## Debugging startup issue
+
+Add the ```netconsole=32769@192.168.1.1/eth1,32769@192.168.1.6/01:23:34:56:78:9A``` line to the kernel command line. I assume that we also need to pack corresponding module into initrd.
