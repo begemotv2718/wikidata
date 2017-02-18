@@ -21,4 +21,7 @@ radare2 in its shell supports redirects to external programs
 ag > /tmp/gr.dat
 ```
 
+# Kernel issues debugging
+
+[Kernel debug]()
  
