@@ -1,10 +1,14 @@
 ---
-categories: physics,cond-mat,complex_systems
+categories: physics,cond-mat,complex_systems,NN,ML
 ...
 
 Renorm group is very good to capture idea of hierarchy.
 
 # Renorm group and neural networks
+
+* [Schwab, Mehta: An exact mapping between the Variational Renormalization Group and Deep Learning](https://arxiv.org/abs/1410.3831)
+* [Lin, Tegmark](http://arxiv.org/abs/1608.08225)
+
 
 # Renorm group and summation of parquet diagrams
 
