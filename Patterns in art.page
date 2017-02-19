@@ -72,6 +72,12 @@ This reminded me about [Victoria Babakhina LVEE talk]( https://lvee.org/ru/abstr
 * [3](https://geektimes.ru/post/284878/)
 * [4](https://geektimes.ru/post/285080/)
 
+Проблема в том, что разные запуски алгоритма подбора дают разные параметры модели — но все они работают правильно и воспроизводят активность генов в реальном зародыше мухи! У этих моделей есть общие черты (например, все gap-гены подавляют друг друга и активируются материнскими белками), но различий не меньше, чем сходств.
+
+А раз разные попытки моделирования дают разные результаты, вряд ли хоть один из них совпадает с реальностью. Хуже того, такие модели воспрозводят нормальную работу, но сильно промахиваются в предсказании результатов мутаций.
+
+Might be related to [Renormalization group]() story.
+
 Some references from there
 
 * [Artificial creatures: Evolving soft-body animats](https://www.youtube.com/watch?v=CXTZHHQ7ZiQ)
