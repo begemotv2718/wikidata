@@ -6,6 +6,7 @@ categories: programming, programming_languages
 
 * Some typical prolog problems can be formulated with recursive sql.
 * Rule system of trust building based on Rete algorithm [Jess](http://jessrules.com/).
+* [Habr: Пролог – декларативный язык, способный решать любые ребусы и доказывать теоремы](https://habrahabr.ru/post/254133/)
 
 # Prolog implementations
 
