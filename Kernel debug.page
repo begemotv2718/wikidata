@@ -34,3 +34,12 @@ Add the ```netconsole=32769@192.168.1.1/eth1,32769@192.168.1.6/01:23:34:56:78:9A
 # Tracing of syscalls/etc
 
 * [Brendan Gregg: Chosing a linux tracer](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
+    * Ftrace
+    * perf-events (linux-tools-common package). Exposed as ```perf``` tool
+    * eBPF (in development)
+    * SystemTap -- requires compiling modules.
+    * LTTng -- out of tree tracer
+    * ktap (in development)
+    * dtrace4linux -- license incompatibility, slow development
+    * Oracle Linux dtrace -- requires oracle linux
+    * sysdig
