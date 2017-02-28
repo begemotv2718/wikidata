@@ -14,6 +14,10 @@ Here I would like to collect information on various constraint optimization prob
      * etc.
      * Initial inspiration: MemSAT, [MIT Alloy](http://alloy.mit.edu/alloy/), Kodkod (efficient solver for alloy?)
 
+* [Sergiy Dymchenko: Solving greater than sudoku](http://sdymchenko.com/blog/2015/01/04/greater-than-sudoku-clp/) -- constraint solver
+* [ECLiPSe: constraint solver](http://www.eclipseclp.org/)
+
+
 # Prolog
 
 [Prolog]()
