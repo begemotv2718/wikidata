@@ -30,3 +30,7 @@ Start netconsole with ```modprobe netconsole```. Debian stock kernels have suppo
 ## Debugging startup issue
 
 Add the ```netconsole=32769@192.168.1.1/eth1,32769@192.168.1.6/01:23:34:56:78:9A``` line to the kernel command line. I assume that we also need to pack corresponding module into initrd.
+
+# Tracing of syscalls/etc
+
+* [Brendan Gregg: Chosing a linux tracer](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
