@@ -21,3 +21,10 @@ Here I would like to collect information on various constraint optimization prob
 # Prolog
 
 [Prolog]()
+
+## B-prolog
+
+B-Prolog, is a Prolog based Constraint Logic Programming System. Compared to traditional Prolog systems, B-Prolog has some extensions which makes constraint modelling easier: 
+
+* [Dynamic programming solution for Facebook Hacker Cup problem "AAAAAA" in B-Prolog](http://sdymchenko.com/blog/2014/12/09/aaaaaa-bprolog/)
+* [Hakan Kjellerstrand B-Prolog page](http://www.hakank.org/bprolog/)
