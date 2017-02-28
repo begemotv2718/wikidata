@@ -6,3 +6,15 @@ categories: linux,network
 
 * [Tun/Tap interface tutorial](http://backreference.org/2010/03/26/tuntap-interface-tutorial/)
 
+## Summary
+
+Tun interface is an network level communication interface (ip address). It consist of a network interface (tun0 for example) and a device whose file descriptor is obtained by ioctl to /dev/net/tun (/dev/net/tap). The device can be set to a particular user. The data send to the tun or tap interface appear on the obtained file descriptor and can be manipulated.
+
+### Creating tun device
+
+* ```tunctl```
+* ```ip tuntap add dev tun777 mode tun user luser group lusers```
+* openvpn --mktun --dev tun777
+
+ 
+
