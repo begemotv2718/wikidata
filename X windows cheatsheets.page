@@ -5,6 +5,7 @@ categories: xwindows linux
 * [Window managers](http://web.archive.org/web/20160529110130/http://www.xwinman.org/basics.php) Ликбез, не очень полезный
 * [Xplain : X in browsers and explaining X protocol](http://magcius.github.io/xplain/article/index.html)
 * Xdotool -- how to automate X.
+* xpra -- tool that do trick similar to GNU screen for X windows
 
 # Protocol
 
