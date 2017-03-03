@@ -174,3 +174,7 @@ import zlib
 copy,paste = init_windows_clipboard()
 print zlib.decompress(base64.b64decode(paste()))
 ```
+
+# Browser as editor
+
+```data:text/html, <html contenteditable>``` in url box
