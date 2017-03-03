@@ -69,3 +69,7 @@ Date and time inside module [Stackoverflow: getting date and time in linux kerne
 # Kernel debug
 
 [Kernel debug]()
+
+# Interesting kernel resources
+
+[0xAX linux-insides](https://github.com/0xAX/linux-insides)
