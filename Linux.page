@@ -33,3 +33,19 @@ categories: linux
 # Linux security
 
 * [Linux security]()
+
+# Kvm
+
+## Creating shared folder
+
+Kvm options
+
+```
+-virtfs local,path=/tmp/valgrind,mount_tag=valgrind,security_model=mapped
+```
+
+Inside the machine
+
+```
+mount -type 9p -o trans=virtio valgrind /media/disk/
+```
