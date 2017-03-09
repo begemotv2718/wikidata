@@ -9,6 +9,9 @@ categories: linux,debian
 * ```apt-get autoremove``` -- remove automatically installed packages no longer needed
 * ```dpkg-query -l | grep '^ii'``` -- list installed packages
 * ```dlocate``` -- find a package that specific file belongs to
+* Sorting packages by size
+    * ```dpkg-query -Wf '${Installed-Size}\t${Package}\n' | sort -n```
+    * Other ideas [here](http://www.commandlinefu.com/commands/view/3842/list-your-largest-installed-packages-on-debianubuntu)
 
 # See also
 
