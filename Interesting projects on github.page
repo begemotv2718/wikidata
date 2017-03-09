@@ -3,3 +3,4 @@ categories: programming
 ...
 
 * [Thyme: open window list and time track](https://github.com/sourcegraph/thyme) Written in Go. [Project description](https://text.sourcegraph.com/thyme-a-simple-cli-to-measure-human-time-and-focus-577b87337b9c#.wg6q6tp3i)
+* [Sympy symengine](https://github.com/symengine) -- Symbolic math for various languages (including haskell). Recommended for good cpp style. Claimed performance is much higher than for Mathematica.
