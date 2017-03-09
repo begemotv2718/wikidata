@@ -35,6 +35,11 @@ categories: ML, mathematics, NN
 * [Optimization of NN review: habr](https://habrahabr.ru/post/318970/)
 * [Y.Bengio Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533v2.pdf)
 
+## Tensorflow
+
+* [O'Reilly Hello Tensorflow](https://www.oreilly.com/learning/hello-tensorflow)
+* [Install tensorflow on linux](https://www.tensorflow.org/install/install_linux)
+
 # Link bowls
 
 * [Глубоко внутри глубокого обучения lj:ailev](http://ailev.livejournal.com/1254558.html)
