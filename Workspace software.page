@@ -4,6 +4,9 @@ categories: work,environment,software
 
 # Webex installation on linux
 
+
+## Ask ubuntu recipe
+
 [Ask ubuntu: useful thread on webex installation](http://askubuntu.com/questions/459838/webex-is-not-working-in-ubuntu-14-04-please-help)
 
 Summary for 32-bit standalone:
@@ -35,3 +38,7 @@ export PATH=$FIREFOX_HOME:$JAVA_HOME/bin:$PATH
 firefox --no-remote -P WebEx
 ```
 
+## Other recipies
+
+* [Use Webex with linux](http://linuxintro.org/wiki/Use_WebEx_with_Linux)
+* [Webex on linux](https://at.projects.genivi.org/wiki/display/TOOL/WebEx+on+Linux)
