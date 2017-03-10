@@ -33,6 +33,9 @@ categories: programming
     * [Some background](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
          * [Separation logic](http://fbinfer.com/docs/separation-logic-and-bi-abduction.html#biabduction)
          * [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic)
+* [En wikipedia: List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
+    * [Frama-C](https://en.wikipedia.org/wiki/Frama-C) Free software tool developed at Inria, support abstract interpretation. [Official website](http://frama-c.com/)
+    * [Yasca](https://en.wikipedia.org/wiki/Yasca) Free tool integrating several static analysis tools [Official website](http://www.scovetta.com/yasca.html)
 
 ## Rosette
 
