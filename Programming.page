@@ -92,6 +92,10 @@ In theory, when linking something, only the needed libraries are passed to the c
 
 * [Michael Barr: Unintended acceleration and other embedded software bugs](http://embeddedgurus.com/barr-code/2011/03/unintended-acceleration-and-other-embedded-software-bugs/)
 * [Michael Barr: what NHTSA haven't considered](http://embeddedgurus.com/barr-code/2011/03/what-nhtsanasa-didnt-consider-re-toyotas-firmware/)
+* [Same story in russian](http://ko.com.ua/kachestvo_vstraivaemogo_po_ili_pogrom_vsyo-taki_sluchilsya_98518)
+* [Barr group: Embedded C coding standard](https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard)
+* [M. Barr et al Programming Embedded Systems: With C and GNU Development Tools, 2nd Edition -- Amazon](https://www.amazon.com/dp/0596009836/netrino)
+* [Habr: отладка самолета](https://habrahabr.ru/post/202184/)
 
 # CAD
 
