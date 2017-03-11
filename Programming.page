@@ -39,6 +39,14 @@ categories: programming
 
 * [VCC](https://vcc.codeplex.com/) Tool by Microsoft research. Has only non-commercial/research [license](http://vcc.codeplex.com/license). But the source code is [available](https://vcc.codeplex.com/SourceControl/latest). Internally it use [SMT solvers](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) (relatives of [SAT Solvers](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#Algorithms_for_solving_SAT))
 
+## Haskell
+
+Haskell have some automatic verificators based on [SMT libraries](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories). These are [Data.SBV](http://hackage.haskell.org/package/sbv-0.9.7/docs/Data-SBV.html) (prover for bit-operating programs) and [yices-painless](https://donsbot.wordpress.com/2011/01/16/painless-np-complete-problems-an-embedded-dsl-for-smt-solving/) (more general prover).
+
+## See also 
+
+Since many provers are based on SAT/SMT solvers see also 
+
 ## Rosette
 
 [Link](https://emina.github.io/rosette/)
