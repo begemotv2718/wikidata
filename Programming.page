@@ -37,6 +37,8 @@ categories: programming
     * [Frama-C](https://en.wikipedia.org/wiki/Frama-C) Free software tool developed at Inria, support abstract interpretation. [Official website](http://frama-c.com/)
     * [Yasca](https://en.wikipedia.org/wiki/Yasca) Free tool integrating several static analysis tools [Official website](http://www.scovetta.com/yasca.html)
 
+* [VCC](https://vcc.codeplex.com/) Tool by Microsoft research. Has only non-commercial/research [license](http://vcc.codeplex.com/license). But the source code is [available](https://vcc.codeplex.com/SourceControl/latest). Internally it use [SMT solvers](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) (relatives of [SAT Solvers](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#Algorithms_for_solving_SAT))
+
 ## Rosette
 
 [Link](https://emina.github.io/rosette/)
