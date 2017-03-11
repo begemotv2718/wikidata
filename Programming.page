@@ -45,7 +45,7 @@ Haskell have some automatic verificators based on [SMT libraries](https://en.wik
 
 ## See also 
 
-Since many provers are based on SAT/SMT solvers see also 
+Since many provers are based on SAT/SMT solvers see also [Constraint optimization]()
 
 ## Rosette
 
