@@ -11,3 +11,11 @@ categories: physics,optics
 ## Papers
 
 * [Efficient Monte Carlo Rendering with Realistic Lenses](https://cg.ivd.kit.edu/publications/pubhanika/2014_lenssim.pdf)
+
+# Other optical design tools (not opensource)
+
+* [Optalix list of optical cads](http://www.optenso.com/links/links.html)
+    * [KDP-2 closed source windows only optical design software](http://www.ecalculations.com/) but free
+    * Zemax is the industrial standard optics simulation package
+    * Wolfram has some tools for lens raytracing
+
