@@ -7,3 +7,7 @@ categories: physics,optics
 * [OpenRayTrace](https://sourceforge.net/projects/openraytrace/) -- Seems to be frozen, but available
 * [defphos](https://code.google.com/archive/p/defphos/source) -- All links are gone
 * [opus](http://www.maxreason.com/software/optics/opus.html) -- working project written in [XBasic](https://sourceforge.net/projects/xbasic/?source=typ_redirect). Difficult to get running in the tiling window manager, since it uses multiple windows. [Notes on running on linux](http://www.maxreason.com/software/xbasic/linux.html)
+
+## Papers
+
+* [Efficient Monte Carlo Rendering with Realistic Lenses](https://cg.ivd.kit.edu/publications/pubhanika/2014_lenssim.pdf)
