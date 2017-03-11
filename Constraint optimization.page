@@ -17,6 +17,10 @@ Here I would like to collect information on various constraint optimization prob
 * [Sergiy Dymchenko: Solving greater than sudoku](http://sdymchenko.com/blog/2015/01/04/greater-than-sudoku-clp/) -- constraint solver
 * [ECLiPSe: constraint solver](http://www.eclipseclp.org/)
 
+# SMT Solvers
+
+* [SMT-lib](http://smtlib.cs.uiowa.edu/) [examples](http://smtlib.cs.uiowa.edu/examples.shtml)
+* [Z3](https://github.com/Z3Prover/z3) [examples](http://rise4fun.com/z3/tutorial). Microsoft research tool, moved to MIT license.
 
 # Prolog
 
