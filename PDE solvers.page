@@ -20,3 +20,4 @@ Works with finite elements. Most basic solver is for time-independent problems, 
 
 Current FEnics has a special component for mesh generation named [mshr](https://bitbucket.org/fenics-project/mshr/wiki/Tutorial). This component uses [libcgal](http://doc.cgal.org/latest/Manual/packages.html) for mesh generation. I haven't yet tried the latest version of dolfin, which supports all the features of libcgal.
 
+[2d conforming triangulations](http://doc.cgal.org/latest/Mesh_2/index.html#secMesh_2_building_meshes)
