@@ -23,3 +23,9 @@ $\Delta_c H^0 = -417 \mathrm{kJ/mol}\,\nu_{0_2}-44 \mathrm{kJ/mol}\, \nu_{H_2 O}
 For a compound with formula $C_c H_h O_o N_n$ we have $\nu_{0_2}=c+h/4-o/2$, $\nu_{H_2 O}=h/2$. The paper than plots the heat of combustion of many fuels with $c>n+o$ and found quite nice fit within few percent.
 
 For [isooctane](https://en.wikipedia.org/wiki/2,2,4-Trimethylpentane) the formula gives heat of combustion 5608 kJ/mol , the real value is 5460 kJ/mol. For [n-heptane](https://en.wikipedia.org/wiki/Heptane) formula gives 4939 kJ/mol , real value 4825 kJ/mol
+
+# Fischer-Tropsch process
+
+Fischer-Tropsch process for producing liquid petrol suitable for internal combustion engines. Process was developed in Germany in 1925, it became relatively popular in Nazi Germany in 1943/44 when there were shortage of  oil supply. Wikipedia [en](https://en.wikipedia.org/wiki/Fischer%E2%80%93Tropsch_process) [de](https://de.wikipedia.org/wiki/Fischer-Tropsch-Synthese).
+The components for the process is $H_2$ and $CO$ gases. According to DE wiki, the typical output is 10-15% propan+butane, 50% car gas (benzine), 28% diesel fuel, 8% parafine.
+In the typical setup coal is converted to $H_2$ and $CO$ by reacting it with water steam. If one has a source of $H_2$ (e.g. from water electrolysis), one can try to convert $CO_2$ to $CO$ suitable for the subsequent process. Audi actually managed to do this [Audi is making fuel from air and water](https://qz.com/392138/audi-is-making-fuel-from-air-and-water/) [Fuel of the future: Research facility in Dresden produces first batch of Audi e-diesel](https://www.audi-mediacenter.com/en/press-releases/fuel-of-the-future-research-facility-in-dresden-produces-first-batch-of-audi-e-diesel-352)
