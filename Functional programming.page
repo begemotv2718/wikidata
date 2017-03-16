@@ -2,4 +2,15 @@
 categories: functional_programming
 ...
 
-[Functional programming and design patterns]()
+
+
+* [Functional programming and design patterns]()
+
+# Data structures
+
+* [Monoids and finger trees (apfelmus)](http://apfelmus.nfshost.com/articles/monoid-fingertree.html)
+
+
+# See also 
+
+* [Haskell]()
