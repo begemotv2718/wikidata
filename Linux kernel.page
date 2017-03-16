@@ -73,6 +73,10 @@ Date and time inside module [Stackoverflow: getting date and time in linux kerne
 
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/index.html)
 
+# Kernel internals
+
+* [Анатомия методов синхронизации Linux](https://www.ibm.com/developerworks/ru/library/l-linux-synchronization/index.html)
+* [Анатомия ядра Linux](https://www.ibm.com/developerworks/ru/library/l-linux-kernel/)
 
 # Kernel debug
 
