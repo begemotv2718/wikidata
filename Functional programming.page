@@ -15,6 +15,8 @@ categories: functional_programming
 
 * [Refal](https://en.wikipedia.org/wiki/Refal) -- Language that first introduced idea of supercompilation.
     * [Refal Graphs: how supercompilation work now](http://www.refal.org/doc/turchin/dag/node3.html)
+    * [Old Refal reference](http://web.archive.org/web/20080511193606/http://www.supercompilers.com/html/refal_content.html)
+    * [Competitors](http://web.archive.org/web/20080513233839/http://www.supercompilers.com/competitors.shtml)  -- some interesting Java optimizers
 * [Supercompilation by evaluation (by Simon Peyton-Jones)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/supercomp-by-eval.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fsupercompilation%2Fsupercomp-by-eval.pdf)
 
 # See also 
