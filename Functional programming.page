@@ -8,7 +8,7 @@ categories: functional_programming
 
 # Data structures
 
-* [Monoids and finger trees (apfelmus)](http://apfelmus.nfshost.com/articles/monoid-fingertree.html)
+* [Monoids and finger trees (apfelmus)](http://apfelmus.nfshost.com/articles/monoid-fingertree.html) -- As far as I understand finger tree is an annotated tree where annotation form a monoid.
 
 
 # See also 
