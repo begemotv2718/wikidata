@@ -66,6 +66,12 @@ info:
 
 Date and time inside module [Stackoverflow: getting date and time in linux kernel space ](http://stackoverflow.com/questions/5077192/how-to-get-current-hour-time-of-day-in-linux-kernel-space)
 
+
+## Comprehensive kernel module writing guide
+
+* [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/index.html)
+
+
 # Kernel debug
 
 [Kernel debug]()
