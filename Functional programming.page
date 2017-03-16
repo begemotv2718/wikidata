@@ -11,7 +11,11 @@ categories: functional_programming
 * [Monoids and finger trees (apfelmus)](http://apfelmus.nfshost.com/articles/monoid-fingertree.html) -- As far as I understand finger tree is an annotated tree where annotation form a monoid.
     * [Incremental regular expressions matching on finger trees](http://blog.sigfpe.com/2009/01/fast-incremental-regular-expression.html) The idea is to make finite state automaton with a result on substring into monoid. Interesting to compare with: Ukkonen algorithm, Suffix trees
 
+# Supercompilation
 
+* [Refal](https://en.wikipedia.org/wiki/Refal) -- Language that first introduced idea of supercompilation.
+    * [Refal Graphs: how supercompilation work now](http://www.refal.org/doc/turchin/dag/node3.html)
+* [Supercompilation by evaluation (by Simon Peyton-Jones)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/supercomp-by-eval.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fsupercompilation%2Fsupercomp-by-eval.pdf)
 
 # See also 
 
