@@ -2,6 +2,10 @@
 categories: linux, kernel
 ...
 
+# Start guide
+
+* [Start kernel hacking](https://kernelnewbies.org/StartKernelHacking)
+
 # Kernel modules
 
 ## Writing kernel module for raspberry pi
