@@ -178,3 +178,12 @@ print zlib.decompress(base64.b64decode(paste()))
 # Browser as editor
 
 ```data:text/html, <html contenteditable>``` in url box
+
+# Prevent windows screensaver
+
+Since we have quite aggressive screensaver policy on our windows computers and I noticed that Skype for business manages to prevent screensaver activation I decided to research this topic a little.
+
+1. I know that VLC can prevent screensaver on Linux and that VLC is also available on Windoze. VLC source code is [here](https://wiki.videolan.org/git#Getting_VLC_or_x264_source_code_via_Git). I found that the relevant function is [SystemParametersInfo](https://msdn.microsoft.com/en-us/library/windows/desktop/ms724947%28v=vs.85%29.aspx) called with SPI_SETSCREENSAVEACTIVE parameter (not sure about the parameter, however).
+    a. [SendInput](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646310%28v=vs.85%29.aspx)
+2. [Stackexchange with some other useful idea](https://superuser.com/questions/329758/how-can-i-prevent-a-policy-enforced-screen-lock-in-windows-7)
+3. [Autoit script](https://www.symantec.com/connect/downloads/readynosleepexe-prevents-screensaver-and-pc-locking)
