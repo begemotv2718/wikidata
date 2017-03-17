@@ -65,3 +65,4 @@ iceprog leds.bin
     * [Schematics](https://marsohod.org/index.php/ourblog/11/170-mbfdti)
     * [Repository](https://github.com/marsohod4you/MBFTDI-SVF-Player)
     * Works by playing SVF (Serial Vector Format) to jtag. 
+    * See [USB]() for FTDI chip interface references
