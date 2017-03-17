@@ -10,6 +10,7 @@ categories: functional_programming
 
 * [Monoids and finger trees (apfelmus)](http://apfelmus.nfshost.com/articles/monoid-fingertree.html) -- As far as I understand finger tree is an annotated tree where annotation form a monoid.
     * [Incremental regular expressions matching on finger trees](http://blog.sigfpe.com/2009/01/fast-incremental-regular-expression.html) The idea is to make finite state automaton with a result on substring into monoid. Interesting to compare with: Ukkonen algorithm, Suffix trees
+* [Okasaki russian study group](https://groups.google.com/forum/?hl=en&fromgroups#!forum/okasaki-russian-study-group)
 
 # Supercompilation
 
