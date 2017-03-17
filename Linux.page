@@ -49,3 +49,9 @@ Inside the machine
 ```
 mount -type 9p -o trans=virtio valgrind /media/disk/
 ```
+
+# Linux on PowerPC Mac
+
+* [PowerPC sensors](http://powerofpowerpc.blogspot.com.by/2014_12_01_archive.html)
+* [Debian installation problem](https://lists.debian.org/debian-powerpc/2017/02/msg00020.html)
+* [Debian support](https://lists.debian.org/debian-powerpc/2017/02/msg00017.html)
