@@ -377,3 +377,13 @@ static const struct usb_config_1 usb_config_1 = {
 * [hidraw kernel documentation](http://lxr.free-electrons.com/source/Documentation/usb/hiddev.txt?v=2.6.24)
 * [github reference using hidraw](https://github.com/signal11/hidapi)
              
+
+
+# USB interface chips
+
+## FTDI 
+
+* [LibFTDI](https://www.intra2net.com/en/developer/libftdi/documentation/group__libftdi.html)
+* [Introduction to FTDI bitbang mode](http://hackaday.com/2009/09/22/introduction-to-ftdi-bitbang-mode/)
+* [Linux driver readme on official ftdi site](http://www.ftdichip.com/Drivers/D2XX/Linux/ReadMe-linux.txt)
+* [Drivers page on official site](http://www.ftdichip.com/Drivers/D2XX.htm)
