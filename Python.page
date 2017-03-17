@@ -1,0 +1,8 @@
+---
+categories: programming
+...
+
+# Interesting tools
+
+* [pyrasite - attach to running python process](https://github.com/lmacken/pyrasite)
+* [uncompile -- decompile bytecode](https://pypi.python.org/pypi/uncompyle6)
