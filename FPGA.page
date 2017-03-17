@@ -56,3 +56,12 @@ iceprog leds.bin
 * [Livejournal Yury Panchul](http://1i7.livejournal.com/11571.html) -- Making MIPS processor with links to previous tutorials
 * [The same Livejournal, tags: verilog](http://1i7.livejournal.com/tag/verilog)
 
+# FPGA programmators
+
+## Marsohod project
+
+* [habr Программатор для ПЛИС](https://geektimes.ru/post/253800/)
+    * Use FTDI FT2232HL and [93C46 spi flash](http://www.alldatasheet.com/datasheet-pdf/pdf/74910/MICROCHIP/93C46.html)
+    * [Schematics](https://marsohod.org/index.php/ourblog/11/170-mbfdti)
+    * [Repository](https://github.com/marsohod4you/MBFTDI-SVF-Player)
+    * Works by playing SVF (Serial Vector Format) to jtag. 
