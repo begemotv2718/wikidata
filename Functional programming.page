@@ -12,6 +12,30 @@ categories: functional_programming
     * [Incremental regular expressions matching on finger trees](http://blog.sigfpe.com/2009/01/fast-incremental-regular-expression.html) The idea is to make finite state automaton with a result on substring into monoid. Interesting to compare with: Ukkonen algorithm, Suffix trees
 * [Okasaki russian study group](https://groups.google.com/forum/?hl=en&fromgroups#!forum/okasaki-russian-study-group)
 
+## Lenses
+
+Lens is two operators *get* and *put*, where *get* creates a 'view' on initial structure and 'put' updates initial structure on the basis of updated 'view'.
+
+get: $\Sigma->\Delta$
+
+put: $\Delta\cross\Sigma->\Sigma$.
+
+I.e. to accurately update the initial structure on the basis of 'view' put takes both unmodified structure and the updated view and creates updated structure.
+
+Pair of *get* and *put* form lens if they satisfy some rules of composition ``` get (put s a) = a```, ```put (put s b) a = put s a``` etc.
+
+In functional languages lens form a composable operation with a complex data structure. 
+
+Some constructions of lenses in haskell:
+
+* [Functional lenses: Stackoverflow](http://stackoverflow.com/questions/8307370/functional-lenses)
+* [Survey of lenses haskell packages: Stackoverflow](http://stackoverflow.com/questions/5767129/lenses-fclabels-data-accessor-which-library-for-structure-access-and-mutatio) data-accessor, data-lens, fclabels, etc are compared
+* [Basic lenses: school of haskell](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
+* [Functional lenses: how do they work](https://medium.com/@dtipson/functional-lenses-d1aba9e52254#.hd4kysr8v)
+
+Lenses appeared useful in parsing of data files: [augeas](https://en.wikipedia.org/wiki/Augeas_%28software%29) project. The general theory of update some element of abstract representation of a text file is developed by creators of [boomerang language](http://www.seas.upenn.edu/~harmony/).
+
+
 # Supercompilation
 
 * [Refal](https://en.wikipedia.org/wiki/Refal) -- Language that first introduced idea of supercompilation.
