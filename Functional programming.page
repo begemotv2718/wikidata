@@ -16,9 +16,9 @@ categories: functional_programming
 
 Lens is two operators *get* and *put*, where *get* creates a 'view' on initial structure and 'put' updates initial structure on the basis of updated 'view'.
 
-get: $\Sigma->\Delta$
+get: $\Sigma\to\Delta$
 
-put: $\Delta\cross\Sigma->\Sigma$.
+put: $\Delta\times\Sigma\to\Sigma$.
 
 I.e. to accurately update the initial structure on the basis of 'view' put takes both unmodified structure and the updated view and creates updated structure.
 
@@ -35,6 +35,7 @@ Some constructions of lenses in haskell:
 
 Lenses appeared useful in parsing of data files: [augeas](https://en.wikipedia.org/wiki/Augeas_%28software%29) project. The general theory of update some element of abstract representation of a text file is developed by creators of [boomerang language](http://www.seas.upenn.edu/~harmony/).
 
+* [Creating a lens step-by-step: augeas](https://github.com/hercules-team/augeas/wiki/Creating-a-lens-step-by-step)
 
 # Supercompilation
 
