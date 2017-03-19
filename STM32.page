@@ -1,0 +1,7 @@
+---
+categories: hardware,processor_architectures,programming
+...
+
+# STM32 tutorials
+
+* [Оцифровка звука на STM32 (АЦП+DMA) и кодирование в Speex для передачи: habr](https://habrahabr.ru/post/323598/) -- stm32cube tutorial
