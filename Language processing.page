@@ -1,7 +1,11 @@
 ---
-categories: language
+categories: language,ML
 ...
 
 * [Reconstructing grammar from wild world data]()
 * [Speech recognition]()
     * [CMU Sphinx]()
+
+# See also
+
+[Machine Learning]()
