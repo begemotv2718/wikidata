@@ -8,6 +8,9 @@ RFNoC is a set of blocks provided by Ettus research under free license to build 
 
 [Quite comprehensive introduction including writing own blocks](https://kb.ettus.com/Getting_Started_with_RFNoC_Development)
 
+# Xilinx Zync-7000 with wideband ADC
+
+According to this [habrahabr article](https://habrahabr.ru/post/323716/) some Zync-7000 series Xilinx chips contain ADC with up to 4GHz sampling frequency. According to [official Xilinx page](https://www.xilinx.com/products/silicon-devices/soc/zynq-7000.html#productTable) Z-7015 indeed have ADC. [This board](https://products.avnet.com/shop/en/ema/kits-and-tools/development-kits/aes-z7pz-7z015-som-g-3074457345623469419) seems to contain this chip.
 
 # Parent pages
 
