@@ -147,6 +147,25 @@ complex functions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.
 * [List on JWZ page](https://www.jwz.org/xscreensaver/screenshots/)
 * [Source code](https://github.com/porridge/xscreensaver/tree/debian-5.10-3ubuntu4/hacks)
 
+# Fractals, fractals and morphology
+
+## Paul Bourke fractals
+
+* [Page link](http://paulbourke.net/fractals/fracintro/)
+
+Fractals often appears as characteristic patterns in dynamical systems. E.g. famous julia fractal. Some interesting patterns can arise from simple iterative process: Newton-Raphson solver for equations
+
+![example](http://paulbourke.net/fractals/fracintro/fracintro9.gif)
+
+## ivanov-petrov
+
+* [Две морфологии 1](http://ivanov-petrov.livejournal.com/1782580.html)
+* [Две морфологии 2](http://ivanov-petrov.livejournal.com/1782936.html)
+* [Две морфологии 4](http://ivanov-petrov.livejournal.com/1783385.html)
+* [Новая наука: как сделать семиногую лягушку](http://ivanov-petrov.livejournal.com/2034382.html#comments)
+
+Морфологии берут картинки из книги [Strange Attractors: Creating Patterns in Chaos by Julien C. Sprott](http://sprott.physics.wisc.edu/sa.htm). Available as [pdf](http://sprott.physics.wisc.edu/fractals/booktext/sabook.pdf). The book has accompanying source code for fractal generation, [this one is in C](http://sprott.physics.wisc.edu/fractals/bookdisk/PROG28QC.C)
+
 # Interesting links
 
 ## Synthetic morphology
@@ -156,13 +175,6 @@ This is related to generative/parametric architecture. I found them by looking f
 
 [Related story: arxiv](https://arxiv.org/abs/1205.0596)
 
-## Paul Bourke fractals
-
-* [Page link](http://paulbourke.net/fractals/fracintro/)
-
-Fractals often appears as characteristic patterns in dynamical systems. E.g. famous julia fractal. Some interesting patterns can arise from simple iterative process: Newton-Raphson solver for equations
-
-![example](http://paulbourke.net/fractals/fracintro/fracintro9.gif)
 
 ## Flickr photostream for interesting nature shapes and generated shapes
 
