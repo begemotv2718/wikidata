@@ -175,7 +175,7 @@ Interesting things mentioned
 * Lisp late binding
 * [Lucid programming language](https://en.wikipedia.org/wiki/Lucid_%28programming_language%29), [pdf document describing language](http://www.cse.unsw.edu.au/~plaice/archive/WWW/1985/B-AP85-LucidDataflow.pdf) (Strachey streams) -- archetypal filter-based programming. Each function is a filter, each variable is a stream of values (thus, no assignment, just stream copying and filtering).
 * Burroughs B5000 Bob Barton (to give you an interesting benchmark—on roughly the same system, roughly optimized the same way, a benchmark from 1979 at Xerox PARC runs only 50 times faster today. Moore’s law has given us somewhere between 40,000 and 60,000 times improvement in that time. So there’s approximately a factor of 1,000 in efficiency that has been lost by bad CPU architectures.)
-* [Imp programming language](https://en.wikipedia.org/wiki/IMP_%28programming_language%29) -- [language manual](http://www.saildart.org/IMP.BO[11,DOC]1), [implementation](http://pdp-10.trailing-edge.com/decuslib10-03/01/43,50270/spell.lst.html) -- language that allowed syntax extension using BNF.
+* [Imp programming language](https://en.wikipedia.org/wiki/IMP_%28programming_language%29) -- [language manual](http://www.saildart.org/IMP.BO\[11,DOC\]1), [implementation](http://pdp-10.trailing-edge.com/decuslib10-03/01/43,50270/spell.lst.html) -- language that allowed syntax extension using BNF.
 * Joss as a better alternative to Basic (there was always a language better than Basic for that purpose. That language was Joss, which predated Basic and was beautiful. )
 
 ## Suck less
