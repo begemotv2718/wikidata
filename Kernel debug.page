@@ -43,3 +43,7 @@ Add the ```netconsole=32769@192.168.1.1/eth1,32769@192.168.1.6/01:23:34:56:78:9A
     * dtrace4linux -- license incompatibility, slow development
     * Oracle Linux dtrace -- requires oracle linux
     * sysdig
+
+# Debug kernel startup in KVM
+
+* [Some tips](https://rwmj.wordpress.com/2016/04/21/tip-poor-mans-qemu-breakpoint/) Most important beside using ```set architecture i8086``` is using ```hbreak``` instead of ```break```.
