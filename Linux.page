@@ -36,6 +36,10 @@ categories: linux
 
 # Kvm
 
+## Debug kernel startup in KVM
+
+* [Some tips](https://rwmj.wordpress.com/2016/04/21/tip-poor-mans-qemu-breakpoint/) Most important beside using ```set architecture i8086``` is using ```hbreak``` instead of ```break```.
+
 ## Creating shared folder
 
 Kvm options
