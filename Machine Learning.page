@@ -12,6 +12,9 @@ See [Language processing](), [Neural network and finite automata]()
 
 [See Speech recognition](Speech recognition)
 
+[WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499.pdf) github implementations: [tensorflow](https://github.com/ibab/tensorflow-wavenet), [keras](https://github.com/basveeling/wavenet)
+
+
 # Machine learning for antisocial elements like me
 
 * [ROCSpeak: Using machine learning analysis to help people improve communication skills](http://www.cs.rochester.edu/news-events/news/2016-06-16_mhoque-microsoft.html)
