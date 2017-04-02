@@ -8,6 +8,15 @@ categories: xwindows linux
 * ```xpra``` -- tool that do trick similar to GNU screen for X windows
 * [Linux graphics stack from Wayland advocates](http://blog.mecheye.net/2012/06/the-linux-graphics-stack/)
 
+
 # Protocol
 
 [Design and Implementation of the X Rendering Extension](https://keithp.com/~keithp/talks/usenix2001/xrender/xrender.html#composite-op.section)
+
+# Tricks
+
+## Finding pid of the X window
+
+* ```xdotool getwinpid```
+* ```xkill --id <winId>``` -- if it is sufficient to kill the process
+* [Stackoverflow answer to this question](http://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window)
