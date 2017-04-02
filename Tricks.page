@@ -187,3 +187,9 @@ Since we have quite aggressive screensaver policy on our windows computers and I
     a. [SendInput](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646310%28v=vs.85%29.aspx)
 2. [Stackexchange with some other useful idea](https://superuser.com/questions/329758/how-can-i-prevent-a-policy-enforced-screen-lock-in-windows-7)
 3. [Autoit script](https://www.symantec.com/connect/downloads/readynosleepexe-prevents-screensaver-and-pc-locking)
+
+# Get command line of the executable buried deep inside the complex tool
+
+```bash
+inotify-wait -e access <executable path>; ps -ef | grep executable
+```
