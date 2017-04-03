@@ -79,3 +79,8 @@ IBAN links [Bank of ireland IBAN generator](https://personalbanking.bankofirelan
 
 [Latex font selection](http://tex.stackexchange.com/questions/25249/how-do-i-use-a-particular-font-for-a-small-section-of-text-in-my-document/25251#25251) [swift bank codes](https://www.theswiftcodes.com/azerbaijan/) [perl iban module](https://metacpan.org/pod/Business::IBAN) [random iban generator (not very good)](http://www.mobilefish.com/services/random_iban_generator/random_iban_generator.php)
 [Spanish account number verification](https://es.wikipedia.org/wiki/C%C3%B3digo_cuenta_cliente) [php library with iban generation](https://github.com/jschaedl/Iban)
+
+# Recurrent Neural networks
+
+* [RNN tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* [Andrej Karpathy several funny RNN projects](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
