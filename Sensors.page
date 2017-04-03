@@ -220,6 +220,8 @@ This module was used to provide reference for internal oscillator on sound card 
 
 # FLIR -- Deep infrared cameras
 
+* [Github project with FLIR camera](https://github.com/maxritter/DIY-Thermocam)
+
 ## Shopping
 
 Currently 60x60 and 60x80 cameras became affordable.
