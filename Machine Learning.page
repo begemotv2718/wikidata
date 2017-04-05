@@ -35,11 +35,12 @@ See [Language processing](), [Neural network and finite automata]()
     * See more about this under [Renormalization group]()
 * [Face aging with adversarial networks](https://arxiv.org/abs/1702.01983)
 
-# Recipies
+# Recipies and tutorials
 
 * [How to approach almost any ML problem: Abhishek Thakur, Kaggle winner](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 * [Optimization of NN review: habr](https://habrahabr.ru/post/318970/)
 * [Y.Bengio Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533v2.pdf)
+* [Kaggle word2vec tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
 ## Tensorflow
 
