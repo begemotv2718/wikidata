@@ -2,6 +2,10 @@
 categories: biology,medicine,hardware,electronics
 ...
 
+# Reference
+
+* [Physiological data database](http://physionet.org/physiobank/database/#neuro)
+
 # ECG
 
 * [habr: ECG R-R interval algorithm](https://habrahabr.ru/post/255141/)
