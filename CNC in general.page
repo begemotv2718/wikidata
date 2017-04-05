@@ -27,6 +27,10 @@ Main mechanisms of energy drain
 * [Лазерные трубки в Минске](http://equitechno.deal.by/g902493-lazernye-trubki-so2)
 * [Aliexpress](https://ru.aliexpress.com/item/ZG-high-quality-length-1250-mm-diametr-80mm-80W-CO2-laser-tube-for-CO2-laser-engraving/32438341854.html?spm=2114.10010208.1000022.1.selq4y&isOrig=true#extend) -- expensive shipping
 
+# CNC Firmware
+
+* [habr: STM32F103 firmware for CNC machine](https://habrahabr.ru/post/250677/)
+
 # G-codes
 
 * [Some useful g-code list](http://www.shapeoko.com/wiki/index.php/G-Code)
