@@ -2,6 +2,8 @@
 categories: hardware,processor_architectures,programming
 ...
 
+* [habr: STM32F4 video](https://geektimes.ru/post/255316/)
+
 # STM32 tutorials
 
 * [Оцифровка звука на STM32 (АЦП+DMA) и кодирование в Speex для передачи: habr](https://habrahabr.ru/post/323598/) -- stm32cube tutorial. [github](https://github.com/oWartForHabr/SpeexForHabr)
