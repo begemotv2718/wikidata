@@ -12,4 +12,4 @@ categories: biology,medicine,hardware,electronics
 
 # Devices
 
-* [openbci](http://openbci.com/) 
+* [openbci](http://openbci.com/) ADS1299 based device. 8-channels, 16kHz sampling rate, 24bit depth
