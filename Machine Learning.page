@@ -88,3 +88,4 @@ IBAN links [Bank of ireland IBAN generator](https://personalbanking.bankofirelan
 * [Andrej Karpathy several funny RNN projects](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
     * [Github page ](https://github.com/karpathy/char-rnn)
 * [Seq2seq in machine translation: tensorflow example](https://www.tensorflow.org/tutorials/seq2seq)
+* [Penn treebank marking with rnn: tensorflow](https://www.tensorflow.org/tutorials/recurrent)
