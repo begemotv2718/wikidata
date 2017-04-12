@@ -41,6 +41,7 @@ See [Language processing](), [Neural network and finite automata]()
 * [Optimization of NN review: habr](https://habrahabr.ru/post/318970/)
 * [Y.Bengio Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533v2.pdf)
 * [Kaggle word2vec tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+* [NN from scratch: wildml](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 
 ## Tensorflow
 
