@@ -20,3 +20,24 @@ categories: xwindows linux
 * ```xdotool getwinpid```
 * ```xkill --id <winId>``` -- if it is sufficient to kill the process
 * [Stackoverflow answer to this question](http://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window)
+
+## Execute commands on xscreensaver state change
+
+```perl
+               #!/usr/bin/perl
+
+               my $blanked = 0;
+               open (IN, "xscreensaver-command -watch |");
+               while (<IN>) {
+                   if (m/^(BLANK|LOCK)/) {
+                       if (!$blanked) {
+                           system "sound-off";
+                           $blanked = 1;
+                       }
+                   } elsif (m/^UNBLANK/) {
+                       system "sound-on";
+                       $blanked = 0;
+                   }
+               }
+
+```
