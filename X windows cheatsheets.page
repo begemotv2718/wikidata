@@ -41,3 +41,28 @@ categories: xwindows linux
                }
 
 ```
+
+## Fullscreen for virtualbox
+
+Works from time to time
+
+```bash
+keywindid=''
+for id in `xdotool search --class 'VirtualBox'`
+do 
+  if xprop -id $id | grep '_NET_WM_NAME.*epam2.*1"$' > /dev/null
+  then 
+    keywinid=$id
+  fi 
+done
+
+echo $keywinid
+
+
+
+#xdotool windowactivate $keywinid
+xdotool windowfocus $keywinid
+xdotool key --window $keywinid Control_R+Delete 
+xdotool key --window $keywinid Control_R+f
+
+```
