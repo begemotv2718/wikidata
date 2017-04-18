@@ -35,6 +35,9 @@ See [Language processing](), [Neural network and finite automata]()
     * See more about this under [Renormalization group]()
 * [Face aging with adversarial networks](https://arxiv.org/abs/1702.01983)
 
+
+* [GitXiv](http://www.gitxiv.com/) -- mapping between arxiv.org and github repositories.
+
 # Recipies and tutorials
 
 * [How to approach almost any ML problem: Abhishek Thakur, Kaggle winner](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
