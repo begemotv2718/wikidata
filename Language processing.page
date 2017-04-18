@@ -6,6 +6,10 @@ categories: language,ML
 * [Speech recognition]()
     * [CMU Sphinx]()
 
+#Grammar parsing
+
+* [ habr article on writing grammar](https://habrahabr.ru/post/323692/) [github repository](https://github.com/ArseniyBorezkiy)
+
 # See also
 
 [Machine Learning]()
