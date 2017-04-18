@@ -6,7 +6,11 @@ categories: hardware,batteries
 
 * [habr: Прокачтиваем IMAX B6](https://geektimes.ru/post/255400/)
 * [Cheali charger: github](https://github.com/stawel/cheali-charger)
+
+## 80W clone
+
 * [IMAX B6 80W clone: processor](https://groups.google.com/forum/#!topic/cheali-charger/5hD6g_MNPdY) Похоже в данном ImaxB6 применен MCU Zilog Z51F3220FNX. 
+* [Schematics](https://groups.google.com/forum/#!msg/cheali-charger/5hD6g_MNPdY/e113LSnfEwAJ)
 
 From [forum](http://forum.rcdesign.ru/f63/thread239077-31.html)
 
