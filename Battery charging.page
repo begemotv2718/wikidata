@@ -14,3 +14,18 @@ From [forum](http://forum.rcdesign.ru/f63/thread239077-31.html)
 Удалось восстановить работоспособность подключив 6 LiPo в разъем балансира. Но осталась погрешность измерения, врет на 50-150 мВ. При калибровке на экране были значения 4.20 В. А реально аккумы были по 4.16-4.18 В (где ж их взять, что б 4.2 ровно держали).
 Вот теперь думаю, может просто взять источник напряжения и тупо через делитель, через 6 резисторов, выровнять по 4.2 и таким образом попробовать откалибровать.
 Пробовал, вполне нормальное решение. Используйте резисторы номиналом 200-500 Ом.
+
+Guys,
+
+I just successfully resurrected my charger after accidental calibration, in my case much simpler circuit did the trick. I just used 25.2V power supply with six 1K-ohm metal film (1%)  resistors. No capacitors where needed in my case.
+
+Important is to note that main terminals must also be connected to resistor cascade (VCC/GND), my fist attempt failed because of this.
+
+Just make cascade connect everything together, hold stop and start and add power supply, after voltage levels stop changing release buttons (not sure if this is important and power down the device).
+
+Voltage output after fix is under shooting for 0.05V, for me that is good enough.
+
+Hope this helps someone, i just lost whole day on this "Self District" feature.
+
+Ivan
+
