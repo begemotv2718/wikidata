@@ -6,7 +6,7 @@ categories: hardware,batteries
 
 * [habr: Прокачтиваем IMAX B6](https://geektimes.ru/post/255400/)
 * [Cheali charger: github](https://github.com/stawel/cheali-charger)
-* [IMAX B6 80W clone: processor](https://groups.google.com/forum/#!topic/cheali-charger/5hD6g_MNPdY[101-125]) Похоже в данном ImaxB6 применен MCU Zilog Z51F3220FNX. 
+* [IMAX B6 80W clone: processor](https://groups.google.com/forum/#!topic/cheali-charger/5hD6g_MNPdY) Похоже в данном ImaxB6 применен MCU Zilog Z51F3220FNX. 
 
 From [forum](http://forum.rcdesign.ru/f63/thread239077-31.html)
 
@@ -15,7 +15,7 @@ From [forum](http://forum.rcdesign.ru/f63/thread239077-31.html)
 Вот теперь думаю, может просто взять источник напряжения и тупо через делитель, через 6 резисторов, выровнять по 4.2 и таким образом попробовать откалибровать.
 Пробовал, вполне нормальное решение. Используйте резисторы номиналом 200-500 Ом.
 
-[google group](https://groups.google.com/forum/#!topic/cheali-charger/5hD6g_MNPdY[1-25])
+[google group](https://groups.google.com/forum/#!topic/cheali-charger/5hD6g_MNPdY)
 Guys,
 
 I just successfully resurrected my charger after accidental calibration, in my case much simpler circuit did the trick. I just used 25.2V power supply with six 1K-ohm metal film (1%)  resistors. No capacitors where needed in my case.
