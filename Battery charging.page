@@ -6,4 +6,11 @@ categories: hardware,batteries
 
 * [habr: Прокачтиваем IMAX B6](https://geektimes.ru/post/255400/)
 * [Cheali charger: github](https://github.com/stawel/cheali-charger)
-* [IMAX B6 80W clone: processor](https://groups.google.com/forum/#!topic/cheali-charger/5hD6g_MNPdY[101-125]) Похоже в данном ImaxB6 применен MCU Zilog Z51F3220FNX. Если есть адаптер ULinc  и "C51 Development Tools" от ARMKeil то это можно быстро проверить.
+* [IMAX B6 80W clone: processor](https://groups.google.com/forum/#!topic/cheali-charger/5hD6g_MNPdY[101-125]) Похоже в данном ImaxB6 применен MCU Zilog Z51F3220FNX. 
+
+From [forum](http://forum.rcdesign.ru/f63/thread239077-31.html)
+
+Если есть адаптер ULinc  и "C51 Development Tools" от ARMKeil то это можно быстро проверить.
+Удалось восстановить работоспособность подключив 6 LiPo в разъем балансира. Но осталась погрешность измерения, врет на 50-150 мВ. При калибровке на экране были значения 4.20 В. А реально аккумы были по 4.16-4.18 В (где ж их взять, что б 4.2 ровно держали).
+Вот теперь думаю, может просто взять источник напряжения и тупо через делитель, через 6 резисторов, выровнять по 4.2 и таким образом попробовать откалибровать.
+Пробовал, вполне нормальное решение. Используйте резисторы номиналом 200-500 Ом.
