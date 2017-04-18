@@ -93,3 +93,8 @@ IBAN links [Bank of ireland IBAN generator](https://personalbanking.bankofirelan
     * [Github page ](https://github.com/karpathy/char-rnn)
 * [Seq2seq in machine translation: tensorflow example](https://www.tensorflow.org/tutorials/seq2seq)
 * [Penn treebank marking with rnn: tensorflow](https://www.tensorflow.org/tutorials/recurrent)
+
+# Generative adversarial networks
+
+* [Paper](https://arxiv.org/pdf/1406.2661v1.pdf)
+* [Open AI: some nice examples](https://blog.openai.com/generative-models/#contributions)
