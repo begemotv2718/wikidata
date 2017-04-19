@@ -16,6 +16,10 @@ categories: hardware
 * [Software defined radio]()
 * [STM32]()
 
+# ESP8266
+
+* [habr: Reverse engineering of ESP8266](https://habrahabr.ru/post/255135/)
+
 # High voltage
 
 * [80kV: habr](https://geektimes.ru/post/255478/)
