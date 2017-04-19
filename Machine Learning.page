@@ -96,6 +96,9 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 
 * [CRFSuite](http://www.chokkan.org/software/crfsuite/)
 
+## Maximum entropy Markov models
+
+* [Wikipedia: Maximum entropy Markov model](https://en.wikipedia.org/wiki/Maximum-entropy_Markov_model)
 
 # Recurrent Neural networks
 
