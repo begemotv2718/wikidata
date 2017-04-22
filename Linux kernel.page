@@ -82,6 +82,10 @@ Date and time inside module [Stackoverflow: getting date and time in linux kerne
 * [Учимся писать модуль ядра (Netfilter) или Прозрачный прокси для HTTPS](https://habrahabr.ru/post/138328/)
 * [Изучаем netfilter: пишем свой match-модуль на базе xt_string для поиска нескольких шаблонов](https://habrahabr.ru/post/138328/)
 
+## Habr: module for display (tty device)
+
+* [Creating driver for linux](https://habrahabr.ru/post/206148/)
+
 # Kernel internals
 
 * [Анатомия методов синхронизации Linux](https://www.ibm.com/developerworks/ru/library/l-linux-synchronization/index.html)
