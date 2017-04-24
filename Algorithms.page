@@ -6,6 +6,11 @@ categories: programming,algorithms
 
 * [Suffix trees](http://marknelson.us/1996/08/01/suffix-trees/)
 
+# Statistical sampling
+
+* [russhater: computing median of stream](http://shkrobius.livejournal.com/608677.html?thread=11817381#t11817381)
+
+The idea is the following: to compute median of potentially infinite stream we try to sample 1000 elements of the stream with equal probability. This is easy: at arrival of k-th element of the stream take a random $r$ in interval (0..k) and if $r<1000$ replace r-th element in the buffer with k-th element, otherwise discard it.
 
 # See also 
 
