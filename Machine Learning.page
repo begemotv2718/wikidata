@@ -108,6 +108,11 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 * [Seq2seq in machine translation: tensorflow example](https://www.tensorflow.org/tutorials/seq2seq)
 * [Penn treebank marking with rnn: tensorflow](https://www.tensorflow.org/tutorials/recurrent)
 
+## Terminology
+
+* LSTM cell = [Long short memory](https://en.wikipedia.org/wiki/Long_short-term_memory)
+* GRU cell = [Gated recurrent unit](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
+
 # Generative adversarial networks
 
 * [Paper](https://arxiv.org/pdf/1406.2661v1.pdf)
