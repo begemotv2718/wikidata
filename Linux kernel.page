@@ -100,6 +100,10 @@ Date and time inside module [Stackoverflow: getting date and time in linux kerne
 * [Анатомия методов синхронизации Linux](https://www.ibm.com/developerworks/ru/library/l-linux-synchronization/index.html)
 * [Анатомия ядра Linux](https://www.ibm.com/developerworks/ru/library/l-linux-kernel/)
 
+## Kernel map
+
+* [Interactive kernel map](http://www.makelinux.net/kernel_map/)
+
 # Kernel debug
 
 [Kernel debug]()
