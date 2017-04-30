@@ -13,3 +13,8 @@ categories: prolog,haskell
 
 * [Haskell vs Prolog, stackoverflow](http://stackoverflow.com/questions/1932770/haskell-vs-prolog-comparison)
 * [Escape from Zurg article in archive](http://web.engr.oregonstate.edu/~erwig/papers/abstracts.html#JFP04)
+* [LogicT Monad](https://web.archive.org/web/20141005145655/http://okmij.org/ftp/Computation/monads.html#LogicT)
+
+# See also
+
+[Constraint optimization]()
