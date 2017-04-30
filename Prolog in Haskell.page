@@ -1,0 +1,10 @@
+---
+categories: prolog,haskell
+...
+
+# Implementations of prolog in Haskell
+
+## Github
+
+* [Erdwolf: prolog interpreter in Haskell](https://github.com/Erdwolf/prolog)
+* [propella: prolog in Haskell](https://github.com/propella/prolog/) [blog post](http://propella.blogspot.com.by/2009/04/prolog-in-haskell.html)
