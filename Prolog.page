@@ -14,6 +14,8 @@ gprolog, swi-prolog, yap, etc.
 
 [Comparing performance](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW312.pdf)
 
+[Prolog in Haskell]()
+
 # MiniSat solver
 
 * [Here](https://www.cs.bgu.ac.il/~mcodish/Papers/Sources/lpsat.pdf) -- in this paper authors describe the interface of minisat to prolog. Link to source code does not seems to be included
