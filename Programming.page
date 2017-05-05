@@ -156,6 +156,15 @@ Looks to be quite buggy and slow
 * [Ssh]()
 * [XML and XSL]()
 
+## Paper backup
+
+libdmtx offers possibility to print [datamatrix](https://en.wikipedia.org/wiki/Data_Matrix) code to pdf file, it also operates on scanned images (at least it works ok for rotated image).
+
+Maximum amount stored in single datamatrix is 1556 bytes.
+```bash
+apt-get install dmtx-utils
+```
+
 # Personal projects
 
 * [Sphinx train]()
