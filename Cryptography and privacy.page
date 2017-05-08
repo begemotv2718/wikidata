@@ -63,6 +63,11 @@ Some years ago there were Scroogle site: an anonymous proxy to google. Google ba
 * [Rootme challenge](https://www.root-me.org/?lang=en)
 * [Linux security]()
 
+## Intel ME and vulnerabilities
+
+* [Vulnerability](https://threatpost.com/intel-patches-nine-year-old-critical-cpu-vulnerability/125331/) [via habrahabr](https://habrahabr.ru/company/kaspersky/blog/328100/)
+* [Cleaning up intel me partition: me_cleaner](https://github.com/corna/me_cleaner/wiki/How-does-it-work%3F) It is recommended to use spi flashing of firmware to do cleanup: [see here](https://github.com/corna/me_cleaner/wiki/External-flashing)
+
 ## Hacking
 
 ### Kris Kaspersky
