@@ -49,6 +49,7 @@ See [Language processing](), [Neural network and finite automata]()
 * [habr paper on Kaggle competition problem (click prediction)](https://habrahabr.ru/post/323938/)
 * [another habr click prediction](https://habrahabr.ru/post/254151/) [reference to code](https://github.com/Ivanopolo/Avazu_Code)
 * [3 key steps to building predictive app](https://www.datanami.com/2015/03/03/the-3-key-steps-to-building-a-predictive-app-with-machine-learning/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=the-3-key-steps-to-building-a-predictive-app-with-machine-learning)
+* [Autoencoders](http://www.kdnuggets.com/2015/03/deep-learning-curse-dimensionality-autoencoders.html) -- mostly nothing interesting, explains why it is important to reduce dimensionality
 
 ## Tensorflow
 
