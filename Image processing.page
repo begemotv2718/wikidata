@@ -7,3 +7,7 @@ categories: programming, visualization
 * [Smart deblur](https://github.com/Y-Vladimir/SmartDeblur) [habr description](https://habrahabr.ru/post/147828/)
 * habr, Meklon Working with hugin and enfuse to fuse image from multiple focal images [ref](https://habrahabr.ru/post/283492/).
 * In the reference above "Extended Depth of Field for ImageJ" reconstructs height map from sharpness map.
+
+# See also 
+
+[Visualization]()
