@@ -117,6 +117,10 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 * LSTM cell = [Long short memory](https://en.wikipedia.org/wiki/Long_short-term_memory)
 * GRU cell = [Gated recurrent unit](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
 
+# Comparing RNN, MEMM, HMM
+
+[Quora: What are the pros and cons of these three sequence models: MaxEnt Markov Model, Conditional random fields, and recurrent neural networks?](https://www.quora.com/What-are-the-pros-and-cons-of-these-three-sequence-models-MaxEnt-Markov-Model-Conditional-random-fields-and-recurrent-neural-networks/answer/M-Pavankumar-Reddy)
+
 # Generative adversarial networks
 
 * [Paper](https://arxiv.org/pdf/1406.2661v1.pdf)
