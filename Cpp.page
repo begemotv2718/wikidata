@@ -10,3 +10,7 @@ categories: programming
 # Move semantics in C++11
 
 * [Rvalue references and move semantics in c++11](http://www.cprogramming.com/c++11/rvalue-references-and-move-semantics-in-c++11.html)
+
+# C vs C++
+
+* [Quora: Is every valid C program a valid C++ program?](https://www.quora.com/Is-every-valid-C-program-a-valid-C++-program/answer/Sergey-Zubkov-1#) No
