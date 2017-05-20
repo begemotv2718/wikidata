@@ -1,0 +1,8 @@
+---
+categories: FPGA, Programming, amazon
+...
+
+# AWS instances with FPGA
+
+* [OpenCL](https://ru.wikipedia.org/wiki/OpenCL)
+* [Arrayfire : feature detection using fpga and OpenCL](http://arrayfire.com/feature-detection-on-xilinx-fpgas-using-opencl/) [github](https://github.com/arrayfire/xilinx_demos)
