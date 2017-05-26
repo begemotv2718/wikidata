@@ -11,13 +11,22 @@ categories: programming, programming_languages, haskell
 * [Abstract power series and lazy evaluation](http://www.cs.dartmouth.edu/~doug/powser.html)
 * [Beautiful differentiation](http://conal.net/papers/beautiful-differentiation/)
 
-# Cross-compiling to javascript
+# Haskell and other languages
+
+## Cross-compiling to javascript
 
 * [AwesomePrelude](http://tom.lokhorst.eu/2010/02/awesomeprelude-presentation-video)
 * [Haskell in the web](http://ru-lambda.livejournal.com/131542.html) see especially [Ur/Web](http://www.impredicative.com/ur/)
+
+## Scheme
+
+* [Write yourself a scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+
+## Prolog and Haskell
+
+* [Prolog in Haskell]()
 
 # See also
 
 * [Mathematics]()
 * [Functional programming]()
-* [Prolog in Haskell]()
