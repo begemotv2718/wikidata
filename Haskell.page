@@ -4,9 +4,12 @@ categories: programming, programming_languages, haskell
 
 * [House: operating system in Haskell](http://programatica.cs.pdx.edu/House/)
 * [Juick channel on Haskell](http://juick.com/tag/Haskell)
+
+# Mathematics in Haskell
+
 * [Kleene algebra and Haskell](http://r6.ca/blog/20110808T035622Z.html) -- not sure it was famos paper about Gauss elimination algorithm equal to Floyd-Warshall (also referenced in [Algorithms]() ) Here is more extended version (in pdf) [Fun with Semirings A functional pearl on the abuse of linear algebra](www.cl.cam.ac.uk/~sd601/papers/semirings.pdf)
 * [Abstract power series and lazy evaluation](http://www.cs.dartmouth.edu/~doug/powser.html)
-
+* [Beautiful differentiation](http://conal.net/papers/beautiful-differentiation/)
 
 # Cross-compiling to javascript
 
