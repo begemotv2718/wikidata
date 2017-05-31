@@ -2,6 +2,31 @@
 categories: mathematics,numerics,hardware
 ...
 
+# General
+
+* [Cooley-Tukey FFT algorithm](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm)
+```
+ algorithm iterative-fft is
+    input: Array a of n complex values where n is a power of 2
+    output: Array A the DFT of a
+
+    bit-reverse-copy(a,A)
+    n ← a.length 
+    for s = 1 to log(n)
+        m ← 2s
+        ωm ← exp(−2πi/m) 
+        for k = 0 to n-1 by m
+            ω ← 1
+            for j = 0 to m/2 - 1
+                t ← ω A[k + j + m/2]
+                u ← A[k + j]
+                A[k + j] ← u + t
+                A[k + j + m/2] ← u - t
+                ω ← ω ωm
+   
+    return A
+```
+
 # Fixed point FFT implementations
 
 * [gist: license not clear](https://gist.github.com/Tomwi/3842231) Cooley-Tukey with bit reordering
