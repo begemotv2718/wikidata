@@ -3,6 +3,7 @@ format: Markdown
 categories: org
 ...
 
+
 Исследование начато с [этого оригинального поста](https://habrahabr.ru/post/316814/). 
 Список предложений:
 
@@ -16,6 +17,10 @@ categories: org
 * [Evernote discussion]()
 * [Comparison of wiki software](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
 * [My gitit review and todo]()
+
+# Some philosophy
+
+* [Write down everything: habr](https://habrahabr.ru/post/309672/) Why it is important to not rely on memory. Nothing fancy (better reference, free your brain)
 
 # Commercial software
 
