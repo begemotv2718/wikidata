@@ -36,6 +36,7 @@ categories: mathematics,numerics,hardware
 
 * [Address generators for mapping arrays in bit-reversed order](http://ieeexplore.ieee.org/document/1299102/?reload=true) DOI: 10.1109/TSP.2004.827148 
 * [Bit Reversal on Uniprocessors A. Karp](http://epubs.siam.org/doi/10.1137/1038001) DOI:10.1137/1038001
+* [In-place permuting and perfect shuffling using involutions](http://www.sciencedirect.com/science/article/pii/S0020019013000719?via%3Dihub) DOI: 10.1016/j.ipl.2013.02.017 mostly useless
 
 # General FFT
 
