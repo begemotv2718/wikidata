@@ -1,0 +1,11 @@
+---
+categories: mathematics,numerics,hardware
+...
+
+# Fixed point FFT implementations
+
+# Bit reversing
+
+# General FFT
+
+* [General framework for FFT: polynomial multiplication (Nipun Ramakrishnan, quora)](https://www.quora.com/What-is-the-most-amazing-algorithm-you-know/answer/Nipun-Ramakrishnan)
