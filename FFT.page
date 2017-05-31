@@ -4,6 +4,9 @@ categories: mathematics,numerics,hardware
 
 # Fixed point FFT implementations
 
+* [gist: license not clear](https://gist.github.com/Tomwi/3842231) Cooley-Tukey with bit reordering
+* [kissfft: BSD license](https://sourceforge.net/projects/kissfft/)
+
 # Bit reversing
 
 # General FFT
