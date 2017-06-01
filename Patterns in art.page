@@ -167,6 +167,10 @@ Fractals often appears as characteristic patterns in dynamical systems. E.g. fam
 
 Морфологии берут картинки из книги [Strange Attractors: Creating Patterns in Chaos by Julien C. Sprott](http://sprott.physics.wisc.edu/sa.htm). Available as [pdf](http://sprott.physics.wisc.edu/fractals/booktext/sabook.pdf). The book has accompanying source code for fractal generation, [this one is in C](http://sprott.physics.wisc.edu/fractals/bookdisk/PROG28QC.C)
 
+## Also 
+
+* [Dynamic systems]()
+
 # Interesting links
 
 ## Synthetic morphology
