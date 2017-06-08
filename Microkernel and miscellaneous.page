@@ -35,4 +35,10 @@ Redox is an OS written in [Rust](). Since Rust does not allow buffer overflow, t
 MIT
 
 
+# Haskell operating systems
 
+## Osker
+
+* [Github](https://github.com/PeterDWhite/Osker)
+
+## House
