@@ -74,8 +74,10 @@ Rosette is a solver-aided programming language that extends Racket with language
 
 # Compilers
 
+
 ## C compiler
 
+* [Intel Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) dynamic binary instrumentation tool, free as free beer. Suggested as a better implementation of what valgrind do.
 * sdcc
     * [sdcc design document -- pdf](https://web.archive.org/web/20090617011643/http://www.circuitcellar.com/SA/Articles2/Dutta-121.pdf)
     * [sdcc MCU simulation](https://sourceforge.net/p/sdcc/code/HEAD/tree/trunk/sdcc/sim/ucsim/stm8.src/inst.cc)
