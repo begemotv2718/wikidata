@@ -14,6 +14,9 @@ seL4 can be installed on raspberry pi 3 [seL4 on the Raspberry Pi 3](https://res
 
 [seL4 manual in pdf](https://www.cse.unsw.edu.au/~cs9242/16/project/sel4-manual.pdf)
 
+## Licensing
+
+GPL v2
 
 # Genode project
 
@@ -27,6 +30,9 @@ Redox is an OS written in [Rust](). Since Rust does not allow buffer overflow, t
 * [Redox on github](https://github.com/redox-os)
 * [Homepage](https://www.redox-os.org/)
 
+## Licensing
+
+MIT
 
 
 
