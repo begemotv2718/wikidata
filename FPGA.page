@@ -18,6 +18,11 @@ Resources
 
 # Open source tools
 
+## VHDL and Verilog compilers
+
+* ghdl + yosis
+* [Verilog to routing (Odin-II)](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
+
 ## IceStorm 
 
 * [Their web page](http://www.clifford.at/icestorm/) -- idea is reverse engineering of bitstream format for lattice semiconductors [ice stick](http://www.latticesemi.com/icestick).
@@ -26,6 +31,7 @@ Resources
 * It uses ghdl front-end for compiling vhdl 
     * [ghdlsynth-beta](https://github.com/tgingold/ghdlsynth-beta)
     * [ghdl](https://github.com/tgingold/ghdl)
+
 
 ### Sequence of compilation
 
@@ -41,6 +47,13 @@ iceprog leds.bin
 
 ## hdl-make
 * [reference](http://www.ohwr.org/projects/hdl-make) -- aim to provide makefile generator for hdl. Have web interface and seems to aim to replace ide, like Xilinx one
+
+## FPGA and VLSI
+
+* [Opencircuitdesign](http://opencircuitdesign.com)
+    * [Qflow](http://opencircuitdesign.com/qflow/index.html) Frontend for verilog compilation and synthesis. 
+    * [Qrouter](http://opencircuitdesign.com/qrouter/index.html) route metalization layer from the LEF file (cell definition) DEF file (netlist).
+    * [IRSIM Switch level simulator](http://opencircuitdesign.com/irsim/index.html)
 
 # Repositories of open hardware
 
