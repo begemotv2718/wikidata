@@ -8,6 +8,8 @@ Wikipedia [L4 microkernel family](https://en.wikipedia.org/wiki/L4_microkernel_f
 
 seL4 is the first fully verified microkernel. Implemented in C, proof of conformance done with [Haskell]()
 
+[FAQ](https://wiki.sel4.systems/FrequentlyAskedQuestions)
+
 seL4 can be installed on raspberry pi 3 [seL4 on the Raspberry Pi 3](https://research.csiro.au/tsblog/sel4-raspberry-pi-3/)
 
 [seL4 manual in pdf](https://www.cse.unsw.edu.au/~cs9242/16/project/sel4-manual.pdf)
