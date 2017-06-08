@@ -3,5 +3,5 @@ categories: ML,programming
 ...
 
 * From Quora recommendation how to get familiar:
-   * Install hadoop on a single VM. See [here](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
-   * Install hadoop on multiple VM and connect them into cluster. See [here](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html)
+    * Install hadoop on a single VM. See [here](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
+    * Install hadoop on multiple VM and connect them into cluster. See [here](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html)
