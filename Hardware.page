@@ -26,7 +26,20 @@ categories: hardware
 
 * [80kV: habr](https://geektimes.ru/post/255478/)
 
-# PCB manufacturing
+# PCB
+
+## PCB software
+
+* [Free PCB CAD list](http://pcbshopper.com/cad/) Below is the most interesting links out of there:
+    * [MyNetPCB](http://www.acorn-kernel.net/toolbox/mynetpcb) written in Java, multiplatform. [Sourceforge](https://sourceforge.net/projects/mynetpcb/)
+    * [OpenCircuitDesign](http://opencircuitdesign.com/) Site with multiple tools, including FPGA and VLSI related. Below is schematic capture and PCB related
+        * [XCircuit](http://opencircuitdesign.com/xcircuit/index.html) Schematic capture
+        * [PCB](http://opencircuitdesign.com/pcb/index.html) Interesting if it is the same PCB tool as in gEDA.
+    * gEDA
+    * Kicad
+  
+
+## PCB manufacturing
 
 * [Лоукостеры-производители печатных плат с социальным уклоном](https://geektimes.ru/post/259706/) oshpark
 
