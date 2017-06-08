@@ -20,4 +20,13 @@ seL4 can be installed on raspberry pi 3 [seL4 on the Raspberry Pi 3](https://res
 [genode project](https://genode.org/) provides framework (think GNU in GNU/Linux) for working with microkernels
 
 
+# Rust and Redox
+
+Redox is an OS written in [Rust](). Since Rust does not allow buffer overflow, this OS is supposed to be proof from bufferoverflow attacks.
+ 
+* [Redox on github](https://github.com/redox-os)
+* [Homepage](https://www.redox-os.org/)
+
+
+
 
