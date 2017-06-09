@@ -82,6 +82,11 @@ Rosette is a solver-aided programming language that extends Racket with language
     * [sdcc design document -- pdf](https://web.archive.org/web/20090617011643/http://www.circuitcellar.com/SA/Articles2/Dutta-121.pdf)
     * [sdcc MCU simulation](https://sourceforge.net/p/sdcc/code/HEAD/tree/trunk/sdcc/sim/ucsim/stm8.src/inst.cc)
 
+# Dynamic code analysis
+
+* Valgrind is an obvious candidate here
+* [Intel PIN library](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) Commercial free as a beer program. Claims to be faster than valgrind.
+
 # Linking
 
 ## General
