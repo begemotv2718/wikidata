@@ -11,6 +11,11 @@ categories: functional_programming
 * [Monoids and finger trees (apfelmus)](http://apfelmus.nfshost.com/articles/monoid-fingertree.html) -- As far as I understand finger tree is an annotated tree where annotation form a monoid.
     * [Incremental regular expressions matching on finger trees](http://blog.sigfpe.com/2009/01/fast-incremental-regular-expression.html) The idea is to make finite state automaton with a result on substring into monoid. Interesting to compare with: Ukkonen algorithm, Suffix trees
 * [Okasaki russian study group](https://groups.google.com/forum/?hl=en&fromgroups#!forum/okasaki-russian-study-group)
+
+## Free monad
+
+The idea behind the free monad is simple. It is easier to understand it if we use `return::a->m a` and `join:: m (m a)->m a` operations to define monad instead of `return` and `(>>=)::m a->(a-> m b)->m b`. The idea of the Free monad is to make `join` do almost nothing. This is possible if `m (m a)` and `m a` are actually the same type. And this is possible if the definition of the type is recursive.
+
 * [Free monad tutorial](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html)
 
 ## Lenses
