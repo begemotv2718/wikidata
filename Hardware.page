@@ -46,6 +46,14 @@ categories: hardware
 
 * [Лоукостеры-производители печатных плат с социальным уклоном](https://geektimes.ru/post/259706/) oshpark
 
+# Measurements
+
+## Inductance
+
+* [How to measure capacitance/inductance with mp3 player](http://www.instructables.com/id/How-to-measure-a-capacitor-or-an-inductor-with-mp3/) Idea: get two channels with phase shift and use modified Wheatstone bridge. 
+
+## SWR
+
 # Электронный микроскоп, почти DIY
 
 * [часть](https://geektimes.ru/post/283248/)
