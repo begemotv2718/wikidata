@@ -1,0 +1,13 @@
+---
+categories: physics,hardware
+...
+
+# Radioactivity from the radioactive ground
+
+* [Reference](http://chemanalytica.com/book/novyy_spravochnik_khimika_i_tekhnologa/11_radioaktivnye_veshchestva_vrednye_veshchestva_gigienicheskie_normativy/5149)
+
+Contribution of the thin spherical layer with activity $c$ ($Bq/m^3$), gamma constant $K_{\gamma}$ ($Gr m^2/s$), distance from center $R$, thickness $dR$, coefficient of gamma-ray absorption $\mu$
+
+$$d \dot{D} = \frac{e^{-\mu R} K_{\gamma} c 4\pi R^2 dR}{R^2}=4\pi c K_{\gamma} e^{-\mu R} dR $$.
+
+Integrating we get $ \dot{D} = 4\pi c K_{\gamma}/\mu$, for the activity inside the radioactive medium. We need to divide by 2 for half space filled with radioactive medium.
