@@ -1,5 +1,5 @@
 ---
-categories: mathematics,numerics,hardware
+categories: mathematics,numerics,hardware,DSP
 ...
 
 # General
@@ -41,3 +41,7 @@ categories: mathematics,numerics,hardware
 # General FFT
 
 * [General framework for FFT: polynomial multiplication (Nipun Ramakrishnan, quora)](https://www.quora.com/What-is-the-most-amazing-algorithm-you-know/answer/Nipun-Ramakrishnan)
+
+# See also
+
+* [Parent: DSP](Digital signal processing)
