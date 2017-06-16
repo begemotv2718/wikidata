@@ -19,6 +19,7 @@ The idea behind the free monad is simple. It is easier to understand it if we us
 * [Free monad tutorial](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) **You could have invented free monad** is the same. Example are parser of simple language.
 * [Purify your code with free monad](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html)
 * Scala free monad (kind of difficult to read) [Free monads are simple](http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html) Much better written article [Free monads - what? and why?](https://softwaremill.com/free-monads/)
+* [Stackoverflow question: What are free monads](https://stackoverflow.com/questions/13352205/what-are-free-monads)
 
 ### Related
 
