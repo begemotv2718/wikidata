@@ -19,6 +19,11 @@ The idea behind the free monad is simple. It is easier to understand it if we us
 * [Free monad tutorial](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) **You could have invented free monad** is the same. Example are parser of simple language.
 * [Purify your code with free monad](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html)
 
+### Related
+
+* [Free group](http://www.algebraical.info/doku.php?id=glossary:group:free)
+* [Free monoid](https://en.wikipedia.org/wiki/Free_monoid)
+
 ## Lenses
 
 Lens is two operators *get* and *put*, where *get* creates a 'view' on initial structure and 'put' updates initial structure on the basis of updated 'view'.
