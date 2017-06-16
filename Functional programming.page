@@ -20,6 +20,7 @@ The idea behind the free monad is simple. It is easier to understand it if we us
 * [Purify your code with free monad](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html)
 * Scala free monad (kind of difficult to read) [Free monads are simple](http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html) Much better written article [Free monads - what? and why?](https://softwaremill.com/free-monads/)
 * [Stackoverflow question: What are free monads](https://stackoverflow.com/questions/13352205/what-are-free-monads)
+* Some claims that facebook [haxl](https://github.com/facebook/Haxl) uses free monads. Not sure.
 
 ### Related
 
