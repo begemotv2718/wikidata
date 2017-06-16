@@ -21,6 +21,8 @@ categories: math
 
 * [Word combinatorics lectures](http://old.compsciclub.ru/course/wordscombinatorics/) -- not sure what category this should belong
 
+* [Dual number](https://en.wikipedia.org/wiki/Dual_number) Number of the form $a+\epsilon b$ where $\epsilon^2=0$
+
 ## Computer algebra
 
 * [Risch algorithm -- symbolic integration](https://en.wikipedia.org/wiki/Risch_algorithm)
