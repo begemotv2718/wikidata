@@ -10,7 +10,7 @@ categories: hardware,antennae,SDR
 
 ## Transformer (balun)
 
-* [Balun](https://en.wikipedia.org/wiki/Balun) **Bal**anced-**Un**balanced
+* [Balun](https://en.wikipedia.org/wiki/Balun) **Bal**anced-**Un**balanced [Baluns: What They Do And How They Do It](http://www.eznec.com/Amateur/Articles/Baluns.pdf)
 
 The main advantage of transformer -- it provides impedance matching in a wide band.
 
