@@ -28,6 +28,8 @@ The idea behind the free monad is simple. It is easier to understand it if we us
 
 ## Intervals operation
 
+* [Haskell range data type](https://bitbucket.org/robertmassaioli/range) Data.Range.Range
+
 $a\in (a_0,a_1), b\in(b_0,b_1)$
 
 * Sum $a+b\in(a_0+b_0,a_1+b_1)$
