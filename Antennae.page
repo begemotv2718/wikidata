@@ -5,3 +5,16 @@ categories: hardware,antennae,SDR
 
 * [Archimedean spiral antenna for RTLSDR](http://superkuh.com/spiralantenna.html)
 * T2FD antenna [e.g.](http://www.packetradio.com/t2fd.htm) [О работе антенны T2FD](http://sneghana89.moy.su/_fr/4/3593570.jpg)
+
+# Impedance matching
+
+## Transformer (balun)
+
+The main advantage of transformer -- it provides impedance matching in a wide band.
+
+* [Forum discussion with some measuerements](http://forum.qrz.ru/43-usiliteli-moschnosti/12762-ferritovye-koltsa-dlya-shpt-v-ra.html) Ферритовые кольца для ШПТ в РА 
+* It is recommended to use transfluxor (трансфлюктор, бинокль, двухапертурный сердечник) for the transformer
+* [Согласующий антенный трансформатор](http://www.ruqrz.com/soglasuyushhij-antennyj-transformator-14/)
+
+
+
