@@ -16,7 +16,8 @@ categories: functional_programming
 
 The idea behind the free monad is simple. It is easier to understand it if we use `return::a->m a` and `join:: m (m a)->m a` operations to define monad instead of `return` and `(>>=)::m a->(a-> m b)->m b`. The idea of the Free monad is to make `join` do almost nothing. This is possible if `m (m a)` and `m a` are actually the same type. And this is possible if the definition of the type is recursive.
 
-* [Free monad tutorial](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html)
+* [Free monad tutorial](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) **You could have invented free monad** is the same. Example are parser of simple language.
+* [Purify your code with free monad](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html)
 
 ## Lenses
 
