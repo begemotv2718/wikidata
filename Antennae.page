@@ -10,6 +10,8 @@ categories: hardware,antennae,SDR
 
 ## Transformer (balun)
 
+* [Balun](https://en.wikipedia.org/wiki/Balun) **Bal**anced-**Un**balanced
+
 The main advantage of transformer -- it provides impedance matching in a wide band.
 
 * [Forum discussion with some measuerements](http://forum.qrz.ru/43-usiliteli-moschnosti/12762-ferritovye-koltsa-dlya-shpt-v-ra.html) Ферритовые кольца для ШПТ в РА 
