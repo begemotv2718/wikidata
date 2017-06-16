@@ -12,6 +12,8 @@ categories: visualization
 
 # External links
 
+* [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
+* [Communicating data science: Why and (some of the) how to visualize information](http://blog.kaggle.com/2016/08/10/communicating-data-science-why-and-some-of-the-how-to-visualize-information/)
 * [Newtonnew: интерактивные карты и презентации](https://newtonew.com/overview/visualize-me)
 * [habr: t-SNE algorithm for concept mapping -- non-linearly embed higher dimension space into low dimension](https://habrahabr.ru/post/267041/)
     * [t-SNE implementation in R and python with guide](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
