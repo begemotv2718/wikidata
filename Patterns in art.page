@@ -77,7 +77,9 @@ This reminded me about [Victoria Babakhina LVEE talk]( https://lvee.org/ru/abstr
 
 А раз разные попытки моделирования дают разные результаты, вряд ли хоть один из них совпадает с реальностью. Хуже того, такие модели воспрозводят нормальную работу, но сильно промахиваются в предсказании результатов мутаций.
 
-Might be related to [Renormalization group]() story.
+Might be related to [Renormalization group]() story. 
+
+Yet another story NK-automaton: [habr: Сложность на границе хаоса, или что общего между сексом, нейронными сетями, микросервисами и организацией компании](https://habrahabr.ru/post/327138/)
 
 Some references from there
 
