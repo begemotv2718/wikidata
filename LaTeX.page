@@ -1,0 +1,10 @@
+---
+categories: mathematics,typesetting,LaTeX,programming
+...
+
+# Conversion to e-book format
+
+* [Tex.stackoverflow: LaTeX document to epub or mobi ebook formats (with mathematical formulas)](https://tex.stackexchange.com/questions/16569/latex-document-to-epub-or-mobi-ebook-formats-with-mathematical-formulas)
+    * Suggestion 1:  tex4ht ```mk4ht htlatex youfile.tex 'xhtml,charset=utf-8,pmathml' ' -cunihtf -utf8 -cvalidate'```. Problem: tex4ht is rather large.
+    * Suggestion 2:  convert to pdf with ```\documentclass[a5paper]{memoir}```
+    * Suggestion 3:  Use [plasTeX](http://tiarno.github.io/plastex/) python tex2xhtml converter with subsequent conversion to epub using **Sigil**
