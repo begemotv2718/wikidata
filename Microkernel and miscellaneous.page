@@ -14,6 +14,14 @@ seL4 can be installed on raspberry pi 3 [seL4 on the Raspberry Pi 3](https://res
 
 [seL4 manual in pdf](https://www.cse.unsw.edu.au/~cs9242/16/project/sel4-manual.pdf)
 
+## SeL4 tutorial
+
+* [Tutorial page](https://wiki.sel4.systems/Tutorials)
+* command ```repo init -u https://github.com/SEL4PROJ/sel4-tutorials-manifest -m sel4-tutorials.xml```
+* After that ```ln -s projects/sel4-tutorials/exercises apps```
+* Things to do ```projects/sel4-tutorials/docs/seL4-APILib-details.pdf```
+
+
 ## Licensing
 
 GPL v2
