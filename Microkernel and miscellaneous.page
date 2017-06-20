@@ -25,6 +25,7 @@ seL4 is the first fully verified microkernel. Implemented in C, proof of conform
 * command ```repo init -u https://github.com/SEL4PROJ/sel4-tutorials-manifest -m sel4-tutorials.xml```
 * After that ```ln -s projects/sel4-tutorials/exercises apps```
 * Things to do ```projects/sel4-tutorials/docs/seL4-APILib-details.pdf```
+* Running on qemu ```qemu-system-i386 -nographic -m 512 -kernel images/kernel-ia32-pc99 -initrd images/hello-1-image-ia32-pc99```
 
 ## IRC and maillists
 
