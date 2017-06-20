@@ -10,9 +10,14 @@ seL4 is the first fully verified microkernel. Implemented in C, proof of conform
 
 [FAQ](https://wiki.sel4.systems/FrequentlyAskedQuestions)
 
-seL4 can be installed on raspberry pi 3 [seL4 on the Raspberry Pi 3](https://research.csiro.au/tsblog/sel4-raspberry-pi-3/)
 
 [seL4 manual in pdf](https://www.cse.unsw.edu.au/~cs9242/16/project/sel4-manual.pdf)
+
+## Hardware
+
+* seL4 can be installed on raspberry pi 3 [seL4 on the Raspberry Pi 3](https://research.csiro.au/tsblog/sel4-raspberry-pi-3/)
+* seL4 on BeagleBone [seL4-test on Beaglebone black](http://sel4.systems/pipermail/devel/2017-June/001474.html) describes fixing some compilation issues
+
 
 ## SeL4 tutorial
 
