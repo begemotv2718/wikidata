@@ -21,13 +21,13 @@ seL4 can be installed on raspberry pi 3 [seL4 on the Raspberry Pi 3](https://res
 * After that ```ln -s projects/sel4-tutorials/exercises apps```
 * Things to do ```projects/sel4-tutorials/docs/seL4-APILib-details.pdf```
 
-## IRC
+## IRC and maillists
 
 ```
 /server irc.freenode.net
 /join #seL4
 ```
-
+* [Maillist subscription page](https://sel4.systems/lists/listinfo/devel)
 
 ## Licensing
 
