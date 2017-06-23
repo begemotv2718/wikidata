@@ -44,6 +44,14 @@ seL4 is the first fully verified microkernel. Implemented in C, proof of conform
 
 GPL v2
 
+## Open questions
+* What exactly is in CamKES
+    * Component ?
+    * Component ?
+* How to assemble seL4 in genode
+* What exactly is genode
+* Understand verification process
+
 # Genode project
 
 [genode project](https://genode.org/) provides framework (think GNU in GNU/Linux) for working with microkernels
