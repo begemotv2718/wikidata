@@ -2,3 +2,12 @@
 categories: hardware,mathematics
 ...
 
+# Type of controllers
+
+* Standard: PID controllers
+* Alternatives
+    * [Model predictive control](https://en.wikipedia.org/wiki/Model_predictive_control)
+    * [Linear-quadratic regulator](https://en.wikipedia.org/wiki/Linear%E2%80%93quadratic_regulator) proved to be optimal
+    * Trying to google 'Optimal control from sparse measurement' 'Optimal control with sparse observations'
+
+
