@@ -63,7 +63,15 @@ gmm-latgen-faster --beam=$beam=13.0 \
                   "$feats"
                   "ark:gzip -c $dir/lat.JOB.gz"="ark:gzip -c exp/tri1/decode/lat.0.gz"
 
-```                  
+```    
+              
+* HCLG file (fst-in) is actually a construction composed of 4 FSTs [See Some notes on Kaldi](http://jrmeyer.github.io/kaldi/2016/02/01/Kaldi-notes.html)
+    * L.fst: The Phonetic Dictionary FST
+    * G.fst: The Language Model FST. FSA grammar (can be built from an n-gram grammar).
+    * C.fst: The Context FST. C maps triphone sequences to monophones. Expands the phones into context-dependent phones.
+    * H.fst: The HMM FST. H maps multiple HMM states (a.k.a. transition-ids in Kaldi-speak) to context-dependent triphones. Expands out the HMMs. On the right are the context-dependent phones and on the left are the pdf-ids.
+    * HCLG file is compiled using shell script ```mkgraph.sh```
+
 
 ## Processing after decoding
 
