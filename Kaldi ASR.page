@@ -8,3 +8,4 @@ categories: speech_recognition
     * [Models](http://kaldi-asr.org/models.html)
 
 * [Useful thesis describing some inner work of Kaldi](www.diplomovaprace.cz/133/thesis_oplatek.pdf)  Saved in papers
+* [Offline transcriber for Estonian based on Kaldi alumae](https://github.com/alumae/kaldi-offline-transcriber) Use makefiles and some ad-hoc libraries in Java, python, etc.
