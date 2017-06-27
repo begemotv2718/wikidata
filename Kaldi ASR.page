@@ -42,8 +42,18 @@ gmm-decode-kaldi
 
 gmm-decode-faster-fmllr ??
 
+### gmm-latgen-faster
+
+```gmm-latgen-faster [opts] <model-in> <fst-in|fst-rspecifier> <features-rspecifier> <lattice-wspecifier>```
+
+ 
+
 ## Processing after decoding
 
 ```
 lattice-best-path --lm-scale=11 --word-symbol-table=exp/tri2b/graph/words.txt "ark:gunzip -c exp/tri2b/decode/lat.*.gz|" ark,t:- 1>/dev/null
 ```
+
+This generates '*.tra' files.
+
+The '*.tra' files can be further processed with perl script ```int2sym.pl```
