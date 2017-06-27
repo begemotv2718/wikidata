@@ -9,3 +9,13 @@ categories: speech_recognition
 
 * [Useful thesis describing some inner work of Kaldi](www.diplomovaprace.cz/133/thesis_oplatek.pdf)  Saved in papers
 * [Offline transcriber for Estonian based on Kaldi alumae](https://github.com/alumae/kaldi-offline-transcriber) Use makefiles and some ad-hoc libraries in Java, python, etc.
+
+# User friendliness of Kaldi community
+
+* [Thread in mail group](https://groups.google.com/forum/#!topic/kaldi-help/xs4wSKSK3vk)
+
+Summary: 
+We could probably add a page with documentation for people who don't know about speech recognition, but I don't put a high priority on it right now, as I am working on speed and accuracy improvements that are likely to have much more impact (and would also invalidate some of the documentation).
+Also, without the kind of deep understanding that can only come from years of experience (or access to such a person), people like you are bound to run into problems that can't be fixed without help from someone more experienced.  It becomes unsustainable for me because there become too many questions.
+There are plenty of students or other people out there who would be quite able to show you what to do and give you the help you need; they just don't have experience in setting up consulting arrangements; and in addition the bulk of them are either overseas or they don't have the type of visa that would allow them to officially work in the US.  You would have to help them navigate these issues somehow.  I can give you some names if you want, or vet people who contact you.
+
