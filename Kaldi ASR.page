@@ -52,6 +52,7 @@ Example of usage
 
 ```{.bash}
 feats="ark,s,cs:apply-cmvn $cmvn_opts --utt2spk=ark:$sdata/JOB/utt2spk scp:<script file>"
+# ark,s,cs -- s,cs means keys sorted on input
 gmm-latgen-faster --beam=$beam=13.0 \
                   --lattice-beam=$lattice_beam=6.0 \
                   --acoustic-scale=$acwt=0.08333 \
