@@ -1,5 +1,5 @@
 ---
-categories: personal_projects,language
+categories: personal_projects,language,speech_recognition
 ...
 
 The project is about adapting `sphinx` speech recognition engine to the user/hardware combination.
