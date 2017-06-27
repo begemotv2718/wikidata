@@ -6,3 +6,5 @@ categories: speech_recognition
 * [Github link](https://github.com/kaldi-asr/kaldi/)
     * [Recipies for voxforge](https://github.com/kaldi-asr/kaldi/)
     * [Models](http://kaldi-asr.org/models.html)
+
+* [Useful thesis describing some inner work of Kaldi](www.diplomovaprace.cz/133/thesis_oplatek.pdf)  Saved in papers
