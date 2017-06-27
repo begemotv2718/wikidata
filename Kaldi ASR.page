@@ -46,7 +46,23 @@ gmm-decode-faster-fmllr ??
 
 ```gmm-latgen-faster [opts] <model-in> <fst-in|fst-rspecifier> <features-rspecifier> <lattice-wspecifier>```
 
- 
+```<model-in>``` is a file of type ```*.mdl```
+
+Example of usage
+
+```{.bash}
+feats="ark,s,cs:apply-cmvn $cmvn_opts --utt2spk=ark:$sdata/JOB/utt2spk scp:<script file>"
+gmm-latgen-faster --beam=$beam=13.0 \
+                  --lattice-beam=$lattice_beam=6.0 \
+                  --acoustic-scale=$acwt=0.08333 \
+                  --allow-partial=true \
+                  --word-symbol-table=${graphdir}/words.txt=exp/tri1/graph/words.txt \
+                  $model=${srcdir}/final.mdl=exp/tri1/final.mdl
+                  $graphdir/HCLG.fst
+                  "$feats"
+                  "ark:gzip -c $dir/lat.JOB.gz"="ark:gzip -c exp/tri1/decode/lat.0.gz"
+
+```                  
 
 ## Processing after decoding
 
