@@ -1,5 +1,5 @@
 ---
-categories: ML,language
+categories: ML,language,speech_recognition
 ...
 
 # Internal links
@@ -8,10 +8,8 @@ categories: ML,language
 
 # Kaldi asr
 
-* [Main site](http://kaldi-asr.org/)
-* [Github link](https://github.com/kaldi-asr/kaldi/)
-    * [Recipies for voxforge](https://github.com/kaldi-asr/kaldi/)
-    * [Models](http://kaldi-asr.org/models.html)
+* [Kaldi ASR] 
+
 
 # External links
 
