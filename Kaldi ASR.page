@@ -21,6 +21,10 @@ There are plenty of students or other people out there who would be quite able t
 
 # Some concepts
 
+## LDA
+
+* Most probably stands for [Linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis), extracting components from gaussian mixture.
+
 ## Lattice decoder
 
 Lattice apparently something that has multiple possible decoding path in it. 
