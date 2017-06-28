@@ -29,8 +29,12 @@ The main advantage of transformer -- it provides impedance matching in a wide ba
 
 In antenna calculations the copper layer is usually assumed to be thick, e.g. we assume that copper sheet has two independent sides, for example, also we assume that copper layer shields the e/m field completely. Let's justify this assumption.
 
-It can be shown from Maxwell equations that
+It can be shown from Maxwell equations that for wave vector in conductor we have the following expression
 
 $$k^2=\mu_0\epsilon_0\epsilon \omega^2 + i \mu_0 \sigma \omega = \epsilon \frac{\omega^2}{c^2} + i\sigma \mu_0 \omega,$$
 
-where the equation is written in SI system, magnetic constant $\mu$ is assumed to be 1, and $\sigma$ is conductivity.
+where the equation is written in SI system, magnetic constant $\mu$ is assumed to be 1, and $\sigma$ is conductivity. For copper the conductivity $\sigma=5.95 10^7$ Siemens/meter. The second term dominates whenever $\omega \ll \mu_0 \sigma c^2/\epsilon$. For copper this is true up to 10^19^ Hz, which seems to be well above the plasma frequency. Thus the second term dominates, this gives the expression for skin layer thickness
+
+$$\sqrt{\frac{2}{\mu_0\sigma\omega}}$$. 
+
+This gives skin layer depth 65 $\mu$m at 1 MHz, 0.6 mm at 10 kHz, and 6$\mu$m at 100MHz. 
