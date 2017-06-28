@@ -25,4 +25,12 @@ The main advantage of transformer -- it provides impedance matching in a wide ba
 * [rtl-sdr.com tag antenna](http://www.rtl-sdr.com/tag/antenna/)
 * [ve3sqb antenna design programs](http://www.ve3sqb.com/) Mostly windows software (or dos?). Looks like extremely simple ones.
 
+# Skin effect in copper 
 
+In antenna calculations the copper layer is usually assumed to be thick, e.g. we assume that copper sheet has two independent sides, for example, also we assume that copper layer shields the e/m field completely. Let's justify this assumption.
+
+It can be shown from Maxwell equations that
+
+$$k^2=\mu_0\epsilon_0\epsilon \omega^2 + i \mu_0 \sigma \omega = \epsilon \frac{\omega^2}{c^2} + i\sigma \mu_0 \omega,$$
+
+where the equation is written in SI system, magnetic constant $\mu$ is assumed to be 1, and $\sigma$ is conductivity.
