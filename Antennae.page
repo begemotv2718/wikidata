@@ -9,6 +9,14 @@ categories: hardware,antennae,SDR
 
 # Impedance matching
 
+## Use coax cable for impedance matching
+
+### Transmission line equations
+
+
+
+### Impedance matching
+
 ## Transformer (balun)
 
 * [Balun](https://en.wikipedia.org/wiki/Balun) **Bal**anced-**Un**balanced [Baluns: What They Do And How They Do It](http://www.eznec.com/Amateur/Articles/Baluns.pdf)
@@ -38,3 +46,7 @@ where the equation is written in SI system, magnetic constant $\mu$ is assumed t
 $$\sqrt{\frac{2}{\mu_0\sigma\omega}}$$. 
 
 This gives skin layer depth 65 $\mu$m at 1 MHz, 0.6 mm at 10 kHz, and 6$\mu$m at 100MHz. 
+
+
+
+
