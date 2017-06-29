@@ -35,6 +35,15 @@ The line impedance $Z_0$ is purely real, it is gauged by cable manufacturer (typ
 
 ### Impedance matching
 
+The next question is: if we have impedance $Z$ at one end of the line, what we will see on the other end? At the start of the line we will have $V=Z I$, thus $Z_0(I_f-I_r)=Z (I_f+I_r)$. Let's denote $Z/Z_0=\alpha$, then $I_r=\frac{1-\alpha}{1+\alpha}I_f$. At the other end of the line with length $l$ we will have $V'=Z_0 (I_f e^{i k l}-I_r e^{-ikl}$, $I'=I_f e^{i k l} + I_r e^{-ikl}$. Substituting this we will eventually get
+
+$$Z'=\frac{V'}{I'}=Z_0\frac{i \sin kl + \alpha \cos kl}{\cos kl + i \alpha \sin kl }$$
+
+We note that in the special case $kl=\frac{\pi}{2}$, we have $Z'=Z_0^2/Z$. This is widely used as 75^2^/50=112.5, somewhat possible antenna resistance. 
+
+
+
+
 ## Transformer (balun)
 
 * [Balun](https://en.wikipedia.org/wiki/Balun) **Bal**anced-**Un**balanced [Baluns: What They Do And How They Do It](http://www.eznec.com/Amateur/Articles/Baluns.pdf)
