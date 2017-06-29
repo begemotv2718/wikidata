@@ -13,7 +13,17 @@ categories: hardware,antennae,SDR
 
 ### Transmission line equations
 
-![alt text](/line.png)
+![Transmission line model](/line.png)
+
+$$I_{i+1}-I_i=-C \frac{dV_i}{dt}$$
+$$V_{i+1}-V_{i}=-L \frac{dI_i}{dt}$$
+
+Out of this we get
+
+$$ \frac{\partial V}{\partial x} = - \mathcal{L} (-i\omega) I(x)$$
+$$ \frac{\partial I}{\partial x} = - \mathcal{C} (-i\omega) V(x)$$
+
+General solution for these equations are $V=V_f e^{i k x}+V_r e^{-i k x}$, $I=I_f e^{i k x}+I_r e^{-i k x}$, with $k=\omega\sqrt{\mathcal{L}\mathcal{C}}$
 
 ### Impedance matching
 
