@@ -23,7 +23,15 @@ Out of this we get
 $$ \frac{\partial V}{\partial x} = - \mathcal{L} (-i\omega) I(x)$$
 $$ \frac{\partial I}{\partial x} = - \mathcal{C} (-i\omega) V(x)$$
 
-General solution for these equations are $V=V_f e^{i k x}+V_r e^{-i k x}$, $I=I_f e^{i k x}+I_r e^{-i k x}$, with $k=\omega\sqrt{\mathcal{L}\mathcal{C}}$
+Here $\mathcal{L}$ and $\mathcal{C}$ are inductivity and capacitance per unit length respectively.
+
+General solution for these equations are $V=V_f e^{i k x}+V_r e^{-i k x}$, $I=I_f e^{i k x}+I_r e^{-i k x}$, with $k=\omega\sqrt{\mathcal{L}\mathcal{C}}$ with the following relation between $V_f$,$I_f$,$V_r$, $I_r$:
+
+$$V_f=\sqrt{\frac{\mathcal{L}}{\mathcal{C}}}I_f=Z_0 I_f$$
+$$V_r=-\sqrt{\frac{\mathcal{L}}{\mathcal{C}}}I_r=-Z_0 I_r$$
+
+The line impedance $Z_0$ is purely real, it is gauged by cable manufacturer (typically 50 $\Omega$ or 75 $\Omega$). The product $c\cdot\sqrt{\mathcal{L}\mathcal{C}}$, where $c$ is speed of light is called line shortening coefficient.
+
 
 ### Impedance matching
 
