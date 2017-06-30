@@ -89,6 +89,17 @@ This gives skin layer depth 65 $\mu$m at 1 MHz, 0.6 mm at 10 kHz, and 6$\mu$m at
 
 * [NEC2 official site](http://www.nec2.org/) Includes link to theory paper.
 
+## Notes on history and availability of NEC2 code
+
+* [Notes](http://www.nec2.org/nec_hist.txt)
+
+ *The remaining NEC codes in the preface paragraph, NEC3 (allows
+buried wires) and NEC4 (improved accuracy for stepped-radius wires and
+electrically-small segments, adds end caps and insulated wires, smart
+input card-reader, catenary-shaped wires, and improved error detection)
+are still Military Critical technology.  That status is under question
+and may hopefully disappear eventually.*
+
 # Practical stuff
 
 ## Crimping SMA connectors
