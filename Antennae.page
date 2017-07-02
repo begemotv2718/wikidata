@@ -104,6 +104,12 @@ and may hopefully disappear eventually.*
 
 # Practical stuff
 
+## Determining antenna impedance using generator and resonance contour
+
+* [Described here](https://www.qrz.ru/schemes/contribute/antenns/ua4hul.phtml)
+
+Idea: connect generator through a resistor to the hf milliampermeter, in parallel to an adjustable contour and antenna. Tune the contour into resonance, then connect antenna and determine the shift of the contour parameters to keep it in resonance. This will give imaginary part of the impedance. Then disconnect antenna and connect adjustable resistor. Get the same amplitude of resonance with the resistor, read the value of the resistor as a real part of the antenna impedance.
+
 ## Crimping SMA connectors
 
 * [Video](https://www.youtube.com/watch?v=1UPGSEFLM-A)
