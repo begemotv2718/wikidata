@@ -112,3 +112,7 @@ Date and time inside module [Stackoverflow: getting date and time in linux kerne
 
 [0xAX linux-insides](https://github.com/0xAX/linux-insides)
 [Russian translation of linux-insides](https://github.com/proninyaroslav/linux-insides-ru)
+
+# Kernel modules in other languages
+
+* [Kernel module in Swift](https://habrahabr.ru/post/305530/)
