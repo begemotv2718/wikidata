@@ -126,6 +126,7 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 # Generative adversarial networks
 
 * [Paper](https://arxiv.org/pdf/1406.2661v1.pdf)
+* [Unsupervised Representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdf) [github](https://github.com/Newmu/dcgan_code)
 * [Open AI: some nice examples](https://blog.openai.com/generative-models/#contributions)
 
 # Blogs
