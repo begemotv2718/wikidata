@@ -39,6 +39,7 @@ categories: math
 SLE is a type of conformal map from upper half-plane to the domain bounded by stochastic walk curve. Correspondingly, this part of science study walks which can be described by such conformal map. This poses a few requirements, but a class of walks is relatively wide.  
 
 * [J. Cardy SLE for theoretical physicist](https://arxiv.org/pdf/cond-mat/0503313.pdf)
+* [Lectures on SLE](http://www.statslab.cam.ac.uk/~james/Lectures/sle.pdf)
 
 Cardy starts from pointing out analogies with various Ising problems. Indeed, the domain boundaries in Ising model are stochastic walks, moreover, some Ising models can be reformulated as sums over such walks. Further on I didn't manage to proceed.
 # Blogs
