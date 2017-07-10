@@ -134,6 +134,10 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 
 * [Andrei Karpathy blog](http://karpathy.github.io/2015/11/14/ai/)
 
+# Image search
+
+* [GNU content based image search: gift](https://www.gnu.org/software/gift/)
+
 # See also
 
 * [Visualization]() e.g. for t-SNE
