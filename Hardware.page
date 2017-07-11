@@ -28,6 +28,18 @@ categories: hardware
 * [80kV: habr](https://geektimes.ru/post/255478/)
 * [High voltage transformator](http://vip-cxema.org/index.php/home/shokery/25-tekhnologiya-namotki-vv-transformatora)
 
+## Electric discharge protection
+
+### Dielectric strength for some materials
+ 
+(via [link](http://tehtab.ru/Guide/GuidePhysics/ElectricityAndMagnethism/ElectricalHardnessMaterials/ElectricalHardnessMaterialsANDAirsmall/))
+* PET 40kV/mm
+* PTFE 25kV/mm
+* Rubber 20kV/mm
+* Dry air 2kV/mm
+* Moist air <0.1kV/mm
+
+
 # PCB
 
 ## PCB software
