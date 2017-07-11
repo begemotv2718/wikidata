@@ -42,7 +42,7 @@ categories: hardware
 
 From the same site [Spark gap in air](http://tehtab.ru/Guide/GuidePhysics/ElectricityAndMagnethism/ElectricalHardnessMaterials/IntrinsicalAirLength/). For spiked electrodes 20kV - 15.5mm, 40kV - 45.5mm.
 
-For coil wires it is claimed at least 400V strength for ПЭВ-1. The thickness of dielectric is about 4 $\mu$m for 0.08mm wire (single layer thickness). I would assume about 100V to be safe.
+For coil wires it is claimed at least 400V strength for ПЭВ-1. The thickness of dielectric is about 4 $\mu$m for 0.08mm wire (single layer thickness). I would assume about 100V to be safe. Reference is [here](http://forca.ru/knigi/arhivy/elektromaterialovedenie-12.html)
 
 # PCB
 
