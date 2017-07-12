@@ -131,6 +131,11 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
     * FaceApp seems to use something like this (google Yaroslav Goncharov)
 * [Open AI: some nice examples](https://blog.openai.com/generative-models/#contributions)
 
+# Convolutional neural networks
+
+* [Github: convolutional arithmetics](https://github.com/vdumoulin/conv_arithmetic) Animations how different types of convolution work.
+
+
 # Blogs
 
 * [Andrei Karpathy blog](http://karpathy.github.io/2015/11/14/ai/)
