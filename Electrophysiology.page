@@ -10,6 +10,12 @@ categories: biology,medicine,hardware,electronics
 
 * [habr: ECG R-R interval algorithm](https://habrahabr.ru/post/255141/)
 
+#EMG
+
+* [Using EMG to recover internal speech](https://www.livelib.ru/book/1000283241-vnutrennyaya-rech-i-myshlenie-a-n-sokolov)
+
+Book reference: Внутренняя речь и мышление / А. Н. Соколов. - Москва: URSS: ЛКИ, 2007. - 247, [1] с. – (Психологические и физиологические исследования)
+
 # Devices
 
 * [openbci](http://openbci.com/) ADS1299 based device. 8-channels, 16kHz sampling rate, 24bit depth
