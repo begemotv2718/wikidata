@@ -6,6 +6,10 @@ categories: linux, kernel
 
 * [Start kernel hacking](https://kernelnewbies.org/StartKernelHacking)
 
+# Kernel and networking
+
+* [habr: Kernel structures responsible for network functions](https://habrahabr.ru/company/mailru/blog/314168/)
+
 # Kernel modules
 
 ## List modules managed by dkms
