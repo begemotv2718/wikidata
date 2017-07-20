@@ -16,6 +16,16 @@ Renorm group is very good to capture idea of hierarchy.
 # Renorm group and Hopf algebra
 
 * [Hopf algebra: explanation for mathematician AKA why Hopf algebras](https://concretenonsense.wordpress.com/2011/03/15/why-hopf-algebras/)
+* [Combinatorial  Hopf  Algebraic  Description  of the Multi-scale  Renormalization  in  Quantum  Field  Theory](http://www.mat.univie.ac.at/~slc/s/s70krivtan.pdf) -- This paper, hopefully, try to reconcile traditional reduction of renormalization to Hopf algebras (using Bogoliubov-Parasiuk-Hepp-Zimmerman subtractions) to the more intuitive Kadanoff blocking. The idea as far as I perceive it now is to introduce shell integration in each diagram (from $|p|=p_i$ to $|p|=\lambda p_i= p_{i+1}$ then decorate each diagram with shell indexes, then integrate out diagrams with high shell indexes and see the constants renormalization, then find the structure of Hopf algebra in this.
+
+What I understand: how you can get algebraic structure on Feynman graphs (product of two different  connected graphs is disconnected graph consisting of both of them, each set of graphs has numeric coefficient). What is coalgebraic structure? $\Delta: \mathcal{H} \to \mathcal{H}\otimes\mathcal{H}$
+
+Original works connecting Hopf algebras and renormalization using BPHZ are
+
+* A. Connes and D. Kreimer, Hopf algebras, renormalization and noncommutative geometry, Commun. Math. Phys. 199(1998), 203-242.
+* A. Connes and D. Kreimer, Renormalization  in  quantum field  theory  and  the  Riemann-Hilbert problem, I: The Hopf algebra structure of graphs and the main theorem, Commun. Math. Phys. 210 (2000), 249-273.
+* A. Connes and D. Kreimer, Renormalization  in  quantum field  theory  and  the  Riemann-Hilbert problem,  II: The beta-function, diffeomorphisms and the renormalization group,  Commun. Math.
+Phys. 216 (2001), 215-241.
 
 ## Renorm group and diagrams subtraction
 
