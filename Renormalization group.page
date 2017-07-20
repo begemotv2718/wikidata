@@ -29,6 +29,7 @@ Original works connecting Hopf algebras and renormalization using BPHZ (Bogoliub
 * A. Connes and D. Kreimer, Renormalization  in  quantum field  theory  and  the  Riemann-Hilbert problem,  II: The beta-function, diffeomorphisms and the renormalization group,  Commun. Math.
 Phys. 216 (2001), 215-241.
 
+* [Hopf algebras,from basics to applications to renormalization](https://arxiv.org/pdf/math/0408405.pdf) More accessible, but still full of abstract nonsense.
 
 * [Combinatorial  Hopf  Algebraic  Description  of the Multi-scale  Renormalization  in  Quantum  Field  Theory](http://www.mat.univie.ac.at/~slc/s/s70krivtan.pdf) -- This paper, hopefully, try to reconcile traditional reduction of renormalization to Hopf algebras (using Bogoliubov-Parasiuk-Hepp-Zimmerman subtractions) to the more intuitive Kadanoff blocking. The idea as far as I perceive it now is to introduce shell integration in each diagram (from $|p|=p_i$ to $|p|=\lambda p_i= p_{i+1}$ then decorate each diagram with shell indexes, then integrate out diagrams with high shell indexes and see the constants renormalization, then find the structure of Hopf algebra in this.
 
