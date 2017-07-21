@@ -81,3 +81,37 @@ For coil wires it is claimed at least 400V strength for ПЭВ-1. The thickness 
 # Optimal control
 
 * [Optimal control]()
+
+# Dallas 1-wire
+
+## USART for dallas 1-wire
+
+* [Maxim application note](https://www.maximintegrated.com/en/app-notes/index.mvp/id/214)
+* [Easyelectronics: stm32-1wire-DMA](http://we.easyelectronics.ru/STM32/stm32-1-wire-dma.html)
+
+Note from comments:
+Если сконфигурировать выход USART_TX как open drain, то можно исключиь диод из схемы.
+В даташите как раз указанно, что USART_TX может быть как PushPull так и OpenDrain. 
+
+ткните носом, может я чего-то не понял во всей химии, но внутреннее соединение TX c RX и OpenDrain в одном флаконе:
+
+RM0008 Doc ID 13902 Rev 14 стр 779
+27.3.10 Single-wire half-duplex communication
+The single-wire half-duplex mode is selected by setting the HDSEL bit in the USART_CR3
+register. In this mode, the following bits must be kept cleared:
+● LINEN and CLKEN bits in the USART_CR2 register,
+● SCEN and IREN bits in the USART_CR3 register.
+The USART can be configured to follow a single-wire half-duplex protocol. In single-wire
+half-duplex mode, the TX and RX pins are connected internally. The selection between halfand
+full-duplex communication is made with a control bit ‘HALF DUPLEX SEL’ (HDSEL in
+USART_CR3).
+As soon as HDSEL is written to 1:
+● RX is no longer used,
+● TX is always released when no data is transmitted. Thus, it acts as a standard IO in idle
+or in reception. It means that the IO must be configured so that TX is configured as
+floating input (or output high open-drain) when not driven by the USART.
+Apart from this, the communications are similar to what is done in normal USART mode.
+
+The conflicts on the line must be managed by the software (by the use of a centralized
+arbiter, for instance). In particular, the transmission is never blocked by hardware and
+continue to occur as soon as a data is writte
