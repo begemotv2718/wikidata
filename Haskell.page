@@ -4,6 +4,7 @@ categories: programming, programming_languages, haskell
 
 * [House: operating system in Haskell](http://programatica.cs.pdx.edu/House/)
 * [Juick channel on Haskell](http://juick.com/tag/Haskell)
+* [Hoogle -- haskell search engine](https://www.haskell.org/hoogle/) [Github](https://github.com/ndmitchell/hoogle) [Installing locally](https://github.com/ndmitchell/hoogle/blob/master/docs/Install.md)
 
 # Mathematics in Haskell
 
