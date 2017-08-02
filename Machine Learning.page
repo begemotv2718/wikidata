@@ -156,6 +156,11 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 
 * [Installation guide](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/)
 
+## FPGA for ML
+
+* [Xilinx: FPGA for ML](https://www.xilinx.com/applications/data-center/machine-learning.html)
+* [Amazon: FPGA developer AMI](https://aws.amazon.com/marketplace/pp/B06VVYBLZZ) [README](https://s3.amazonaws.com/EULA/FPGA_README.txt)
+
 # See also
 
 * [Visualization]() e.g. for t-SNE
