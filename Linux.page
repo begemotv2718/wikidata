@@ -61,3 +61,13 @@ mount -type 9p -o trans=virtio valgrind /media/disk/
 * [PowerPC sensors](http://powerofpowerpc.blogspot.com.by/2014_12_01_archive.html)
 * [Debian installation problem](https://lists.debian.org/debian-powerpc/2017/02/msg00020.html)
 * [Debian support](https://lists.debian.org/debian-powerpc/2017/02/msg00017.html)
+
+# Alsa
+
+## Select device for aplay
+
+Useful when pulseaudio interfere
+
+* ```aplay -l``` display list of devices
+* XXX [XXX yyy card], XXX -- useful name of device
+* ```aplay -d XXX <wav.file>```, e.g. ```aplay -d HDMI /home/user/alarm.wav```
