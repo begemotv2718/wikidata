@@ -20,6 +20,15 @@ gprolog, swi-prolog, yap, etc.
 
 * [Here](https://www.cs.bgu.ac.il/~mcodish/Papers/Sources/lpsat.pdf) -- in this paper authors describe the interface of minisat to prolog. Link to source code does not seems to be included
 
+# MiniKanren (not a prolog, but interesting variant of logic programming)
+
+MiniKanren is a dialect of Scheme
+
+* [Wikipedia](https://en.wikipedia.org/wiki/MiniKanren)
+* [Paper: pdf](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/8777/Byrd_indiana_0093A_10344.pdf)
+
+
+
 # See also 
 
 * [Constraint optimization]()
