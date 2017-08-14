@@ -101,3 +101,6 @@ The construction is fixed and sometimes operations can be performed in parallel 
 
 * [Online generate optimal sort networks](http://pages.ripco.net/~jgamble/nw.html). Perl module for generating networks: ```Algorithm::Networksort```
 
+## Median of five
+
+* [SO: Median of 5 in C# (actually also in C++)](https://stackoverflow.com/questions/480960/code-to-calculate-median-of-five-in-c-sharp)
