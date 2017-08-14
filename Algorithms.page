@@ -25,3 +25,79 @@ The idea is the following: to compute median of potentially infinite stream we t
 ## See also 
 
 [Functional programming]() -- Data structures
+
+# Sorting
+
+## Small size sort
+
+### 5 element sort
+
+* [SO: Sort 5 elements in better than 8 comparison](https://stackoverflow.com/questions/1534748/design-an-efficient-algorithm-to-sort-5-distinct-keys-in-fewer-than-8-comparison)
+    * Pseudocode
+```if (A > B)
+    swap A, B
+if (C > D)
+    swap C, D
+if (A > C)
+    swap A, C
+    swap B, D  # Thanks Deqing!
+
+if (E > C)
+    if (E > D) %A C D E
+        if (B > D)
+            if (B > E)
+                return (A, C, D, E, B)
+            else
+                return (A, C, D, B, E)
+         else
+            if (B < C)
+                return (A, B, C, D, E)
+            else
+                return (A, C, B, D, E)
+
+    else %A C E D
+        if (B > E)
+            if (B > D)
+                return (A, C, E, D, B)
+            else
+                return (A, C, E, B, D)
+         else
+            if (B < C)
+                return (A, B, C, E, D)
+            else
+                return (A, C, B, E, D)
+else
+    if (E < A) % E A C D
+        if (B > C)
+            if (B > D)
+                return (E, A, C, D, B)
+            else
+                return (E, A, C, B, D)
+         else
+             return (E, A, B, C, D)
+
+    else %A E C D
+        if (B > C)
+            if (B > D)
+                return (A, E, C, D, B)
+            else
+                return (A, E, C, B, D)
+         else
+            if (B < E)
+                return (A, B, E, C, D)
+            else
+                return (A, E, B, C, D)
+```
+
+
+
+## Network sort 
+
+* [Wikipedia: Sorting network](https://en.wikipedia.org/wiki/Sorting_network)
+
+Network sort is sort for a fixed size array involving only ```compare_swap``` operation ( ```compare_swap(*a,*b){if(*a<*b){swap(a,b)}}``` ).
+
+The construction is fixed and sometimes operations can be performed in parallel (good for hardware).
+
+* [Online generate optimal sort networks](http://pages.ripco.net/~jgamble/nw.html). Perl module for generating networks: ```Algorithm::Networksort```
+
