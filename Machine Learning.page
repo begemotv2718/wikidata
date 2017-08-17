@@ -37,9 +37,14 @@ See [Language processing](), [Neural network and finite automata]()
 * [Food steganography](https://arxiv.org/abs/1704.03330) [patent application](http://www.freshpatents.com/-dt20150305ptan20150059438.php)
 * [Image2calories](https://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf)
 * [Machine supervised machine learning](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
-* [Deep face recognition](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
 
 * [GitXiv](http://www.gitxiv.com/) -- mapping between arxiv.org and github repositories.
+
+## Other
+
+* [Deep face recognition](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+* [Facial expression recognition with CNN](http://cs231n.stanford.edu/reports/2016/pdfs/023_Report.pdf)
+
 
 # Recipies and tutorials
 
