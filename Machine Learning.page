@@ -73,6 +73,7 @@ See [Language processing](), [Neural network and finite automata]()
 
 * [github: Face expression recognition using kaggle dataset](https://github.com/Hanzhuo/Facial-Expression-Recognition-with-TensorFlow-Convolutional-Neural-Networks) [Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 * [OpenFace: free and open source face recognition](https://cmusatyalab.github.io/openface/)
+* [habr: Modern face recognition with deep learning](https://habrahabr.ru/post/306568/)
 
 # Datasets, etc.
 
