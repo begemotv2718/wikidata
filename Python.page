@@ -6,3 +6,7 @@ categories: programming, programming_languages
 
 * [pyrasite - attach to running python process](https://github.com/lmacken/pyrasite)
 * [uncompile -- decompile bytecode](https://pypi.python.org/pypi/uncompyle6)
+
+# Virtualenv
+
+* rm ```venv/lib/python3.4/no-global-site-packages.txt``` if no-global-site-packages specified by mistake
