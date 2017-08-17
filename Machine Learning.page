@@ -79,6 +79,7 @@ See [Language processing](), [Neural network and finite automata]()
     * [dlib: prerequisite](https://github.com/davisking/dlib)
         * [dlib installation](https://npatta01.github.io/2015/08/10/dlib/)
     * [Torch:prerequisite](http://torch.ch/)
+* [OpenCV Facerecognizer](http://docs.opencv.org/2.4.8/modules/contrib/doc/facerec/facerec_api.html)
 * [habr: Modern face recognition with deep learning](https://habrahabr.ru/post/306568/)
 
 # Datasets, etc.
