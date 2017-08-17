@@ -9,4 +9,4 @@ categories: programming, programming_languages
 
 # Virtualenv
 
-* rm ```venv/lib/python3.4/no-global-site-packages.txt``` if no-global-site-packages specified by mistake
+* rm ```venv/lib/python3.4/no-global-site-packages.txt``` if no-global-site-packages specified by mistake [via: SO](https://stackoverflow.com/questions/3371136/revert-the-no-site-packages-option-with-virtualenv)
