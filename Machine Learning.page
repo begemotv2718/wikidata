@@ -72,7 +72,13 @@ See [Language processing](), [Neural network and finite automata]()
 # Faces
 
 * [github: Face expression recognition using kaggle dataset](https://github.com/Hanzhuo/Facial-Expression-Recognition-with-TensorFlow-Convolutional-Neural-Networks) [Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
-* [OpenFace: free and open source face recognition](https://cmusatyalab.github.io/openface/) [Installation](https://cmusatyalab.github.io/openface/setup/) [Github](https://github.com/cmusatyalab/openface) [API doc](http://openface-api.readthedocs.io/en/latest/index.html)  [dlib: prerequisite](https://github.com/davisking/dlib) [Torch:prerequisite](http://torch.ch/)
+* [OpenFace: free and open source face recognition](https://cmusatyalab.github.io/openface/)
+    * [Installation](https://cmusatyalab.github.io/openface/setup/)
+    * [Github](https://github.com/cmusatyalab/openface)
+    * [API doc](http://openface-api.readthedocs.io/en/latest/index.html)
+    * [dlib: prerequisite](https://github.com/davisking/dlib)
+        * [dlib installation](https://npatta01.github.io/2015/08/10/dlib/)
+    * [Torch:prerequisite](http://torch.ch/)
 * [habr: Modern face recognition with deep learning](https://habrahabr.ru/post/306568/)
 
 # Datasets, etc.
