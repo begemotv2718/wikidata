@@ -312,4 +312,6 @@ General idea: SnO~2~ is a semiconductor with high affinity to oxigen. The agents
 | MQ-7    | CO, also sensitive to H~2~       | 5.0V, 1.4V alternating| Rs | 20ppm-2000ppm | [6](https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-7.pdf) |
 | MQ-8    | H~2~, small sensitivity to alcohol, even smaller to CO| 5.0V | Rs | 100-10000ppm  | [7](https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Biometric/MQ-8.pdf) |
 
+# Finger tracking
 
+* [Hackster.io: Finger tracking with encoded light](https://blog.hackster.io/this-system-uses-encoded-light-for-millimeter-level-finger-tracking-9d0029acc55b) Photosensors on fingers, DLP projector to provide encoded light.
