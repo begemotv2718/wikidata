@@ -11,3 +11,5 @@ categories: org databases ai
 [Neo4j](https://en.wikipedia.org/wiki/Neo4j) Java ;(. Otherwise seems to be popular and actively developing?
 
 [Cayley](https://cayley.io/) 
+
+[Grakn.ai](https://grakn.ai/pages/overview/index.html) Java based, have own query language (graql)
