@@ -10,6 +10,10 @@ categories: linux,OS
 * [Linux hardware]()
 * [Command line tools]()
 
+# Other people linux courses
+
+* [Linux journey](https://linuxjourney.com/)
+
 # Moving part of disk to new partition
 
 * To preserve attributes when copying use ```cp -a```
