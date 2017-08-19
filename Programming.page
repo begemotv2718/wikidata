@@ -34,6 +34,13 @@ categories: programming
 * [Assembler]()
 * [LaTeX]()
 
+## Resources for learning languages
+
+* [LearnXinYminutes](https://learnxinyminutes.com/)
+* [Hyperpolyglot: side by side comparison of languages](http://hyperpolyglot.org/)
+* [Exorcism.io: excersizes](http://exercism.io/languages)
+
+
 # Automatic verification
 
 ## Linters
