@@ -32,6 +32,12 @@ categories: math
 
 * [Graduate texts in mathematics: Galois theory](https://www.amazon.com/Galois-Theory-Graduate-Texts-Mathematics/dp/038790980X) -- Seems to be quite simple and short book.
 
+# Information theory
+
+## Sophistication
+
+After introducing Kolmogorov complexity (which is maximal for completely random string of bits), Kolmogorov attempted to introduce a quantity which is low both for strings described by simple algorithms and for completely random strings. This quantity is called sophistication. [Some introduction](https://people.cs.uchicago.edu/~fortnow/papers/soph.pdf)
+
 # Stochastics
 
 ## Schramm-Loewner evolution
