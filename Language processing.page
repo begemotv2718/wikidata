@@ -13,3 +13,10 @@ categories: language,ML
 # See also
 
 [Machine Learning]()
+
+# Russian stemming algorithms
+
+## Stemka -- probabilistic morphoanalyzer
+
+* [stemka: description](http://www.keva.ru/stemka/stemka.html)
+* [stemka: TOC](http://www.keva.ru/?cat=ling-morph-rus-help)
