@@ -20,3 +20,7 @@ categories: language,ML
 
 * [stemka: description](http://www.keva.ru/stemka/stemka.html)
 * [stemka: TOC](http://www.keva.ru/?cat=ling-morph-rus-help)
+
+# Snowball -- universal stemmer
+
+* [Russian stemming in snowball](http://snowball.tartarus.org/algorithms/russian/stemmer.html)
