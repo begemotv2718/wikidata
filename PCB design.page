@@ -36,7 +36,13 @@ Dependencies:
 
 [Footwork](https://github.com/monostable/footwork) use [Racket programming language](http://racket-lang.org/) (dialect of scheme). Attempts to use [Rosette](https://emina.github.io/rosette/) SMT solver to verify constraints.
 
-# Kicad library component
+# Kicad
+
+* [Creating schematic library component](http://kicad.txplore.com/?p=96)
+* [Creating custom footprint](http://kicad.txplore.com/?p=111)
+
+
+## Kicad library component
 
 ![Select Library](screenshots/Library_select.png)
 
