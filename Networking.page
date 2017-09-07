@@ -2,3 +2,61 @@
 categories: programming,networking
 ...
 
+# Using card as both AP and wifi.
+
+## Check that it is possible to use more than one interface on wifi.
+
+```bash
+iw list
+```
+look for the section: ```valid interface combinations:```
+
+The result looks like this
+```
+	valid interface combinations:
+		 * #{ managed } <= 1, #{ AP, P2P-client, P2P-GO } <= 1, #{ P2P-device } <= 1,
+		   total <= 3, #channels <= 2
+```
+
+## Add another interface to wifi card.
+
+```bash
+iw phy phy0 interface add wlp3s1 type managed
+```
+
+## Setup hostapd
+
+* Install hostapd
+* By default hostapd starts with ifupdown interface. I'm happy with this.
+* Edit ```/etc/network/interfaces```
+
+```
+iface wlp3s1 inet static
+   hostapd /etc/hostapd/hostapd.conf
+   address xxx
+   netmask yyy
+```
+
+* Create ```/etc/hostapd/hostapd.conf```
+
+```bash
+zcat /usr/share/doc/hostapd/examples/hostapd.conf.gz > /etc/hostapd/hostapd.conf
+```
+
+```
+#Important stuff to change
+interface=wlp3s1
+driver=nl80211
+ssid=<ssid_name>
+channel=11
+wpa=1 # Maybe even wpa=3
+wpa_passphrase=pass_phrase_as_it_is
+
+```
+
+
+## Add interface to dhcp server 
+
+* Edit ```/etc/default/isc-dhcp-server``` add wlp3s1 interface to the INTERFACES variable (separated by space)
+* Add subnet in ```/etc/dhcp/dhcpd.conf```
+
