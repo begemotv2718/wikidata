@@ -49,7 +49,23 @@ interface=wlp3s1
 driver=nl80211
 ssid=<ssid_name>
 channel=11
-wpa=1 # Maybe even wpa=3
+ignore_broadcast_ssid=0 # =1 for hidden network
+
+wpa=1 #  wpa=2 is better
+## Key management algorithms ##
+wpa_key_mgmt=WPA-PSK
+ 
+## Set cipher suites (encryption algorithms) ##
+## TKIP = Temporal Key Integrity Protocol
+## CCMP = AES in Counter mode with CBC-MAC
+wpa_pairwise=TKIP
+rsn_pairwise=CCMP
+ 
+## Shared Key Authentication ##
+auth_algs=1
+ 
+## Accept all MAC address ###
+macaddr_acl=0
 wpa_passphrase=pass_phrase_as_it_is
 
 ```
