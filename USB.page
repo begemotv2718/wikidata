@@ -387,3 +387,34 @@ static const struct usb_config_1 usb_config_1 = {
 * [Introduction to FTDI bitbang mode](http://hackaday.com/2009/09/22/introduction-to-ftdi-bitbang-mode/)
 * [Linux driver readme on official ftdi site](http://www.ftdichip.com/Drivers/D2XX/Linux/ReadMe-linux.txt)
 * [Drivers page on official site](http://www.ftdichip.com/Drivers/D2XX.htm)
+
+# USB CDC
+
+## Handling of CDC requests:
+
+```C
+int control_interface_class_request(ep_in,ep_out,setupPacket sp){
+switch(sp.bRequest){
+   case CDC_SET_LINE_CODING:
+      get_buffer_from_ep(buffer,ep_out);
+      lineCoding.baudRate=buffer[0];
+      lineCoding.charFormat=(unsigned char)buffer[4];
+      lineCoding.parityType=(unsigned char)buffer[5];
+      lineCoding.dataBits = (unsigned char)buffer[6];
+      break;
+   case CDC_GET_LINE_CODING:
+      buffer[0]=lineCoding.baudRate;
+      buffer[4]=lineCoding.charFormat;
+      buffer[5]=lineCoding.parityType;
+      buffer[6]=lineCoding.dataBits;
+      send_buffer(buffer,7,ep_in,ep_out);
+      break;
+   case CDC_SET_CONTROL_LINE_STATE:
+      lineState.dtr=sp.wValue &0x01
+      lineState.rts=(sp.wValue>>1)&0x01;
+      break;
+   case CDC_SEND_BREAK:
+      //sp.wValue is number of mSec to hold BREAK
+  }   
+}
+```
