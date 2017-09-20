@@ -1,0 +1,14 @@
+---
+categories: programming
+...
+
+# Ctags like
+
+* [Reddit: CScope like functionality that correctly handles C++ code?](https://www.reddit.com/r/emacs/comments/1qktcb/cscope_like_functionality_that_correctly_handles/)
+    * [rtags](https://github.com/Andersbakken/rtags) clang based seems to be emacs specific
+    * [clang-ctags](https://github.com/drothlis/clang-ctags) Also use clang. The project is a python script.
+        * Suggest using [BEAR](https://github.com/rizsotto/Bear) to build the compilation database. 
+        * Bear usage in our project ```bear --use-cc mipsel-buildroot-linux-uclibc-gcc --use-c++ mipsel-buildroot-linux-uclibc-g++ bash -c "source teatro3.sh bcm-mips_claro_B720S2-A21_sat_conax_SecDbg-OneBrowser; rebuild_teatro"```
+    * Perspective
+        * [Parsing C++ in python with clang](http://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang)
+        * [cscope file format](ftp://ftp.eeng.dcu.ie/pub/ee454/cygwin/usr/share/doc/mlcscope-14.1.8/html/cscope.html)
