@@ -13,3 +13,5 @@ categories: programming
         * [Parsing C++ in python with clang](http://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang)
         * [cscope file format](ftp://ftp.eeng.dcu.ie/pub/ee454/cygwin/usr/share/doc/mlcscope-14.1.8/html/cscope.html)
     * [GNU global](https://www.gnu.org/software/global/)
+
+* [Tools comparison](https://github.com/OpenGrok/OpenGrok/wiki/Comparison-with-Similar-Tools)
