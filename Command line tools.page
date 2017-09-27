@@ -3,3 +3,5 @@ categories: linux
 ...
 
 * [sc: the Venerable Spreadsheet Calculator](http://www.linuxjournal.com/article/10699?page=0,2)
+* [ncdu: ncurses based du](https://dev.yorhel.nl/ncdu) -- useful for disk cleaning
+* disown-- if you didn't run job with nohup.
