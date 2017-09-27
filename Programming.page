@@ -185,6 +185,11 @@ Maximum amount stored in single datamatrix is 1556 bytes.
 apt-get install dmtx-utils
 ```
 
+## QR code recognition
+
+* zbarcam
+
+
 # Personal projects
 
 * [Sphinx train]()
