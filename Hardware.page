@@ -91,6 +91,12 @@ Summary
 
 ## SWR
 
+
+# IR remotes
+
+* [Altium: NEC protocol](http://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
+* [arduino library: universal](https://github.com/z3t0/Arduino-IRremote)
+
 # Электронный микроскоп, почти DIY
 
 * [часть](https://geektimes.ru/post/283248/)
