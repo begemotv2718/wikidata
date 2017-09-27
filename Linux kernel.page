@@ -108,6 +108,10 @@ Date and time inside module [Stackoverflow: getting date and time in linux kerne
 
 * [Interactive kernel map](http://www.makelinux.net/kernel_map/)
 
+# Best practices
+
+* [devres -- memory management](https://www.kernel.org/doc/Documentation/driver-model/devres.txt)
+
 # Kernel debug
 
 [Kernel debug]()
