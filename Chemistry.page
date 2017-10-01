@@ -33,3 +33,19 @@ For [isooctane](https://en.wikipedia.org/wiki/2,2,4-Trimethylpentane) the formul
 Fischer-Tropsch process for producing liquid petrol suitable for internal combustion engines. Process was developed in Germany in 1925, it became relatively popular in Nazi Germany in 1943/44 when there were shortage of  oil supply. Wikipedia [en](https://en.wikipedia.org/wiki/Fischer%E2%80%93Tropsch_process) [de](https://de.wikipedia.org/wiki/Fischer-Tropsch-Synthese).
 The components for the process is $H_2$ and $CO$ gases. According to DE wiki, the typical output is 10-15% propan+butane, 50% car gas (benzine), 28% diesel fuel, 8% parafine.
 In the typical setup coal is converted to $H_2$ and $CO$ by reacting it with water steam. If one has a source of $H_2$ (e.g. from water electrolysis), one can try to convert $CO_2$ to $CO$ suitable for the subsequent process. Audi actually managed to do this [Audi is making fuel from air and water](https://qz.com/392138/audi-is-making-fuel-from-air-and-water/) [Fuel of the future: Research facility in Dresden produces first batch of Audi e-diesel](https://www.audi-mediacenter.com/en/press-releases/fuel-of-the-future-research-facility-in-dresden-produces-first-batch-of-audi-e-diesel-352)
+
+# pH of solutions
+
+$$pH+pOH=14$$
+
+## Strong bases
+For the solutions of strong bases (like KOH, NaOH) all OH$^-$ can be assumed to dissociate. Thus for 0.1mol/l solution (0.1M solution) 
+
+$$pOH=-\log_{10}0.1=1 \to pH=13$$
+
+## Strong acids
+
+Also assumed to fully dissociate
+
+## Basic salts
+
