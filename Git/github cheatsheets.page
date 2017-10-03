@@ -22,6 +22,10 @@ git fetch origin <branch>
 git rebase origin/master
 ```
 
+```
+git pull --rebase
+```
+
 **Danger!** Uncommited files can be lost. Do git stash before this operation.
 
 # Make git subdirectory into separate project
@@ -31,3 +35,21 @@ git clone messy_project/ clean_project/
 cd clean_project/
 git filter-branch --subdirectory-filter <subdir_name> -- --all
 ```
+
+# Git stage only part of changes
+
+```bash
+git add -p
+```
+* y - to add hunk
+* s - to split hunk
+* e - to edit hunk
+
+
+# Git move master to other branch
+
+```
+git branch -m master old_master
+git branch -m new_branch master
+```
+
