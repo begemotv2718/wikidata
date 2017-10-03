@@ -193,3 +193,9 @@ Since we have quite aggressive screensaver policy on our windows computers and I
 ```bash
 inotify-wait -e access <executable path>; ps -ef | grep executable
 ```
+
+# Serve directory's content 
+
+```bash
+python -m SimpleHTTPServer <port>
+```
