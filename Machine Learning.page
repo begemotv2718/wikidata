@@ -69,6 +69,8 @@ See [Language processing](), [Neural network and finite automata]()
     * [XGboost with Scikit-learn](http://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
     * [Kaggle gradient boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
+* [Scikit-learn choosing the right estimator](http://scikit-learn.org/dev/tutorial/machine_learning_map/index.html)
+
 ## Debug
 
 * [Debugging ML models](https://nlpers.blogspot.com.by/2016/08/debugging-machine-learning.html)
