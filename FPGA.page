@@ -87,3 +87,7 @@ iceprog leds.bin
 # Hardware
 
 * [RggBer: open computer vision board Altera cyclone](https://www.hackster.io/RggBer/rggber-born-for-embedded-vision-24f7b5?ref=explore&ref_id=recent___&offset=6)
+
+# Clash: haskell for hardware
+
+* [Clash: haskell for hardware]()
