@@ -6,3 +6,4 @@ categories: fpga,haskell
     * Compilers to verilog and vhdl
 
 * [Example clash project -- minimal processor](http://yager.io/CPU/CPU1.html)
+    * [github](https://github.com/wyager/CPU)
