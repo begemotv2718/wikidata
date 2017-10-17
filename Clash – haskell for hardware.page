@@ -1,0 +1,8 @@
+---
+categories: fpga,haskell
+...
+
+* [Official page](http://www.clash-lang.org/) -- Requires ghc-8.0 installation via cabal
+    * Compilers to verilog and vhdl
+
+* [Example clash project -- minimal processor](http://yager.io/CPU/CPU1.html)
