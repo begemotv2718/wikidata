@@ -2,4 +2,11 @@
 categories: linux, hardware
 ...
 
+# Kernel
+
 * [Kernel modules writing](Linux kernel#writing-kernel-module-for-raspberry-pi)
+
+# Framebuffer
+
+* [Working with framebuffer for raspberry pi](http://raspberrycompote.blogspot.com.by/2013/04/low-level-graphics-on-raspberry-pi-part.html)
+
