@@ -10,3 +10,30 @@ categories: linux, hardware
 
 * [Working with framebuffer for raspberry pi](http://raspberrycompote.blogspot.com.by/2013/04/low-level-graphics-on-raspberry-pi-part.html)
 
+## Summary
+
+```c
+fbfd = open("/dev/fb0", O_RDWR);
+ioctl(fbfd, FBIOGET_VSCREENINFO, &vinfo);
+screensize = vinfo.xres * vinfo.yres * vinfo.bits_per_pixel / 8;
+fbp = (char*)mmap(0, 
+              screensize, 
+              PROT_READ | PROT_WRITE, 
+              MAP_SHARED, 
+              fbfd, 
+              0);
+void put_pixel_RGB565(int x, int y, int r, int g, int b)
+{
+    // calculate the pixel's byte offset inside the buffer
+    // note: x * 2 as every pixel is 2 consecutive bytes
+    unsigned int pix_offset = x * 2 + y * finfo.line_length;
+
+    // now this is about the same as 'fbp[pix_offset] = value'
+    // but a bit more complicated for RGB565
+    //unsigned short c = ((r / 8) << 11) + ((g / 4) << 5) + (b / 8);
+    unsigned short c = ((r / 8) * 2048) + ((g / 4) * 32) + (b / 8);
+    // write 'two bytes at once'
+    *((unsigned short*)(fbp + pix_offset)) = c;
+
+}
+```
