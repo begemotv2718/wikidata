@@ -2,6 +2,10 @@
 categories: ML,language,speech_recognition
 ...
 
+# Theory
+
+* [L. Rabiner A tutorial on Hidden Markov Models and selected applications in Speech Recognition](http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)
+
 # Internal links
 
 * [CMU Sphinx]()
