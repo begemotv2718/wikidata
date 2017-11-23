@@ -106,6 +106,12 @@ See [Language processing](), [Neural network and finite automata]()
     * [gist: step-2a finding face landmarks](https://gist.github.com/ageitgey/ae340db3e493530d5e1f9c15292e5c74#file-step-2a_finding-face-landmarks-py)
     * [gist: step-2b projecting faces](https://gist.github.com/ageitgey/82d0ea0fdb56dc93cb9b716e7ceb364b)
 * [Random face generation](http://carpedm20.github.io/faces/) somewhat Asian inclined
+* Age and gender
+    * [impl1](https://github.com/GilLevi/AgeGenderDeepLearning)
+    * [impl_orig](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+    * [impl_tensorflow](https://github.com/dpressel/rude-carnie)
+
+
 
 # Datasets, etc.
 
