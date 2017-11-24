@@ -109,6 +109,10 @@ Summary
 
 * [Optimal control]()
 
+# Audio
+
+* [USB audio card](http://www.ti.com/lit/ds/symlink/pcm2707.pdf)
+
 # Dallas 1-wire
 
 ## USART for dallas 1-wire
