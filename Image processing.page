@@ -9,6 +9,10 @@ categories: programming, visualization
 * habr, Meklon Working with hugin and enfuse to fuse image from multiple focal images [ref](https://habrahabr.ru/post/283492/).
 * In the reference above "Extended Depth of Field for ImageJ" reconstructs height map from sharpness map.
 
+# WebRTC
+
+* [HTML5Rocks webrtc basics](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
+
 # See also 
 
 * [Visualization]()
