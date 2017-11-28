@@ -1,0 +1,13 @@
+---
+categories: visualization,python
+...
+
+# Presentations in jupyter notebooks
+
+* [Medium: Presenting Code Using Jupyter Notebook Slides](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
+     * View → Cell Toolbar → Slideshow
+* [Example slideshow](http://www.slideviper.oquanta.info/tutorial/slideshow_tutorial_slides.html#/)
+* [github: Extension for live computation in slideshow](https://github.com/damianavila/RISE)
+
+
+
