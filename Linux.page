@@ -66,12 +66,18 @@ mount -type 9p -o trans=virtio valgrind /media/disk/
 * [Debian installation problem](https://lists.debian.org/debian-powerpc/2017/02/msg00020.html)
 * [Debian support](https://lists.debian.org/debian-powerpc/2017/02/msg00017.html)
 
-# Alsa
+# Audio and video
 
-## Select device for aplay
+## Alsa: Select device for aplay
 
 Useful when pulseaudio interfere
 
 * ```aplay -l``` display list of devices
 * XXX [XXX yyy card], XXX -- useful name of device
 * ```aplay -d XXX <wav.file>```, e.g. ```aplay -d HDMI /home/user/alarm.wav```
+
+## Loopback devices
+
+* [Audio loopback device in alsa](https://www.alsa-project.org/main/index.php/Matrix:Module-aloop) Summary: ```modprobe snd-aloop```
+* [Video loopback v4l2loopback](https://videoswitch.ru/forum/index.php?topic=470.0) Summary: ```sudo apt-get install v4l2loopback-dkms v4l2loopback-utils```. Send redirect output to new /dev/videoX read from the same device.
+
