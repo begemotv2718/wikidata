@@ -1,0 +1,7 @@
+---
+categories: programming
+...
+
+* [Installing letsencrypt: tutorial from DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
+    * Main point: install certbot and follow instructions
+    * freenom.com for free domain names in somewhat obscure zones
