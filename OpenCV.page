@@ -1,0 +1,17 @@
+---
+categories: image_processing
+...
+
+
+# Camera matrix and 3d reprojection
+
+$$
+Q=\left(
+\begin{array}{cccc}
+ \frac{1}{f_x} & 0 & 0 & -\frac{c_x}{f_x} \\
+ 0 & \frac{1}{f_y} & 0 & -\frac{c_y}{f_y} \\
+ 0 & 0 & 0 & 1 \\
+ 0 & 0 & \frac{1}{L f_x} & 0 \\
+\end{array}
+\right)
+$$
