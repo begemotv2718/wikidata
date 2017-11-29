@@ -1,5 +1,5 @@
 ---
-categories: programming, visualization
+categories: programming, visualization, image_processing
 ...
 
 # Image enhancement
@@ -12,6 +12,11 @@ categories: programming, visualization
 # WebRTC
 
 * [HTML5Rocks webrtc basics](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
+
+# OpenCV
+
+[OpenCV]()
+
 
 # See also 
 
