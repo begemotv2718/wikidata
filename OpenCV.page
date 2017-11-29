@@ -13,5 +13,13 @@ Q=\left(
  0 & 0 & 0 & 1 \\
  0 & 0 & \frac{1}{L f_x} & 0 \\
 \end{array}
-\right)
+\right) = 
+\left(
+\begin{array}{cccc}
+ f_x & 0 & c_x & 0 \\
+ 0 & f_y & c_y & 0 \\
+ 0 & 0 & 0 & L f_x \\
+ 0 & 0 & 1 & 0 \\
+\end{array}
+\right)^{-1}
 $$
