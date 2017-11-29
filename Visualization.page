@@ -20,6 +20,8 @@ categories: visualization
     * [t-SNE implementation in R and python with guide](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
     * [t-SNE with linear assignment problem](https://blog.sourced.tech/post/lapjv/?utm_source=Mailing+list&utm_campaign=ac0bc3d562-Kaggle_Newsletter_04-11-2017&utm_medium=email&utm_term=0_f42f9df1e1-ac0bc3d562-399184257) (Jonker-Volgenant Algorithm + t-SNE )
 
+* [Blissymbolics -- attempt at purely visible language (via Quora)](http://www.blissymbolics.org/index.php/how-is-bliss-used)
+
 # Scientific citations
 
 [Physics stackexchange question](http://physics.stackexchange.com/questions/5569/is-there-a-nice-tool-to-plot-graphs-of-paper-citations)
