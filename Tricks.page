@@ -199,3 +199,9 @@ inotify-wait -e access <executable path>; ps -ef | grep executable
 ```bash
 python -m SimpleHTTPServer <port>
 ```
+
+# Connecting to unix socket
+
+```bash
+socat - UNIX-CONNECT:<socket file>
+```
