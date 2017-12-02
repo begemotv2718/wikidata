@@ -2,6 +2,12 @@
 categories: image_processing
 ...
 
+# Template matching
+
+OpenCV has ability to search template image in a larger image (FFT convolution?). 
+
+* [Template matching tutorial](https://docs.opencv.org/trunk/d4/dc6/tutorial_py_template_matching.html)
+
 
 # Camera matrix and 3d reprojection
 
