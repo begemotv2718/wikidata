@@ -8,3 +8,10 @@ categories: mathematics,typesetting,LaTeX,programming
     * Suggestion 1:  tex4ht ```mk4ht htlatex youfile.tex 'xhtml,charset=utf-8,pmathml' ' -cunihtf -utf8 -cvalidate'```. Problem: tex4ht is rather large.
     * Suggestion 2:  convert to pdf with ```\documentclass[a5paper]{memoir}```
     * Suggestion 3:  Use [plasTeX](http://tiarno.github.io/plastex/) python tex2xhtml converter with subsequent conversion to epub using **Sigil**
+
+# Beamer
+
+* [Tex stackoverflow: Designing custom beamer theme from scratch](https://tex.stackexchange.com/questions/146529/design-a-custom-beamer-theme-from-scratch)
+* [Tex stackoverflow: another custom beamer theme](https://tex.stackexchange.com/questions/355404/creating-a-custom-beamer-theme)
+* [Beamer template: Universita da Roma](https://www.guitex.org/home/en/forum/5-tex-e-latex/66391#67006)
+
