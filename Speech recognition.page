@@ -28,7 +28,11 @@ Also included are commercial Fisher and Switchboard corpora.
 
 They also gathered some data of their own:
 
-* [Common voice data: licensed as public domain](https://voice.mozilla.org/data)
+* [Common voice data: licensed as public domain](https://voice.mozilla.org/data) Currently English only, will support other languages in 2018.
+
+Summary of mozilla team achievements is [here](https://hacks.mozilla.org/2017/11/a-journey-to-10-word-error-rate/) (blog post). Also contains a lot of information on the model. 
+
+* [Discussion panel](https://discourse.mozilla.org/c/deep-speech)
 
 
 # External links
