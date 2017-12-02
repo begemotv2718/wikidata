@@ -14,6 +14,22 @@ categories: ML,language,speech_recognition
 
 * [Kaldi ASR]() 
 
+# Mozilla engine
+
+Based on tensorflow. Currently only English is supported.
+
+* [Github repository](https://github.com/mozilla/DeepSpeech)
+
+Corpora used for training:
+
+* [TED LIUM](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus) Transcripts of the TED talks. License: Creative Commons BY-NC-ND 3.0 (non-commercial, no-derivatives)
+* [LibriSpeech corpus](http://www.openslr.org/12/) Created for training Kaldi.
+Also included are commercial Fisher and Switchboard corpora.
+
+They also gathered some data of their own:
+
+* [Common voice data: licensed as public domain](https://voice.mozilla.org/data)
+
 
 # External links
 
