@@ -11,6 +11,42 @@ OpenCV has ability to search template image in a larger image (FFT convolution?)
 
 # Camera matrix and 3d reprojection
 
+General projection transformation:
+
+$$
+\begin{array}{lcl}
+x_{img}  & = & \frac{f_x x}{z}+c_x \\
+y_{img}  & = & \frac{f_y y}{z}+c_y
+\end{array}
+$$
+
+In projective coordinates this can be rewritten in the following way
+
+$$
+\left(
+\begin{array}{l}
+x_img \\
+y_img \\
+w
+\end{array}
+\right) =
+\left(
+\begin{array}{lll}
+0 & 0 & 0\\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{array}
+\right)
+\left(
+\begin{array}
+x \\
+y \\
+z
+\end{array}
+\right)
+$$ 
+
+
 $$
 Q=\left(
 \begin{array}{cccc}
@@ -29,3 +65,6 @@ Q=\left(
 \end{array}
 \right)^{-1}
 $$
+
+Perspective transform etc, functions in openCV are somewhat broken see [this stackoverflow answer](https://stackoverflow.com/questions/45817325/opencv-python-cv2-perspectivetransform) (need array with dimensions (1,1,3) to represent initial point).
+
