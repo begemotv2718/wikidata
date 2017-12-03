@@ -218,6 +218,12 @@ Parallax module, the following strings are automatically transmitted when the "/
 
 This module was used to provide reference for internal oscillator on sound card in the interesting experiment on [measuring  distance to ionosphere using dcf77 source](https://video.fosdem.org/2017/AW1.120/dcf77.vp8.webm) (FOSDEM, 2017)
 
+
+## RTKLIB -- enhanced precision
+
+* [Rtklib site](http://www.rtklib.com/)
+
+
 # FLIR -- Deep infrared cameras
 
 * [Github project with FLIR camera](https://github.com/maxritter/DIY-Thermocam)
