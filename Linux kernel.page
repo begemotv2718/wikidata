@@ -12,7 +12,7 @@ categories: linux, kernel
 * [Device tree: What is it? on elinux.org](https://elinux.org/Device_Tree_What_It_Is) Discuss competitors (ACPI,UEFI(it also exists for ARM),OpenFirmware). Also describes advantages.
 * [Device tree: Usage. on elinux.org](https://elinux.org/Device_Tree_Usage) Main article explaining device tree.
 * [Device tree: Reference](https://elinux.org/Device_Tree_Reference) Links to the articles above
-* [Device tree misteries on elinux.org](https://elinux.org/Device_Tree_Mysteries) Contains quite comprehencive explanation of phandles.
+* [Device tree misteries on elinux.org](https://elinux.org/Device_Tree_Mysteries) Contains quite comprehencive explanation of phandles and quite incomprehencive explanation of #xxx-cells properties.
 
 
 # Kernel and networking
