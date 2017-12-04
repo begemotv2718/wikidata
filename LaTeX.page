@@ -13,6 +13,12 @@ categories: mathematics,typesetting,LaTeX,programming
     * Suggestion 2:  convert to pdf with ```\documentclass[a5paper]{memoir}```
     * Suggestion 3:  Use [plasTeX](http://tiarno.github.io/plastex/) python tex2xhtml converter with subsequent conversion to epub using **Sigil**
 
+#Fonts
+
+* [Importing ttf fonts for pdflatex use: instruction on TeX SO](
+https://tex.stackexchange.com/questions/52819/how-do-i-use-truetype-fonts-with-pdftex-using-otftotfm/52902#52902)
+    * [Some elaboration on this](https://tex.stackexchange.com/questions/96831/using-liberation-font-with-pdflatex-no-xelatex-lualatex)
+
 # Beamer
 
 * [Tex stackoverflow: Designing custom beamer theme from scratch](https://tex.stackexchange.com/questions/146529/design-a-custom-beamer-theme-from-scratch)
