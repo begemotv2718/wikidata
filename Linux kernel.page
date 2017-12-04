@@ -13,6 +13,7 @@ categories: linux, kernel
 * [Device tree: Usage. on elinux.org](https://elinux.org/Device_Tree_Usage) Main article explaining device tree.
 * [Device tree: Reference](https://elinux.org/Device_Tree_Reference) Links to the articles above
 * [Device tree misteries on elinux.org](https://elinux.org/Device_Tree_Mysteries) Contains quite comprehencive explanation of phandles and quite incomprehencive explanation of #xxx-cells properties.
+* [Device tree for raspberry-pi: Nice explanation of overlays and parameters](https://github.com/raspberrypi/documentation/blob/master/configuration/device-tree.md)
 
 
 # Kernel and networking
