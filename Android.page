@@ -5,3 +5,10 @@ categories: programming,java,work
 # Android demo
 
 * [Github android demo](https://github.com/codepath/intro_android_demo/tree/master/app/src/main/res/layout)
+
+# Various info
+
+* [Building from command line](https://developer.android.com/studio/build/building-cmdline.html) [Using NDK](https://software.intel.com/en-us/articles/building-an-android-command-line-application-using-the-ndk-build-tools)
+* [Gradle: building java libraries](https://guides.gradle.org/building-java-libraries/)
+* [Creating background service](https://developer.android.com/training/run-background-service/create-service.html)
+* [Json serialization: Gson](https://github.com/google/gson/blob/master/UserGuide.md)
