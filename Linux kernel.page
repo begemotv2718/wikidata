@@ -6,6 +6,14 @@ categories: linux, kernel
 
 * [Start kernel hacking](https://kernelnewbies.org/StartKernelHacking)
 
+# Device tree
+
+* [Device tree history](https://elinux.org/Device_tree_history) Few points into LKML. Discussions are of May 2009
+* [Device tree: What is it? on elinux.org](https://elinux.org/Device_Tree_What_It_Is) Discuss competitors (ACPI,UEFI(it also exists for ARM),OpenFirmware). Also describes advantages.
+* [Device tree: Usage. on elinux.org](https://elinux.org/Device_Tree_Usage) Main article explaining device tree.
+* [Device tree: Reference](https://elinux.org/Device_Tree_Reference) Links to the articles above
+
+
 # Kernel and networking
 
 * [habr: Kernel structures responsible for network functions](https://habrahabr.ru/company/mailru/blog/314168/)
