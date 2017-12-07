@@ -5,6 +5,10 @@ categories: programming,programming_languages
 * [Pike on C Style](http://www.lysator.liu.se/c/pikestyle.html)
 * [Open source books on C](https://www.ossblog.org/learn-c-programming-with-9-excellent-open-source-books/)
 
+# Undefined behavior
+
+* [Undefined Behavior in 2017](https://blog.regehr.org/archives/1520)
+
 # MISRA C and safety critical 
 
 * [JPL C coding guide (partly MISRA standard)](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
