@@ -72,6 +72,9 @@ Some years ago there were Scroogle site: an anonymous proxy to google. Google ba
 
 * [Vulnerability](https://threatpost.com/intel-patches-nine-year-old-critical-cpu-vulnerability/125331/) [via habrahabr](https://habrahabr.ru/company/kaspersky/blog/328100/)
 * [Cleaning up intel me partition: me_cleaner](https://github.com/corna/me_cleaner/wiki/How-does-it-work%3F) It is recommended to use spi flashing of firmware to do cleanup: [see here](https://github.com/corna/me_cleaner/wiki/External-flashing)
+* [habrahabr: JTAG-USB interface for Intel](https://habrahabr.ru/company/pt/blog/341946/)
+* [News of the story above with some links](https://www.theregister.co.uk/2017/11/09/chipzilla_come_closer_closer_listen_dump_ime/)
+* [Positive Technologies: disabling Intel ME](https://www.theregister.co.uk/2017/11/09/chipzilla_come_closer_closer_listen_dump_ime/)
 
 ## Hacking
 
