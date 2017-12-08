@@ -205,3 +205,14 @@ python -m SimpleHTTPServer <port>
 ```bash
 socat - UNIX-CONNECT:<socket file>
 ```
+
+# Linux: get pair for unix socket
+
+1. Get socket number from ```ls -l /proc/<pid>/fd/<fd>```
+2. Run lsof under root ```lsof | grep <socket number>```. This produces socket address in kernel memory space 0xfff....
+3. Get vmlinux with debug symbols for current kernel [Recipe for ubuntu](https://askubuntu.com/questions/197016/how-to-install-a-package-that-contains-ubuntu-kernel-debug-symbols)
+4. gdb vmlinux /proc/kcore
+5. p ((struct unix_sock*)0xffff8803e256d9c0)->peer (replace 0xffff8803e256d9c0 with socket addr obtained on previous step
+6. grep resulting address in lsof output
+
+[Via stackexchange](https://serverfault.com/questions/252723/how-to-find-other-end-of-unix-socket-connection)
