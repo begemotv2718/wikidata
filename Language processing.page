@@ -18,7 +18,7 @@ categories: language,ML
 
 ## Pymorphy2
 
-Claim to be very fast. Stores information in prefix-stem-suffix form, the full dictionary is about 30Mb, processing speed up to 100kword/sec
+Claim to be very fast. Stores information in prefix-stem-suffix form, the full dictionary is about 30Mb, processing speed up to 100kword/sec. Seems to be able to guess declension for unknown forms.
 
 * [Github](https://github.com/kmike/pymorphy2)
 * [Home page](https://pymorphy2.readthedocs.io/en/latest/)
