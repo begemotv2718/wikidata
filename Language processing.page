@@ -16,6 +16,13 @@ categories: language,ML
 
 # Russian stemming algorithms
 
+## Pymorphy2
+
+Claim to be very fast. Stores information in prefix-stem-suffix form, the full dictionary is about 30Mb, processing speed up to 100kword/sec
+
+* [Github](https://github.com/kmike/pymorphy2)
+* [Home page](https://pymorphy2.readthedocs.io/en/latest/)
+
 ## Stemka -- probabilistic morphoanalyzer
 
 * [stemka: description](http://www.keva.ru/stemka/stemka.html)
