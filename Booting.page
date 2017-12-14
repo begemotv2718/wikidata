@@ -1,0 +1,15 @@
+---
+categories: OS
+...
+
+# U-boot
+
+## Finding out which devicetree is used
+
+* [stackexchange question](https://unix.stackexchange.com/questions/192640/how-do-i-tell-which-device-tree-blob-dtb-file-im-using)
+
+**What I saw**
+
+```bootcmd``` contained ```run fdtdetect```. Apparently, fdtdetect contained ```if $board_name=A335BONE then setenv fdtfile am335x-bone.dtb``` etc. ```printenv board_name``` does the trick.
+
+ 
