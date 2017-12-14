@@ -3,6 +3,7 @@ categories: linux,OS
 ...
 
 * [Kernel](Linux kernel)
+* [Booting]()
 * [Linux networking]()
 * [Linux debugging](Linux debugging)
 * [CUPS printing system]()
