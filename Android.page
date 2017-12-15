@@ -12,3 +12,8 @@ categories: programming,java,work
 * [Gradle: building java libraries](https://guides.gradle.org/building-java-libraries/)
 * [Creating background service](https://developer.android.com/training/run-background-service/create-service.html)
 * [Json serialization: Gson](https://github.com/google/gson/blob/master/UserGuide.md)
+
+# Building for rpi 3
+
+* [Github 1](https://github.com/android-rpi/local_manifests)
+* [Github 2](https://github.com/android-rpi/device_brcm_rpi3)
