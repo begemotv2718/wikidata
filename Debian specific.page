@@ -2,6 +2,23 @@
 categories: linux,debian
 ...
 
+# NFS setup
+
+* [Setting up NFS howto](https://help.ubuntu.com/community/SettingUpNFSHowTo)
+
+## Steps
+
+* ```apt-get install nfs-kernel-server```
+* edit ```/etc/exports```
+* ```service nfs-kernel-server restart```
+
+## Mounting on busybox
+
+```mount -t nfs -o proto=tcp,port=2049,nolock  <ip>:<path> /<dir>````
+
+
+
+
 # Debian cleanup
 
 * ```deborphan``` -- find packages not used by the other packages
