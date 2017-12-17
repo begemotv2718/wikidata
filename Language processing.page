@@ -20,6 +20,12 @@ categories: language,ML
 
 [Machine Learning]()
 
+# Hungarian stemming and processing
+
+* [Snowball hungarian stemmer](http://snowball.tartarus.org/algorithms/hungarian/stemmer.html)
+* Hunspell. Actually has some functions for stemming.
+* [Awesome hungarian nlp](https://github.com/oroszgy/awesome-hungarian-nlp)
+
 # Russian stemming algorithms
 
 ## Pymorphy2
