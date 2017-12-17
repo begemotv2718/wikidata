@@ -2,6 +2,10 @@
 categories: linux,debian
 ...
 
+# Building packages
+
+* [Собираем свой debian-пакет с файлами](https://debian.pro/1390)
+
 # NFS setup
 
 * [Setting up NFS howto](https://help.ubuntu.com/community/SettingUpNFSHowTo)
