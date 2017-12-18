@@ -15,6 +15,11 @@ categories: programming
 
 * [Error handling using Either](https://hackernoon.com/error-handling-in-c-or-why-you-should-use-eithers-in-favor-of-exceptions-and-error-codes-f0640912eb45)
 
+# Books
+
+* Accelerated C++: Practical Programming by Example Andrew Koenig, Barbara E. Moo Recommend on Quora as quickstart guide with practical exercises. 
+* Scott Meyers Effective C++ :  very good for interview preparation.
+
 # C vs C++
 
 * [Quora: Is every valid C program a valid C++ program?](https://www.quora.com/Is-every-valid-C-program-a-valid-C++-program/answer/Sergey-Zubkov-1#) No
