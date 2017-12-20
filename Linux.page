@@ -58,7 +58,7 @@ Kvm options
 Inside the machine
 
 ```
-mount -type 9p -o trans=virtio valgrind /media/disk/
+mount -t 9p -o trans=virtio valgrind /media/disk/
 ```
 
 # Linux on PowerPC Mac
