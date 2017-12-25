@@ -25,8 +25,6 @@ Book reference: Внутренняя речь и мышление / А. Н. Со
 # Devices
 
 * [openbci](http://openbci.com/) ADS1299 based device. 8-channels, 16kHz sampling rate, 24bit depth [schematics(partly)](http://docs.openbci.com/Hardware/02-Cyton#openbci-cyton-openbci-cyton-board-openbci-cyton-board-circuit-schematic)
-* [ADS1299 demonstration kit](http://www.ti.com/tool/ads1299eegfe-pdk) Costs $200 at TI site.
-* [FreeEEG32](https://github.com/neuroidss/FreeEEG32) -- project use 4 AD7770 (8 channels 24 bits each). AD7770 costs 13EUR/piece on mouser. Via Vasily Borisenok
-
-ADS1299 costs somewhat around $80 at mouser.
-
+* [ADS1299 demonstration kit](http://www.ti.com/tool/ads1299eegfe-pdk) Costs $200 at TI site. ADS1299 costs somewhat around $80 at mouser.
+* [FreeEEG32](https://github.com/neuroidss/FreeEEG32) -- project use 4 AD7770 (8 channels 24 bits each). AD7770 costs 13EUR/piece on mouser. Via Vasily Borisenok. [Their site](
+http://neuroidss.com/) Lots of useful references there.
