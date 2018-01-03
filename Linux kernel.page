@@ -107,6 +107,15 @@ Date and time inside module [Stackoverflow: getting date and time in linux kerne
 * [Creating driver for linux](https://habrahabr.ru/post/206148/) -- tty device with parallel port interface
 * [Framebuffer device and usb interface](https://habrahabr.ru/post/164635/)
 
+# Device drivers
+
+## Porting out-of-tree drivers
+
+* [LWN: porting out of tree devices to the new version of kernel](https://lwn.net/Articles/739578/) 
+* [Home page for the tools](http://select-new.gforge.inria.fr/)
+
+Several instruments are suggested by Coccinela author to a) identify necessary changes to driver based on C compiler complains b) identify kernel modules with similar patches
+
 
 
 # Kernel internals
