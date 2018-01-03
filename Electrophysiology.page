@@ -28,3 +28,7 @@ Book reference: Внутренняя речь и мышление / А. Н. Со
 * [ADS1299 demonstration kit](http://www.ti.com/tool/ads1299eegfe-pdk) Costs $200 at TI site. ADS1299 costs somewhat around $80 at mouser.
 * [FreeEEG32](https://github.com/neuroidss/FreeEEG32) -- project use 4 AD7770 (8 channels 24 bits each). AD7770 costs 13EUR/piece on mouser. Via Vasily Borisenok. [Their site](
 http://neuroidss.com/) Lots of useful references there.
+
+# NIRS brain imaging
+
+* [Beyond the visible--imaging the human brain with light.](https://www.ncbi.nlm.nih.gov/pubmed/12500086/) [Via](http://neuroidss.com)
