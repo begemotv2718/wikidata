@@ -11,3 +11,17 @@ categories: hardware, bus_pirate
 | CLK        | SCL   |
 | GND        | GND   |
 
+
+
+# Upgrading firmware
+
+* [General description](http://raspberryalphaomega.org.uk/2014/06/14/upgrading-bus-pirate-firmware/)
+
+Steps
+
+* Download the zip file with upgrade package: [Downloads](https://github.com/DangerousPrototypes/Downloads), [suggested download](https://github.com/DangerousPrototypes/Downloads/blob/master/BusPirate.package.v6.1.zip)
+* Get the ```pirate-loader-lnx``` programm from downloaded zip file.
+* Get the firmware hex file [here](https://github.com/mikebdp2/Bus_Pirate/tree/master/package_latest/BPv3)
+* Check help of pirate-loader
+* shorten GND and PGC headers on the buspirate board (these are holes, not pins)
+* execute ```pirate-loader --hello``` and then upgrade or whatever 
