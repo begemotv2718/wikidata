@@ -87,3 +87,7 @@ lattice-best-path --lm-scale=11 --word-symbol-table=exp/tri2b/graph/words.txt "a
 This generates '*.tra' files.
 
 The '*.tra' files can be further processed with perl script ```int2sym.pl```
+
+# Kaldi for russian 
+
+* [s5 files for russian voxforge, etc.](https://github.com/freerussianasr/recipes)
