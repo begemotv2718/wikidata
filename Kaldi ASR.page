@@ -91,3 +91,4 @@ The '*.tra' files can be further processed with perl script ```int2sym.pl```
 # Kaldi for russian 
 
 * [s5 files for russian voxforge, etc.](https://github.com/freerussianasr/recipes)
+* [Step by step recipe](https://github.com/grib0ed0v/kaldi-for-russian)
