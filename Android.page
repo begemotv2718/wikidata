@@ -13,6 +13,7 @@ categories: programming,java,work
 * [Creating background service](https://developer.android.com/training/run-background-service/create-service.html)
 * [Json serialization: Gson](https://github.com/google/gson/blob/master/UserGuide.md)
 * [Starting main activity: habr](https://habrahabr.ru/post/345120/)
+* [Building from command line](https://stackoverflow.com/questions/15285331/how-to-compile-apk-from-command-line) ```./gradlew build```
 
 # Building for rpi 3
 
