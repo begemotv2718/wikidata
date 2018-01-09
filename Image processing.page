@@ -4,7 +4,7 @@ categories: programming, visualization, image_processing
 
 # Editors
 
-* [G'MIC](http://gmic.eu/)
+* [G'MIC](http://gmic.eu/) Seems to present alternative to imagemagick and PIL. Also provide gimp plugin.
 
 # Image enhancement
 
