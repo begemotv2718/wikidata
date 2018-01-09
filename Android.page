@@ -12,6 +12,7 @@ categories: programming,java,work
 * [Gradle: building java libraries](https://guides.gradle.org/building-java-libraries/)
 * [Creating background service](https://developer.android.com/training/run-background-service/create-service.html)
 * [Json serialization: Gson](https://github.com/google/gson/blob/master/UserGuide.md)
+* [Starting main activity: habr](https://habrahabr.ru/post/345120/)
 
 # Building for rpi 3
 
