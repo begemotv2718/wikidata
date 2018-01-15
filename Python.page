@@ -5,7 +5,11 @@ categories: programming, programming_languages
 # Interesting tools
 
 * [pyrasite - attach to running python process](https://github.com/lmacken/pyrasite)
-* [uncompile -- decompile bytecode](https://pypi.python.org/pypi/uncompyle6)
+* [uncompile -- decompile bytecode](https://pypi.python.org/pypi/uncompyle6)]
+
+# Libraries
+
+* [Quora list of interesting python libraries](https://www.quora.com/What-are-some-of-the-best-libraries-in-Python-for-different-uses/answer/Liam-John-12?srid=ibVo)
 
 # Virtualenv
 
