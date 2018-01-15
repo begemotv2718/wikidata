@@ -24,3 +24,7 @@ Questions:
 
 * NGS: what is the format of raw data?
 * VCF and BAM format
+
+# Biosensors
+
+* [Proposed glucose sensor](https://techxplore.com/news/2017-12-glucose-patch-doesnt-require-skin.html) Idea: use hyaluronic acid to make skin permeable, apply voltage to electrophoretically? extract glucose, measure by traditional means.
