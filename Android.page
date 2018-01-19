@@ -15,6 +15,16 @@ categories: programming,java,work
 * [Starting main activity: habr](https://habrahabr.ru/post/345120/)
 * [Building from command line](https://stackoverflow.com/questions/15285331/how-to-compile-apk-from-command-line) ```./gradlew build```
 
+# Tricks
+
+## Starting application from command line
+
+* [Finding out main activity name](https://stackoverflow.com/questions/15497672/how-to-find-main-activity-in-apk-file-for-robotium-tests)
+    * ```aapt dump badging <apk name> | grep 'launchable-activity:' ```
+
+* Starting with am ```adb shell am start -n <application.main.class/activity.name>```
+
+
 # Building for rpi 3
 
 * [Github 1](https://github.com/android-rpi/local_manifests)
