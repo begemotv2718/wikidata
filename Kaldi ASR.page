@@ -96,6 +96,10 @@ The '*.tra' files can be further processed with perl script ```int2sym.pl```
 
 # Preparing language model: action by file
 
+
+* ``` utils/prepare_lang.sh```
+    * Generate ```L.fst``` and ```L_disambig.fst``` and many other useful files in data/lang
+
 * ```local/voxforge_format_data.sh```
     * Presumably, input files ```data/local/lm.arpa,data/lang/words.txt,data/local/dict/lexicon.txt``` output file 
     * calling ```arpa2fst``` to generate G.fst. Input files: data/local/lm.arpa and data/lang/words.txt  
