@@ -96,8 +96,17 @@ The '*.tra' files can be further processed with perl script ```int2sym.pl```
 
 # Preparing language model: action by file
 
+* ```local/voxforge_prepare_lm.sh```  
+    * Run srilm on ```data/local/{train,test}_trans.txt```
+    * Generates ```data/local/lm.arpa``` and ```data/local/vocab-full.txt```
+
+* ```local/voxforge_prepare_dict.sh```
+    * Download cmu_dict
+    * Prepare lexicon.txt, vocab.txt, etc. using sequitur. Mostly operations on dictionary generating language files
+    * Uses cmu_dict and ```data/local/vocab-full.txt```
 
 * ``` utils/prepare_lang.sh```
+    * Input dependencies????
     * Generate ```L.fst``` and ```L_disambig.fst``` and many other useful files in data/lang
 
 * ```local/voxforge_format_data.sh```
