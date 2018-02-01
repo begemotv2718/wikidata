@@ -14,6 +14,9 @@ categories: linux,OS
 # Other people linux courses
 
 * [Linux journey](https://linuxjourney.com/)
+* [Embedded-linux, bis-linux (via mendoza)](http://bis-linux.com/en/embedded_linux)
+* [Embedded linux, free electrons](https://free-electrons.com/training/embedded-linux/) [Github](https://github.com/spark85/embedded-linux-training)
+* [Linux device drivers, free electrons](https://free-electrons.com/training/kernel/)
 
 # Moving part of disk to new partition
 
