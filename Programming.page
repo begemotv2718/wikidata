@@ -99,6 +99,7 @@ Rosette is a solver-aided programming language that extends Racket with language
 
 * Valgrind is an obvious candidate here
 * [Intel PIN library](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) Commercial free as a beer program. Claims to be faster than valgrind.
+* [Paradyn/Dyninst: virtual machines and so on](http://www.dyninst.org/) [wikipedia](https://ru.wikipedia.org/wiki/DynInst)
 
 # Linking
 
