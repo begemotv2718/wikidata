@@ -118,3 +118,16 @@ The '*.tra' files can be further processed with perl script ```int2sym.pl```
 ## Additional notes
 
 * Librispeech training seemingly use external language model
+
+
+# FSTs for language models
+
+## Using jsgf models
+
+* [Main info from here](https://groups.google.com/forum/#!topic/kaldi-help/9r6mea7aJVc)
+
+**Summary**
+
+* sphinx has ```sphinx_jsgf2fsg``` tool. ```sphinxbase/src/sphinx_jsgf2fsg/.libs/sphinx_jsgf2fsg```
+* Openfst has ```fstcompile```
+* [Vasily Panayotov explanation of decoding graphs](http://vpanayotov.blogspot.com.by/2012/06/kaldi-decoding-graph-construction.html) 
