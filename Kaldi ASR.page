@@ -115,3 +115,6 @@ The '*.tra' files can be further processed with perl script ```int2sym.pl```
     * Run diagnostics that the generated G.fst does not have cycles with empty words in them (also requires file data/local/dict/lexicon.txt) 
     * copies a lot of files (including L.fst, L_disambig.fst, phones, etc into ```data/lang_test/```
 
+## Additional notes
+
+* Librispeech training seemingly use external language model
