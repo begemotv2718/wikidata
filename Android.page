@@ -34,3 +34,8 @@ categories: programming,java,work
 
 * [Github](https://github.com/thedrhax-dockerfiles/android-sdk/blob/master/Dockerfile)
 
+# Useful tricks
+
+* [Read binary data through adb](https://stackoverflow.com/questions/13578416/read-binary-stdout-data-from-adb-shell) 
+    * Summary ```adb exec-out screencap -p > /tmp/screencap.png``` (in this case ```screencap -p``` is a command producing binary output)
+* [Screen capture](https://blog.shvetsov.com/2013/02/grab-android-screenshot-to-computer-via.html) ```adb shell screencap -p filename```
