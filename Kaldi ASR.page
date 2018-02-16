@@ -131,3 +131,20 @@ The '*.tra' files can be further processed with perl script ```int2sym.pl```
 * sphinx has ```sphinx_jsgf2fsg``` tool. ```sphinxbase/src/sphinx_jsgf2fsg/.libs/sphinx_jsgf2fsg```
 * Openfst has ```fstcompile```
 * [Vasily Panayotov explanation of decoding graphs](http://vpanayotov.blogspot.com.by/2012/06/kaldi-decoding-graph-construction.html) 
+
+
+# Adding nnet models
+
+* [Page on kaldi wiki: Deep neural networks in kaldi](http://kaldi-asr.org/doc/dnn.html) Minimal information (nnet -- first generation model, nnet2 -- second, nnet3 -- newest). Links to papers. Models are mutually incompatible.
+
+## Transposing russian model to nnet3.
+
+Russian model use only first generation nnet. The script ```voxforge_ru/local/nnet/run_dnn.sh``` can be compared to ```run_dnn.sh``` in other directories. 
+
+The minimally differing examples: 
+
+* 4% ```hkust/s5/local/nnet/run_dnn.sh```
+* 5% ```tedlium/s5/local/nnet/run_dnn.sh```
+* 5% ```swbd/s5b/local/nnet/run_dnn.sh```
+
+These models have nnet3 also implemented. We should check how nnet3 script is invoked in training these models and then copy this to voxforge_ru.
