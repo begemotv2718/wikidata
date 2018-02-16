@@ -148,3 +148,9 @@ The minimally differing examples:
 * 5% ```swbd/s5b/local/nnet/run_dnn.sh```
 
 These models have nnet3 also implemented. We should check how nnet3 script is invoked in training these models and then copy this to voxforge_ru.
+
+Tedlium doesn't have nnet3 script embedded into ```run.sh```, it rather have ```local/nnet3/README``` with the following recipe:
+
+* run.sh
+* local/nnet3/run_tdnn.sh
+* local/nnet3/run_tdnn_discriminative.sh
