@@ -224,6 +224,14 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 
 * [Useful jupiter extensions](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
 
+
+# Personality by text
+
+* [Applymagicksauce demo](https://applymagicsauce.com/demo.html)
+* [Watson personality](https://console.bluemix.net/catalog/services/personality-insights)
+* [Paper: Private traits and attributes are predictable from
+digital records of human behavior](http://www.pnas.org/content/pnas/110/15/5802.full.pdf?with-ds=yes)
+
 # See also
 
 * [Visualization]() e.g. for t-SNE
