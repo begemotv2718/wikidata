@@ -86,6 +86,10 @@ Summary
 
 # Measurements
 
+## Bus pirate
+
+* [Bus pirate oscilloscope](http://dangerousprototypes.com/forum/viewtopic.php?t=976)
+
 ## Inductance
 
 * [How to measure capacitance/inductance with mp3 player](http://www.instructables.com/id/How-to-measure-a-capacitor-or-an-inductor-with-mp3/) Idea: get two channels with phase shift and use modified Wheatstone bridge. 
@@ -158,3 +162,4 @@ continue to occur as soon as a data is writte
 # Chips
 
 * [DAC and ADC: PCF8591](https://www.nxp.com/docs/en/data-sheet/PCF8591.pdf)
+
