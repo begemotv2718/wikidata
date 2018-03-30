@@ -44,6 +44,7 @@ See [Language processing](), [Neural network and finite automata]()
 * [Food steganography](https://arxiv.org/abs/1704.03330) [patent application](http://www.freshpatents.com/-dt20150305ptan20150059438.php)
 * [Image2calories](https://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf)
 * [Machine supervised machine learning](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
+* [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/pdf/1604.06174.pdf) [Github: Saving memory using gradient-checkpointing](https://github.com/openai/gradient-checkpointing)
 
 * [GitXiv](http://www.gitxiv.com/) -- mapping between arxiv.org and github repositories.
 
