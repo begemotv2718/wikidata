@@ -5,6 +5,7 @@ categories: hardware,mathematics
 # Type of controllers
 
 * Standard: PID controllers
+    * [Practical PID controller for soldering station: some tricks](http://www.leoniv.diod.club/projects/power/dxs-90/dxs-90.html) dP = Kp * (t[i] - t[i - 1]) - Ki * (tset - t[i]) + Kd * (t[i] - 2 * t[i - 1] + t[i -2])
 * Alternatives
     * [Model predictive control](https://en.wikipedia.org/wiki/Model_predictive_control)
     * [Linear-quadratic regulator](https://en.wikipedia.org/wiki/Linear%E2%80%93quadratic_regulator) proved to be optimal
