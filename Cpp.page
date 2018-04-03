@@ -19,6 +19,10 @@ categories: programming
 
 * Accelerated C++: Practical Programming by Example Andrew Koenig, Barbara E. Moo Recommend on Quora as quickstart guide with practical exercises. 
 * Scott Meyers Effective C++ :  very good for interview preparation.
+* [Book list on Stackoverflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282)
+    * C++ Coding standards (Herb Sutter and Andrei Alexandrescu)
+    * C++ Template Metaprogramming (David Abrahams and Aleksey Gurtovoy)
+    * C++ Concurrency In Action (Anthony Williams) 
 
 # C vs C++
 
