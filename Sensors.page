@@ -324,6 +324,12 @@ General idea: SnO~2~ is a semiconductor with high affinity to oxigen. The agents
 
 * [Hackster.io: Finger tracking with encoded light](https://blog.hackster.io/this-system-uses-encoded-light-for-millimeter-level-finger-tracking-9d0029acc55b) Photosensors on fingers, DLP projector to provide encoded light.
 
+
+# Optical flow
+
+* [Pixart](http://www.pixart.com.tw/product_data.asp?product_id=168&productclassify_id=19&productclassify2_id=53&productclassify_name=Optical%20Motion%20Tracking&productclassify2_name=Optical%20Flow&partnumber=PMW3901MB-TXQT)  small form factor sensor
+* [Pixart with pcb](https://www.tindie.com/products/onehorse/pmw3901-optical-flow-sensor/#product-name) PMW3901
+
 # See also
 
 * [Electrophysiology]()
