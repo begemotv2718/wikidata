@@ -201,6 +201,12 @@ apt-get install dmtx-utils
 * [Maple-mini pwm current]()
 
 
+# Build systems
+
+* OBS -- open build system
+* Phabricator
+* OSTree
+
 # People
 
 * [Leslie Lamport papers](https://lamport.azurewebsites.net/pubs/pubs.html#euclid)
