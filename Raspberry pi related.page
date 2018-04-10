@@ -37,3 +37,16 @@ void put_pixel_RGB565(int x, int y, int r, int g, int b)
 
 }
 ```
+
+# Bare bones raspberry pi
+
+This is a kind of microproject, possibly useful for our course. The idea is to have a minimal startable program that can be used instead of kernel.img on the boot device. The output can be either UART or GPIO.
+
+* OSDEV wiki: [Raspberry pi bare bones](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones)
+* [raspberrypi org asm bare bones](https://www.raspberrypi.org/forums/viewtopic.php?t=201960)
+* Qemu rpi bare bones
+    * [Emulate rpi with qemu](https://azeria-labs.com/emulate-raspberry-pi-with-qemu/)
+    * [U-boot for arm on qemu](https://balau82.wordpress.com/2010/03/10/u-boot-for-arm-on-qemu/)
+    * [Hello world on bare metal qemu](https://balau82.wordpress.com/2010/02/28/hello-world-for-bare-metal-arm-using-qemu/)
+    * [Another simplest program on bare metal qemu](https://balau82.wordpress.com/2010/02/14/simplest-bare-metal-program-for-arm/)
+
