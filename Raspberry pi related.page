@@ -51,3 +51,4 @@ This is a kind of microproject, possibly useful for our course. The idea is to h
     * [Another simplest program on bare metal qemu](https://balau82.wordpress.com/2010/02/14/simplest-bare-metal-program-for-arm/)
 
 * [habr bare bone gpio, based on tutorial for Rust OS](https://habrahabr.ru/post/349248/)
+* Book: Modern Assembly Language Programming with the ARM Processor Autor: Larry D. Pyeatt -- some references on UART
