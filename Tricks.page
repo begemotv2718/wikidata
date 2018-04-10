@@ -216,3 +216,10 @@ socat - UNIX-CONNECT:<socket file>
 6. grep resulting address in lsof output
 
 [Via stackexchange](https://serverfault.com/questions/252723/how-to-find-other-end-of-unix-socket-connection)
+
+# Pretty printing json with python
+
+```
+cat data.json | python -m json.tool
+```
+
