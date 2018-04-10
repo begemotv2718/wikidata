@@ -52,3 +52,13 @@ This is a kind of microproject, possibly useful for our course. The idea is to h
 
 * [habr bare bone gpio, based on tutorial for Rust OS](https://habrahabr.ru/post/349248/)
 * Book: Modern Assembly Language Programming with the ARM Processor Autor: Larry D. Pyeatt -- some references on UART
+
+# U-boot
+
+```
+mmc dev 0  
+fatload mmc 0:1 ${kernel_addr_r} zImage  
+fatload mmc 0:1 0x2000000 bcm2710-rpi-3-b.dtb  
+setenv bootargs 8250.nr_uarts=1 root=/dev/mmcblk0p2 rootwait console=ttyS0,115200
+bootz ${kernel_addr_r} - 0x2000000
+```
