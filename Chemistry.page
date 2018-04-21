@@ -55,7 +55,7 @@ Let's assume the concentration of acid in solution is $c$, and $\alpha c$ is dis
 
 $$\alpha^2 c^2 = K_a (1-\alpha) c $$
 
-From which 
+From which, assuming $(1-\alpha)\simeq 1$
 
 $$[H^+]=\alpha c = \sqrt{K_a c} $$
 
