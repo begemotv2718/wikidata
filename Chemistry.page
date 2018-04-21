@@ -47,6 +47,18 @@ $$pOH=-\log_{10}0.1=1 \to pH=13$$
 
 Also assumed to fully dissociate
 
+## Weak acids
+
+Let's assume the concentration of acid in solution is $c$, and $\alpha c$ is dissociated. The definition of dissociation constant:
+
+[H$^+$][A$^-$]= $K_a$ [HA] 
+
+$$\alpha^2 c^2 = K_a (1-\alpha) c $$
+
+From which 
+
+$$[H^+]=\alpha c = \sqrt{K_a c} $$
+
 ## Basic salts
 
 # Joules Verne
