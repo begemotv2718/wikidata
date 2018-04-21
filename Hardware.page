@@ -50,6 +50,7 @@ For coil wires it is claimed at least 400V strength for ПЭВ-1. The thickness 
 # PCB
 
 * [PCB design]()
+* [PCB manufacturing]()
 
 ## PCB manufacturing
 
@@ -71,7 +72,13 @@ Summary
 * FGK-160 - 320Вт, A5, цена около 2300 руб.
 * FGK-110A - 250Вт, A6, цена около 2950 руб.
 
+### Etching
 
+Rp 1
+
+* Hydrogen peroxide 3%  -- 100 ml
+* Citric acid 30g
+* NaCl 5g
 
 
 # Measurements
