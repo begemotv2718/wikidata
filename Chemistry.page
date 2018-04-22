@@ -91,6 +91,24 @@ For $H_2 CO_3 $ : $K_{1a}= 4.31\, 10^{-7}$, $K_{2a} = 5.61\, 10^{-11}$
 
 ## Buffer solutions
 
+Consider solution of concentration $c_s$ of salt $MeA$ and $c_a$ of weak acid $HA$, where $Me$ is strong base forming metal,  $A^-$ is a residue of weak acid.
+
+General set of equations:
+
+$$ [H^+]+[Me^+]=[OH^-]+[A^-]$$ 
+(Charge balance)
+$$ [H^+][OH^-]=K_w =10^{-14} $$
+$$ [Me^+]=c_s $$
+$$ [HA]+[A^-]=c_a+c_s $$
+$$ [H^+][A^-]=K_a [HA] $$
+
+Now, assuming that the solution will have acidic reaction we can make simplifying assumption that $[H^+]\gg [OH^-]$, the difference will be at least several order of magnitude. Thus:
+$$[H^+]+c_s \simeq [A^-]$$
+$$[HA]+[H^+]\simeq c_a$$
+$$[H^+]([H^+]+c_s)=K_a(c_a-[H^+])$$
+
+Assuming $$c_s\gg K_a$$ we get $[H^+]=\frac{K_a c_a}{c_s}$.
+
 
 
 # Joules Verne
