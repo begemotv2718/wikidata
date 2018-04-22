@@ -63,6 +63,31 @@ $$[H^+]=\alpha c = \sqrt{K_a c} $$
 
 * [Example of sodium carbonate](http://him.1september.ru/article.php?ID=200401103) [See also the earlier article](http://him.1september.ru/article.php?ID=200400702)
 
+Elaborating sodium carbonate example
+
+$$[H^+][HCO_3^-] = K_{1a} [H_2CO_3]$$
+$$[H^+][CO_3^{2-}]= K_{2a} [HCO_3^-]$$ (*)
+
+We assume that sodium carbonate fully dissociate, thus $[Na^+]=c_{Na_2 CO_3}$. We denote $c_{Na_2 CO_3}$ as $c_s$.
+Since there is no carbon dioxide escaping, we assume that only second stage reaction takes place: 
+
+$$ HOH + CO_3^{2-} = OH^- + HCO_3^- $$
+
+We assume that we get almost all $OH^-$ from this reaction. Thus we assume $[OH^-]\simeq [HO_3^-] = \alpha c_s$.
+Since $[HCO_3^-]+[CO_3^{2-}]=c_s$ (we assumed $Na_2 CO_3$ to fully dissociate), the concentration  $[CO_3^{2-}]=(1-\alpha)c_s$.
+
+To express $[H^+]$ in (*), note that $[H^+][OH^-]=K_w=10^{-14}$. 
+
+
+$[H^+][CO_3^{2-}]= K_{2a} [HCO_3^-]$ $\to$ $\frac{K_w}{[OH^-]} (1-\alpha) c_s = K_{2a} [OH^-]$ $\to$  $\frac{K_w}{\alpha c_s} (1-\alpha c_s) = K_{2a} \alpha c_s$.
+
+$$\frac{\alpha^2}{1-\alpha} = \frac{K_w}{K_{2a} c_s}$$. 
+
+Assuming $\alpha\ll 1$, we get 
+
+$$ [OH^-] = \alpha c_s = \sqrt{\frac{K_w}{K_{2a}} c_s} $$.
+
+
 
 # Joules Verne
 
