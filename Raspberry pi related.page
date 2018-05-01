@@ -53,6 +53,11 @@ This is a kind of microproject, possibly useful for our course. The idea is to h
 * [habr bare bone gpio, based on tutorial for Rust OS](https://habrahabr.ru/post/349248/)
 * Book: Modern Assembly Language Programming with the ARM Processor Autor: Larry D. Pyeatt -- some references on UART
 
+# GPIO map, altunctions
+
+* [map on elinux](https://elinux.org/RPi_BCM2835_GPIOs)
+* [BCM2835 datasheet](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2835/BCM2835-ARM-Peripherals.pdf) Note: 2837 datasheet is not available
+
 # U-boot
 
 ```
