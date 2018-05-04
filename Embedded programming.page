@@ -15,6 +15,8 @@ categories: programming, linux, embedded, hardware
     * [Author's blog](https://betterembsw.blogspot.com.by/)
     * [Book table of content](http://koopman.us/bess/bess_contents.pdf)
 
+* [Cyclomatic complexity book](https://play.google.com/store/books/details?id=lysRzUZhc2QC&rdid=book-lysRzUZhc2QC&rdot=1) (Structured Testing: A Testing Methodology Using the Cyclomatic Complexity Metric, Volume 13)
+
 # RTOS and stuff
 
 * [LUA bare metal system](https://github.com/whitecatboard/Lua-RTOS-ESP32)
