@@ -7,6 +7,10 @@ categories: programming
 * [Как самого себя проверить на знание cpp](http://web.archive.org/web/20151210100025/http://rsdn.ru/forum/cpp/1870577)
 * [Ответы Achtung: местами подозрительные](http://web.archive.org/web/20160606080810/http://files.rsdn.ru/80291/cpp_answers.txt)
 
+# Smart pointers
+
+* [Smart pointers guidelines](https://www.chromium.org/developers/smart-pointer-guidelines)
+
 # Move semantics in C++11
 
 * [Rvalue references and move semantics in c++11](http://www.cprogramming.com/c++11/rvalue-references-and-move-semantics-in-c++11.html)
