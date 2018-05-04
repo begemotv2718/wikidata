@@ -19,3 +19,12 @@ categories: programming,concurrent_programming,multithreading
 # Go,erlang, scala
 
 * [Modern concurrency:Erlang, Scala, Go, Clojureby Alexey Kachayev, 2013](http://kachayev.github.io/talks/kharkivpy%230/#/)
+    * Problems with locks
+        * No composability
+        * Break incapsulation
+        * Easy to break by taking lock improperly
+    * Modern concurrency
+        * Software transaction memory (implemented in Closure and Haskell(imho))
+        * Actors (AKA erlang and scala) Seems that Go channels also go along this line
+        * Dataflow concurrency
+
