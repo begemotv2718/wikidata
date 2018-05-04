@@ -11,6 +11,8 @@ categories: programming, linux, embedded, hardware
 * [M. Barr et al Programming Embedded Systems: With C and GNU Development Tools, 2nd Edition -- Amazon](https://www.amazon.com/dp/0596009836/netrino)
 * [Habr: отладка самолета](https://habrahabr.ru/post/202184/)
 
+* [Koopman site with lectures on embedded software](https://users.ece.cmu.edu/~koopman/lectures/)
+
 # RTOS and stuff
 
 * [LUA bare metal system](https://github.com/whitecatboard/Lua-RTOS-ESP32)
