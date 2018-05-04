@@ -7,3 +7,4 @@ categories: programming,concurrent_programming,multithreading
 * [POSIX message queues](www.csc.villanova.edu/~mdamian/threads/posixsem.html)
 * [Synchronization primitives in Linux kernel](https://0xax.gitbooks.io/linux-insides/content/SyncPrim/)
 * [A little book on semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
+* [Tutorial: Multithreaded Programming (POSIX pthreads Tutorial)](https://randu.org/tutorials/threads/)
