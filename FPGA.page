@@ -95,3 +95,4 @@ iceprog leds.bin
 # Libraries
 
 * [FFT](https://github.com/capitanov/fp23fftk/)
+* [Opencores](https://opencores.org/)
