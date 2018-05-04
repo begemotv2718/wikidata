@@ -1,0 +1,11 @@
+---
+categories: programming, java, android, projects
+...
+
+# Description
+
+Mihaly Csikszentmihalyi introduced experience sampling method as a way to study mood variations depending on environment conditions (and by the way to check if the person is in the flow state). It seems that very simple android application that calls alarm and display form at random time can be useful for self research. There is no such tool as far as I know. I asked this question on Facebook, people suggested me Remmina application (which apparently never check mood at random), and some supplement to fitness tracker.
+
+# Research so far
+
+* [java setting alarm](https://stackoverflow.com/questions/20208479/android-alarmmanager-start-a-service-with-ringtone)
