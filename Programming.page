@@ -196,10 +196,7 @@ apt-get install dmtx-utils
 # Multithreading
 * [Multithreading]()
 
-* [Free electron presentation on posix-api](https://bootlin.com/doc/legacy/posix/posix-api.pdf)
-* [POSIX message queues](www.csc.villanova.edu/~mdamian/threads/posixsem.html)
-* [Synchronization primitives in Linux kernel](https://0xax.gitbooks.io/linux-insides/content/SyncPrim/)
-* [A little book on semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
+
 
 # Personal projects
 
