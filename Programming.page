@@ -71,7 +71,7 @@ categories: programming
 
 * Static code graph generation
     * [ncc](http://students.ceid.upatras.gr/~sxanth/ncc/)
-    * [codeviz](http://freshmeat.sourceforge.net/projects/codeviz/)
+    * [codeviz](http://freshmeat.sourceforge.net/projects/codeviz/) [Github?](https://github.com/petersenna/codeviz)
     * Commercial:  DMS Software Reengineering Toolkit (via [StackOverflow](https://stackoverflow.com/questions/9470871/static-call-graph-generation-for-the-linux-kernel)
 
 ## Haskell
