@@ -59,6 +59,12 @@ iceprog leds.bin
 
 * [ohwr](http://www.ohwr.org/projects/)
 * [librecores](https://www.librecores.org/)
+* [Opencores](https://opencores.org/)
+
+## Libraries
+
+* [FFT](https://github.com/capitanov/fp23fftk/)
+
 
 # Software defined radio and FPGA
 
@@ -92,7 +98,3 @@ iceprog leds.bin
 
 * [Clash -- haskell for hardware]()
 
-# Libraries
-
-* [FFT](https://github.com/capitanov/fp23fftk/)
-* [Opencores](https://opencores.org/)
