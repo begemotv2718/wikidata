@@ -12,6 +12,7 @@ categories: programming,concurrent_programming,multithreading
 * [POSIX message queues](www.csc.villanova.edu/~mdamian/threads/posixsem.html)
 * [Tutorial: Multithreaded Programming (POSIX pthreads Tutorial)](https://randu.org/tutorials/threads/)
 * [POSIX has become outdated](http://www.cs.columbia.edu/~vatlidak/resources/POSIXmagazine.pdf) Analysis of IPC for real application in Linux, Android and OSX. Nobody use posix queues;).
+* [Modern multithreading](http://read.pudn.com/downloads154/ebook/679157/MODERN%20MULTITHREADING.pdf)
 
 # Semaphores
 
