@@ -69,6 +69,11 @@ categories: programming
 
 * [VCC](https://vcc.codeplex.com/) Tool by Microsoft research. Has only non-commercial/research [license](http://vcc.codeplex.com/license). But the source code is [available](https://vcc.codeplex.com/SourceControl/latest). Internally it use [SMT solvers](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) (relatives of [SAT Solvers](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#Algorithms_for_solving_SAT))
 
+* Static code graph generation
+    * [ncc](http://students.ceid.upatras.gr/~sxanth/ncc/)
+    * [codeviz](http://freshmeat.sourceforge.net/projects/codeviz/)
+    * Commercial:  DMS Software Reengineering Toolkit (via [StackOverflow](https://stackoverflow.com/questions/9470871/static-call-graph-generation-for-the-linux-kernel)
+
 ## Haskell
 
 [Galois, Inc Merging SMT solvers and programming languages article](http://galois.com/blog/2011/01/merging-smt-solvers-and-programming-languages/) suggest some automatic verificators based on [SMT libraries](http://smtlib.cs.uiowa.edu/). These are [Data.SBV](http://hackage.haskell.org/package/sbv-0.9.7/docs/Data-SBV.html) (prover for bit-operating programs) and [yices-painless](https://donsbot.wordpress.com/2011/01/16/painless-np-complete-problems-an-embedded-dsl-for-smt-solving/) (more general prover).
