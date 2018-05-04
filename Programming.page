@@ -193,6 +193,9 @@ apt-get install dmtx-utils
 
 * zbarcam
 
+# Multithreading
+
+* [Free electron presentation on posix-api](https://bootlin.com/doc/legacy/posix/posix-api.pdf)
 
 # Personal projects
 
