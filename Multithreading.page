@@ -19,6 +19,7 @@ categories: programming,concurrent_programming,multithreading
 * [A little book on semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
 * [Hoare: Communicating sequential processes](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
 
+
 # Go,erlang, scala
 
 * [Modern concurrency:Erlang, Scala, Go, Clojureby Alexey Kachayev, 2013](http://kachayev.github.io/talks/kharkivpy%230/#/)
@@ -30,4 +31,4 @@ categories: programming,concurrent_programming,multithreading
         * Software transaction memory (implemented in Closure and Haskell(imho))
         * Actors (AKA erlang and scala) Seems that Go channels also go along this line
         * Dataflow concurrency
-
+* [Pike: concurrency vs. parallelism](https://vimeo.com/49718712)
