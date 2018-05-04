@@ -91,3 +91,7 @@ iceprog leds.bin
 # Clash: haskell for hardware
 
 * [Clash -- haskell for hardware]()
+
+# Libraries
+
+* [FFT](https://github.com/capitanov/fp23fftk/)
