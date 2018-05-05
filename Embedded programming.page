@@ -23,6 +23,30 @@ categories: programming, linux, embedded, hardware
 
 * [Stack overflow question](https://stackoverflow.com/questions/5731495/can-anyone-explain-the-gcc-cross-compiler-naming-convention) arch-vendor-(os-)abi
 
+## Bare-metal vs linux eabi
+
+From [linaro site](https://wiki.linaro.org/WorkingGroups/ToolChain/FAQ#What_is_the_differences_between_.2BIBw-arm-none-eabi-.2BIB0_and_.2BIBw-arm-linux-gnueabihf.2BIB0.3F_Can_I_use_.2BIBw-arm-linux-gnueabihf.2BIB0_tool_chain_in_bare-metal_environment.3F_How_do_you_know_which_toolchain_binary_to_use_where.3F)
+
+...What is the differences between “arm-none-eabi-” and “arm-linux-gnueabihf”? Can I use “arm-linux-gnueabihf” tool chain in bare-metal environment? How do you know which toolchain binary to use where?
+
+The general form of compiler/linker prefix is as follows:
+
+A-B-C
+
+Where:
+
+    A indicates the target (arm for AArch32 little-endian, aarch64 for AArch64 little-endian).
+    B indicates the vendor (none or unknown for generic) . Note that this is optional (Eg: not present in arm-linux-gnueabihf)
+    C indicates the ABI in use (linux-gnu* for Linux, linux-android* for Android, elf or eabi for ELF based bare-metal). 
+
+C has values which seem odd until you understand the history behind it (basically AArch32 used to have a linux-gnu ABI which got changed so needed a new name so we have linux-gnueabi). For AArch32 we have linux-gnueabi and linux-gnueabihf which indicate soft float, and hard float respectively.
+
+The bare-metal ABI will assume a different C library (newlib for example, or even no C library) to the Linux ABI (which assumes glibc). Therefore, the compiler may make different function calls depending on what it believes is available above and beyond the Standard C library.
+
+Also the bare-metal ABI and Linux ABI for the 32-bit Instruction sets make different assumptions about the storage size of enums and wchar_t which you have to be careful of (not a complete list). And the difference between the 32-bit and 64-bit ABIs are also numerous and subtle (the obvious example being pointer sizes). 
+
+
+
 
 # RTOS and stuff
 
