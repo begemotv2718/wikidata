@@ -56,6 +56,8 @@ Dependencies:
     * Determine zones
     * Show filled areas in zones
     * Run Design rule check (ladybug icon)
+* [Change pad dimensions](https://geektivities.wordpress.com/2008/07/24/kicads-pcbnew-change-pad-dimensions/)
+    * Select pad and edit settings for it
 
 
 ## Kicad library component
