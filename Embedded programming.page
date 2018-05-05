@@ -17,6 +17,13 @@ categories: programming, linux, embedded, hardware
 
 * [Cyclomatic complexity book](https://play.google.com/store/books/details?id=lysRzUZhc2QC&rdid=book-lysRzUZhc2QC&rdot=1) (Structured Testing: A Testing Methodology Using the Cyclomatic Complexity Metric, Volume 13)
 
+# Cross-compilers
+
+## Naming conventions
+
+* [Stack overflow question](https://stackoverflow.com/questions/5731495/can-anyone-explain-the-gcc-cross-compiler-naming-convention) arch-vendor-(os-)abi
+
+
 # RTOS and stuff
 
 * [LUA bare metal system](https://github.com/whitecatboard/Lua-RTOS-ESP32)
