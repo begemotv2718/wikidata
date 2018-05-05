@@ -50,6 +50,13 @@ Dependencies:
 * [Creating custom footprint](http://kicad.txplore.com/?p=111)
 * [Kicad new components](http://store.curiousinventor.com/guides/kicad/new_components)
 
+## Common problems
+
+* [Polygon fill](https://www.wayneandlayne.com/blog/2013/02/26/kicad-tutorial-copper-pours-fills/)
+    * Determine zones
+    * Show filled areas in zones
+    * Run Design rule check (ladybug icon)
+
 
 ## Kicad library component
 
