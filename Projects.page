@@ -1,0 +1,13 @@
+---
+category: projects
+...
+
+# Laser cutter and boxes
+
+[Boxes repository](https://github.com/florianfesti/boxes) provide scripts to generate nice boxes for laser cutter. However, I need to manually rearrange the parts before cutting, because the boxes script does not attempt to fit the parts into available plywood sheet. Is it possible to automatically pack rectangles into a bigger rectangle?
+
+[Stackoverflow](https://stackoverflow.com/questions/11724066/tiling-different-size-rectangles) apparently has this question. 
+
+Suggestions:
+
+* [Wiki: packing problem](https://en.wikipedia.org/wiki/Packing_problems#Different_rectangles_in_a_rectangle) refer to the following [algorithm implementation](https://www.codeproject.com/Articles/210979/Fast-optimizing-rectangle-packing-algorithm-for-bu). This has code in C# implementing the algorithm
