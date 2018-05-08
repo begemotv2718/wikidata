@@ -89,12 +89,14 @@ For coil wires it is claimed at least 400V strength for ПЭВ-1. The thickness 
 
 * [Choosing a SMT capacitor pdf](https://www.digikey.sg/Web%20Export/Supplier%20Content/Kemet_399/PDF/Kemet_CeramicorFilmSMD.pdf)
 * [Youtube demonstration for different types of capacitors](https://www.youtube.com/watch?v=67M7fsbLUIU)
+* [Ceramic vs aluminium vs tantalum](http://www.dataweek.co.za/news.aspx?pklnewsid=27008)
 
 * Summary
     * Ceramic capacitors (X7R, X5R, Zxx are cheap, but have 2 problems: huge temperature drift and microphone effect). Good in decoupling although.
     * Stable small value capacitors: silver mica, NP0 ceramic.
     * Audio circuits: polystyrene, polypropylene. 
     * Paper capacitors degrade quickly (leak current).
+    * Aluminium capacitors are no good at frequencies above 100kHz. Tantalum is only 5x better. High value ceramic may work as replacement in 1uF -- 10uF range.
 
 # Audio
 
