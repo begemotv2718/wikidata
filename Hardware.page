@@ -83,6 +83,12 @@ For coil wires it is claimed at least 400V strength for ПЭВ-1. The thickness 
 
 * [Optimal control]()
 
+# Components
+
+## Capacitors
+
+* [Choosing a SMT capacitor pdf](https://www.digikey.sg/Web%20Export/Supplier%20Content/Kemet_399/PDF/Kemet_CeramicorFilmSMD.pdf)
+
 # Audio
 
 * [USB audio card](http://www.ti.com/lit/ds/symlink/pcm2707.pdf)
