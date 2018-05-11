@@ -29,3 +29,13 @@ categories: SDR, hardware, programming
 # Coding and modulation
 
 * [JT65](https://www.sigidwiki.com/wiki/JT65)
+
+# Interesting transmissions
+
+## ISS
+
+International space station has SSTV transmitter in Russian module. Frequency is 145.800MHz. [Here](https://amsat-uk.org/beginners/iss-sstv/) is some more details. ISS position tracking is available [here](https://www.issfanclub.com/)
+
+[Issfanclub](https://www.issfanclub.com/) also anounces some transmissions.
+
+[Sending data to ISS via APRS protocol](https://smpda.com/articles_05_ham_aprs_iss_01.html)
