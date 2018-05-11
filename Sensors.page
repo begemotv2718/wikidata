@@ -226,6 +226,7 @@ This module was used to provide reference for internal oscillator on sound card 
 ## Interesting libraries and spoofing
 
 * [Github osqzss](https://github.com/osqzss)
+* [Paper on spoofing](https://priyasloka.wordpress.com/2018/04/08/gps-simulation-using-hackrf/)
 
 # FLIR -- Deep infrared cameras
 
