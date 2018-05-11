@@ -53,3 +53,16 @@ git branch -m master old_master
 git branch -m new_branch master
 ```
 
+# Git with submodules
+
+First time after checking out repository with submodules
+
+```
+git submodule update --init --recursive
+```
+
+Subsequently
+
+```
+git submodule update --recursive
+```
