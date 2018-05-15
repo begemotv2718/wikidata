@@ -119,6 +119,14 @@ Some links found by investigations
 
 # Device drivers
 
+## Industrial io subsystem
+
+Subsystem for slow ADC like devices or sensors that does not fit into input or hwmon class.
+
+* [Analog devices presentation](https://wiki.analog.com/software/linux/docs/iio/iio)
+* [Presentation](https://events.static.linuxfound.org/sites/events/files/slides/lceu15_baluta.pdf)
+
+ 
 
 ## Porting out-of-tree drivers
 
