@@ -209,6 +209,10 @@ apt-get install dmtx-utils
 * Phabricator
 * OSTree
 
+# UML
+
+* [PlantUML draw UML from text description](http://plantuml.com/)
+
 # People
 
 * [Leslie Lamport papers](https://lamport.azurewebsites.net/pubs/pubs.html#euclid)
