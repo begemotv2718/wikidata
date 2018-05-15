@@ -126,7 +126,14 @@ Subsystem for slow ADC like devices or sensors that does not fit into input or h
 * [Analog devices presentation](https://wiki.analog.com/software/linux/docs/iio/iio)
 * [Presentation](https://events.static.linuxfound.org/sites/events/files/slides/lceu15_baluta.pdf)
 * [Another presentation](https://elinux.org/images/b/ba/ELC_2017_-_Industrial_IO_and_You-_Nonsense_Hacks%21.pdf)
- 
+
+## Misc subsystem 
+
+Misc subsystem is for small character devices. Share the same major number (10), dynamic minor number
+
+* [Miscellaneous Character Drivers: Linux Journal](https://www.linuxjournal.com/article/2920)
+* [Essential linux device drivers: misc devices](http://www.embeddedlinux.org.cn/essentiallinuxdevicedrivers/final/ch05lev1sec7.html)
+
 
 ## Porting out-of-tree drivers
 
