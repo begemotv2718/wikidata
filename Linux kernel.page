@@ -107,7 +107,17 @@ Date and time inside module [Stackoverflow: getting date and time in linux kerne
 * [Creating driver for linux](https://habrahabr.ru/post/206148/) -- tty device with parallel port interface
 * [Framebuffer device and usb interface](https://habrahabr.ru/post/164635/)
 
+## Devres subsystem
+
+The story started from LVEE talk [Typical mistakes when submitting a new code to Linux kernel](https://lvee.org/ru/abstracts/240) (video available at [0x1.tv](http://0x1.tv/20170423C) ).
+
+Some links found by investigations
+
+* [devres -- kernel documentation reference](https://www.kernel.org/doc/Documentation/driver-model/devres.txt)
+* [LWN article](https://lwn.net/Articles/222860/) ([introduction patch](https://lwn.net/Articles/215861/) 
+
 # Device drivers
+
 
 ## Porting out-of-tree drivers
 
@@ -126,10 +136,6 @@ Several instruments are suggested by Coccinela author to a) identify necessary c
 ## Kernel map
 
 * [Interactive kernel map](http://www.makelinux.net/kernel_map/)
-
-# Best practices
-
-* [devres -- memory management](https://www.kernel.org/doc/Documentation/driver-model/devres.txt)
 
 # Kernel debug
 
