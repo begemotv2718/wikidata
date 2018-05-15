@@ -114,7 +114,8 @@ The story started from LVEE talk [Typical mistakes when submitting a new code to
 Some links found by investigations
 
 * [devres -- kernel documentation reference](https://www.kernel.org/doc/Documentation/driver-model/devres.txt)
-* [LWN article](https://lwn.net/Articles/222860/) ([introduction patch](https://lwn.net/Articles/215861/) 
+* [LWN article](https://lwn.net/Articles/222860/) ([introduction patch](https://lwn.net/Articles/215861/)
+* [Lecture - Eli Billauer](http://haifux.org/lectures/323/)
 
 # Device drivers
 
