@@ -142,7 +142,9 @@ Misc subsystem is for small character devices. Share the same major number (10),
 
 Several instruments are suggested by Coccinela author to a) identify necessary changes to driver based on C compiler complains b) identify kernel modules with similar patches
 
+## Videos
 
+* [Разработка модулей ядра Linux: Кирилл Кринкин](https://www.youtube.com/playlist?list=PLwwk4BHih4fjcK0dl7sAVCmT1LD-8sVUg)
 
 # Kernel internals
 
@@ -152,6 +154,8 @@ Several instruments are suggested by Coccinela author to a) identify necessary c
 ## Kernel map
 
 * [Interactive kernel map](http://www.makelinux.net/kernel_map/)
+
+
 
 # Kernel debug
 
