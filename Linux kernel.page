@@ -122,6 +122,10 @@ Some links found by investigations
 
 # Device drivers
 
+## Books
+
+* Essential linux device drivers [Source code examples](https://elinuxdd.com/~elinuxdd/elinuxdd.docs/listings/)
+
 ## Industrial io subsystem
 
 Subsystem for slow ADC like devices or sensors that does not fit into input or hwmon class.
