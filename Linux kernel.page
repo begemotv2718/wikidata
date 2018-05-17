@@ -15,6 +15,9 @@ categories: linux, kernel
 * [Device tree misteries on elinux.org](https://elinux.org/Device_Tree_Mysteries) Contains quite comprehencive explanation of phandles and quite incomprehencive explanation of #xxx-cells properties.
 * [Device tree for raspberry-pi: Nice explanation of overlays and parameters](https://github.com/raspberrypi/documentation/blob/master/configuration/device-tree.md)
 
+## Videos
+
+* [Device Tree for Dummies! - Thomas Petazzoni](https://www.youtube.com/watch?v=m_NyYEBxfn8)
 
 # Kernel and networking
 
