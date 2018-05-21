@@ -48,12 +48,15 @@ SLE is a type of conformal map from upper half-plane to the domain bounded by st
 * [Lectures on SLE](http://www.statslab.cam.ac.uk/~james/Lectures/sle.pdf)
 
 Cardy starts from pointing out analogies with various Ising problems. Indeed, the domain boundaries in Ising model are stochastic walks, moreover, some Ising models can be reformulated as sums over such walks. Further on I didn't manage to proceed.
+
 # Blogs
 
 * [Mathblogging.org](https://mathblogging.org/)
 * [Concrete nonsense](https://concretenonsense.wordpress.com/2011/02/26/harmonic-oscillators-integrable-systems-and-the-arnold-liouville-theorem/)
 
 * [Wolfram on special functions](http://www.stephenwolfram.com/publications/history-future-special-functions/) Discuss Gradstein-Ryzhik (not very interesting), relations of special functions.
+
+* [Polymath blogs (from guy with plane chromatic number result)](https://polymathprojects.org/)
 
 # Talks
 
