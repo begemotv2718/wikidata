@@ -239,6 +239,11 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 
 * [Applymagicksauce demo](https://applymagicsauce.com/demo.html)
 * [Watson personality](https://console.bluemix.net/catalog/services/personality-insights)
+    * [Science behind Watson personality](https://console.bluemix.net/docs/services/personality-insights/science.html)
+        * Mean average error is about 0.10, which is good. But correlation with the actual characteristic is about 0.33 at max
+        * Use GLoVe version of word2vec to build text representation. Not clear how this is processed further.
+    * [Input formats, etc.](https://console.bluemix.net/docs/services/personality-insights/input.htm)
+
 * [Paper: Private traits and attributes are predictable from
 digital records of human behavior](http://www.pnas.org/content/pnas/110/15/5802.full.pdf?with-ds=yes)
 
