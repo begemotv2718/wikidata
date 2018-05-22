@@ -157,6 +157,7 @@ Several instruments are suggested by Coccinela author to a) identify necessary c
 
 * [Разработка модулей ядра Linux: Кирилл Кринкин](https://www.youtube.com/playlist?list=PLwwk4BHih4fjcK0dl7sAVCmT1LD-8sVUg)
 * [Solidus code: simple char device (not very good), usb device](https://www.youtube.com/playlist?list=PL16941B715F5507C5)
+* [НОУ ИНТУИТ ядро Линукс (mostly VFS, network, scheduler)](https://www.youtube.com/playlist?list=PLDrmKwRSNx7Ja7NAt21HgNAIlTvJJ4Kso)
 
 # Kernel internals
 
