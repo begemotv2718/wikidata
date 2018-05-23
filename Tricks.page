@@ -235,3 +235,7 @@ Short version, as pointed out by @aurelijus-rozenas:
 rsync -P -e ssh local_file user@host:remote_file
 ```
 Via [stackoverflow](https://stackoverflow.com/questions/20860896/is-there-a-way-to-continue-broken-scp-secure-copy-command-process-in-linux)
+
+# Youtube-dl for live events
+
+* [Stackoverflow answer](https://stackoverflow.com/questions/37040798/how-do-you-use-youtube-dl-to-download-live-streams-that-are-live)
