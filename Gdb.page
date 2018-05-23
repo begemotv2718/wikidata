@@ -2,7 +2,7 @@
 categories: programming,C,linux
 ...
 
-Specifying source directories: 
+# Specifying source directories: 
 
 ```show directories```
 ```set directories=```
@@ -12,3 +12,8 @@ If sources are moved and the part of path is changed
 ```set substitute-path /foo/bar /mnt/cross```
 
 This is from [here](https://sourceware.org/gdb/onlinedocs/gdb/Source-Path.html)
+
+# Watching class local variable
+
+* Print variable address ```p &bar```
+* Set watchpoint to the address ```watch *<addr of bar>```
