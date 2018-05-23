@@ -223,3 +223,15 @@ socat - UNIX-CONNECT:<socket file>
 cat data.json | python -m json.tool
 ```
 
+# Resume scp transfer
+
+```
+rsync --partial --progress --rsh=ssh local_file user@host:remote_file
+```
+
+Short version, as pointed out by @aurelijus-rozenas:
+
+```
+rsync -P -e ssh local_file user@host:remote_file
+```
+Via [stackoverflow](https://stackoverflow.com/questions/20860896/is-there-a-way-to-continue-broken-scp-secure-copy-command-process-in-linux)
