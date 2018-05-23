@@ -134,16 +134,7 @@ In theory, when linking something, only the needed libraries are passed to the c
 
 ## GDB
 
-Specifying source directories: 
-
-```show directories```
-```set directories=```
-```directory <path>```
-
-If sources are moved and the part of path is changed
-```set substitute-path /foo/bar /mnt/cross```
-
-This is from [here](https://sourceware.org/gdb/onlinedocs/gdb/Source-Path.html)
+[Gdb]()
 
 # Graphics
 
