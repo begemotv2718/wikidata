@@ -17,3 +17,7 @@ This is from [here](https://sourceware.org/gdb/onlinedocs/gdb/Source-Path.html)
 
 * Print variable address ```p &bar```
 * Set watchpoint to the address ```watch *<addr of bar>```
+
+# Find if the variable is on heap or stack
+
+```/proc/<pid>/mapping``` or ```info proc mapping```
