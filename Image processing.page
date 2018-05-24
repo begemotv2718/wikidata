@@ -31,6 +31,19 @@ categories: programming, visualization, image_processing
 
 * [Online SVG editor](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html#move_front)
 
+# Metapost
+
+## SVG output
+
+```
+mpost -s 'outputformat="svg"' -s 'outputtemplate="%j-%c.%o"' file.mp
+```
+
+## All including eps output
+
+```
+mpost -s 'prologues=3"' -s 'outputtemplate="%j-%c.%o"' code.mp
+```
 
 # See also 
 
