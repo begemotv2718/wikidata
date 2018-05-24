@@ -60,6 +60,12 @@ Some years ago there were Scroogle site: an anonymous proxy to google. Google ba
 
 * [FreeOTFE -- windows encryption (now defunct?)](http://web.archive.org/web/20061008032318/http://www.freeotfe.org/docs/index.htm)
 
+# Hashing
+
+## MD5 collisions
+
+* [Project hashclash](https://marc-stevens.nl/p/hashclash/) [Another page with more references](http://www.win.tue.nl/hashclash/) [github](https://github.com/cr-marcstevens/hashclash)
+
 # OS
 
 * [Liberté Linux Documentation](https://dee.su/liberte-documentation) [Liberté Linux](https://dee.su/liberte) is a secure, reliable, lightweight and easy to use Gentoo-based LiveUSB/SD/CD Linux distribution with the primary purpose of enabling anyone to communicate safely and covertly in hostile environments.
