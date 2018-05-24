@@ -64,6 +64,12 @@ Some years ago there were Scroogle site: an anonymous proxy to google. Google ba
 
 ## MD5 collisions
 
+[Via stackoverflow](https://stackoverflow.com/questions/13445002/md5-collision-for-known-input):
+Unitl now no algorithm has been discovered that allows you to find a matching input that will generate a given md5 hash.
+
+What has been proven is that you can create md5 collisions quite easily, for example with what is known as chosen-prefix-collision: you can create two files yielding the same md5 hash by appending different data to a specified file. This is realized in project hashclash below
+
+
 * [Project hashclash](https://marc-stevens.nl/p/hashclash/) [Another page with more references](http://www.win.tue.nl/hashclash/) [github](https://github.com/cr-marcstevens/hashclash)
 
 # OS
