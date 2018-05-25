@@ -239,3 +239,9 @@ Via [stackoverflow](https://stackoverflow.com/questions/20860896/is-there-a-way-
 # Youtube-dl for live events
 
 * [Stackoverflow answer](https://stackoverflow.com/questions/37040798/how-do-you-use-youtube-dl-to-download-live-streams-that-are-live)
+
+# Unzip file with dos866 encoded filenames
+
+```
+unzip -l -O dos866 file.zip
+```
