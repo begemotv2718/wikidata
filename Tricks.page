@@ -245,3 +245,13 @@ Via [stackoverflow](https://stackoverflow.com/questions/20860896/is-there-a-way-
 ```
 unzip -l -O dos866 file.zip
 ```
+
+# Send something via zmodem/xmodem protocol in GNU screen
+
+* [SO question](https://unix.stackexchange.com/questions/56614/send-file-by-xmodem-or-kermit-protocol-with-gnu-screen)
+
+## Solution
+
+* Install lrzsz
+* In screen: ```Ctrl-A :``` (command mode)
+* ```exec !! sx file.bin```
