@@ -1,3 +1,10 @@
 ---
 categories: linux,kernel,X
 ...
+
+# Description from en. wiki
+
+The Direct Rendering Manager was created to allow multiple programs to use video hardware resources cooperatively.[4] The DRM gets exclusive access to the GPU, and it's responsible for initializing and maintaining the command queue, memory, and any other hardware resource. Programs wishing to use the GPU send requests to DRM, which acts as an arbitrator and takes care to avoid possible conflicts.
+
+The scope of DRM has been expanded over the years to cover more functionality previously handled by user space programs, such as framebuffer managing and mode setting, memory sharing objects and memory synchronization.[5][6] Some of these expansions were given specific names, such as Graphics Execution Manager (GEM) or Kernel Mode-Setting (KMS), and the terminology prevails when the functionality they provide is specifically alluded. But they are really parts of the whole kernel DRM subsystem.
+
