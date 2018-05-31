@@ -9,3 +9,8 @@ The Direct Rendering Manager was created to allow multiple programs to use video
 The scope of DRM has been expanded over the years to cover more functionality previously handled by user space programs, such as framebuffer managing and mode setting, memory sharing objects and memory synchronization.[5][6] Some of these expansions were given specific names, such as Graphics Execution Manager (GEM) or Kernel Mode-Setting (KMS), and the terminology prevails when the functionality they provide is specifically alluded. But they are really parts of the whole kernel DRM subsystem.
 
 Device files created: ```/dev/dri/cardX``` and everything else under ```/dev/dri```. Requests are performed through ioctl.
+
+
+# Overview article
+
+* [The DRM/KMS subsystem from a newbie’s point of view](https://events.static.linuxfound.org/sites/events/files/slides/brezillon-drm-kms.pdf)
