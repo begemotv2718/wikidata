@@ -14,3 +14,7 @@ Device files created: ```/dev/dri/cardX``` and everything else under ```/dev/dri
 # Overview article
 
 * [The DRM/KMS subsystem from a newbie’s point of view](https://events.static.linuxfound.org/sites/events/files/slides/brezillon-drm-kms.pdf)
+
+# Raspberry pi and tinydrm
+
+* [raspberry pi vc4 commit](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c8b75bca92cbf064b9fa125fc74a85994452e935)
