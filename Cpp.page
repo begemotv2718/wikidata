@@ -7,6 +7,10 @@ categories: programming
 * [Как самого себя проверить на знание cpp](http://web.archive.org/web/20151210100025/http://rsdn.ru/forum/cpp/1870577)
 * [Ответы Achtung: местами подозрительные](http://web.archive.org/web/20160606080810/http://files.rsdn.ru/80291/cpp_answers.txt)
 
+# Concurrency
+
+* [C++11 Concurrency Tutorial](https://baptiste-wicht.com/posts/2012/03/cpp11-concurrency-part1-start-threads.html)
+
 # Smart pointers
 
 * [Smart pointers guidelines](https://www.chromium.org/developers/smart-pointer-guidelines)
