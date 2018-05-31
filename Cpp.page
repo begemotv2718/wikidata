@@ -14,6 +14,7 @@ categories: programming
 # Move semantics in C++11
 
 * [Rvalue references and move semantics in c++11](http://www.cprogramming.com/c++11/rvalue-references-and-move-semantics-in-c++11.html)
+* [Claimed to be better explanation of rvalue references](http://thbecker.net/articles/rvalue_references/section_01.html)
 
 # Almost functional programming
 
