@@ -28,6 +28,10 @@ categories: programming, programming_languages, haskell
 
 * [Prolog in Haskell]()
 
+# Tools
+
+* [hsenv -- analog of virtualenv](https://hackage.haskell.org/package/hsenv)
+
 # See also
 
 * [Mathematics]()
