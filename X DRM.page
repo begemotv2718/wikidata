@@ -33,6 +33,6 @@ According to vc4 source code [vc4_drv.c](https://elixir.bootlin.com/linux/latest
 
 Questions wtf is :
 
-* DSI
+* DSI (apparently Display serial interface)
 * DPI
 * CRTC
