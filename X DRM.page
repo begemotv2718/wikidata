@@ -22,10 +22,15 @@ Device files created: ```/dev/dri/cardX``` and everything else under ```/dev/dri
 
 Apparently (according e.g. to [this guy](https://medium.com/@meghana.madhyastha/outreachy-setting-up-raspberry-pi-3-bfe53f9d15c8) ) it is enough to get device supported by tinydrm and to use vc4 to have display with graphic acceleration.
 
+Another confirmation about VC4 working with tinydrm [from reddit, Erik Anholt answer](https://www.reddit.com/r/raspberry_pi/comments/85n4xk/question_about_pi_and_those_little_35_displays/)
+
+> If you enable the VC4 graphics driver in raspi-config, then you should be able to also get the SPI panel to work using Noralf's tinydrm drivers. At that point, X can easily attach to either of them using the modesetting driver, though without acceleration on the SPI display. If you want the SPI to be an extension of your HDMI desktop, you probably want to be using something like lightpipe to scrape the HDMI contents and push them across to a second X server with no input devices talking to the SPI.
+
 * [Gentoo guide for raspberry pi VC4](https://wiki.gentoo.org/wiki/Raspberry_Pi_VC4)
 
 
 According to vc4 source code [vc4_drv.c](https://elixir.bootlin.com/linux/latest/source/drivers/gpu/drm/vc4/vc4_drv.c#L308): 
+
 >  The Broadcom VideoCore 4 (present in the Raspberry Pi) contains a
 > OpenGL ES 2.0-compatible 3D engine called V3D, and a highly
 > configurable display output pipeline that supports HDMI, DSI, DPI,
