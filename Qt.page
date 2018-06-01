@@ -1,0 +1,8 @@
+---
+categories: programming,frameworks,graphics,UI
+...
+
+# Threads in Qt
+
+* [Правильное использование QThread - habr](https://habr.com/post/150274/)
+* [Threads, Events and QObjects](http://wiki.qt.io/Threads_Events_QObjects)
