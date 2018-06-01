@@ -18,3 +18,6 @@ Device files created: ```/dev/dri/cardX``` and everything else under ```/dev/dri
 # Raspberry pi and tinydrm
 
 * [raspberry pi vc4 commit](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c8b75bca92cbf064b9fa125fc74a85994452e935)
+
+
+Apparently (according e.g. to [this guy](https://medium.com/@meghana.madhyastha/outreachy-setting-up-raspberry-pi-3-bfe53f9d15c8) ) it is enough to get device supported by tinydrm and to use vc4 to have display with graphic acceleration.
