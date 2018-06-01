@@ -23,3 +23,16 @@ Device files created: ```/dev/dri/cardX``` and everything else under ```/dev/dri
 Apparently (according e.g. to [this guy](https://medium.com/@meghana.madhyastha/outreachy-setting-up-raspberry-pi-3-bfe53f9d15c8) ) it is enough to get device supported by tinydrm and to use vc4 to have display with graphic acceleration.
 
 * [Gentoo guide for raspberry pi VC4](https://wiki.gentoo.org/wiki/Raspberry_Pi_VC4)
+
+
+According to vc4 source code [vc4_drv.c](https://elixir.bootlin.com/linux/latest/source/drivers/gpu/drm/vc4/vc4_drv.c#L308): 
+>  The Broadcom VideoCore 4 (present in the Raspberry Pi) contains a
+> OpenGL ES 2.0-compatible 3D engine called V3D, and a highly
+> configurable display output pipeline that supports HDMI, DSI, DPI,
+> and Composite TV output.
+
+Questions wtf is :
+
+* DSI
+* DPI
+* CRTC
