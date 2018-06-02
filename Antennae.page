@@ -95,12 +95,18 @@ This gives skin layer depth 65 $\mu$m at 1 MHz, 0.6 mm at 10 kHz, and 6$\mu$m at
 
 * [Notes](http://www.nec2.org/nec_hist.txt)
 
- *The remaining NEC codes in the preface paragraph, NEC3 (allows
+ * The remaining NEC codes in the preface paragraph, NEC3 (allows
 buried wires) and NEC4 (improved accuracy for stepped-radius wires and
 electrically-small segments, adds end caps and insulated wires, smart
 input card-reader, catenary-shaped wires, and improved error detection)
 are still Military Critical technology.  That status is under question
 and may hopefully disappear eventually.*
+
+## Patchwork antennae
+
+> I would recommend using numerical codes based on method of moments. Since you are dealing with high frequencies, it is better to reduce the computational domain, and method of moments uses surface integral equations. Regarding the arbitrary curves, you don't need to worry too much about that since there are very good meshers available and they would handle most of the geometries. About the specific commerical software you can use:[1] HFSS recent versions have integral equation formulation which is basically Method of moments (MOM)[2] Wipl-D, this is also MOM based, less pricey than HFSS, I think that it includes quad mesher though I am not 100% sure about this[3] If you want to develop your own code excellent start would be book by S. Makarov "Antenna and EM Modeling with Matlab", which comes with a number of interesting examples. There is also a free version of Antenna Toolbox which contains improved codes from the book.For a gentle introduction on numerical electromagnetics I recommend David Davidson "Computational Electromagnetics for RF and Microwave Engineering".
+
+-- [Which numerical modelling technique is best suited for an...](https://www.researchgate.net/post/Which_numerical_modelling_technique_is_best_suited_for_an_EMC_EMI_problem_and_why)
 
 # Practical stuff
 
