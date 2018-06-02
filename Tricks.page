@@ -175,9 +175,17 @@ copy,paste = init_windows_clipboard()
 print zlib.decompress(base64.b64decode(paste()))
 ```
 
-# Browser as editor
+# Browser tricks
+
+## Browser as editor
 
 ```data:text/html, <html contenteditable>``` in url box
+
+## Firefox bookmarklet formating page for gitit
+
+```
+javascript:function%20test(){text=window.getSelection().toString()+"["+document.title+"]("+document.location+")";window.prompt("Press%20Ctrl-C,%20Enter",text);};%20test();
+```
 
 # Prevent windows screensaver
 
