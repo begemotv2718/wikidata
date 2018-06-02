@@ -23,6 +23,10 @@ Mechanics. To be able to load overlays one need to compile kernel with overlays 
 
 [Raspberry pi dtoverlay source code](https://github.com/raspberrypi/userland/blob/master/host_applications/linux/apps/dtoverlay/dtoverlay_main.c)
 
+> So I rebuild U-Boot with overlay support enabled, but it turns out U-Boot’s support for patching the DT is quite limited. Also in case of any merge problems in the future, the system would hang in bootloader stage, which is not nice.
+
+--- [Device Tree Overlays | Sebastian Reichel](http://elektranox.org/2017/05/0020-dt-overlays/)
+
 ## Videos
 
 * [Device Tree for Dummies! - Thomas Petazzoni](https://www.youtube.com/watch?v=m_NyYEBxfn8)
