@@ -47,7 +47,10 @@ See [Language processing](), [Neural network and finite automata]()
 * [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/pdf/1604.06174.pdf) [Github: Saving memory using gradient-checkpointing](https://github.com/openai/gradient-checkpointing)
 * [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf) Idea: try to achieve von Neuman computing with trainable neural networks. They try to generalize RNN in the same way as Turing complete machines generalize finite state automatons (FSA). 
 
+## Tools
+
 * [GitXiv](http://www.gitxiv.com/) -- mapping between arxiv.org and github repositories.
+* [figshare - credit for all your research](https://figshare.com/browse) -- materials for various papers
 
 ## Other
 
