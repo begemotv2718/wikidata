@@ -21,6 +21,8 @@ categories: linux, kernel
 
 Mechanics. To be able to load overlays one need to compile kernel with overlays support (does this need applying patches?). Then configfs should be created (```mount -t configfs none /sys/kernel/config```).  Some useful tips [here](https://github.com/96boards/documentation/blob/master/consumer/dragonboard410c/guides/dt-overlays.md)
 
+[Raspberry pi dtoverlay source code](https://github.com/raspberrypi/userland/blob/master/host_applications/linux/apps/dtoverlay/dtoverlay_main.c)
+
 ## Videos
 
 * [Device Tree for Dummies! - Thomas Petazzoni](https://www.youtube.com/watch?v=m_NyYEBxfn8)
