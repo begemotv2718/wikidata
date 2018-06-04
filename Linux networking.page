@@ -17,6 +17,13 @@ Tun interface is an network level communication interface (ip address). It consi
 * openvpn --mktun --dev tun777
 
 
+# Slip protocol
+
+Now obsolete but interesting protocol working with TTY devices, in particular serial lines
+
+* [RFC](https://tools.ietf.org/html/rfc1055)
+* Header compression [1](http://www.freesoft.org/CIE/Topics/66.htm) [2](http://www.freesoft.org/CIE/RFC/1144/4.htm)
+
 # Circumventing firewalls 
 
 ## Slirp
