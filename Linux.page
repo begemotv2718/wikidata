@@ -44,7 +44,7 @@ categories: linux,OS
 
 * [Linux security]()
 
-# Kvm
+# Kvm and qemu
 
 ## Debug kernel startup in KVM
 
@@ -63,6 +63,8 @@ Inside the machine
 ```
 mount -t 9p -o trans=virtio valgrind /media/disk/
 ```
+
+* [Блочные устройства QEMU / Хабр](https://habr.com/post/412825/)
 
 # Linux on PowerPC Mac
 
