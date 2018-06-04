@@ -37,3 +37,7 @@ This is an emulator of slip protocol over ssh.  [Slirp - Wikipedia](https://en.w
 ## ICMP tunnel
 
 * [detached.net](http://web.archive.org/web/20040203091455/http://www.detached.net:80/icmptunnel/index.html)
+
+## HTTP tunnel
+
+* [HTTPTunnel - Tunnel Connections Through Restrictive Proxies](http://http-tunnel.sourceforge.net/)
