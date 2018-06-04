@@ -18,3 +18,7 @@ Tun interface is an network level communication interface (ip address). It consi
 
  
 
+# Slirp
+
+This is an emulator of slip protocol over ssh.  [Slirp - Wikipedia](https://en.wikipedia.org/wiki/Slirp)
+
