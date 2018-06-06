@@ -32,3 +32,23 @@ Questions:
 # History of biology
 
 * [Раскрыть тридцатке лица -- ivanov-petrov про главных биологов](https://ivanov-petrov.livejournal.com/2104673.html)
+
+
+# Energy expenditure from heart rate
+
+* [Prediction of energy expenditure from... (PDF Download Available)](https://www.researchgate.net/publication/7777759_Prediction_of_energy_expenditure_from_heart_rate_monitoring_during_submaximal_exercise)
+
+Formula:
+ 
+EE = -59.3954 + gender  (-36.3781 + 0.271 x age + 0.394 x weight + 0.404 V[O$_2$] + 0.634x heart rate) + 
+(1 - gender)  (0.274 x age + 0.103x weight + 0.380x V[O$_2$] + 0.450 x heart rate)
+
+Gender is 1 for male 0 for female. Without V[O$_2$]:
+
+EE = gender x (-
+55.0969 + 0.6309 x heart rate + 0.1988 x weight + 0.2017 x age) 
++ (1 - gender) x (-20.4022 + 0.4472 x heartrate - 0.1263 x weight + 0.074 x age) 
+
+Energy expenditure is in kJ/min, V[O$_2$] is in ml/(kg*min).
+
+ 
