@@ -132,9 +132,14 @@ In theory, when linking something, only the needed libraries are passed to the c
 
 [stackoverflow](http://stackoverflow.com/questions/426230/what-is-the-ld-preload-trick)
 
-## GDB
+# Debug
 
-[Gdb]()
+* [Gdb]()
+
+## Memory allocation
+
+* Valgrind (obvious)
+* [DrMemory claims to be cross-platform and more quick](https://github.com/dynamorio/drmemory) 
 
 # Graphics
 
