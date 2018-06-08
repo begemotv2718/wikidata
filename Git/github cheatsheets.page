@@ -66,3 +66,13 @@ Subsequently
 ```
 git submodule update --recursive
 ```
+
+# Whitespace changes
+
+```git merge -s recursive -Xignore-space-at-eol```
+
+But using ```-Xignore-space-change``` is also a possibility    
+
+Also    ```git merge master -s recursive -X renormalize```
+
+--[Is it possible for git-merge to ignore line-ending differences? - Stack Overflow](https://stackoverflow.com/questions/861995/is-it-possible-for-git-merge-to-ignore-line-ending-differences)
