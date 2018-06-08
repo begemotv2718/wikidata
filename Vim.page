@@ -9,3 +9,4 @@ categories: linux,programming,software
 
 * proper colorscheme: evening
 * people suggest their own colorschemes [so1](https://stackoverflow.com/questions/2019281/load-different-colorscheme-when-using-vimdiff/17183382) [so2](https://stackoverflow.com/questions/2019281/load-different-colorscheme-when-using-vimdiff)
+* [Linediff -- diff two regions of the same file](https://www.vim.org/scripts/script.php?script_id=3745)
