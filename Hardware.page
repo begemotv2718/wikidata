@@ -156,3 +156,7 @@ continue to occur as soon as a data is writte
 # Power supplies
 
 * [Power supply chip for circuits without galvanic decoupling MP100](https://www.monolithicpower.com/pub/media/document/MP100_r1.04_NRFND.pdf)
+
+# Speech synthesis
+
+* [SP0256B -- hardware speech synthesizer](http://home.kpn.nl/rene_g7400/vp_info/SP0256B.pdf)
