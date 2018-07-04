@@ -106,6 +106,9 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 * [reQrypt](https://reqrypt.org/reqrypt.html) [github](https://github.com/basil00/reqrypt)
 * [blockcheck](https://github.com/ValdikSS/blockcheck)
 * [habr description](https://habrahabr.ru/post/335436/)
+* [habr https tunnel](https://habr.com/post/415977/)
+    * SoftEther VPN has also original strong SSL-VPN protocol to penetrate any kinds of firewalls. Ultra-optimized SSL-VPN Protocol of SoftEther VPN has very fast throughput, low latency and firewall resistance.[SoftEther VPN Project - SoftEther VPN Project](https://www.softether.org/)
+    * [Labean](https://github.com/uprt/labean) -- port knocking implementation for making site with SoftEther look like innocent HTTPS server unless connected properly.
 
 # Wifi security 
 
