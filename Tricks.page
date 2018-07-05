@@ -199,7 +199,7 @@ Since we have quite aggressive screensaver policy on our windows computers and I
 # Get command line of the executable buried deep inside the complex tool
 
 ```bash
-inotify-wait -e access <executable path>; ps -ef | grep executable
+inotifywait -e access <executable path>; ps -ef | grep executable
 ```
 
 # Serve directory's content 
