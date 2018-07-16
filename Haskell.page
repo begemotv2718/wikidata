@@ -35,6 +35,13 @@ categories: programming, programming_languages, haskell
     * [Tool description](https://docs.haskellstack.org/en/stable/README/)
     * [Yaml configuration](https://github.com/commercialhaskell/stack/blob/release/doc/yaml_configuration.md)
 
+# Embedded languages in Haskell
+
+Languages compilable to C
+
+* [Ivory]() Ivory is well suited for writing programs which interact directly with hardware and do not require dynamic memory allocation.
+* [Atom](http://hackage.haskell.org/package/atom) -- Language for realtime bare-metal systems
+
 # See also
 
 * [Mathematics]()
