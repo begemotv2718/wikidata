@@ -15,3 +15,8 @@ categories: programming
     * [GNU global](https://www.gnu.org/software/global/)
 
 * [Tools comparison](https://github.com/OpenGrok/OpenGrok/wiki/Comparison-with-Similar-Tools)
+
+# Code completion
+
+* [vim-clang - Yet another C/C++ code completion plugin based on Clang : vim online](https://www.vim.org/scripts/script.php?script_id=4926)
+* [Clang-complete github](https://github.com/Rip-Rip/clang_complete) from [Stackoverflow](https://stackoverflow.com/questions/15177901/how-to-autocomplete-with-clang)
