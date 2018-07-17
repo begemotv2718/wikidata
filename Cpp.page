@@ -50,3 +50,7 @@ categories: programming
 # Qt creator as IDE
 
 * [How can Qt Creator be used as general C++ IDE (no usage of Qt library)? - Stack Overflow](https://stackoverflow.com/questions/5748161/how-can-qt-creator-be-used-as-general-c-ide-no-usage-of-qt-library) -- answer is - use Cmake and everything will be fine
+
+# General rules
+
+* [The rule of three/five/zero - cppreference.com](https://en.cppreference.com/w/cpp/language/rule_of_three) -- about copy/move etc.
