@@ -161,3 +161,8 @@ continue to occur as soon as a data is writte
 # Speech synthesis
 
 * [SP0256B -- hardware speech synthesizer](http://home.kpn.nl/rene_g7400/vp_info/SP0256B.pdf)
+
+# PS/2 protocol
+
+* [PS2 keyboard](https://www.avrfreaks.net/sites/default/files/PS2%20Keyboard.pdf)
+* [Mouse, looking from the host](https://github.com/rucek/arduino-ps2-mouse)
