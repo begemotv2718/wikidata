@@ -22,6 +22,10 @@ categories: hardware
 * [Linux hardware]()
 * [Embedded programming]()
 
+# Motors
+
+* [Stepper with encoder (usteper)](http://www.ustepper.com/index/) [kickstarter](https://www.kickstarter.com/projects/301805155/ustepper) via Boris
+ 
 # ESP8266
 
 * [habr: Reverse engineering of ESP8266](https://habrahabr.ru/post/255135/)
