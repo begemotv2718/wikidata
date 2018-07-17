@@ -14,6 +14,7 @@ categories: programming
 # Smart pointers
 
 * [Smart pointers guidelines](https://www.chromium.org/developers/smart-pointer-guidelines)
+* [Top 10 dumb mistakes to avoid with C++ 11 smart pointers - A CODER'S JOURNEY](http://www.acodersjourney.com/2016/05/top-10-dumb-mistakes-avoid-c-11-smart-pointers/)
 
 # Move semantics in C++11
 
