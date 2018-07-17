@@ -24,3 +24,4 @@ categories: programming,programming_languages
 
 * [TCC](https://bellard.org/tcc/) most minimalistic and fast
 * [LCC](https://github.com/drh/lcc) - free for non-commercial use, but not possible to create derived works
+* [LLVM -- extending llvm tutorial](https://llvm.org/docs/tutorial/)
