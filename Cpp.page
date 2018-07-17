@@ -46,3 +46,7 @@ categories: programming
 # Benchmark C/C++
 
 * [Stepanov Benchmark](http://www.open-std.org/jtc1/sc22/wg21/docs/D_3.cpp)
+
+# Qt creator as IDE
+
+* [How can Qt Creator be used as general C++ IDE (no usage of Qt library)? - Stack Overflow](https://stackoverflow.com/questions/5748161/how-can-qt-creator-be-used-as-general-c-ide-no-usage-of-qt-library) -- answer is - use Cmake and everything will be fine
