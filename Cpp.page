@@ -42,3 +42,7 @@ categories: programming
 # Coding standards
 
 * [High integrity C++](http://www.codingstandard.com/)
+
+# Benchmark C/C++
+
+* [Stepanov Benchmark](http://www.open-std.org/jtc1/sc22/wg21/docs/D_3.cpp)
