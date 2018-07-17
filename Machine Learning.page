@@ -132,6 +132,7 @@ See [Language processing](), [Neural network and finite automata]()
 * [PlantCLEFT -- dataset of plant species -- possibly noisy](http://www.imageclef.org/lifeclef/2016/plant)
 * [Electro-L sattelite images of Earth in various spectrum bands (mostly IR)](http://www.ntsomz.ru/electro/source_images) [Sattelite description](http://planet.iitp.ru/spacecraft/electro_2_rus.htm)
 * [Russian open semantics: habr](https://habrahabr.ru/post/344582/) [Github](https://github.com/dkulagin/kartaslov)
+* Emotion by voice [Multimodal database RAMAS (The Russian Acted Multimodal Affective Set)](http://neurodatalab.com/en/projects/RAMAS/) [RAMAS: Russian Multimodal Corpus of Dyadic Interaction for studying emotion recognition  Preprints](https://peerj.com/preprints/26688/) via [Pitch-tracking, или определение частоты основного тона в речи, на примерах алгоритмов Praat, YAAPT и YIN / Хабр](https://habr.com/company/neurodatalab/blog/416441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=416441)
 
 # Link bowls
 
