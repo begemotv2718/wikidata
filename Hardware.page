@@ -167,3 +167,4 @@ continue to occur as soon as a data is writte
 * [PS2 keyboard](https://www.avrfreaks.net/sites/default/files/PS2%20Keyboard.pdf)
 * [Mouse, looking from the host](https://github.com/rucek/arduino-ps2-mouse)
 * [Keyboard for arduino github](https://github.com/ndusart/ps2-keyboard)
+* [Another keyboard for arduino](https://github.com/techpaul/PS2KeyAdvanced)
