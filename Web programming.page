@@ -6,3 +6,6 @@ categories: programming
     * Main point: install certbot and follow instructions
     * freenom.com for free domain names in somewhat obscure zones
     * [Certbot documentation](https://certbot.eff.org/#debianstretch-nginx) Certbot is eff project
+
+* [Docker-mailserver](https://github.com/tomav/docker-mailserver) - Docker container with everything for mailserver
+
