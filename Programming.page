@@ -49,6 +49,10 @@ categories: programming
 
 * [Tools for vim and emacs]()
 
+# Architecture
+
+* [Hexagonal architecture](https://www.viewfromthecodeface.com/portfolio/clean-code-hexagonal-architecture/) -- Java example, suggests to abstract input and output, to be honest, another MVC.
+
 # Automatic verification
 
 ## Linters
