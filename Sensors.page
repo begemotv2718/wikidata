@@ -145,7 +145,7 @@ and then approximate integral sums $$ S_k= \frac{1}{2}(y_k+y_{k-1})(x_k-x_{k-1})
 # Thermocouples
 
 * [Voltage/temperature interpolation](https://srdata.nist.gov/its90/download/allcoeff.tab)
-
+* [TI app note for MSP430 integration with thermocouple](http://www.ti.com/lit/an/slaa501/slaa501.pdf)
 
 # GPS
 
