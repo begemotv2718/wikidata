@@ -214,6 +214,9 @@ apt-get install dmtx-utils
 * Phabricator
 * OSTree
 
+* CMake
+    * [Introduction to CMake by Example | derekmolloy.ie](http://derekmolloy.ie/hello-world-introductions-to-cmake/#Example_5_Using_a_Shared_or_Static_Library)
+
 # UML
 
 * [PlantUML draw UML from text description](http://plantuml.com/)
