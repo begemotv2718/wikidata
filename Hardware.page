@@ -169,3 +169,4 @@ continue to occur as soon as a data is writte
 * [Keyboard for arduino github](https://github.com/ndusart/ps2-keyboard)
 * [Another keyboard for arduino](https://github.com/techpaul/PS2KeyAdvanced)
 * [Yet another, more cleanly coded](https://github.com/h0MER247/MrKeyboard)
+* [STM32, state machine](https://github.com/gandro/stm32-ps2)
