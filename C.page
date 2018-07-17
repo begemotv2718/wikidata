@@ -19,3 +19,8 @@ categories: programming,programming_languages
 * See static code analysis in [Programming]()
 * [Barr group: tutorial on writing instrumented malloc](https://barrgroup.com/Embedded-Systems/How-To/Detecting-Memory-Leaks-C)
 * [Barr group: memory management in embedded](https://barrgroup.com/Embedded-Systems/How-To/Malloc-Free-Dynamic-Memory-Allocation)
+
+# Compilers
+
+* [TCC](https://bellard.org/tcc/) most minimalistic and fast
+* [LCC](https://github.com/drh/lcc) - free for non-commercial use, but not possible to create derived works
