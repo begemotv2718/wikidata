@@ -94,3 +94,7 @@ Useful when pulseaudio interfere
 # Direct rendering manager
 
 * [X DRM]()
+
+# Boot process
+
+* [Embedded Linux: Understanding Busybox Inittab](http://linuxembedded.blogspot.com/2006/11/understanding-busybox-inittab.html)
