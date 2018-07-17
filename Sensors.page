@@ -142,6 +142,11 @@ and then approximate integral sums $$ S_k= \frac{1}{2}(y_k+y_{k-1})(x_k-x_{k-1})
 
 [Amazon](https://www.amazon.com/gp/product/B001EHJO64/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=66pacificcom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001EHJO64) 34 USD
 
+# Thermocouples
+
+* [Voltage/temperature interpolation](https://srdata.nist.gov/its90/download/allcoeff.tab)
+
+
 # GPS
 
 ## NMEA GPS protocol 
