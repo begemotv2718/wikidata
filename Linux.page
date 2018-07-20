@@ -72,6 +72,15 @@ mount -t 9p -o trans=virtio valgrind /media/disk/
 * [Debian installation problem](https://lists.debian.org/debian-powerpc/2017/02/msg00020.html)
 * [Debian support](https://lists.debian.org/debian-powerpc/2017/02/msg00017.html)
 
+# Mounting vdi image
+
+```
+modprobe nbd
+qemu-nbd -c /dev/nbd0 <vdi file>
+kpartx -a /dev/nbd0
+mount /dev/mapper/nbd0p2 /media/disk
+```
+
 # Audio and video
 
 ## Alsa: Select device for aplay
