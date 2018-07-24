@@ -114,3 +114,7 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 # Wifi security 
 
 * [Krackatack](https://github.com/vanhoefm/krackattacks)
+
+# Van Eck attack
+
+* [Eckbox](https://sourceforge.net/projects/eckbox), [dissertation](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-577.pdf)
