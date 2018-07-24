@@ -143,3 +143,7 @@ Basic design is all the same.
 ## LNA
 
 * [Cheap LNA on e-bay](https://www.ebay.com/itm/263428835229)
+
+# Wideband antennae
+
+* [Compromising emanations: eavesdropping risks of computer displays](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-577.pdf) Van Eck attack uses wideband antenna for signal pickup. Dissertation contains survey of antennae. Via [Eckbox site](http://eckbox.sourceforge.net/)
