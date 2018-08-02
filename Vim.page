@@ -1,5 +1,5 @@
 ---
-categories: linux,programming,software
+categories: linux,programming,software,vim
 ...
 
 * [Mapping keys in vim tutorial](http://vim.wikia.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1))
@@ -10,3 +10,7 @@ categories: linux,programming,software
 * proper colorscheme: evening
 * people suggest their own colorschemes [so1](https://stackoverflow.com/questions/2019281/load-different-colorscheme-when-using-vimdiff/17183382) [so2](https://stackoverflow.com/questions/2019281/load-different-colorscheme-when-using-vimdiff)
 * [Linediff -- diff two regions of the same file](https://www.vim.org/scripts/script.php?script_id=3745)
+
+# Package management
+
+* [Vundle](https://github.com/VundleVim/Vundle.vim) [Setup using vundle](https://gist.github.com/fasiha/b889000884ae06b030ef)
