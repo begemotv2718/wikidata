@@ -120,6 +120,7 @@ See [Language processing](), [Neural network and finite automata]()
     * [Random face generation](http://carpedm20.github.io/faces/) somewhat Asian inclined
     * [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf) [Github tensorflow](https://github.com/carpedm20/BEGAN-tensorflow)
     * [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
+    * [Yet newer and better from NVIDIA](https://github.com/tkarras/progressive_growing_of_gans) via [Linkedin story](https://www.linkedin.com/pulse/americas-next-topbot-model-ben-taylor-deeplearning-/)
 * Age and gender
     * [impl1](https://github.com/GilLevi/AgeGenderDeepLearning)
     * [impl_orig](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
