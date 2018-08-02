@@ -136,6 +136,13 @@ See [Language processing](), [Neural network and finite automata]()
 * [Russian open semantics: habr](https://habrahabr.ru/post/344582/) [Github](https://github.com/dkulagin/kartaslov)
 * Emotion by voice [Multimodal database RAMAS (The Russian Acted Multimodal Affective Set)](http://neurodatalab.com/en/projects/RAMAS/) [RAMAS: Russian Multimodal Corpus of Dyadic Interaction for studying emotion recognition  Preprints](https://peerj.com/preprints/26688/) via [Pitch-tracking, или определение частоты основного тона в речи, на примерах алгоритмов Praat, YAAPT и YIN / Хабр](https://habr.com/company/neurodatalab/blog/416441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=416441)
 
+* Appolo mission dataset
+    * [habr article](https://habr.com/company/audiomania/blog/417541/)
+    * [Transcript example](https://www.jsc.nasa.gov/history/mission_trans/AS11_CM.PDF)
+    * [Page with transcripts](https://www.nasa.gov/mission_pages/apollo/40th/a11_audio_db.html)
+    * [Audio collection](https://archive.org/details/nasaaudiocollection)
+    
+
 # Link bowls
 
 * [Глубоко внутри глубокого обучения lj:ailev](http://ailev.livejournal.com/1254558.html)
