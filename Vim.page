@@ -14,3 +14,8 @@ categories: linux,programming,software,vim
 # Package management
 
 * [Vundle](https://github.com/VundleVim/Vundle.vim) [Setup using vundle](https://gist.github.com/fasiha/b889000884ae06b030ef)
+
+# Ultisnips
+
+* [Github](https://github.com/SirVer/ultisnips) [Setup using vundle](https://gist.github.com/fasiha/b889000884ae06b030ef)
+* Examples of use [Quora](https://www.quora.com/Can-people-actually-keep-up-with-note-taking-in-Mathematics-lectures-with-LaTeX) [Youtube](https://www.youtube.com/watch?v=a7gpx0h-BuU)
