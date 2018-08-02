@@ -22,6 +22,12 @@ categories: hardware
 * [Linux hardware]()
 * [Embedded programming]()
 
+# Theory
+
+* Noise protection
+    * [Github list](https://github.com/dontsovcmc/waterius/issues/19)
+    * [Murata tutorial](https://www.murata.com/en-eu/products/emc/emifil/knowhow/basic)
+
 # Motors
 
 * [Stepper with encoder (usteper)](http://www.ustepper.com/index/) [kickstarter](https://www.kickstarter.com/projects/301805155/ustepper) via Boris
