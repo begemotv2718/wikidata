@@ -40,6 +40,10 @@ After introducing Kolmogorov complexity (which is maximal for completely random 
 
 # Stochastics
 
+## Random matrices
+
+* [Marchenko-Pastur distribution](https://en.wikipedia.org/wiki/Marchenko%E2%80%93Pastur_distribution) -- generalization of semicircle law to singular values of rectangular matrices. Via Dima Novikov.
+
 ## Schramm-Loewner evolution
 
 SLE is a type of conformal map from upper half-plane to the domain bounded by stochastic walk curve. Correspondingly, this part of science study walks which can be described by such conformal map. This poses a few requirements, but a class of walks is relatively wide.  
