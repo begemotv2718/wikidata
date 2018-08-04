@@ -6,7 +6,13 @@ categories: language,ML
 * [Speech recognition]()
     * [CMU Sphinx]()
 
-#Grammar parsing
+# Text processing libraries
+
+* Word2vec
+* [GloVe](https://nlp.stanford.edu/projects/glove/)
+* [Facebook fasttext](https://github.com/facebookresearch/fastText)  
+
+# Grammar parsing
 
 * [ habr article on writing grammar](https://habrahabr.ru/post/323692/) [github repository](https://github.com/ArseniyBorezkiy)
 
