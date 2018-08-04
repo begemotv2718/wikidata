@@ -39,11 +39,15 @@ categories: programming
 * [Smalltalk]()
 * [Shell]()
 
-## Resources for learning languages
+## Resources for learning
 
 * [LearnXinYminutes](https://learnxinyminutes.com/)
 * [Hyperpolyglot: side by side comparison of languages](http://hyperpolyglot.org/)
 * [Exorcism.io: excersizes](http://exercism.io/languages)
+* Coding practice sites
+    * Topcoder
+    * [Leetcode](https://leetcode.com/)
+    * [Review](https://blogs.ucl.ac.uk/ucl-student-blog/review-coding-practice-websites-hackerrank-leetcode-oj-and-topcoder/)
 
 # IDE-like
 
