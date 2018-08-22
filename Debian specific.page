@@ -21,7 +21,10 @@ categories: linux,debian
 * ```mount -t nfs -o proto=tcp,port=2049,nolock  <ip>:<path> /<dir>```
 
 
+# Apt history
 
+```/var/log/apt/history.log```
+```/var/log/dpkg.log```
 
 # Debian cleanup
 
