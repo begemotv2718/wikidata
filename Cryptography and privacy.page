@@ -118,3 +118,7 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 # Van Eck attack
 
 * [Eckbox](https://sourceforge.net/projects/eckbox), [dissertation](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-577.pdf)
+
+# Password security
+
+* [KoreBlog pathwell_topologies](http://blog.korelogic.com/blog/2014/04/04/pathwell_topologies) -- people passwords often follow very predictable patterns. This is used to quickly crack passwords with modern tools.
