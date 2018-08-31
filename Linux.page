@@ -115,3 +115,6 @@ sent to the init(1) program to handle a graceful restart. When, however, the val
 * inittab handling, when using sysv init: ::ctrlaltdel:/sbin/reboot in /etc/inittab, /etc/init/control-alt-delete.conf
 * systemd handling: /lib/systemd/system/ctrl-alt-del.target
 
+# LXC
+
+* [LXC network setup](https://angristan.xyz/setup-network-bridge-lxc-net/)
