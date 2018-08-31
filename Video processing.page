@@ -1,4 +1,24 @@
-...
-categories: programming, video
 ---
+categories: programming, video
+...
 
+# Codecs
+
+## H264
+
+* [ITU-T Rec.H.264](http://www-ee.uta.edu/dip/courses/ee5356/H264systems.pdf)
+* [ISO advanced video coding](https://www.din.de/de/mitwirken/normenausschuesse/nia/wdc-beuth:din21:223281558/toc-2248264/download)
+* [ISO 14496 part 10: advanced video coding](http://www.staroceans.org/e-book/ISO-14496-10.pdf)
+* webrtc [google groups1](https://groups.google.com/forum/#!searchin/discuss-webrtc/hardware$20h264$20encoder$20implementation|sort:date/discuss-webrtc/TiudeIiX8w0/oa2DR-TSAQAJ)
+
+# Transport
+
+## RTP
+
+* [RFC3550](http://www.ietf.org/rfc/rfc3550.txt)
+* [RFC3551](http://www.ietf.org/rfc/rfc3551.txt)
+* [In wireshark](https://wiki.wireshark.org/RTP)
+
+## WebRTC
+
+* [Slides](https://datatracker.ietf.org/meeting/interim-2012-rtcweb-02/materials/slides-interim-2012-rtcweb-2-1)
