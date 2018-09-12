@@ -44,6 +44,10 @@ Dependencies:
 
 [Footwork](https://github.com/monostable/footwork) use [Racket programming language](http://racket-lang.org/) (dialect of scheme). Attempts to use [Rosette](https://emina.github.io/rosette/) SMT solver to verify constraints.
 
+## Importing schematic symbol from pdf datasheet
+
+* uConfig [Story on hackaday](https://hackaday.com/2018/09/11/automagic-tool-makes-kicad-schematic-symbols-from-pdfs/) [Code](https://github.com/Robotips/uConfig)
+
 # Kicad
 
 * [Creating schematic library component](http://kicad.txplore.com/?p=96)
