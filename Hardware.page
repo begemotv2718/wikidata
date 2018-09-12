@@ -58,6 +58,11 @@ From the same site [Spark gap in air](http://tehtab.ru/Guide/GuidePhysics/Electr
 
 For coil wires it is claimed at least 400V strength for ПЭВ-1. The thickness of dielectric is about 4 $\mu$m for 0.08mm wire (single layer thickness). I would assume about 100V to be safe. Reference is [here](http://forca.ru/knigi/arhivy/elektromaterialovedenie-12.html)
 
+# High frequency
+
+* [Мощный генератор ВЧ на MOSFET-транзисторе — Gnativ.ru](http://gnativ.ru/moshhnyj-generator-vch-na-mosfet-tranzistore/) [Мощный ВЧ-генератор | Катушки Тесла и все-все-все](http://teslacoil.ru/em/moshhnyiy-vch-generator/)
+
+
 # PCB
 
 * [PCB design]()
