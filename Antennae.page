@@ -138,11 +138,17 @@ Idea: connect generator through a resistor to the hf milliampermeter, in paralle
 Basic design is all the same.
 
 
-# Shopping 
+# Amplifiers
 
 ## LNA
 
 * [Cheap LNA on e-bay](https://www.ebay.com/itm/263428835229)
+* MAX2650EUS LNA chip
+
+## Power amplifiers
+
+* [5M~6GHz RF Broadband Signal Amplifier Power Amplifier Gain 20dB VFH UHF SHF el 957881401115 | eBay](https://www.ebay.com/itm/5M-6GHz-RF-Broadband-Signal-Amplifier-Power-Amplifier-Gain-20dB-VFH-UHF-SHF-el/202298789249?_trkparms=aid%3D333200%26algo%3DCOMP.MBE%26ao%3D1%26asc%3D20140109102600%26meid%3Da6c5f2e42cfa4031994b8c16e3a09bc0%26pid%3D100041%26rk%3D1%26rkt%3D12%26sd%3D263428835229%26itm%3D202298789249&_trksid=p5713.c100041.m2061)
+* [AM TRANSMITTER ANTENNA RESOURCES: 6W RF Power Amplifier](http://am-transmitter.blogspot.com/2014/04/6w-rf-power-amplifier.html)
 
 # Wideband antennae
 
