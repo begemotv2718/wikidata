@@ -47,6 +47,7 @@ See [Language processing](), [Neural network and finite automata]()
 * [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/pdf/1604.06174.pdf) [Github: Saving memory using gradient-checkpointing](https://github.com/openai/gradient-checkpointing)
 * [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf) Idea: try to achieve von Neuman computing with trainable neural networks. They try to generalize RNN in the same way as Turing complete machines generalize finite state automatons (FSA). 
 * [1802.07896 L2-Nonexpansive Neural Networks](https://arxiv.org/abs/1802.07896) -- Neural networks robust to adversarial examples with small disturbances
+* [[1203.1513] Invariant Scattering Convolution Networks](https://arxiv.org/abs/1203.1513) -- Neural networks maximally invariant to translations, rotations, etc. Wavelets based
 
 ## Tools
 
