@@ -261,6 +261,16 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 * [Probabilistic programming](http://v1.probmods.org/conditioning.html#example-reasoning-about-the-tug-of-war) Seems to be similar to probabilistic graphical models
 * [Proton: Multitouch Gestures as Regular Expressions](http://vis.berkeley.edu/papers/proton/)
 
+## Topological data analysis
+
+This theme is introduced by Coleen Farrelly at Quora, it seems that she is quite fond of this technique. She claims that this method works extremely well on small datasets. She has review of this method in the [following paper](https://psyarxiv.com/mknpj/). I'm somewhat suspicious that she is hypnotized by very intellectual sounding of all this stuff. What we can still extract from the writing:
+
+1. There is a number of R packages for TDA [TDA](https://lib.ugent.be/CRAN/web/packages/TDA/index.html) [TDAMapper](https://lib.ugent.be/CRAN/web/packages/TDAmapper/index.html) [TDAstats](https://lib.ugent.be/CRAN/web/packages/TDAstats/index.html)
+2. The method was introduced in the following papers
+    * Carlsson G (2009). “Topology and data.” Bulletin of the American Mathematical Society, 46(2), 255–308.
+    * Edelsburner, Harer "Persistent Homology - a survey". Contemporary mathematics, 453, 257-282
+    * Chen, Genovese, Wasserman "Statistical inference using the Morse-Smale complex". Electronic Journal of Statistics 11(1), 1390-1443
+
 # Tools
 
 ## Jupiter notebooks
