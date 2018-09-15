@@ -19,7 +19,10 @@ See [Language processing](), [Neural network and finite automata]()
 
 [See Speech recognition](Speech recognition)
 
-[WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499.pdf) [popular blog entry](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) github implementations: [tensorflow](https://github.com/ibab/tensorflow-wavenet), [keras](https://github.com/basveeling/wavenet)
+# Speech synthesis
+
+* [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499.pdf) [popular blog entry](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) github implementations: [tensorflow](https://github.com/ibab/tensorflow-wavenet), [keras](https://github.com/basveeling/wavenet)
+* [Нейросетевой синтез речи своими руками / Блог компании Центр речевых технологий (ЦРТ) / Хабр](https://habr.com/company/speechpro/blog/358816/)
 
 
 # Machine learning for antisocial elements like me
