@@ -268,7 +268,7 @@ This theme is introduced by Coleen Farrelly at Quora, it seems that she is quite
 1. There is a number of R packages for TDA [TDA](https://lib.ugent.be/CRAN/web/packages/TDA/index.html) [TDAMapper](https://lib.ugent.be/CRAN/web/packages/TDAmapper/index.html) [TDAstats](https://lib.ugent.be/CRAN/web/packages/TDAstats/index.html)
 2. The method was introduced in the following papers
     * Carlsson G (2009). “Topology and data.” Bulletin of the American Mathematical Society, 46(2), 255–308.
-    * Edelsburner, Harer "Persistent Homology - a survey". Contemporary mathematics, 453, 257-282
+    * [Edelsbrunner, Harer "Persistent Homology - a survey". Contemporary mathematics, 453, 257-282](https://www.maths.ed.ac.uk/~v1ranick/papers/edelhare.pdf)
     * Chen, Genovese, Wasserman "Statistical inference using the Morse-Smale complex". Electronic Journal of Statistics 11(1), 1390-1443
 
 # Tools
