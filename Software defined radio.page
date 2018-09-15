@@ -36,6 +36,7 @@ categories: SDR, hardware, programming
 * [JT65](https://www.sigidwiki.com/wiki/JT65)
 * [Signal id wiki](https://www.sigidwiki.com) Sigid wiki Identifying signal
 
+
 # Interesting transmissions
 
 ## ISS
@@ -49,3 +50,15 @@ International space station has SSTV transmitter in Russian module. Frequency is
 # Projects
 
 * [DVB transmitter with gstreamer](http://wiki.oz9aec.net/index.php/Simple_DVB_with_Gstreamer_and_GNU_Radio)
+
+# Remote listening
+
+* Perseus receivers
+* [fmscan.org](https://fmscan.org/index.php)
+* [WebSDR](http://www.websdr.org/)
+
+## Signal identification
+
+* fmscan.org
+* Google "scanner frequencies for"
+* Signal id wiki (see above)
