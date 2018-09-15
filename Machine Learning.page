@@ -51,6 +51,7 @@ See [Language processing](), [Neural network and finite automata]()
 * [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf) Idea: try to achieve von Neuman computing with trainable neural networks. They try to generalize RNN in the same way as Turing complete machines generalize finite state automatons (FSA). 
 * [1802.07896 L2-Nonexpansive Neural Networks](https://arxiv.org/abs/1802.07896) -- Neural networks robust to adversarial examples with small disturbances
 * [[1203.1513] Invariant Scattering Convolution Networks](https://arxiv.org/abs/1203.1513) -- Neural networks maximally invariant to translations, rotations, etc. Wavelets based
+* [A mixed-scale dense convolutional neural network for image analysis | PNAS](http://www.pnas.org/content/115/2/254) -- authors propose a simple uniform architecture for conv networks for image processing
 
 ## Tools
 
