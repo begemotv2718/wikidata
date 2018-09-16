@@ -165,3 +165,11 @@ Basic design is all the same.
 * [Example image](https://i.pinimg.com/originals/7b/08/f7/7b08f76fc6f4412d1dcf94fac8881eff.gif)
 * [Example with calculations](http://radioaficion.com/cms/build-a-double-bazooka-antenna/)
 * [Calculator](http://qth.at/do5mhc/bazooka/bazooka.html)
+
+# PCB antennae
+
+* TI application notes for PCB antenna design for bluetooth 2.45GHz [pdf](www.ti.com/lit/an/snoa519b/snoa519b.pdf)
+    * Impedance matching using network meter is considered
+    * PIFA and ceramic antenna are considered
+    * No dimensions provided
+
