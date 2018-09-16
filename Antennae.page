@@ -172,5 +172,8 @@ Basic design is all the same.
     * Impedance matching using network meter is considered
     * PIFA and ceramic antenna are considered
     * No dimensions provided
+* TI collection of PCB antennae design [DN035 -- Antenna Quick Guide (Rev. A), swra351a - TI.com](http://www.ti.com/general/docs/litabsmultiplefilelist.tsp?literatureNumber=swra351a)
+* TI antenna selection guide [AN058 antenna selection guide](http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=swra161&fileType=pdf)
+* Another TI collection [CC-ANTENNA-DK-RD Sub-1 GHz and 2.4 GHz Antenna Reference Designs | TI.com](http://www.ti.com/tool/CC-ANTENNA-DK-RD)
 * Experimental approach to PCB antenna design [The Dropout’s Guide to PCB Trace Antenna Design – Colin Karpfinger](http://colinkarpfinger.com/blog/2010/the-dropouts-guide-to-antenna-design/)
 
