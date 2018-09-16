@@ -172,4 +172,5 @@ Basic design is all the same.
     * Impedance matching using network meter is considered
     * PIFA and ceramic antenna are considered
     * No dimensions provided
+* Experimental approach to PCB antenna design [The Dropout’s Guide to PCB Trace Antenna Design – Colin Karpfinger](http://colinkarpfinger.com/blog/2010/the-dropouts-guide-to-antenna-design/)
 
