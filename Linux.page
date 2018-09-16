@@ -118,3 +118,7 @@ sent to the init(1) program to handle a graceful restart. When, however, the val
 # LXC
 
 * [LXC network setup](https://angristan.xyz/setup-network-bridge-lxc-net/)
+
+# Hibernate after prolonged sleep
+
+* [Vadim Tataranovich script](https://github.com/tataranovich/laptop-utils)
