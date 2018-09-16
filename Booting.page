@@ -12,4 +12,6 @@ categories: OS
 
 ```bootcmd``` contained ```run fdtdetect```. Apparently, fdtdetect contained ```if $board_name=A335BONE then setenv fdtfile am335x-bone.dtb``` etc. ```printenv board_name``` does the trick.
 
- 
+## Porting U-boot to new boards
+
+* [Porting Linux & U-boot to new ARM board](https://elinux.org/images/2/2a/Schulz-how-to-support-new-board-u-boot-linux.pdf) [Youtube](https://www.youtube.com/watch?v=5E0sdYkvq-Q)
