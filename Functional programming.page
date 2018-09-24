@@ -74,3 +74,9 @@ Lenses appeared useful in parsing of data files: [augeas](https://en.wikipedia.o
 
 * [Haskell]()
 * [Erlang]()
+
+# Turing incomplete programming
+
+The idea is to make language Turing incomplete in a good way: i.e. to make all programs in that language terminate. This sometimes possible almost without loss of generality
+* [Total functional programming - Wikipedia](https://en.wikipedia.org/wiki/Total_functional_programming)
+* [Idris | A Language with Dependent Types](https://www.idris-lang.org/)
