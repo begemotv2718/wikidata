@@ -141,6 +141,7 @@ See [Language processing](), [Neural network and finite automata]()
     * [impl_orig](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
     * [impl_tensorflow](https://github.com/dpressel/rude-carnie)
 
+* General body pose estimation from CMU [github openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 
 # Datasets, etc.
