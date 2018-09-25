@@ -48,6 +48,10 @@ Dependencies:
 
 * uConfig [Story on hackaday](https://hackaday.com/2018/09/11/automagic-tool-makes-kicad-schematic-symbols-from-pdfs/) [Code](https://github.com/Robotips/uConfig)
 
+## More Kicad footprint and symbol generators
+
+* [KICAD quick library generator](http://kicad.rohrbacher.net/quicklib.php)
+
 # Kicad
 
 * [Creating schematic library component](http://kicad.txplore.com/?p=96)
