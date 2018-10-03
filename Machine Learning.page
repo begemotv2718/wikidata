@@ -91,6 +91,10 @@ See [Language processing](), [Neural network and finite automata]()
     * [Kaggle gradient boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
 * [Scikit-learn choosing the right estimator](http://scikit-learn.org/dev/tutorial/machine_learning_map/index.html)
+* Data augmentation
+    * [Data Augmentation | How to use Deep Learning when you have Limited Data — Part 2](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced)
+    * [Introduction to Dataset Augmentation and Expansion - Algorithmia Blog](https://blog.algorithmia.com/introduction-to-dataset-augmentation-and-expansion/)
+    * [Kaggle tutorial](https://www.kaggle.com/dansbecker/data-augmentation)
 
 # Books
 
