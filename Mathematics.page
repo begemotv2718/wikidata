@@ -24,13 +24,25 @@ categories: math
 
 * [Dual number](https://en.wikipedia.org/wiki/Dual_number) Number of the form $a+\epsilon b$ where $\epsilon^2=0$
 
-## Computer algebra
-
-* [Risch algorithm -- symbolic integration](https://en.wikipedia.org/wiki/Risch_algorithm)
 
 ## Books
 
 * [Graduate texts in mathematics: Galois theory](https://www.amazon.com/Galois-Theory-Graduate-Texts-Mathematics/dp/038790980X) -- Seems to be quite simple and short book.
+
+
+# Computer algebra
+
+* [Risch algorithm -- symbolic integration](https://en.wikipedia.org/wiki/Risch_algorithm)
+
+## SageMath
+
+* [Example of use: Alon Amit answer on solving polynomial in radicals](https://www.quora.com/How-do-I-solve-the-polynomial-x-5-x-4-16x-3-5x-2-21x-9-0-with-no-approximation)
+* [Online](http://sagecell.sagemath.org/?lang=sage&z=eJzz1rNJtLP1K81NSi1yy0zNSdGoiDPVrogz0TU006qIM9Y2BZJG2kaGWhW6lpq8XO623nrpiTn5mcXx6UX5pQUaeYm5qcW2SpVKIEm9_KKU1CINTQBpdBnW)
+* [Download](ftp://ftp.fu-berlin.de/unix/misc/sage/linux/64bit/index.html)
+
+## Misc online
+
+* [desmos.com: Example anymated area under curve](https://www.desmos.com/calculator/d3bvpv4smw)
 
 # Information theory
 
