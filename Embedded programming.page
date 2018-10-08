@@ -53,6 +53,10 @@ Also the bare-metal ABI and Linux ABI for the 32-bit Instruction sets make diffe
 * [LUA bare metal system](https://github.com/whitecatboard/Lua-RTOS-ESP32)
 * Friends  pages [github](https://github.com/no111u3), [blog](http://nis-embedded.blogspot.com.by/2012/)
 
+# Reverse engineering
+
+* [Binwalk -- reverse engineering tool for firmware images](https://github.com/ReFirmLabs/binwalk)
+
 # Cross-references
 
 * [STM32]()
