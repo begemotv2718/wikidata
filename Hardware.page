@@ -185,3 +185,7 @@ continue to occur as soon as a data is writte
 * [Another keyboard for arduino](https://github.com/techpaul/PS2KeyAdvanced)
 * [Yet another, more cleanly coded](https://github.com/h0MER247/MrKeyboard)
 * [STM32, state machine](https://github.com/gandro/stm32-ps2)
+
+# Soldering
+
+* [Arduino soldering iron homemade OLED](https://www.electronoobs.com/eng_arduino_tut42.php) use [HAKKO soldering tips](https://www.hakko.com/english/tip_selection/series_t15.html)
