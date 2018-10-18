@@ -431,4 +431,5 @@ switch(sp.bRequest){
 * [USB Sniffing with kvm](https://www.earth.li/~noodles/blog/2012/10/kvm-usbmon-wireshark-win.html) 
     * kvm options to look at ```-usb -device usb-ehci,id=ehci``` enable USB 2, ``` -device usb-host,bus=ehci.0,vendorid=0x...``` - filter devices
     * modprobe usbmon look at /dev/usbmon<i>, use wireshark
+* [run usb traces on linux of windows software with virtualbox](http://wiki.colar.net/run_usb_traces_on_linux_of_windows_software_with_virtualbox)
 * On Windows SnoopyPro, usbsnoopy, usbsniff. Complains on difficult to parse text outputs from this.
