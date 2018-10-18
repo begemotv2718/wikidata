@@ -4,3 +4,4 @@ categories: ML,programming
 
 
 * [Paper: Code Completion with Statistical Language Models](http://www.cs.technion.ac.il/~yahave/papers/pldi14-statistical.pdf)
+* [source{d}, company specialized on ml analysis of free software](https://github.com/src-d)  Tools for AST parsing and some style analysis (whatever this means)
