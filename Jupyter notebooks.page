@@ -27,3 +27,7 @@ pp.pretty('varepsilon_x=a^2+b^2')
 # Related projects
 
 * [SMath studio](https://en.smath.info/view/SMathStudio/summary) More engineering style notebooks
+
+# See also
+
+* [Computer algebra and symbolic manipulation]()
