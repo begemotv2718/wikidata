@@ -9,6 +9,10 @@ categories: visualization,python
 * [Example slideshow](http://www.slideviper.oquanta.info/tutorial/slideshow_tutorial_slides.html#/)
 * [github: Extension for live computation in slideshow](https://github.com/damianavila/RISE)
 
+# Interactive manipulations
+
+* [Using interact](https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
+
 # LaTeX related stuff
 
 * LaTeX is supported in notebooks. (Not clear if %%latex is needed). Enter with double dollar surrounding, mark cell as markdown, Shift-Enter in the cell.
