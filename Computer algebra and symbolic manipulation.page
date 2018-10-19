@@ -14,9 +14,10 @@ categories: mathematics,algebra,programming
 * [Online](http://sagecell.sagemath.org/?lang=sage&z=eJzz1rNJtLP1K81NSi1yy0zNSdGoiDPVrogz0TU006qIM9Y2BZJG2kaGWhW6lpq8XO623nrpiTn5mcXx6UX5pQUaeYm5qcW2SpVKIEm9_KKU1CINTQBpdBnW)
 * [Download](ftp://ftp.fu-berlin.de/unix/misc/sage/linux/64bit/index.html)
 
-## Misc online
+## Misc 
 
-* [desmos.com: Example anymated area under curve](https://www.desmos.com/calculator/d3bvpv4smw)
+*  Online [desmos.com: Example anymated area under curve](https://www.desmos.com/calculator/d3bvpv4smw)
+*  [Sympy symengine](https://github.com/symengine) -- Symbolic math for various languages (including haskell). Recommended for good cpp style. Claimed performance is much higher than for Mathematica.
 
 ## Sympy
 
