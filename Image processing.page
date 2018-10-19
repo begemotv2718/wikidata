@@ -15,9 +15,14 @@ categories: programming, visualization, image_processing
 * In the reference above "Extended Depth of Field for ImageJ" reconstructs height map from sharpness map.
 * [Fred's image magic scripts](http://www.fmwconcepts.com/imagemagick/index.php) However the license [is draconian](https://news.ycombinator.com/item?id=8912591)
 
+
 ## Scanned image processing
 
 * gImageReader(GIR) -- tesseract wrapper 
+
+# Image compression
+
+* [img2pdf.py Utility to convert image to pdf without re-encoding](http://manpages.ubuntu.com/manpages/xenial/man1/img2pdf.1.html) Suitable to packing JPEG2000 encoded images into pdf
 
 
 # WebRTC
