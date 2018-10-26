@@ -25,3 +25,7 @@ categories: programming,programming_languages
 * [TCC](https://bellard.org/tcc/) most minimalistic and fast
 * [LCC](https://github.com/drh/lcc) - free for non-commercial use, but not possible to create derived works
 * [LLVM -- extending llvm tutorial](https://llvm.org/docs/tutorial/)
+
+## Interesting and historical
+
+* [RatC compiler](http://linux-boss.narod.ru/ratc.html) книга Р.Берри, Б.Микинз "Язык Си Введение для программистов". Авторы книги предлагают изучить язык Си на примере транслятора RatC и приводят текст самого транслятора.
