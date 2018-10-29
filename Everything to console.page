@@ -1,0 +1,18 @@
+---
+categories: programming, linux, console
+...
+
+* [Telegram TUI]()
+* [Awesome console services](http://github.com/chubin/awesome-console-services)
+
+# Weechat
+
+Currently this is mostly console-based irc client. It is interesting to implement plugins for weechat for other messengers. Telegram is not available.
+
+* [Weechat main page](https://weechat.org/about/) [Quickstart](https://weechat.org/files/doc/stable/weechat_quickstart.en.html)
+* [Matrix seems to have plugin](https://matrix.org/docs/projects/client/weechat.html)
+* Telegram issue [reddit](https://www.reddit.com/r/unixporn/comments/4hwg08/hey_guys_i_had_looked_for_telegram_programs_for/) [beetlbe](https://wiki.archlinux.org/index.php/Bitlbee)
+
+# See also
+
+[Linux Mutt](Linux#Mutt)
