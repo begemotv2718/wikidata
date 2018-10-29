@@ -4,7 +4,10 @@ categories: visualization,ML
 
 # Javascript libraries
 
+## Time series
+
 * [StackOverflow: Best js libraries for time series graph](https://www.quora.com/What-are-the-best-JavaScript-libraries-for-time-series-graphs)
 * [Proprietary: chartiq](https://demo.chartiq.com/index.html) [Another demo](http://jsfiddle.net/chartiq/vnyh1ue7/)
 * [dygraph](http://dygraphs.com/) Demo is on the page
 * [Capturing mouse wheel events](https://stackoverflow.com/questions/10313142/javascript-capture-mouse-wheel-event-and-do-not-scroll-the-page)
+* [Plotly](https://plot.ly/javascript/time-series/)
