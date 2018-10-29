@@ -126,3 +126,8 @@ sent to the init(1) program to handle a graceful restart. When, however, the val
 # KDE
 
 * [KDE — How to disable Nepomuk, Strigi, Baloo and Akonadi – DataBook® for Linux](http://www.linux-databook.info/?page_id=3728)
+
+# Mutt
+
+* [Take Control of your Email with Mutt, OfflineIMAP and Notmuch | hobo.house](https://hobo.house/2015/09/09/take-control-of-your-email-with-mutt-offlineimap-notmuch/)
+    * Mutt (neomutt) for client, offlineimap(mbsync/isink) for download, notmuch for indexing
