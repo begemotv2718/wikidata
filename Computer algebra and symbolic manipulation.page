@@ -21,7 +21,7 @@ categories: mathematics,algebra,programming
 
 ## Sympy
 
-* [Converting latex to sympy](https://github.com/augustt198/latex2sympy) latex2sympy
+* [Converting latex to sympy](https://github.com/augustt198/latex2sympy) latex2sympy (Use [AntLR](http://www.antlr.org/) inside). I.e. ANTLR has python parser generator.
 
 ## Misc
 
