@@ -123,3 +123,7 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 # Password security
 
 * [KoreBlog pathwell_topologies](http://blog.korelogic.com/blog/2014/04/04/pathwell_topologies) -- people passwords often follow very predictable patterns. This is used to quickly crack passwords with modern tools.
+
+# DNS over TLS
+
+* [habr article](https://habr.com/post/427639/)
