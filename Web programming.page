@@ -9,3 +9,6 @@ categories: programming
 
 * [Docker-mailserver](https://github.com/tomav/docker-mailserver) - Docker container with everything for mailserver
 
+# Scrapping
+
+* [Scrapping csv using phantomjs](https://www.garysieling.com/blog/scraping-tabular-websites-into-a-csv-file-using-phantomjs)
