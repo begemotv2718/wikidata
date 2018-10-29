@@ -82,6 +82,12 @@ These sequences advertized on quora as an example of new subject accessible for 
 * [Smallest enclosing ellipses: Fast and exact](http://www.stsci.edu/~RAB/Backup%20Oct%2022%202011/f_3_CalculationForWFIRSTML/Gaertner%20&%20Schoenherr.pdf)
 * [Approximate solution](https://www.cs.cornell.edu/cv/OtherPdf/Ellipse.pdf)
 
+# Gittins index
+
+I learn about this concept from 'Algorithm to live by' book. Gittins index seems to be answer in some explore/exploit dilemmas, aka MAB(multi-armed-bandit) problems. What is not clear is how the tables in the book are computed. There is a number of resources for computation of Gittins index ( [here](https://sites.google.com/site/lorenzodigregorio/gittins-index), but I do not know how the numbers computed there is actually related to gittins index introduced in the book).
+
+
+
 # Related
 
 * [Patterns in art]()
