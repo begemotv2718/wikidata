@@ -62,3 +62,7 @@ International space station has SSTV transmitter in Russian module. Frequency is
 * fmscan.org
 * Google "scanner frequencies for"
 * Signal id wiki (see above)
+
+# Misc SDR
+
+* [Google in-browser SDR using standard R820t dongle](https://github.com/google/radioreceiver) Collabora seems to have similar project not released to the public
