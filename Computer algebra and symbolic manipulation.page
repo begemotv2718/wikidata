@@ -23,6 +23,10 @@ categories: mathematics,algebra,programming
 
 * [Converting latex to sympy](https://github.com/augustt198/latex2sympy) latex2sympy
 
+## Misc
+
+* [Python equation interpreter](https://pythonhosted.org/Equation/#example)
+
 # See also
 
 * [Jupyter notebooks]()
