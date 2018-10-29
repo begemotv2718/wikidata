@@ -51,4 +51,6 @@ EE = gender x (-
 
 Energy expenditure is in kJ/min, V[O$_2$] is in ml/(kg*min).
 
- 
+# Impedance tomography
+
+* [Impedance tomography using Red Pitaya board](https://www.researchgate.net/publication/326848441_Development_of_a_Portable_Electrical_Impedance_Tomography_System_for_Biomedical_Applications)
