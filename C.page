@@ -26,9 +26,10 @@ categories: programming,programming_languages
 * [LCC](https://github.com/drh/lcc) - free for non-commercial use, but not possible to create derived works
 * [LLVM -- extending llvm tutorial](https://llvm.org/docs/tutorial/)
 
-## Interesting and historical
+## Interesting and/or historical
 
 * [RatC compiler](http://linux-boss.narod.ru/ratc.html) книга Р.Берри, Б.Микинз "Язык Си Введение для программистов". Авторы книги предлагают изучить язык Си на примере транслятора RatC и приводят текст самого транслятора.
+* [Compilers for Elbrus architecture](http://212.59.102.250/apt/pool/main/s/sp/)
 
 # C interpreters
 
