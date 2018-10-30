@@ -47,3 +47,7 @@ Add the ```netconsole=32769@192.168.1.1/eth1,32769@192.168.1.6/01:23:34:56:78:9A
 # Debug kernel startup in KVM
 
 * [Some tips](https://rwmj.wordpress.com/2016/04/21/tip-poor-mans-qemu-breakpoint/) Most important beside using ```set architecture i8086``` is using ```hbreak``` instead of ```break```.
+
+# Virtme: tool for kernel testing with kvm
+
+* [Virtme: The kernel developers' best friend](https://www.collabora.com/news-and-blog/blog/2018/09/18/virtme-the-kernel-developers-best-friend/)
