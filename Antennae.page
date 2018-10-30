@@ -184,3 +184,7 @@ Basic design is all the same.
 * [Another microstrip calculator](http://www.emtalk.com/mscalc.php)
 * [More sophisticated microstrip calculators including coplanar lines](https://chemandy.com/calculators/calculator-index.htm)
 * [Microstrip patch antenna calculator](https://www.pasternack.com/t-calculator-microstrip-ant.aspx)
+
+# Vector network analizer
+
+* xaVNA - cheap kickstarter project [github](https://github.com/xaxaxa-dev/vna/releases) [ordering](https://www.kickstarter.com/projects/1759352588/xavna-a-full-featured-low-cost-two-port-vna)
