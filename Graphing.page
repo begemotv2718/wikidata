@@ -12,3 +12,4 @@ categories: visualization,ML
 * [Capturing mouse wheel events](https://stackoverflow.com/questions/10313142/javascript-capture-mouse-wheel-event-and-do-not-scroll-the-page)
 * [Plotly](https://plot.ly/javascript/time-series/)
 * [Cubism.js](http://square.github.io/cubism/) -- not so good.
+* [Chart.js](http://www.chartjs.org/samples/latest/)
