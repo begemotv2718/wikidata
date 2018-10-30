@@ -28,6 +28,7 @@ https://tex.stackexchange.com/questions/52819/how-do-i-use-truetype-fonts-with-p
 * [Repeated patterns: multido package](https://tex.stackexchange.com/questions/45122/tiling-a-pattern-for-beamer-background) (was useful) [Tiled backgrounds](http://latex.org/know-how/433-tiled-backgrounds) (was not useful, but nice to know)
 * [LaTeX beamer themes: large collection](https://latex.simon04.net/)
 * [Beamer user guide from Ki-Joo Kim aka Daisyweb](https://de.slideshare.net/mustainmtn/beamer-guide-by-kijoo-kim-aka-daisyweb) Nice guide done in beamer itself
+* [Some more themes with sources: github](https://github.com/makokal/beamer-themes)
 
 # Managing paths in includes
 
