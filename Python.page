@@ -21,6 +21,11 @@ categories: programming, programming_languages
 
 * [Polyglot -- language tools](https://github.com/aboSamoor/polyglot/tree/master/polyglot)
 
+## Flask
+
+* Asynchronous tasks in Flask
+    * Celery+redis is the answer [1](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/) [2](https://techarena51.com/blog/running-asynchronous-background-tasks-linux-python-3-flask-celery/) [3](http://python-rq.org/)
+
 # Recepies
 
 ## Python daemon
