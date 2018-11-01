@@ -9,6 +9,8 @@ From [Big Five and Myers Briggs Personality Systems « Personality Research](htt
 ... The Global 5 elements are Extroversion, Emotional Stability, Orderliness, Accommodation, and Intellect. ...[MBTI has 4 elements and] say close to nothing about the Emotional Stability (i.e. Neuroticism) element. ... Despite the issues, T/F correlates mostly with Accommodation and N/S correlates mostly with Intellect (source).  E/I correlates very strongly with Big Five Extroversion and J/P correlates very strongly with Big Five Orderliness.   So what you have with the Myers-Briggs system is basically a not so perfect Big Five minus Emotional Stability. 
 ```
 
+[Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Correlations_with_other_instruments) produces the correlation matrix between big 5 and MBTI
+
 # Psychological types and programming
 
 * Paper: Forty years of research on personality in software engineering: A mapping study Shirley Cruz, Fabio Q.B. da Silva, Luiz Fernando Capretz doi:10.1016/j.chb.2014.12.008 Survey only, the general outcome is that results are inconclusive
