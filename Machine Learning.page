@@ -97,6 +97,10 @@ See [Language processing](), [Neural network and finite automata]()
     * [Introduction to Dataset Augmentation and Expansion - Algorithmia Blog](https://blog.algorithmia.com/introduction-to-dataset-augmentation-and-expansion/)
     * [Kaggle tutorial](https://www.kaggle.com/dansbecker/data-augmentation)
 
+* Model size reduction
+    * [Deep learning model compression](https://medium.com/comet-app/deep-learning-model-compression-for-image-analysis-methods-and-architectures-398f82b0c06f)
+    * Main paper network pruning: [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+
 # Books
 
 * [Математические методы обучения по прецедентам Vorontsov](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
