@@ -66,3 +66,14 @@ International space station has SSTV transmitter in Russian module. Frequency is
 # Misc SDR
 
 * [Google in-browser SDR using standard R820t dongle](https://github.com/google/radioreceiver) Collabora seems to have similar project not released to the public
+
+# GSM
+
+* [Basics of GSM web archive](http://web.archive.org/web/20130729152921/http://web.ee.sun.ac.za:80/~gshmaritz/gsmfordummies/intro.shtml)
+    * [PDF copy](https://skydrive.live.com/redir?resid=8F7DEEEC761F130B!603&authkey=!AN3UlLqs7FxmZmQ)
+* [OsmocomBB](http://bb.osmocom.org/trac/) [Runs on some ordinary phones](https://osmocom.org/projects/baseband/wiki/Phones)
+
+## Cracking
+
+* [GSM cracking writeup](https://domonkos.tomcsanyi.net/?p=418)
+* [habr writeup](https://habr.com/post/200914/)
