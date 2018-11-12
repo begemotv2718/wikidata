@@ -285,6 +285,10 @@ This theme is introduced by Coleen Farrelly at Quora, it seems that she is quite
     * [Edelsbrunner, Harer "Persistent Homology - a survey". Contemporary mathematics, 453, 257-282](https://www.maths.ed.ac.uk/~v1ranick/papers/edelhare.pdf)
     * Chen, Genovese, Wasserman "Statistical inference using the Morse-Smale complex". Electronic Journal of Statistics 11(1), 1390-1443
 
+## Some useful optimization techniques
+
+* [Bayesian optimization](https://app.sigopt.com/static/pdf/SigOpt_Bayesian_Optimization_Primer.pdf) -- including optimization of other models.
+
 # Tools
 
 ## Jupiter notebooks
