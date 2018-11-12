@@ -101,6 +101,11 @@ See [Language processing](), [Neural network and finite automata]()
     * [Deep learning model compression](https://medium.com/comet-app/deep-learning-model-compression-for-image-analysis-methods-and-architectures-398f82b0c06f)
     * Main paper network pruning: [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 
+## Tricks
+
+* [Woodbury matrix identity - Wikipedia](https://en.wikipedia.org/wiki/Woodbury_matrix_identity) Allow to quickly recalculate inverse of matrix when only few row change.
+* [What are some relatively unknown but powerful data science / machine learning tricks? - Quora](https://www.quora.com/What-are-some-relatively-unknown-but-powerful-data-science-machine-learning-tricks)
+
 # Books
 
 * [Математические методы обучения по прецедентам Vorontsov](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
