@@ -263,3 +263,11 @@ unzip -l -O dos866 file.zip
 * Install lrzsz
 * In screen: ```Ctrl-A :``` (command mode)
 * ```exec !! sx file.bin```
+
+# Display graphics in console
+
+* [Braile patterns](http://www.fileformat.info/info/unicode/block/braille_patterns/images.htm)
+* Progress bars
+    * [Make better CLI progress bars with Unicode block characters – Mike's Software Blog](https://mike42.me/blog/2018-06-make-better-cli-progress-bars-with-unicode-block-characters)
+    * [user interface - Cooler ASCII Spinners? - Stack Overflow](https://stackoverflow.com/questions/2685435/cooler-ascii-spinners)
+    * [[SOLVED] Can xmobar display volume and network strength %? / Applications & Desktop Environments / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=74842) Inferior solution
