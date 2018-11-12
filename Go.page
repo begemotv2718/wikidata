@@ -1,0 +1,7 @@
+---
+categories: programming
+...
+
+# Editor support
+
+There is a tool named go-guru which should implement things an ide does (cross search over the project). Formerly this was known as go-oracle. This tool has [vim binding](https://github.com/fatih/vim-go/blob/master/autoload/go/guru.vim) and [emacs binding](https://github.com/dominikh/go-mode.el/blob/master/go-guru.el). The story is extracted from Quora answer on [Why do old school software developers dislike IDE's? - Quora](https://www.quora.com/Why-do-old-school-software-developers-dislike-IDEs).
