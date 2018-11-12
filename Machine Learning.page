@@ -288,6 +288,7 @@ This theme is introduced by Coleen Farrelly at Quora, it seems that she is quite
 ## Some useful optimization techniques
 
 * [Bayesian optimization](https://app.sigopt.com/static/pdf/SigOpt_Bayesian_Optimization_Primer.pdf) -- including optimization of other models.
+    * [Bayesian optimization for ML algorithm](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf) (hyperparameter fitting)
 
 # Conventional statistics
 
