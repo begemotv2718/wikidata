@@ -104,13 +104,19 @@ See [Language processing](), [Neural network and finite automata]()
 # Books
 
 * [Математические методы обучения по прецедентам Vorontsov](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
+* [Deep learning book](http://www.deeplearningbook.org/) Generated using [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX/wiki)
 
-## Debug
+## Conventional statistics
+
+* [Statistical inference book](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf)
+
+
+# ML Debug
 
 * [Debugging ML models](https://nlpers.blogspot.com.by/2016/08/debugging-machine-learning.html)
 * [37 reasons your neural network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 
-## Tensorflow
+# Tensorflow
 
 * [Tensorflow]()
 
@@ -290,9 +296,6 @@ This theme is introduced by Coleen Farrelly at Quora, it seems that she is quite
 * [Bayesian optimization](https://app.sigopt.com/static/pdf/SigOpt_Bayesian_Optimization_Primer.pdf) -- including optimization of other models.
     * [Bayesian optimization for ML algorithm](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf) (hyperparameter fitting)
 
-# Conventional statistics
-
-* [Statistical inference book](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf)
 
 # Tools
 
