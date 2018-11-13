@@ -76,3 +76,6 @@ wpa_passphrase=pass_phrase_as_it_is
 * Edit ```/etc/default/isc-dhcp-server``` add wlp3s1 interface to the INTERFACES variable (separated by space)
 * Add subnet in ```/etc/dhcp/dhcpd.conf```
 
+# OpenVPN configuring
+
+* [Config HowTo](https://openvpn.net/community-resources/how-to/)  Contains info about ```client-to-client``` option and routing.
