@@ -60,6 +60,14 @@ Some years ago there were Scroogle site: an anonymous proxy to google. Google ba
 
 * [FreeOTFE -- windows encryption (now defunct?)](http://web.archive.org/web/20061008032318/http://www.freeotfe.org/docs/index.htm)
 
+# Algorithms
+
+## Elliptic curve algorithms
+
+* [Relatively short and clear introduction to ECDH, i.e. elliptic curve diffie-hellman and ECDSA](http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/)
+* [Explanation of step with taking r in ECDSA](https://crypto.stackexchange.com/questions/33554/what-is-the-intuition-for-ecdsa)
+* [Youtube talk on ECC](https://www.youtube.com/watch?v=VsmBjnOlDA8)
+
 # Hashing
 
 ## MD5 collisions
