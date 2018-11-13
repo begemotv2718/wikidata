@@ -189,6 +189,7 @@ Basic design is all the same.
 * [Matlab Antenna toolbox -- pcb antenna design video presentation](https://www.mathworks.com/videos/pcb-antenna-design-simulation-and-fabrication-with-matlab-1504037535593.html)
 * [The dropout guide to PCB antenna design](http://colinkarpfinger.com/blog/2010/the-dropouts-guide-to-antenna-design/) -- short summary: try something, use VNA to improve
 * [rf - 434MHz PCB Trace Antenna Design - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/30822/434mhz-pcb-trace-antenna-design) -- lots of references
+* [Cypress antenna design and layout guidelines](http://www.cypress.com/file/136236/download)
 
 # Vector network analizer
 
