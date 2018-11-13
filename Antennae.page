@@ -91,7 +91,7 @@ This gives skin layer depth 65 $\mu$m at 1 MHz, 0.6 mm at 10 kHz, and 6$\mu$m at
 * [Xnec2 usage video](https://www.youtube.com/watch?v=yvN8EJXAtfE)
 * [Eznec -- windows only program for calculations](https://www.eznec.com/demoinfo.htm)
 * [Python neccpp: github](https://github.com/tmolteno/python-necpp) claim to be easier for use than classical nec wrappers
-
+* [NEC2 with transmission lines example, usability unknown](https://squashpractice.wordpress.com/2015/09/22/using-nec2-for-antenna-feed-design/)
 
 ## Notes on history and availability of NEC2 code
 
