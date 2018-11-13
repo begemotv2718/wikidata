@@ -22,3 +22,7 @@ categories: programming, video
 ## WebRTC
 
 * [Slides](https://datatracker.ietf.org/meeting/interim-2012-rtcweb-02/materials/slides-interim-2012-rtcweb-2-1)
+
+# Streaming and processing
+
+* [FFMpeg streaming](https://trac.ffmpeg.org/wiki/StreamingGuide)
