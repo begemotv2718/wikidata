@@ -156,7 +156,9 @@ See [Language processing](), [Neural network and finite automata]()
     * [Random face generation](http://carpedm20.github.io/faces/) somewhat Asian inclined
     * [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf) [Github tensorflow](https://github.com/carpedm20/BEGAN-tensorflow)
     * [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
-    * [Yet newer and better from NVIDIA](https://github.com/tkarras/progressive_growing_of_gans) via [Linkedin story](https://www.linkedin.com/pulse/americas-next-topbot-model-ben-taylor-deeplearning-/)
+    * [Yet newer and better from NVIDIA](https://github.com/tkarras/progressive_growing_of_gans) via [Linkedin story]
+(https://www.linkedin.com/pulse/americas-next-topbot-model-ben-taylor-deeplearning-/)
+    * [DCGAN Tutorial — PyTorch Tutorials 1.0.0.dev20181002 documentation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 * Age and gender
     * [impl1](https://github.com/GilLevi/AgeGenderDeepLearning)
     * [impl_orig](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
@@ -247,6 +249,7 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 * [Unsupervised Representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdf) [github](https://github.com/Newmu/dcgan_code) [tensorflow implementation of DCGAN](https://github.com/carpedm20/DCGAN-tensorflow)
     * FaceApp seems to use something like this (google Yaroslav Goncharov)
 * [Open AI: some nice examples](https://blog.openai.com/generative-models/#contributions)
+* [DCGAN Tutorial — PyTorch Tutorials 1.0.0.dev20181002 documentation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 
 ## Image completion
 
