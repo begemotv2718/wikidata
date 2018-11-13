@@ -248,6 +248,12 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
     * FaceApp seems to use something like this (google Yaroslav Goncharov)
 * [Open AI: some nice examples](https://blog.openai.com/generative-models/#contributions)
 
+## Image completion
+
+* [Locally and globally consistent image completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) No code for discriminator
+* Simpler examples
+    * Generative face completion [paper](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit) [github](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
+
 # Convolutional neural networks
 
 * [Github: convolutional arithmetics](https://github.com/vdumoulin/conv_arithmetic) Animations how different types of convolution work.
