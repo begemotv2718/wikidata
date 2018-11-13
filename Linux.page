@@ -136,3 +136,9 @@ sent to the init(1) program to handle a graceful restart. When, however, the val
 
 * [OSTree in yocto](https://github.com/advancedtelematic/meta-updater)
     * [Building for raspberry pi](https://docs.atsgarage.com/quickstarts/raspberry-pi.html)
+
+# Flash memory testing, disk recovery
+
+* It is reported that some flash driver producers make their product to lie about space available on the chip, which causes rapid wear out
+[f3](http://oss.digirati.com.br/f3/) is a linux tool to check for this condition
+* [Data recovery with ddrescue](https://anarc.at/services/archive/rescue/)
