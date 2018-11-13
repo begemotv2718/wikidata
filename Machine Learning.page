@@ -251,8 +251,11 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 * [Open AI: some nice examples](https://blog.openai.com/generative-models/#contributions)
 * [DCGAN Tutorial — PyTorch Tutorials 1.0.0.dev20181002 documentation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 * Tricks to improve GAN training [Ganhacks github](https://github.com/soumith/ganhacks)
+* [Curated list of awesome GAN applications: github](https://github.com/nashory/gans-awesome-applications)
+* [AttnGAN: generate image from text](https://github.com/taoxugit/AttnGAN)
 
-## Image completion
+
+## Image completion with GANs
 
 * [Locally and globally consistent image completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) No code for discriminator
 * Simpler examples
