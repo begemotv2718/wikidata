@@ -1,0 +1,14 @@
+---
+categories: programming, OS, RTOS
+...
+
+* [Comparison of real-time operating systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems)
+
+# Embedded OS
+
+* [Contiki OS](https://en.wikipedia.org/wiki/Contiki)
+
+# RTOS
+
+* [Zephyr Project -- github](https://github.com/zephyrproject-rtos/zephyr) [Getting started guide](https://docs.zephyrproject.org/latest/getting_started/getting_started.html#build-and-run-an-application)
+* RIOT
