@@ -6,6 +6,7 @@ categories: hardware
 # Generic design guidelines
 
 * [Circuit Board Layout Techniques](http://www.elart.narod.ru/articles/article11/article11.htm)
+* [Habr: Samspcbguide](https://habr.com/search/?q=%5Bsamspcbguide%5D&target_type=posts) The section about partial inductivity is not bad.
 
 # PCB software
 
