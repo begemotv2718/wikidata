@@ -2,7 +2,12 @@
 categories: hardware
 ...
 
-## PCB software
+
+# Generic design guidelines
+
+* [Circuit Board Layout Techniques](http://www.elart.narod.ru/articles/article11/article11.htm)
+
+# PCB software
 
 * [Free PCB CAD list](http://pcbshopper.com/cad/) Below is the most interesting links out of there:
     * [MyNetPCB](http://www.acorn-kernel.net/toolbox/mynetpcb) written in Java, multiplatform. [Sourceforge](https://sourceforge.net/projects/mynetpcb/)
