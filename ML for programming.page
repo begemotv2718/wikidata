@@ -5,3 +5,11 @@ categories: ML,programming
 
 * [Paper: Code Completion with Statistical Language Models](http://www.cs.technion.ac.il/~yahave/papers/pldi14-statistical.pdf)
 * [source{d}, company specialized on ml analysis of free software](https://github.com/src-d)  Tools for AST parsing and some style analysis (whatever this means)
+
+# Automatic bug fixing
+
+* Paper: Le Goues, C., Nguyen, T., Forrest, S., & Weimer, W. (2012). GenProg: A Generic Method for Automatic Software Repair. IEEE Transactions on Software Engineering, 38(1), 54–72. doi:10.1109/tse.2011.104
+
+This paper introduces genetic algorithm for bug fixing. 
+
+Implementations for algorithms of this paper for java language: [github](https://github.com/SpoonLabs/astor) jGenProg, jKali, jMutRepair, etc. Multiple references to the other sources.
