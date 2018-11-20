@@ -13,3 +13,5 @@ categories: ML,programming
 This paper introduces genetic algorithm for bug fixing. 
 
 Implementations for algorithms of this paper for java language: [github](https://github.com/SpoonLabs/astor) jGenProg, jKali, jMutRepair, etc. Multiple references to the other sources.
+
+Original GenProg fixer for C on [github](https://github.com/squaresLab/genprog-code)
