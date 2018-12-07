@@ -41,3 +41,8 @@ Questions wtf is :
 * DSI (apparently Display serial interface)
 * DPI
 * CRTC
+
+
+# Kernel Mode Setting, etc.
+
+* [DRM Modesetting Example -- github](https://github.com/dvdhrm/docs/blob/master/drm-howto/modeset.c) Controlling KMS from user interface perspective. WTF is `xf86drm.h` ?
