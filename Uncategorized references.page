@@ -6,3 +6,4 @@ category: references
 * [Salaries in the USA](https://www.ssa.gov/cgi-bin/netcomp.cgi?year=2015)
 * LBRY access to UC Berkley courses: ```curl 'http://localhost:5279/lbryapi' --data '{"method":"get","params":{"uri":"ucberkeley}}'``` The download of the catalog will start to Downloads/Загрузки . Currently about 7 items only.
 * [Inflation calculator for US](https://data.bls.gov/cgi-bin/cpicalc.pl)
+* [Water solutions conductivity vs concentration](http://myweb.wit.edu/sandinic/Research/conductivity%20v%20concentration.pdf)
