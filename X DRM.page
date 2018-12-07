@@ -69,3 +69,5 @@ Framebuffer(Plane) -> CRTC -> Encoder -> Connector
 Seems that tinydrm is connector. CRTC do the composition of multiple buffers. 
 
 OpenGL (ES) is a separate pipeline from KMS. /dev/mali for lima.
+
+xf86-video-modesetting is working on top of KMS and GBM (wtf is xf86-video-modesetting?)
