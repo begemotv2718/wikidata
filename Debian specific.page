@@ -37,6 +37,12 @@ categories: linux,debian
     * ```dpkg-query -Wf '${Installed-Size}\t${Package}\n' | sort -n```
     * Other ideas [here](http://www.commandlinefu.com/commands/view/3842/list-your-largest-installed-packages-on-debianubuntu)
 
+# Make livecd
+
+* [Live team setup guide](https://live-team.pages.debian.net/live-manual/html/live-manual/customizing-package-installation.en.html)
+    * [Just essential steps](https://www.bustawin.com/create-a-custom-live-debian-9-the-pro-way/)
+* [Without live-build](https://willhaley.com/blog/custom-debian-live-environment/)
+
 # See also
 
 * [Kernel debug]()
