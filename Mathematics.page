@@ -86,7 +86,9 @@ These sequences advertized on quora as an example of new subject accessible for 
 
 I learn about this concept from 'Algorithm to live by' book. Gittins index seems to be answer in some explore/exploit dilemmas, aka MAB(multi-armed-bandit) problems. What is not clear is how the tables in the book are computed. There is a number of resources for computation of Gittins index ( [here](https://sites.google.com/site/lorenzodigregorio/gittins-index), but I do not know how the numbers computed there is actually related to gittins index introduced in the book).
 
+# Curiosities
 
+* [Borwein integral](http://schmid-werren.ch/hanspeter/publications/2014elemath.pdf)
 
 # Related
 
