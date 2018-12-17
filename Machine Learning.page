@@ -156,8 +156,8 @@ See [Language processing](), [Neural network and finite automata]()
     * [Random face generation](http://carpedm20.github.io/faces/) somewhat Asian inclined
     * [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf) [Github tensorflow](https://github.com/carpedm20/BEGAN-tensorflow)
     * [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
-    * [Yet newer and better from NVIDIA](https://github.com/tkarras/progressive_growing_of_gans) via [Linkedin story]
-(https://www.linkedin.com/pulse/americas-next-topbot-model-ben-taylor-deeplearning-/)
+    * [Yet newer and better from NVIDIA](https://github.com/tkarras/progressive_growing_of_gans) via [Linkedin story](https://www.linkedin.com/pulse/americas-next-topbot-model-ben-taylor-deeplearning-/)
+        * [And yet newer one from NVIDIA](https://docs.google.com/document/d/1SDbnM1nxLZNuwD8fQkIigUve_SlihgoCmvjN3e388Us/edit)
     * [DCGAN Tutorial — PyTorch Tutorials 1.0.0.dev20181002 documentation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 * Age and gender
     * [impl1](https://github.com/GilLevi/AgeGenderDeepLearning)
