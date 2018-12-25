@@ -5,3 +5,16 @@ categories: hardware, radio
 # ESP8266
 
 * [habr: Reverse engineering of ESP8266](https://habrahabr.ru/post/255135/)
+
+
+
+# IEEE 802.15.4
+
+## ZigBee
+
+* ZigBee Sniffer CC2530, CC2531 
+    * [Firmware](https://github.com/zigbeer/documents/tree/master/zigbee-shepherd)
+    * [Aliexpress module](https://ru.aliexpress.com/item/Wireless-Zigbee-CC2531-Sniffer-Bare-Board-Packet-Protocol-Analyzer-Module-USB-Interface-Dongle-Capture-Packet-Module/32852226435.html)
+    * [Tool for debug/firmware upload on Linux](https://github.com/dashesy/cc-tool)
+    * [Debugger on aliexpress](https://ru.aliexpress.com/item/CC-DEBUGGER-RF-system-on-Chips/32875291290.html)
+    * [Source paper](https://xakep.ru/2018/10/11/zigbee/)
