@@ -68,6 +68,10 @@ Dependencies:
 * [Creating custom footprint](http://kicad.txplore.com/?p=111)
 * [Kicad new components](http://store.curiousinventor.com/guides/kicad/new_components)
 
+* Converting from Kicad
+    * [Converting from Kicad to Eagle | element14 | EAGLE User Chat (English)](https://www.element14.com/community/thread/3739/l/converting-from-kicad-to-eagle?displayFullThread=true)
+    * [Upverter schematic file converter](https://github.com/ljmljz/schematic-file-converter)
+
 ## Common problems
 
 * [Polygon fill](https://www.wayneandlayne.com/blog/2013/02/26/kicad-tutorial-copper-pours-fills/)
