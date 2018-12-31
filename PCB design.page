@@ -72,6 +72,15 @@ Dependencies:
     * [Converting from Kicad to Eagle | element14 | EAGLE User Chat (English)](https://www.element14.com/community/thread/3739/l/converting-from-kicad-to-eagle?displayFullThread=true)
     * [Upverter schematic file converter](https://github.com/ljmljz/schematic-file-converter)
 
+## Routing
+
+> Однослойную плату легко сделать.
+> Для этого заходим в инструменты->выбор пары слоев.
+> В появившемся окне выставляем одинаковыми рабочие слои, например верхний и нижний слои выбрать B.Cu (работа только на нижнем слое).
+> Теперь при ручной и авторазводке будет использован только слой B.Cu. 
+
+[ref](https://radiokot.ru/forum/viewtopic.php?f=8&t=30356&start=320)
+
 ## Common problems
 
 * [Polygon fill](https://www.wayneandlayne.com/blog/2013/02/26/kicad-tutorial-copper-pours-fills/)
