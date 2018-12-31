@@ -42,6 +42,22 @@ Questions wtf is :
 * DPI
 * CRTC
 
+# Testing working of pipeline
+
+* [Modetest](https://cgit.freedesktop.org/mesa/drm/tree/tests/modetest)
+
+Modetest.c description
+
+> This fairly simple test program dumps output in a similar format to the
+> "xrandr" tool everyone knows & loves.  It's necessarily slightly different
+> since the kernel separates outputs into encoder and connector structures,
+> each with their own unique ID.  The program also allows test testing of the
+> memory management and mode setting APIs by allowing the user to specify a
+> connector and mode to use for mode setting.  If all works as expected, a
+> blue background should be painted on the monitor attached to the specified
+> connector after the selected mode is set.
+
+
 
 # Kernel Mode Setting, etc.
 
