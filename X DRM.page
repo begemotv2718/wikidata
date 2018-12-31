@@ -11,9 +11,11 @@ The scope of DRM has been expanded over the years to cover more functionality pr
 Device files created: ```/dev/dri/cardX``` and everything else under ```/dev/dri```. Requests are performed through ioctl.
 
 
-# Overview article
+# Overview
 
 * [The DRM/KMS subsystem from a newbie’s point of view](https://events.static.linuxfound.org/sites/events/files/slides/brezillon-drm-kms.pdf)
+
+
 
 # Raspberry pi and tinydrm
 
@@ -68,6 +70,8 @@ Modetest.c description
 # Kernel Mode Setting, etc.
 
 * [DRM Modesetting Example -- github](https://github.com/dvdhrm/docs/blob/master/drm-howto/modeset.c) Controlling KMS from user interface perspective. 
+* [Kernel Mode Setting (KMS) — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/gpu/drm-kms.html) seems to be quite useful
+    * Part of more general [Linux GPU Driver Developer’s Guide — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/gpu/index.html)
 
 ## WTF is xf86drm.h ?
 
@@ -79,6 +83,7 @@ Modetest.c description
  * \author Rickard E. (Rik) Faith <faith@valinux.com>
  */
 ```
+
 
 ## Kernel Recipes 2017 - An introduction to the Linux DRM subsystem
 
