@@ -149,11 +149,11 @@ According to Denis P. automotive grade linux is in PoC of PoC state. Collabora h
 
 * [agl-distro [Automotive Linux Wiki]](https://wiki.automotivelinux.org/agl-distro)
 * [Apertis resources](https://developer.apertis.org/latest/widget-catalog.html)
+    * [Apertis images](https://images.apertis.org/release/18.09/18.09.0rc1/armhf/)
 
 I.MX6 is a popular architecture for automotive devices. Sabre-lite is a dev board with i.mx6 architecture.
 
-* [Sabre-lite datasheet](https://boundarydevices.com/wp-content/uploads/2014/11/sabre_lite-revD.pdf)
+* [Sabre lite resources](https://boundarydevices.com/product/sabre-lite-imx6-sbc/)
 * [i.MX 6SoloLite Evaluation Kit|NXP](https://www.nxp.com/support/developer-resources/software-development-tools/i.mx-developer-resources/i.mx-6sololite-evaluation-kit:IMX6SLEVK?fpsp=1&tab=Documentation_Tab)
 
 
-* 
