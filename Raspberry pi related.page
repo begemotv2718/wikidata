@@ -69,3 +69,13 @@ fatload mmc 0:1 0x2000000 bcm2710-rpi-3-b.dtb
 setenv bootargs 8250.nr_uarts=1 root=/dev/mmcblk0p2 rootwait console=ttyS0,115200
 bootz ${kernel_addr_r} - 0x2000000
 ```
+
+# SPI
+
+Spi speed 
+
+> The Raspberry Pi SPI runs at APB clock speed, which is equivalent to core clock speed, 250 MHz. This can be divided by any even number from 2 to 65536 for the desired speed. The datasheet specifies that the divisor must be a power of two, but this is incorrect. Odd numbers are rounded down, and 0 (or 1) is equivalent to 65536. A divisor smaller than 2 is therefore impossible.
+
+> This makes the frequency range be from 3.814 kHz to 125 MHz, with 32768 steps in between.
+
+[ref](https://raspberrypi.stackexchange.com/questions/699/what-spi-frequencies-does-raspberry-pi-support)
