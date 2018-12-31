@@ -388,6 +388,14 @@ static const struct usb_config_1 usb_config_1 = {
 * [Linux driver readme on official ftdi site](http://www.ftdichip.com/Drivers/D2XX/Linux/ReadMe-linux.txt)
 * [Drivers page on official site](http://www.ftdichip.com/Drivers/D2XX.htm)
 
+* Device with custom VID:PID [Stackoverflow](https://unix.stackexchange.com/questions/67936/attaching-usb-serial-device-with-custom-pid-to-ttyusb0-on-embedded) Summary
+
+```bash
+modprobe ftdi_sio
+echo 0403 6001 >/sys/bus/usb-serial/drivers/ftdi_sio/new_id
+```
+
+
 # USB CDC
 
 ## Handling of CDC requests:
