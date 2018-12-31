@@ -17,6 +17,8 @@ Device files created: ```/dev/dri/cardX``` and everything else under ```/dev/dri
 
 # Raspberry pi and tinydrm
 
+This story started from the following post [A Call For Deprecating The Linux Frame-Buffer FBDEV - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=MTE3MjI) 
+
 * [raspberry pi vc4 commit](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c8b75bca92cbf064b9fa125fc74a85994452e935)
 
 
