@@ -42,6 +42,10 @@ Questions wtf is :
 * DPI
 * CRTC
 
+## My hardware
+
+My TFT display [apparently](http://forum.arduino.cc/index.php?topic=116257.0) has ili9320 chipset. Need to check if it is present in kernel tree.
+
 # Testing working of pipeline
 
 * [Modetest](https://cgit.freedesktop.org/mesa/drm/tree/tests/modetest)
