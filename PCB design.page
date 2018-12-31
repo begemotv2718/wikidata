@@ -11,6 +11,8 @@ categories: hardware
 
 # PCB software
 
+* Proprietary
+    * [TopoR](https://www.eremex.ru/download-or-buy/) -- works good with Kicad
 * [Free PCB CAD list](http://pcbshopper.com/cad/) Below is the most interesting links out of there:
     * [MyNetPCB](http://www.acorn-kernel.net/toolbox/mynetpcb) written in Java, multiplatform. [Sourceforge](https://sourceforge.net/projects/mynetpcb/)
     * [OpenCircuitDesign](http://opencircuitdesign.com/) Site with multiple tools, including FPGA and VLSI related. Below is schematic capture and PCB related
@@ -20,6 +22,7 @@ categories: hardware
     * Kicad
     * [EasyEDA](https://easyeda.com/editor) Online editor
     * [Upverter](https://upverter.com/pricing/) Another online editor tied to manufacturer
+    
   
 
 # Footprint libraries and tools
