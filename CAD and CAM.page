@@ -27,6 +27,11 @@ Looks to be quite buggy and slow
 * [Threads generator](http://dkprojects.net/openscad-threads/threads.scad)
 * [Bending module](https://github.com/stuartpb/bend.scad) [OpenSCAD bend procedures 2017](https://www.thingiverse.com/thing:2286483)
 
+* Gears
+    * [Wikipedia: Эвольвентное зацепление](https://ru.wikipedia.org/wiki/Эвольвентное_зацепление) [en: Involute gear](https://en.wikipedia.org/wiki/Involute_gear)
+    * [Parametric involute spur and bevel gears: thingiverse](https://www.thingiverse.com/thing:3575)
+    
+
 * [Making naturall shapes with hull and minkowski summ](https://hackaday.com/2018/02/13/openscad-tieing-it-together-with-hull/)
 
 * [Script to check openSCAD modules for overlapping names haskell](https://gist.github.com/bgamari/9459806)
