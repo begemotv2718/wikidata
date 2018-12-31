@@ -84,6 +84,16 @@ For coil wires it is claimed at least 400V strength for ПЭВ-1. The thickness 
 ## SWR
 
 
+# Interfaces
+
+## USB
+
+* [USB]()
+
+## UART
+
+List of standard UART rates: 110, 150, 300, 1200, 2400, 4800, 9600, 19200, 38400, 57600, 115200, 230400, 460800, 921600 [via stackexchange](https://electronics.stackexchange.com/questions/9264/what-standard-uart-rates-are-there)
+
 # IR remotes
 
 * [Altium: NEC protocol](http://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
