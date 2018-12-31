@@ -142,3 +142,18 @@ sent to the init(1) program to handle a graceful restart. When, however, the val
 * It is reported that some flash driver producers make their product to lie about space available on the chip, which causes rapid wear out
 [f3](http://oss.digirati.com.br/f3/) is a linux tool to check for this condition
 * [Data recovery with ddrescue](https://anarc.at/services/archive/rescue/)
+
+# Linux for automotive
+
+According to Denis P. automotive grade linux is in PoC of PoC state. Collabora has its own project, named Apertis.
+
+* [agl-distro [Automotive Linux Wiki]](https://wiki.automotivelinux.org/agl-distro)
+* [Apertis resources](https://developer.apertis.org/latest/widget-catalog.html)
+
+I.MX6 is a popular architecture for automotive devices. Sabre-lite is a dev board with i.mx6 architecture.
+
+* [Sabre-lite datasheet](https://boundarydevices.com/wp-content/uploads/2014/11/sabre_lite-revD.pdf)
+* [i.MX 6SoloLite Evaluation Kit|NXP](https://www.nxp.com/support/developer-resources/software-development-tools/i.mx-developer-resources/i.mx-6sololite-evaluation-kit:IMX6SLEVK?fpsp=1&tab=Documentation_Tab)
+
+
+* 
