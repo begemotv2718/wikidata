@@ -8,6 +8,14 @@ categories: CAD, CAM, CNC, crafts
 * [OpenSCAD tips and tricks](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Tips_and_Tricks)
 * [Extrusion](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/2D_to_3D_Extrusion)
 * [Extrude along path plugin](https://www.thingiverse.com/thing:186660/files)
+    * [Generalized extrude module proposal](https://github.com/openscad/openscad/wiki/OEP1:-Generalized-extrusion-module) [forum](http://forum.openscad.org/OEP1-Generalized-extrusion-module-td6068.html)
+
+* [Threads generator](http://dkprojects.net/openscad-threads/threads.scad)
+* [Bending module](https://github.com/stuartpb/bend.scad)
+
+* [Making naturall shapes with hull and minkowski summ](https://hackaday.com/2018/02/13/openscad-tieing-it-together-with-hull/)
+
+* [Script to check openSCAD modules for overlapping names haskell](https://gist.github.com/bgamari/9459806)
 
 # See also
 
