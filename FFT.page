@@ -42,6 +42,11 @@ categories: mathematics,numerics,hardware,DSP
 
 * [General framework for FFT: polynomial multiplication (Nipun Ramakrishnan, quora)](https://www.quora.com/What-is-the-most-amazing-algorithm-you-know/answer/Nipun-Ramakrishnan)
 
+# Sparse FFT -- faster than logarithmic (even faster than linear)
+
+* [SFFT list of papers](https://groups.csail.mit.edu/netmit/sFFT/paper.html)
+
+
 # See also
 
 * [Parent: DSP](Digital signal processing)
