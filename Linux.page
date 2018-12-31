@@ -145,9 +145,10 @@ sent to the init(1) program to handle a graceful restart. When, however, the val
 
 # Linux for automotive
 
-According to Denis P. automotive grade linux is in PoC of PoC state. Collabora has its own project, named Apertis.
+According to Denis P. automotive grade linux is in PoC of PoC state. Collabora has its own project, named Apertis. AGL is build on the base of Yocto. Apertis has its own build system closely related to general debian build.
 
 * [agl-distro [Automotive Linux Wiki]](https://wiki.automotivelinux.org/agl-distro)
+* [AGL repository](https://git.automotivelinux.org/)
 * [Apertis resources](https://developer.apertis.org/latest/widget-catalog.html)
     * [Apertis images](https://images.apertis.org/release/18.09/18.09.0rc1/armhf/)
 
