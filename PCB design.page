@@ -9,6 +9,15 @@ categories: hardware
 * [Habr: Samspcbguide](https://habr.com/search/?q=%5Bsamspcbguide%5D&target_type=posts) The section about partial inductivity is not bad.
 * [Habr: Operation amplifiers PCB design](https://habr.com/post/399955/)
 
+
+# DePCB
+
+* DePCB is a simple tool to trace connections on single and double layered pcbs. It is not yet totally useful. But it should be able to export netlists (maybe with some grooming with perl). 
+
+NetList to schematics?
+
+* [NetlistViewer](https://sourceforge.net/projects/netlistviewer/) via [forum](https://forum.allaboutcircuits.com/threads/conversion-of-netlist-to-schematic.2110/)
+
 # PCB software
 
 * Proprietary
