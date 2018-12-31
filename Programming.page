@@ -186,20 +186,8 @@ In theory, when linking something, only the needed libraries are passed to the c
 
 # CAD
 
+* [CAD and CAM]()
 
-## QCad
-
-2D engineering drawing package based on Qt
-Looks to be quite buggy and slow
-
-* [wikipedia](https://en.wikipedia.org/wiki/QCad)
-* [Github](https://github.com/qcad/qcad)
-* [Compiling from source](http://www.qcad.org/en/component/content/article/78-qcad/111-qcad-compilation-from-sources#linux)
-
-## 3d
-
-* FreeCAD
-* Solvespace [Tutorial](https://eribuijs.blogspot.com/2016/09/switching-from-freecad-to-solvespace.html)
 
 # More specific software
 
