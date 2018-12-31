@@ -23,7 +23,13 @@ categories: hardware
     * [EasyEDA](https://easyeda.com/editor) Online editor
     * [Upverter](https://upverter.com/pricing/) Another online editor tied to manufacturer
     
-  
+# Graph planarity testing
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Planarity_testing) 
+
+Summary: Graph is planar if it does not contain Kuratowski subgraphs (complete 5-node graph and 3-bipartite graphs). 
+
+There is libraries in C++ boost for planarity checking, which can find Kuratowski subgraphs [Example of boost planarity checking](https://www.boost.org/doc/libs/1_40_0/libs/graph/example/straight_line_drawing.cpp)
 
 # Footprint libraries and tools
 
