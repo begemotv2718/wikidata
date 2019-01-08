@@ -82,6 +82,7 @@ Dependencies:
 * [Creating schematic library component](http://kicad.txplore.com/?p=96)
 * [Creating custom footprint](http://kicad.txplore.com/?p=111)
 * [Kicad new components](http://store.curiousinventor.com/guides/kicad/new_components)
+* [Kifield](https://xesscorp.github.io/KiField/docs/_build/singlehtml/index.html), automatically assign fields to multiple components (with spreadsheets) 
 
 * Converting from Kicad
     * [Converting from Kicad to Eagle | element14 | EAGLE User Chat (English)](https://www.element14.com/community/thread/3739/l/converting-from-kicad-to-eagle?displayFullThread=true)
