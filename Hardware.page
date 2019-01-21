@@ -112,6 +112,17 @@ List of standard UART rates: 110, 150, 300, 1200, 2400, 4800, 9600, 19200, 38400
 
 # Components
 
+## Transformers
+
+
+* Calculations
+    * [Параметры магнитопроводов](http://www.moskatov.narod.ru/Programs/Determination_parameter_magnetic_kernel.pdf)
+* Ferrites
+    * [Some characteristics](https://static.chipdip.ru/lib/245/DOC000245902.pdf)
+    * [Another](https://static.chipdip.ru/lib/245/DOC000245900.pdf)
+* Histeresis and magnetic losses
+    * [Steinmetz's equation](https://en.wikipedia.org/wiki/Steinmetz%27s_equation)
+    * [Core losses lecture](https://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Basic%20Electrical%20Technology/pdf/L-22(TB)(ET)%20((EE)NPTEL).pdf)
 ## Capacitors
 
 * [Choosing a SMT capacitor pdf](https://www.digikey.sg/Web%20Export/Supplier%20Content/Kemet_399/PDF/Kemet_CeramicorFilmSMD.pdf)
