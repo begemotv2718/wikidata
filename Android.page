@@ -24,6 +24,10 @@ categories: programming,java,work
 
 * Starting with am ```adb shell am start -n <application.main.class/activity.name>```
 
+* Uninstalling Facebook and other crap
+```adb shell pm uninstall -k --user o <package name>```
+Package name can be figured out with AppInspector App, but most likely just with adb ls. Package name is like 'com.facebook.etc'
+
 
 # Building for rpi 3
 
