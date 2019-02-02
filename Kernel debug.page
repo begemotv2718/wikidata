@@ -62,6 +62,18 @@ Main points:
     * ```set_graph_function``` is recommended to explore f->op->function to find out what is really called
     * ```set_ftrace_pid``` -- limit to pid
 
+Trace only specific command
+```bash
+cd /sys/kernel/debug/tracing
+echo 0 > tracing_on
+echo smth > current_tracer
+echo smth > set_graph_function
+echo smth >> set_graph_function
+sh -c 'echo $$ > set_ftrace_pid; echo 1 > tracing_on; exec /home/user/my_executable;'
+echo 0 > tracing_on
+cat trace
+``` 
+
 # Debug kernel startup in KVM
 
 * [Some tips](https://rwmj.wordpress.com/2016/04/21/tip-poor-mans-qemu-breakpoint/) Most important beside using ```set architecture i8086``` is using ```hbreak``` instead of ```break```.
