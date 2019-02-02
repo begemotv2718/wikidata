@@ -59,6 +59,7 @@ Main points:
     * ```available_tracers``` -- function, function_graph, mmiotrace -- good to rev engineer proprietary drivers
     * ```set_ftrace_filter``` -- limit tracing to function
     * ```echo 0 > tracing_on``` stop tracing without erazing trace file
+    * ```set_graph_function``` is recommended to explore f->op->function to find out what is really called
 
 # Debug kernel startup in KVM
 
