@@ -57,7 +57,7 @@ Main points:
     * ```README``` (help)
     * ```current_tracer``` (set to nop by default) ```echo function > current_tracer```
     * ```available_tracers``` -- function, function_graph, mmiotrace -- good to rev engineer proprietary drivers
-    * ```set_ftrace_filter``` -- limit tracing to function
+    * ```set_ftrace_filter``` -- limit tracing to function (multiple possible, templates possible, <function>:stacktrace to find callers)
     * ```echo 0 > tracing_on``` stop tracing without erazing trace file
     * ```set_graph_function``` is recommended to explore f->op->function to find out what is really called
 
