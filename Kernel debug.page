@@ -44,6 +44,22 @@ Add the ```netconsole=32769@192.168.1.1/eth1,32769@192.168.1.6/01:23:34:56:78:9A
     * Oracle Linux dtrace -- requires oracle linux
     * sysdig
 
+## ftrace
+
+Talk on ftrace interface is on youtube [Kernel Recipes 2017 - Understanding the Linux Kernel via Ftrace - Steven Rostedt - YouTube](https://www.youtube.com/watch?v=2ff-7UTg5rE).
+
+Main points:
+
+* Work without any tools, but need to be enabled on kernel compilation
+* Debian has this enabled, although it might be a security issue
+* Files under ```/sys/kernel/debug/tracing/```
+* Important files in this directory
+    * ```README``` (help)
+    * ```current_tracer``` (set to nop by default) ```echo function > current_tracer```
+    * ```available_tracers``` -- function, function_graph, mmiotrace -- good to rev engineer proprietary drivers
+    * ```set_ftrace_filter``` -- limit tracing to function
+    * ```echo 0 > tracing_on``` stop tracing without erazing trace file
+
 # Debug kernel startup in KVM
 
 * [Some tips](https://rwmj.wordpress.com/2016/04/21/tip-poor-mans-qemu-breakpoint/) Most important beside using ```set architecture i8086``` is using ```hbreak``` instead of ```break```.
