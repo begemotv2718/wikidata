@@ -79,3 +79,5 @@ wpa_passphrase=pass_phrase_as_it_is
 # OpenVPN configuring
 
 * [Config HowTo](https://openvpn.net/community-resources/how-to/)  Contains info about ```client-to-client``` option and routing.
+* [How to start Openvpn service at boot time - Ask Fedora: Community Knowledge Base and Support Forum](https://ask.fedoraproject.org/en/question/23085/how-to-start-openvpn-service-at-boot-time/)
+* [2x HOW TO | OpenVPN](https://openvpn.net/community-resources/how-to/#vpntype)
