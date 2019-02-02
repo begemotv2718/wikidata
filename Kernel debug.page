@@ -60,6 +60,7 @@ Main points:
     * ```set_ftrace_filter``` -- limit tracing to function (multiple possible, templates possible, <function>:stacktrace to find callers)
     * ```echo 0 > tracing_on``` stop tracing without erazing trace file
     * ```set_graph_function``` is recommended to explore f->op->function to find out what is really called
+    * ```set_ftrace_pid``` -- limit to pid
 
 # Debug kernel startup in KVM
 
