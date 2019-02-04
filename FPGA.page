@@ -27,7 +27,8 @@ Resources
 
 * [Their web page](http://www.clifford.at/icestorm/) -- idea is reverse engineering of bitstream format for lattice semiconductors [ice stick](http://www.latticesemi.com/icestick).
 * [yosis](http://www.clifford.at/yosys/)
-* [arachne-pnr](https://github.com/cseed/arachne-pnr) -- open source fpga routing
+* [arachne-pnr](https://github.com/cseed/arachne-pnr) -- open source fpga routing 
+    * Newer tool is called [nextpnr](https://github.com/YosysHQ/nextpnr)
 * It uses ghdl front-end for compiling vhdl 
     * [ghdlsynth-beta](https://github.com/tgingold/ghdlsynth-beta)
     * [ghdl](https://github.com/tgingold/ghdl)
