@@ -56,6 +56,11 @@ iceprog leds.bin
     * [Qrouter](http://opencircuitdesign.com/qrouter/index.html) route metalization layer from the LEF file (cell definition) DEF file (netlist).
     * [IRSIM Switch level simulator](http://opencircuitdesign.com/irsim/index.html)
 
+## Xilinx FPGA reverse engineering
+
+* [Project X-ray](https://github.com/SymbiFlow/prjxray-db) -- reconstruction of bitstream format using fuzzing and other automated methods
+    * [Some results](https://symbiflow.github.io/prjxray-db/) Chips in current analysis: artix7, kintex7 and zynq7 families.
+
 # Repositories of open hardware
 
 * [ohwr](http://www.ohwr.org/projects/)
