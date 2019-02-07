@@ -72,6 +72,7 @@ categories: programming
 * [Github: clean code linters](https://github.com/showcases/clean-code-linters) In particular: [oclint c/cpp checker](https://github.com/oclint/oclint)
 * [Github: quite comprehensive list of linters](https://github.com/mcandre/linters)
 * [Abraxas Software CodeCheck -- Seems to be open source and even free MISRA rules checker](http://www.abxsoft.com/misra/misra-index.html)
+* [Setup of PC-Lint on Linux](https://www.approxion.com/using-pc-lint-in-a-linux-environment/)
 
 ## Static analysis tools
 
