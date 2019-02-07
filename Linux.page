@@ -98,6 +98,11 @@ Useful when pulseaudio interfere
 * [Audio loopback device in alsa](https://www.alsa-project.org/main/index.php/Matrix:Module-aloop) Summary: ```modprobe snd-aloop```
 * [Video loopback v4l2loopback](https://videoswitch.ru/forum/index.php?topic=470.0) Summary: ```sudo apt-get install v4l2loopback-dkms v4l2loopback-utils```. Send redirect output to new /dev/videoX read from the same device.
 
+## Pulseaudio bluetooth
+
+* [Arch linux Bluetooth headset](https://wiki.archlinux.org/index.php/Bluetooth_headset)
+* [Pulseaudio examples arch](https://wiki.archlinux.org/index.php/PulseAudio/Examples_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
+
 # Bash tricks
 
 * [Fuzzy search: habr fzf](https://habrahabr.ru/company/wrike/blog/344770/.com.-nechetkiy-poisk-ili-kak-bystro-stavi)
