@@ -16,3 +16,6 @@ categories: visualization,ML
 
 * [Graphana](https://grafana.com/) Database graphing, mostly javascript
 
+# Some other stuff
+
+* [Telegraph: data processing framework](https://github.com/influxdata/telegraf#output-plugins)
