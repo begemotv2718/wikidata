@@ -65,6 +65,10 @@ categories: programming
 
 * [Hexagonal architecture](https://www.viewfromthecodeface.com/portfolio/clean-code-hexagonal-architecture/) -- Java example, suggests to abstract input and output, to be honest, another MVC.
 
+# Databases
+
+* [How does a relational database work | Coding Geek](http://coding-geek.com/how-databases-work/) Good overview
+
 # Automatic verification
 
 ## Linters
