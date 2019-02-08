@@ -21,7 +21,7 @@ NetList to schematics?
 # PCB software
 
 * Proprietary
-    * [TopoR](https://www.eremex.ru/download-or-buy/) -- works good with Kicad
+    * [TopoR](https://www.eremex.ru/download-or-buy/) -- works good with Kicad [Review of working with kicad](https://mylifeasa.tinkerer.us/using-topor-to-autoroute-a-kicad-pcb-bf5ae47cdc7b)
 * [Free PCB CAD list](http://pcbshopper.com/cad/) Below is the most interesting links out of there:
     * [MyNetPCB](http://www.acorn-kernel.net/toolbox/mynetpcb) written in Java, multiplatform. [Sourceforge](https://sourceforge.net/projects/mynetpcb/)
     * [OpenCircuitDesign](http://opencircuitdesign.com/) Site with multiple tools, including FPGA and VLSI related. Below is schematic capture and PCB related
