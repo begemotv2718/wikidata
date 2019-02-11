@@ -49,6 +49,18 @@ categories: physics
 
 It seems that Pierles instability plays main role, but Polonium overcomes this [Phys. Rev. B 73, 132102 (2006) - Origin of the stabilized simple-cubic structure in polonium: Spin-orbit interaction versus Peierls instability](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.73.132102)
 
+# General relativity
+
+## Raytracing
+
+Obvious candidate is Gyoto. However, it doesn't support GPU rendering. Below are some attempts at GPU general relativity raytracing:
+
+* GPU-based four-dimensional general-relativistic raytracing DOI: 10.1016/j.cpc.2012.04.030 Refs to code [](http://web.archive.org/web/20170703224409/http://cpc.cs.qub.ac.uk/summaries/AEMV_v1_0.html) [Download](http://cpc.cs.qub.ac.uk/summaries/AEMV_v1_0.html). The code is under some kind of academic license which restricts commercial use. Does not compile with nvcc for me.
+
+* MALBEC: a new CUDA-C ray-tracer in General Relativity. [arxiv](https://arxiv.org/pdf/1803.08320.pdf) [github](https://github.com/GonzaQuiro/MALBEC) Very simple code, doesn't seem to have fully fledged raytracing machinery. However, it compiles and works.
+
+* Misha suggested UniverseSandbox 2 that possibly also do some raytracing in blackhole vicinity. They explicitly advice that they simulate only newtonian dynamics, however, but maybe this is not the whole story.
+
 
 # Weather
 
