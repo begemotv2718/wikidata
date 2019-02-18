@@ -25,6 +25,7 @@ categories: math
 
 * [Dual number](https://en.wikipedia.org/wiki/Dual_number) Number of the form $a+\epsilon b$ where $\epsilon^2=0$
 
+* [De Bruijn sequence](https://en.wikipedia.org/wiki/De_Bruijn_sequence) Minimal string with all substrings of length n in the alphabet.
 
 ## Books
 
