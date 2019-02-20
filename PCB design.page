@@ -31,6 +31,11 @@ NetList to schematics?
     * Kicad
     * [EasyEDA](https://easyeda.com/editor) Online editor
     * [Upverter](https://upverter.com/pricing/) Another online editor tied to manufacturer
+
+# Schematic capture
+
+* Apart from kicad and geda, there is [JSchem](http://jschem.bplaced.net/), written in java.
+* Electron tube schematics [ampfactory github](https://github.com/a-wai/ampfactory)
     
 # Graph planarity testing
 
