@@ -214,6 +214,11 @@ continue to occur as soon as a data is writte
 
 * [Arduino soldering iron homemade OLED](https://www.electronoobs.com/eng_arduino_tut42.php) use [HAKKO soldering tips](https://www.hakko.com/english/tip_selection/series_t15.html)
 
+## [habr: Сказ о сплаве Розе и отвалившейся КРЕНке](https://habr.com/ru/post/437778/)
+
+Summary: Mixtures of Sn and Pb has very wide plateau of solidifying temperature, but the solidifying is instantaneous and full only at eutectic points around 61% Sn. At other points your mixture is inhomogeneus, this is why ПОС61 is very good, the other variants are not so smooth. Adding any amount of Bismuth (such as in Rose alloy) shifts plateau much lower in temperature, thus, your soldering have chance to liquefy at very low temperature. Avoid using any traces of Rose alloy if you want durability, especially in high power high temperature applications.   
+
+
 # Processors
 
 * [A $1, Linux-Capable, Hand-Solderable Processor | Hackaday](https://hackaday.com/2018/09/17/a-1-linux-capable-hand-solderable-processor/)
