@@ -11,6 +11,13 @@ categories: programming,programming_languages
 * [What Every C Programmer Should Know About Undefined Behavior #1/3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html) Clang blog entry describing many optimizations possible because of UB.
     * [Second part](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
 
+# Static checking
+
+* CLANG based checkers
+    * [Tutorial One · KLEE](http://klee.github.io/tutorials/testing-function/) Automatically generate test cases based on all paths through the function
+    * [GitHub - kframework/c-semantics: Semantics of C in K](https://github.com/kframework/c-semantics) Hang on undefined behavior
+        * [An Executable Semantics For C Is Useful – Embedded in Academia](https://blog.regehr.org/archives/523)
+    * [Clang Static Analyzer](http://clang-analyzer.llvm.org/)
 
 # MISRA C and safety critical 
 
