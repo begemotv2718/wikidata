@@ -141,6 +141,19 @@ List of standard UART rates: 110, 150, 300, 1200, 2400, 4800, 9600, 19200, 38400
     * Paper capacitors degrade quickly (leak current).
     * Aluminium capacitors are no good at frequencies above 100kHz. Tantalum is only 5x better. High value ceramic may work as replacement in 1uF -- 10uF range.
 
+## Processors
+
+* [A $1, Linux-Capable, Hand-Solderable Processor | Hackaday](https://hackaday.com/2018/09/17/a-1-linux-capable-hand-solderable-processor/)
+
+## Displays
+
+* [RTD2660H/RTD2662 controller PCB](http://pccar.ru/showthread.php?t=22851)
+
+## Chips
+
+* [DAC and ADC: PCF8591](https://www.nxp.com/docs/en/data-sheet/PCF8591.pdf)
+
+
 # Audio
 
 * [USB audio card](http://www.ti.com/lit/ds/symlink/pcm2707.pdf)
@@ -183,13 +196,6 @@ The conflicts on the line must be managed by the software (by the use of a centr
 arbiter, for instance). In particular, the transmission is never blocked by hardware and
 continue to occur as soon as a data is writte
 
-# Displays
-
-* [RTD2660H/RTD2662 controller PCB](http://pccar.ru/showthread.php?t=22851)
-
-# Chips
-
-* [DAC and ADC: PCF8591](https://www.nxp.com/docs/en/data-sheet/PCF8591.pdf)
 
 
 # OpenOCD
@@ -225,6 +231,3 @@ Summary: Mixtures of Sn and Pb has very wide plateau of solidifying temperature,
    
 RMA-223-ASTF флюс гель Amtech ?
 
-# Processors
-
-* [A $1, Linux-Capable, Hand-Solderable Processor | Hackaday](https://hackaday.com/2018/09/17/a-1-linux-capable-hand-solderable-processor/)
