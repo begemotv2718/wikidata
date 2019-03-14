@@ -234,3 +234,6 @@ Summary: Mixtures of Sn and Pb has very wide plateau of solidifying temperature,
    
 RMA-223-ASTF флюс гель Amtech ?
 
+# Tricks
+
+* [Charlieplexing - Wikipedia](https://en.wikipedia.org/wiki/Charlieplexing) -- driving $n^2-n$ LEDs with $n$ tristate pins.
