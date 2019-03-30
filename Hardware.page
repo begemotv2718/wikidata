@@ -28,6 +28,10 @@ categories: hardware
     * [Github list](https://github.com/dontsovcmc/waterius/issues/19)
     * [Murata tutorial](https://www.murata.com/en-eu/products/emc/emifil/knowhow/basic)
 
+# Optimal control
+
+* [Optimal control]()
+
 
 # Radio communications
 
@@ -140,21 +144,24 @@ continue to occur as soon as a data is writte
 * [STM32, state machine](https://github.com/gandro/stm32-ps2)
 
 
-# IR remotes
+## IR remotes
 
 * [Altium: NEC protocol](http://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
 * [Vishay: NEC protocol](http://www.vishay.com/docs/80071/dataform.pdf)
 * [arduino library: universal](https://github.com/z3t0/Arduino-IRremote)
 
-# Электронный микроскоп, почти DIY
+
+# Great projects
+
+* [Vector graphics laser projector](http://elm-chan.org/works/vlp/report_e.html) Uses galvanometers to deflect ray in x and y directions
+
+## Электронный микроскоп, почти DIY
 
 * [часть](https://geektimes.ru/post/283248/)
 * [часть](https://geektimes.ru/post/282268/)
 * [часть](https://geektimes.ru/post/286008/)
 
-# Optimal control
 
-* [Optimal control]()
 
 # Components
 
