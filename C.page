@@ -8,8 +8,10 @@ categories: programming,programming_languages
 # Undefined behavior
 
 * [Undefined Behavior in 2017](https://blog.regehr.org/archives/1520)
+* [A Guide to Undefined Behavior in C and C++, Part 1 – Embedded in Academia](https://blog.regehr.org/archives/213) Quite detailed and with explanations 
 * [What Every C Programmer Should Know About Undefined Behavior #1/3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html) Clang blog entry describing many optimizations possible because of UB.
     * [Second part](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
+* [Type punning](https://en.wikipedia.org/wiki/Type_punning#Floating-point_example) AKA violation of strict aliasing rules.
 
 # Static checking
 
