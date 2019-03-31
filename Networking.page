@@ -81,3 +81,33 @@ wpa_passphrase=pass_phrase_as_it_is
 * [Config HowTo](https://openvpn.net/community-resources/how-to/)  Contains info about ```client-to-client``` option and routing.
 * [How to start Openvpn service at boot time - Ask Fedora: Community Knowledge Base and Support Forum](https://ask.fedoraproject.org/en/question/23085/how-to-start-openvpn-service-at-boot-time/)
 * [2x HOW TO | OpenVPN](https://openvpn.net/community-resources/how-to/#vpntype)
+
+# iptables and NAT
+
+Allowing NAT:
+
+```bash
+iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+# OR
+iptables -t nat -A POSTROUTING -s <internal subnet> -j MASQUERADE
+# AND enable forwarding in the kernel
+echo 1 > /proc/sys/net/ipv4/ip_forward
+```
+
+Also the FORWARD table on the default table should allow the reply packet to come through. Either it should have policy ACCEPT, or the traffic between WAN interface (eth0 in the example above) and the restricted network interface (e.g. tun1) should be enabled
+
+```bash
+iptables -A FORWARD -i eth0 -o tun1 -j ACCEPT
+iptables -A FORWARD -i tun1 -o eth0 -j ACCEPT
+```
+In principle it is possible to allow only established and related state packets to go from eth0 to tun1.
+
+```bash
+iptables -A FORWARD -m state --state ESTABLISHED,RELATED -i eth0 -o tun1 -j ACCEPT
+```
+
+Some sites:
+
+* [Linux Native Firewall : Introduction to IPtables - GloboTech Blog](https://www.globo.tech/learning-center/linux-native-firewall-introduction-to-iptables/)
+* [Step-By-Step Configuration of NAT with iptables](https://www.howtoforge.com/nat_iptables)
+* [7.4. FORWARD and NAT Rules](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Security_Guide/s1-firewall-ipt-fwd.html)
