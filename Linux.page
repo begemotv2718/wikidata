@@ -165,3 +165,4 @@ I.MX6 is a popular architecture for automotive devices. Sabre-lite is a dev boar
 * [i.MX 6SoloLite Evaluation Kit|NXP](https://www.nxp.com/support/developer-resources/software-development-tools/i.mx-developer-resources/i.mx-6sololite-evaluation-kit:IMX6SLEVK?fpsp=1&tab=Documentation_Tab)
 
 
+* Weston is a default Wayland implementation. It has IVI (intra-vehicle-infotainment) shell which suits automotive application. Also mentioned wlroot composer.
