@@ -7,3 +7,6 @@ category: references
 * LBRY access to UC Berkley courses: ```curl 'http://localhost:5279/lbryapi' --data '{"method":"get","params":{"uri":"ucberkeley}}'``` The download of the catalog will start to Downloads/Загрузки . Currently about 7 items only.
 * [Inflation calculator for US](https://data.bls.gov/cgi-bin/cpicalc.pl)
 * [Water solutions conductivity vs concentration](http://myweb.wit.edu/sandinic/Research/conductivity%20v%20concentration.pdf)
+* [Global ping statistics](https://wondernetwork.com/pings/)
+* [Latency numbers every programmer should know](https://gist.github.com/jboner/2841832) Also see comments
+
