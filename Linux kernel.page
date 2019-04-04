@@ -184,7 +184,14 @@ Several instruments are suggested by Coccinela author to a) identify necessary c
 
 * [Interactive kernel map](http://www.makelinux.net/kernel_map/)
 
+## Modern block device (blk-mq)
 
+* [habr: Linux Kernel 5.0 — пишем Simple Block Device под blk-mq ](https://habr.com/ru/company/veeam/blog/446148/)
+    * [Code on github](https://github.com/CodeImp/sblkdev)
+
+## PCI devices
+
+* Example of qemu tutorial PCI device: [StackOverflow post](https://stackoverflow.com/questions/28315265/how-to-add-a-new-device-in-qemu-source-code/44612957) [QEMU side](https://github.com/qemu/qemu/blob/v2.7.0/hw/misc/edu.c) [Linux side](https://github.com/cirosantilli/linux-kernel-module-cheat/blob/6788a577c394a2fc512d8f3df0806d84dc09f355/kernel_module/pci.c)
 
 # Kernel debug
 
