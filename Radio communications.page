@@ -22,6 +22,7 @@ categories: hardware, radio
     * [Tool for debug/firmware upload on Linux](https://github.com/dashesy/cc-tool)
     * [Debugger on aliexpress](https://ru.aliexpress.com/item/CC-DEBUGGER-RF-system-on-Chips/32875291290.html)
     * [Source paper](https://xakep.ru/2018/10/11/zigbee/)
+    * [Firmware flashing with Arduino](https://www.zigbee2mqtt.io/information/alternative_flashing_methods.html)
 
 ## Atmel AT86RF233
 
