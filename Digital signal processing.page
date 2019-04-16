@@ -4,3 +4,4 @@ categories: DSP,hardware,programming
 
 * [Fast Fourier transform](FFT)
 * [DSP tricks (via Pavel Savyhin)](https://dspguru.com/dsp/tricks/)
+* [Floating point guide](https://caligari.dartmouth.edu/doc/solaris-forte/manuals/fortran/prog_guide/6_floating.html)
