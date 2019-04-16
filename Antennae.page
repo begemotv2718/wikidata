@@ -196,3 +196,7 @@ Basic design is all the same.
 # Vector network analizer
 
 * xaVNA - cheap kickstarter project [github](https://github.com/xaxaxa-dev/vna/releases) [ordering](https://www.kickstarter.com/projects/1759352588/xavna-a-full-featured-low-cost-two-port-vna)
+* Measure antenna performance with SDR. Source habr article:  [На какой диапазон эта антенна? Измеряем характеристики антенн / Хабр](https://habr.com/ru/post/447092/?utm_source=facebook&utm_medium=social&utm_campaign=na-kakoy-diapazon-eta-antenna-izmeryaem)
+    * [АЧХ-метр из свистка](http://blog.radiospy.ru/testy/achx-metr-iz-svistka.html)
+    * Coupling device [ZEDC-15-2B с бесплатной доставкой на AliExpress.com](https://ru.aliexpress.com/wholesale?catId=0&SearchText=ZEDC-15-2B) [Mini Circuits Directional Coupler Zedc-15-2b 1 1000mhz for sale online | eBay](https://www.ebay.com/p/Mini-Circuits-Directional-Coupler-Zedc-15-2b-1-1000mhz/1761363891)
+    
