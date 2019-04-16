@@ -136,3 +136,7 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 # DNS over TLS
 
 * [habr article](https://habr.com/post/427639/)
+
+# Forensic prevention
+
+* [USBKill](https://github.com/hephaest0s/usbkill/)
