@@ -31,6 +31,7 @@ NetList to schematics?
     * Kicad
     * [EasyEDA](https://easyeda.com/editor) Online editor
     * [Upverter](https://upverter.com/pricing/) Another online editor tied to manufacturer
+    * compatible with KiCad and gEDA/PCB, understands Eagle and Protel/Autotrax file formats[pcb-rnd - main](http://repo.hu/projects/pcb-rnd/)
 
 # Schematic capture
 
