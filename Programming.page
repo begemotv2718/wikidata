@@ -70,6 +70,11 @@ categories: programming
 
 * [How does a relational database work | Coding Geek](http://coding-geek.com/how-databases-work/) Good overview
 
+## Postgres
+
+* [PGTune - calculate configuration for PostgreSQL based on the maximum performance for a given hardware configuration](https://pgtune.leopard.in.ua/#/)
+
+
 # Automatic verification
 
 ## Linters
