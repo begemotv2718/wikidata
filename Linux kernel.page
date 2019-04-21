@@ -193,6 +193,11 @@ Several instruments are suggested by Coccinela author to a) identify necessary c
 
 * Example of qemu tutorial PCI device: [StackOverflow post](https://stackoverflow.com/questions/28315265/how-to-add-a-new-device-in-qemu-source-code/44612957) [QEMU side](https://github.com/qemu/qemu/blob/v2.7.0/hw/misc/edu.c) [Linux side](https://github.com/cirosantilli/linux-kernel-module-cheat/blob/6788a577c394a2fc512d8f3df0806d84dc09f355/kernel_module/pci.c)
 
+* [AHCI and SAS discussion](https://arstechnica.com/civis/viewtopic.php?f=11&t=1149772)
+* [PCI specifications](https://pcisig.com/specifications)
+* [PCI configuration space - Wikipedia](https://en.wikipedia.org/wiki/PCI_configuration_space)
+    
+
 # Kernel debug
 
 [Kernel debug]()
