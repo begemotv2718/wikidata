@@ -201,6 +201,8 @@ continue to occur as soon as a data is writte
 ## Displays
 
 * [RTD2660H/RTD2662 controller PCB](http://pccar.ru/showthread.php?t=22851)
+* [Waveshare e-ink](https://www.waveshare.com/product/modules/oleds-lcds/e-paper.htm)
+    * [python interface: github](https://github.com/joukos/PaperTTY)
 
 ## Chips
 
