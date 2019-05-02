@@ -34,7 +34,8 @@ The idea is the following: to compute median of potentially infinite stream we t
 
 * [SO: Sort 5 elements in better than 8 comparison](https://stackoverflow.com/questions/1534748/design-an-efficient-algorithm-to-sort-5-distinct-keys-in-fewer-than-8-comparison)
     * Pseudocode
-```if (A > B)
+```
+if (A > B)
     swap A, B
 if (C > D)
     swap C, D
@@ -104,3 +105,7 @@ The construction is fixed and sometimes operations can be performed in parallel 
 ## Median of five
 
 * [SO: Median of 5 in C# (actually also in C++)](https://stackoverflow.com/questions/480960/code-to-calculate-median-of-five-in-c-sharp)
+
+# Packing
+
+* [Survey for 2-D packing algorithms](http://cgi.csc.liv.ac.uk/~epa/surveyhtml.html#toc.2)
