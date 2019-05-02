@@ -26,6 +26,11 @@ categories: programming,programming_languages
 * [JPL C coding guide (partly MISRA standard)](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
 * [Ten commandments for safety critical code](http://www.pixelscommander.com/wp-content/uploads/2014/12/P10.pdf)
 
+## Attempt to Gcc implementation: traces left
+
+* [ggcc coding rules readme: Wayback Machine](http://web.archive.org/web/20080801212027/http://www.ggcc.info/files/README-codingrules_0.txt)
+* [CTools:ICI:Plugins - cTuning.org](http://ctuning.org/wiki/index.php/CTools:ICI:Plugins)
+
 # Memory leak checking
 
 * See static code analysis in [Programming]()
