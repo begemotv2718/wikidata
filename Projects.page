@@ -14,6 +14,8 @@ Suggestions:
 
 * [Packing lightmaps](http://blackpawn.com/texts/lightmaps/default.html) (lightmap is a rectangle of precomputed texture) using [kd-tree](https://ru.wikipedia.org/wiki/K-%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE).
 
+* [Survey for 2-D packing algorithms](http://cgi.csc.liv.ac.uk/~epa/surveyhtml.html#toc.2)
+
 # Research stories
 
 * [Research stories]()
