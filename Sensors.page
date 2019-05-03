@@ -20,6 +20,8 @@ categories: hardware
 * [Expensive CO2 sensors](http://www.co2meter.com/collections/co2-sensors)
 * [NDIR CO2 sensor on AliExpress](https://ru.aliexpress.com/item/1pcs-MH-Z19-NDIR-CO2-Sensor-Module-infrared-co2-sensor-0-5000ppm-for-CO2-Monitor-Carbon/32897809434.html)
 
+Google for MH-Z19
+
 #### Dadget sensor
 
 * [Deciphering data](https://hackaday.io/project/5301/logs/sort/newest)
@@ -143,11 +145,18 @@ and then approximate integral sums $$ S_k= \frac{1}{2}(y_k+y_{k-1})(x_k-x_{k-1})
 
 [Amazon](https://www.amazon.com/gp/product/B001EHJO64/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=66pacificcom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001EHJO64) 34 USD
 
-# Thermocouples
+
+# Temperature sensors
+
+## Thermocouples
 
 * [Voltage/temperature interpolation](https://srdata.nist.gov/its90/download/allcoeff.tab)
 * [TI app note for MSP430 integration with thermocouple](http://www.ti.com/lit/an/slaa501/slaa501.pdf)
 * MAX31855, MAX6675 -thermocouple/digital ifaces
+
+## IR temperature sensors
+
+* [MLX90614: Single and Dual Zone IR Thermometer in TO-39](https://www.sparkfun.com/datasheets/Sensors/Temperature/MLX90614_rev001.pdf)
 
 # GPS
 
