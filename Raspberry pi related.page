@@ -47,7 +47,7 @@ Some notes on actual behavior:
 * Do not forget to modprobe spi-bcm2835 for spi functions
 * ```modprobe fbtft-device name=rpi-display debug=1``` works good if we switch reset pin to GPIO23
 * ```modprobe fb_ili9341``` otherwise nothing works
-* Use ```con2fbmap 1 1``` to switch consoles. con2fbmap is not present in buildroot, I compiled it from source.
+* Use ```con2fbmap 1 1``` to switch consoles. con2fbmap is not present in buildroot, I compiled it from [source](https://gitlab.com/pibox/con2fbmap).
 
 
 
