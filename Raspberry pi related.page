@@ -38,6 +38,19 @@ void put_pixel_RGB565(int x, int y, int r, int g, int b)
 }
 ```
 
+## Setting up framebuffer for spi display
+
+Main guidance come from [ili9341 Raspberry Pi guide – Pi0cket](https://pi0cket.com/ili9341-raspberry-pi-guide/)
+
+Some notes on actual behavior:
+
+* Do not forget to modprobe spi-bcm2835 for spi functions
+* ```modprobe fbtft-device name=rpi-display debug=1``` works good if we switch reset pin to GPIO23
+* ```modprobe fb_ili9341``` otherwise nothing works
+* Use ```con2fbmap 1 1``` to switch consoles. con2fbmap is not present in buildroot, I compiled it from source.
+
+
+
 # Bare bones raspberry pi
 
 This is a kind of microproject, possibly useful for our course. The idea is to have a minimal startable program that can be used instead of kernel.img on the boot device. The output can be either UART or GPIO.
