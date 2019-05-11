@@ -121,3 +121,14 @@ Assuming $$c_s\gg K_a$$ we get $[H^+]=\frac{K_a c_a}{c_s}$.
 
 * [habr article by Sergei Bessarab](https://habr.com/ru/post/447794/)
     * Referenced academic article [A review of polymer dissolution](http://wwwcourses.sens.buffalo.edu/ce435/Koenig03.pdf)
+
+# Rust removal 
+
+* [habr, Sergei Bessarab](https://habr.com/ru/post/448808/)
+
+Summary: 
+
+* Try Trilon B mixture with some alcohol (isopropanol?). Alcohol is for surface tension reduction. Trilon B is frequently used in calc removal powders.
+* Try citric acid in mixture with alcohol. Oxalic acid is even better, but it is somewhat poisonous.
+* Try zinc mixed with NaOH. The best zinc is in the form of pellets, zinc powder can be flammable.
+* Try heating
