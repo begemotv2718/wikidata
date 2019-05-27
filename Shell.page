@@ -6,6 +6,10 @@ categories: programming,bash,shell,linux
 
 * [POSIX shell standard](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html#tag_02_06_03)
 
+# Bash static analysis tool
+
+* [Shellcheck: github](https://github.com/koalaman/shellcheck) Implemented in [Haskell]() by the way
+
 # See also
 
 * [Command line tools]()
