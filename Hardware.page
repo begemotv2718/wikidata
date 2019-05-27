@@ -254,3 +254,10 @@ RMA-223-ASTF флюс гель Amtech ?
 * [Hacking a $30 IoT camera to do more than it’s worth.](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)
     * [github](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
     * [Aliexpress](https://ru.aliexpress.com/item/Hualai-Xiaofang-Dafang-1-S-IP-T20L/1000005724812.html)
+
+# Cypress FX3 interfaces 
+
+FX3 is a Cypress USB interface, successor of fx2. They provide SDR for all major platforms, [including Linux](https://www.cypress.com/documentation/software-and-drivers/ez-usb-fx3-software-development-kit). However, registration is required. They have an interesting possibility for implementing image sensor interface, here is a link to their application notes [AN75779 - How to Implement an Image Sensor Interface Using EZ-USB® FX3™ in a USB Video Class (UVC) Framework](https://www.cypress.com/documentation/application-notes/an75779-how-implement-image-sensor-interface-using-ez-usb-fx3-usb).
+
+* [AN75705 - Getting Started with EZ-USB® FX3™](https://www.cypress.com/documentation/application-notes/an75705-getting-started-ez-usb-fx3)
+* [CYUSB3KIT-003 EZ-USB® FX3™ SuperSpeed Explorer Kit](https://www.cypress.com/documentation/development-kitsboards/cyusb3kit-003-ez-usb-fx3-superspeed-explorer-kit)
