@@ -166,3 +166,11 @@ I.MX6 is a popular architecture for automotive devices. Sabre-lite is a dev boar
 
 
 * Weston is a default Wayland implementation. It has IVI (intra-vehicle-infotainment) shell which suits automotive application. Also mentioned wlroot composer.
+
+# Binfmt
+
+Usually linux kernel decides what binary to run using magic number in the start of the file, the two most common magic numbers are 0x7f ELF and '#!'. However it is possible to handle much more type of binaries using binfmt subsystem. To register new format one need to edit ```/etc/binfmt.d/<format>.conf``` file. Use ```man binfmt.d``` to get suggestions on how to do this. This systemd daemon registers new format with kernel using ```/proc/sys/fs/binfmt_misc``` kernel interface, which appears after ```modprobe binfmt_misc```.
+
+One of the possible binfmt.d helpers is qemu-<arch>. [This Gentoo article](https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Compiling_with_qemu_user_chroot) describes how to do this. Originally linked from ubuntu questions article [16.04 - LXD: Running an image with a foreign architecture - Ask Ubuntu](https://askubuntu.com/questions/1060089/lxd-running-an-image-with-a-foreign-architecture).
+
+It is possible to handle windows exe files with wine automatically.
