@@ -246,3 +246,11 @@ RMA-223-ASTF флюс гель Amtech ?
 # Tricks
 
 * [Charlieplexing - Wikipedia](https://en.wikipedia.org/wiki/Charlieplexing) -- driving $n^2-n$ LEDs with $n$ tristate pins.
+
+# Smart home
+
+## Security camera
+
+* [Hacking a $30 IoT camera to do more than it’s worth.](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)
+    * [github](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
+    * [Aliexpress](https://ru.aliexpress.com/item/Hualai-Xiaofang-Dafang-1-S-IP-T20L/1000005724812.html)
