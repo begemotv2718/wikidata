@@ -49,7 +49,9 @@ EE = gender x (-
 55.0969 + 0.6309 x heart rate + 0.1988 x weight + 0.2017 x age) 
 + (1 - gender) x (-20.4022 + 0.4472 x heartrate - 0.1263 x weight + 0.074 x age) 
 
-Energy expenditure is in kJ/min, V[O$_2$] is in ml/(kg*min).* 
+Energy expenditure is in kJ/min, V[O$_2$] is in $ml/(kg \cdot min)$.
+
+Measuring V[O$_2$] is described in [sports wiki]( http://sportwiki.to/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4%D0%B0).
 
 # Impedance tomography
 
