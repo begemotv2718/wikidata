@@ -11,3 +11,8 @@ categories: programming,frameworks,graphics,UI
 
 * [cross compilation - Building a windows executable in qt on a Linux system - Ask Ubuntu](https://askubuntu.com/questions/656219/building-a-windows-executable-in-qt-on-a-linux-system)
     * The answer: use mxe-tool which has very simple command-line for cross-building many applications for windows. [Official site and list of supported tools](https://mxe.cc/#packages)
+        * ```git clone https://github.com/mxe/mxe.git```
+        * Install build dependencies
+        * ```cd mxe && make qtbase```
+        * run ```<mxe root>/usr/bin/i686-w64-mingw32.static-qmake-qt5``` in qt project directory
+        
