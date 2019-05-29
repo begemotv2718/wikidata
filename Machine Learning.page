@@ -105,6 +105,8 @@ See [Language processing](), [Neural network and finite automata]()
 * Style transfer
     * [habr: Style transfer for generating russian fonts](https://habr.com/ru/post/325510/)
 
+* [5agado/data-science-learning: Repository of code and resources related to different data science and machine learning topics. For learning, practice and teaching purposes.](https://github.com/5agado/data-science-learning)
+
 ## Tricks
 
 * [Woodbury matrix identity - Wikipedia](https://en.wikipedia.org/wiki/Woodbury_matrix_identity) Allow to quickly recalculate inverse of matrix when only few row change.
