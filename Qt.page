@@ -6,3 +6,8 @@ categories: programming,frameworks,graphics,UI
 
 * [Правильное использование QThread - habr](https://habr.com/post/150274/)
 * [Threads, Events and QObjects](http://wiki.qt.io/Threads_Events_QObjects)
+
+# Qt cross-compilation for windows
+
+* [cross compilation - Building a windows executable in qt on a Linux system - Ask Ubuntu](https://askubuntu.com/questions/656219/building-a-windows-executable-in-qt-on-a-linux-system)
+    * The answer: use mxe-tool which has very simple command-line for cross-building many applications for windows. [Official site and list of supported tools](https://mxe.cc/#packages)
