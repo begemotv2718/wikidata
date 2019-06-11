@@ -24,6 +24,14 @@ from prettyPy import prettyPy as pp
 pp.pretty('varepsilon_x=a^2+b^2')
 ```
 
+# Wolfram language in notebooks
+
+* [Stack overflow discussion](https://mathematica.stackexchange.com/questions/198839/how-to-add-a-front-end-to-the-free-wolfram-engine/199127#199127)
+
+Apparently it is possible to download a free version of Wolfram engine and use it with the jupyter notebook.
+
+* [Wolfram language for developers free download](http://www.wolfram.com/engine/)
+* [Github wolfram language for jupyter](https://github.com/WolframResearch/WolframLanguageForJupyter)
 
 # Related projects
 
