@@ -65,3 +65,8 @@ Measuring V[O$_2$] is described in [sports wiki]( http://sportwiki.to/%D0%9C%D0%
 $T(D)=T(D_0)(D/D_0)^\alpha$, where $\alpha=1.06$ for the classical formula. According to Riegel this is for "endurance range", i.e. for activities that take from 3.5 to 230 min.
 
 It seems that for large distances this formula predict too good times, so for marathon running it is [suggested](https://www.fetcheveryone.com/marathonprediction) to use $\alpha=1.1\dots1.15$
+
+# Visual cortex mapping
+
+* Initial work: Wiesel+Hubel
+* Kalatsky: [Fourier method](https://www.ncbi.nlm.nih.gov/books/NBK20236/)
