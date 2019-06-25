@@ -24,6 +24,18 @@ categories: politics
 There were interesting question on quora, about what secret project governments may take. I think, we can base answer to this question on the existing leaks from the government projects. Moreover, I am quite sure there should be projects on using big data/ML in politics. Here is few links to this story:
 
 * [PRISM  - Wikipedia](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
+* [List of government mass surveillance projects - Wikipedia](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)
+
+* [Global surveillance disclosures (2013–present) - Wikipedia](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)) Mostly Snowden disclosures
+* [Global surveillance disclosures (1970–2013) - Wikipedia](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(1970%E2%80%932013))
+    * Most notable [ECHELON - Wikipedia](https://en.wikipedia.org/wiki/ECHELON)
+
+Cambridge analytica scandal is well known story of using ML in politics [here is an original Kosinski paper](https://www.pnas.org/content/110/15/5802). I would take their claims about accurately predicting personality from clicks with a big grain of salt. Although no doubt this will work on average. The original ideas here, of course, come from advertising (including using A/B testing).
+
+
+
+
+
 
 # Law
 
