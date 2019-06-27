@@ -5,3 +5,7 @@ categories: pdf, work, workspace, software
 # Pdf presentation with multiple screens
 
 * [pdfpc](https://pdfpc.github.io/)
+
+# Manipulating pages
+
+* [pdfarranger -- gui page manipulation](https://github.com/jeromerobert/pdfarranger)
