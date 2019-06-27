@@ -22,6 +22,10 @@ categories: language,linguistics
     * [Daniel Ross: DETAILS MATTER: PROBLEMS AND POSSIBILITIES FOR MEASURING CROSS - LINGUISTIC COMPLEXITY](http://www.christianbentz.de/MLC2018/Ross.pdf)
 
 * World atlas of language structures: list of grammar features for every language [WALS Online -](https://wals.info/)
+* Word2vec [arxiv:1802.06893 Learning Word Vectors for 157 Languages](https://arxiv.org/abs/1802.06893)
+    * [Compiled data](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md)
+
+
 * Another my quora question [Are there any languages that have similar vocabulary but completely different grammar? - Quora](https://www.quora.com/Are-there-any-languages-that-have-similar-vocabulary-but-completely-different-grammar)
 * [Constructions for measurement and comparison in Japanese and English - comparison-ms.pdf](http://www1.icsi.berkeley.edu/~rleegold/ling/comparison-ms.pdf)
 * [An Algorithm for Comparing Similarity Between Two Trees arxiv:1508.03381](https://arxiv.org/pdf/1508.03381.pdf)
