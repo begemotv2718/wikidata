@@ -11,3 +11,6 @@ categories: work,environment,software
 
 * [Browser setup]()
 
+# Possibly useful GNU software
+
+* [Recoll -- search over different types of files](https://www.lesbonscomptes.com/recoll/features.html) Not sure if it is better than grep. The main difference seems to be that it maintains index.
