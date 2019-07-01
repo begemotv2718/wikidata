@@ -22,6 +22,8 @@ categories: programming, vim
 * [Clang-complete github](https://github.com/Rip-Rip/clang_complete) from [Stackoverflow](https://stackoverflow.com/questions/15177901/how-to-autocomplete-with-clang)
     * [Another clang complete?](https://github.com/xavierd/clang_complete)
 
+* [Deoplete - alternative to your-complete-me AKA YCM](https://github.com/Shougo)
+
 # See also
 
 * [Vim]()
