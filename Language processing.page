@@ -8,7 +8,7 @@ categories: language,ML
 
 # Text processing libraries
 
-* Word2vec
+* [Word2vec]()
 * [GloVe](https://nlp.stanford.edu/projects/glove/)
 * [Facebook fasttext](https://github.com/facebookresearch/fastText)  
 
