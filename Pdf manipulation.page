@@ -9,3 +9,9 @@ categories: pdf, work, workspace, software
 # Manipulating pages
 
 * [pdfarranger -- gui page manipulation](https://github.com/jeromerobert/pdfarranger)
+
+# Xournal
+
+This application allow to draw on pdf files, probably to add links as well
+
+* [Github source](https://github.com/xournalpp/xournalpp) It is highly recommended to have wacom drawing pad for use with this
