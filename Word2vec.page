@@ -1,0 +1,10 @@
+---
+categories: ML, language_processing
+...
+
+
+* [Kaggle word2vec tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+* [arxiv:1802.06893 Learning Word Vectors for 157 Languages](https://arxiv.org/abs/1802.06893)
+    * [Compiled data](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md)
+* [Everything you know about word2vec is wrong](https://github.com/bollu/bollu.github.io#everything-you-know-about-word2vec-is-wrong) They actually use two vectors, not just one. [via habr](https://habr.com/ru/post/454926/)
+* [cpp implementation](https://github.com/maxoodf/word2vec)
