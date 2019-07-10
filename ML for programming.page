@@ -6,6 +6,7 @@ categories: ML,programming
 * [Paper: Code Completion with Statistical Language Models](http://www.cs.technion.ac.il/~yahave/papers/pldi14-statistical.pdf)
 * [source{d}, company specialized on ml analysis of free software](https://github.com/src-d)  Tools for AST parsing and some style analysis (whatever this means)
 * [Google email completion architecture - may be useful for code completion](https://ai.googleblog.com/2018/05/smart-compose-using-neural-networks-to.html?m=1)
+* [Arxiv: [1812.01158] Aroma: Code Recommendation via Structural Code Search](https://arxiv.org/abs/1812.01158)
 
 # Automatic bug fixing
 
