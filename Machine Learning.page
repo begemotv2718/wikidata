@@ -305,6 +305,8 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 * [Xilinx: FPGA for ML](https://www.xilinx.com/applications/data-center/machine-learning.html)
 * [Amazon: FPGA developer AMI](https://aws.amazon.com/marketplace/pp/B06VVYBLZZ) [README](https://s3.amazonaws.com/EULA/FPGA_README.txt)
 * [github: Xilinx ML suite](https://github.com/Xilinx/ml-suite) Summary: this is a compiler of tensorflow and caffe models to intermediate representation suitable to feed into Xilinx xDNN. Seems to be runnable on AWS F1 AMI. [Amazon link](https://aws.amazon.com/marketplace/pp/B077FM2JNS)
+* [Running Yolo on FPGA: issue on github](https://github.com/Xilinx/ml-suite/issues/39)
+    * [pdf with instructions](https://github.com/Xilinx/ml-suite/files/2365825/yolo_on_aws_f1.pdf)
 
 # Fun
 
