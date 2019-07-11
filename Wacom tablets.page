@@ -11,3 +11,7 @@ categories: X,graphics,drawing,hardware
 * [Linux Wacom Tablet Project download | SourceForge.net](https://sourceforge.net/projects/linuxwacom/)
 * [Wacom tablet - ArchWiki](https://wiki.archlinux.org/index.php/Wacom_tablet)
 * [Подключение графического планшета Wacom Pro в Linux или как bash помогает художникам / Хабр](https://habr.com/ru/post/212449/)
+
+## Non-wacom tablets
+
+Served by digimend project: [List of supported devices](http://digimend.github.io/drivers/digimend/tablets/) (Huion,KYE,Polostar,UC-Logic,...) [Kernel drivers](https://github.com/DIGImend/digimend-kernel-drivers)
