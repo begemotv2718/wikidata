@@ -101,6 +101,7 @@ See [Language processing](), [Neural network and finite automata](), [Word2vec](
 * Model size reduction
     * [Deep learning model compression](https://medium.com/comet-app/deep-learning-model-compression-for-image-analysis-methods-and-architectures-398f82b0c06f)
     * Main paper network pruning: [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+    * [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a)
 
 * Style transfer
     * [habr: Style transfer for generating russian fonts](https://habr.com/ru/post/325510/)
