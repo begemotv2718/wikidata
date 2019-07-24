@@ -38,6 +38,10 @@ Looks to be quite buggy and slow
 
 * [Script to check openSCAD modules for overlapping names haskell](https://gist.github.com/bgamari/9459806)
 
+# CAM
+
+* [Heekscad/HeeksCNC](https://github.com/Heeks/heekscad) -- free cad and cam tool written in python. Does not import stl however, as far as I remember. Supports pocketing. [These guys](https://repraplogphase.blogspot.com/2010/04/heekscad-my-favorate-open-source-cadcam.html) claim that stl import is supported.
+
 # See also
 
 * [Crafts]()
