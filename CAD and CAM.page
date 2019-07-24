@@ -40,7 +40,7 @@ Looks to be quite buggy and slow
 
 # CAM
 
-* [Heekscad/HeeksCNC](https://github.com/Heeks/heekscad) -- free cad and cam tool written in python. Does not import stl however, as far as I remember. Supports pocketing. [These guys](https://repraplogphase.blogspot.com/2010/04/heekscad-my-favorate-open-source-cadcam.html) claim that stl import is supported.
+* [Heekscad/HeeksCNC](https://github.com/Heeks/heekscad) -- free cad and cam tool written in python. Does not import stl however, as far as I remember. Supports pocketing. [These guys](https://repraplogphase.blogspot.com/2010/04/heekscad-my-favorate-open-source-cadcam.html) claim that stl import is supported. [Official site for heekscad](https://sites.google.com/site/heekscad/).
 
 # See also
 
