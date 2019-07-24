@@ -222,11 +222,13 @@ continue to occur as soon as a data is writte
 
 * [Looking up DMA transfers with openOCD](https://github.com/screwer/OpenOCD) via [habrahabr: Как я взломал паяльник](https://habrahabr.ru/post/350602/)
 
-# Power supplies
+# Power supplies and power electronics
 
 * [Power supply chip for circuits without galvanic decoupling MP100](https://www.monolithicpower.com/pub/media/document/MP100_r1.04_NRFND.pdf)
 * [Youtube - powersupply troubleshooting](https://www.youtube.com/watch?v=pffOJdCQ7kw)
 * [Small power supply IC: 5lo380r](http://www.vseprosto.net/2014/03/2898/) some schematics
+* [Частотник](http://pdf.datasheetcatalog.com/datasheet/irf/irams10up60b.pdf) -- main component
+    * via [Частотный привод 5-200Гц (10-400Гц) своими руками](http://cxem.net/promelectr/promelectr27.php)
 
 ## Batteries
 
