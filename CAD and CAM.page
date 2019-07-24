@@ -41,6 +41,8 @@ Looks to be quite buggy and slow
 # CAM
 
 * [Heekscad/HeeksCNC](https://github.com/Heeks/heekscad) -- free cad and cam tool written in python. Does not import stl however, as far as I remember. Supports pocketing. [These guys](https://repraplogphase.blogspot.com/2010/04/heekscad-my-favorate-open-source-cadcam.html) claim that stl import is supported. [Official site for heekscad](https://sites.google.com/site/heekscad/).
+* [PyCAM](http://pycam.sourceforge.net/process-settings/). Less sophisticated, but might be useful. Supports stl models.
+* [List of CAMs](https://github.com/MaslowCNC/GroundControl/wiki/CAM-%28G-code-generation%29-programs)
 
 # See also
 
