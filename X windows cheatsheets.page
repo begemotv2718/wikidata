@@ -21,6 +21,13 @@ categories: xwindows linux
 * ```xkill --id <winId>``` -- if it is sufficient to kill the process
 * [Stackoverflow answer to this question](http://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window)
 
+## List all windows 
+
+```
+xwininfo -tree -root
+
+```
+
 ## Execute commands on xscreensaver state change
 
 ```perl
