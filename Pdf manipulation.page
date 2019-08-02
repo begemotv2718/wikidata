@@ -24,4 +24,4 @@ pip install excalibur
 excalibur initdb
 excalibur webserver
 ```
-Works like a charm
+Works like a charm. Point browser to localhost:5000
