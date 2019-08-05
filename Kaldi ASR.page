@@ -154,3 +154,7 @@ Tedlium doesn't have nnet3 script embedded into ```run.sh```, it rather have ```
 * run.sh
 * local/nnet3/run_tdnn.sh
 * local/nnet3/run_tdnn_discriminative.sh
+
+# NVIDIA acceleration for Kaldi
+
+* [NVIDIA Accelerates Real Time Speech to Text Transcription 3500x with Kaldi | NVIDIA Developer Blog](https://devblogs.nvidia.com/nvidia-accelerates-speech-text-transcription-3500x-kaldi/) they claim rather enormous acceleration (like 3500х). [Their patch on github](https://github.com/kaldi-asr/kaldi/pull/3114)
