@@ -15,6 +15,10 @@ categories: programming,java,work
 * [Starting main activity: habr](https://habrahabr.ru/post/345120/)
 * [Building from command line](https://stackoverflow.com/questions/15285331/how-to-compile-apk-from-command-line) ```./gradlew build```
 
+# Audio and video subsystem
+
+* [Embedded Android : System Development - Part III (Audio / Video HAL)](https://www.slideshare.net/EmertxeSlides/embedded-android-system-development-part-iii-audio-video-hal)
+
 # Tricks
 
 ## Starting application from command line
