@@ -233,6 +233,8 @@ continue to occur as soon as a data is writte
 ## Batteries
 
 * [Батарейкотест](http://nadezhin.ru/lj/ljfiles/aa200.html)
+* [Peukert's law](https://en.wikipedia.org/wiki/Peukert%27s_law) Scaling of battery capacity vs discharge current. $\frac{Q}{Q_0}=\left(\frac{I}{I_0}\right)^{\alpha}$ where $\alpha=(k-1)/(2-k)$. Flood type lead acid have $k=1.25$.
+
 
 # Speech synthesis
 
