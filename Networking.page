@@ -14,6 +14,12 @@ categories: programming,networking
 
 * [disconnection codes (wpa_supplicant)](https://www.toomanyatoms.com/computer/disconnection_codes.html)
 
+# Wifi stages
+
+* Authentication
+* Association (can be denied based on authentication info)
+* Data transfer
+
 # Using card as both AP and wifi.
 
 ## Check that it is possible to use more than one interface on wifi.
