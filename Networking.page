@@ -2,6 +2,15 @@
 categories: programming,networking
 ...
 
+# Wifi packets sniffing 
+
+* Install aircrack-ng. Use airmon-ng to put card into monitor mode
+* Run wireshark. Wlan interface should be in the list.
+* Filters that seems to work:
+    * wlan.addr==aa.bb.cc.dd...
+* Wireshark site list of filters [wlan](https://www.wireshark.org/docs/dfref/w/wlan.html) [wlan_mgt](https://www.wireshark.org/docs/dfref/w/wlan_mgt.html) [wlan_aggregate](https://www.wireshark.org/docs/dfref/w/wlan_aggregate.html)
+
+
 # Using card as both AP and wifi.
 
 ## Check that it is possible to use more than one interface on wifi.
