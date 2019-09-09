@@ -10,6 +10,9 @@ categories: programming,networking
     * wlan.addr==aa.bb.cc.dd...
 * Wireshark site list of filters [wlan](https://www.wireshark.org/docs/dfref/w/wlan.html) [wlan_mgt](https://www.wireshark.org/docs/dfref/w/wlan_mgt.html) [wlan_aggregate](https://www.wireshark.org/docs/dfref/w/wlan_aggregate.html)
 
+# Wifi disconnect reason
+
+* [disconnection codes (wpa_supplicant)](https://www.toomanyatoms.com/computer/disconnection_codes.html)
 
 # Using card as both AP and wifi.
 
