@@ -16,11 +16,16 @@ categories: hardware
 * [FPGA]()
 * [PCB design]()
 * [Software defined radio]()
-* [STM32]()
+
 * [Battery charging]()
 * [Radioactivity]()
 * [Linux hardware]()
 * [Embedded programming]()
+
+# Microcontrollers
+
+* [STM32]()
+* [8-bit uC]()
 
 # Theory
 
