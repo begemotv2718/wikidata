@@ -3,3 +3,12 @@ categories: microcontrollers,programming,hardware
 ...
 
 
+# STC15F204EA
+
+This uC is programmable via UART interface. Apparently it is not possible to download firmware back from this mcu.
+
+* [Datasheet](http://www.stcmcu.com/datasheet/stc/stc-ad-pdf/stc15f204ea-series-english.pdf)
+* [Programming: stcgal](https://github.com/grigorig/stcgal)
+* [Example project for sdcc](https://github.com/zerog2k/stc_blinky)
+* [But if we try hard enough, is it possible to get firmware?](https://github.com/grigorig/stcgal/issues/7)
+
