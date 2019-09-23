@@ -77,6 +77,8 @@ mount -t 9p -o trans=virtio valgrind /media/disk/
 
 # Mounting vdi image
 
+VDI is virtualbox image format. However, kvm tools support manipulating this format.
+
 ```
 modprobe nbd
 qemu-nbd -c /dev/nbd0 <vdi file>
