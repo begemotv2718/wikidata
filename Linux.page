@@ -82,7 +82,12 @@ modprobe nbd
 qemu-nbd -c /dev/nbd0 <vdi file>
 kpartx -a /dev/nbd0
 mount /dev/mapper/nbd0p2 /media/disk
+...
+umount /dev/mapper/nbd0p2
+kpartx -d /dev/nbd0
+qemu-nbd -d /dev/nbd0
 ```
+When repartitioning this vdi image with gparted, one might encounter error (missing /etc/mtab.... on running nfsresize). This error can have nothing to do with /etc/mtab, it is actually missing /dev/nbd0pX file. Just create symlink from /dev/mapper/nbd0pX and ntfsresize/gparted become happy. 
 
 # Audio and video
 
