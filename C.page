@@ -55,3 +55,4 @@ https://github.com/bstarynk/bismon)
 
 * [CINT](http://www.hanno.jp/gotom/Cint.html) gcc based. It is used in CERN ROOT project.
 * Cling (clang based)
+* [bic](https://github.com/hexagonal-sun/bic)
