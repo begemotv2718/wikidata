@@ -49,3 +49,4 @@ Package name can be figured out with AppInspector App, but most likely just with
 * [Screen capture](https://blog.shvetsov.com/2013/02/grab-android-screenshot-to-computer-via.html) ```adb shell screencap -p filename```
 * [Set static ip address using java reflections](https://stackoverflow.com/questions/27599564/how-to-configure-a-static-ip-address-netmask-gateway-dns-programmatically-on)
     * [Java reflections](http://www.quizful.net/post/java-reflection-api)
+* [scrcpy utility](https://github.com/Genymobile/scrcpy) Allows to record screen (scrcpy --record) and manipulate android with mouse.
