@@ -13,6 +13,17 @@ categories: maps
 * [Copypastemap: map from excel](http://www.copypastemap.com/)
 * [Open-Elevation API](https://open-elevation.com/)
 
+## Overpass turbo
+
+Example query
+
+```
+node
+  [amenity=car_wash]; node[self_service="yes"]
+  ({{bbox}});
+out;
+```
+
 # Street view
 
 * [Using Python to grab Google Street View imagery | Andrew Wheeler](https://andrewpwheeler.wordpress.com/2015/12/28/using-python-to-grab-google-street-view-imagery/)
