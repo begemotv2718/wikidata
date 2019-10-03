@@ -37,6 +37,14 @@ categories: SDR, hardware, programming
 * [JT65](https://www.sigidwiki.com/wiki/JT65)
 * [Signal id wiki](https://www.sigidwiki.com) Sigid wiki Identifying signal
 
+# Decoding
+
+* [RTL433](https://github.com/merbanan/rtl_433) Program to decode various wireless protocols (433 MHz and some others).
+* [Protocol decoder for gnuradio](https://github.com/sensepost/gr-protocoldecoder). 
+* [Utilities for protocol reverse engineering in GNURadio](https://github.com/tkuester/gr-reveng)
+* Use bitslicer component before them
+* [SensePost | Decoding rf protocols within grc](https://sensepost.com/blog/2018/decoding-rf-protocols-within-grc/) (Many links above retrieved from that post)
+
 
 # Interesting transmissions
 
