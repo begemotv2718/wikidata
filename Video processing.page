@@ -26,3 +26,11 @@ categories: programming, video
 # Streaming and processing
 
 * [FFMpeg streaming](https://trac.ffmpeg.org/wiki/StreamingGuide)
+
+FFMpeg udp streaming
+```
+ffmpeg -video_size 1920x1080 -framerate 25 -f x11grab -i :0.0+0,0 -preset ultrafast -vcodec libx264 -tune zerolatency -maxrate 500k -bufsize 1000k -f mpegts udp://10.9.0.10:10001
+```
+
+* [Many examples of ffmpeg streaming](https://www.wowza.com/docs/how-to-live-stream-using-ffmpeg-with-wowza-streaming-engine)
+* [Streaming ffmpeg and receiving with vlc](https://rwdy15.wordpress.com/2015/02/12/streaming-with-ffmpeg-and-receiving-with-vlc/)
