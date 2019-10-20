@@ -146,6 +146,7 @@ See [Language processing](), [Neural network and finite automata](), [Word2vec](
 # Github
 
 * [Machine Learning Top 10 Open Source Projects](https://medium.mybridge.co/machine-learning-top-10-open-source-projects-v-feb-2018-d1d39062bd20)
+* [NVIDIA open seq2seq](https://github.com/NVIDIA/OpenSeq2Seq) Machine translation, speech recognition, NLP. Tensorflow >=1.10 required.
 
 # Faces
 
