@@ -168,6 +168,10 @@ I2S is a protocol for sending sound data. Has three wires: clock, channel and da
 
 Raspberry pi also has native hardware for 1 i2s port
 
+* I2S MEMS microphones datasheets
+    * [ ICS‐43434 ](https://eu.mouser.com/datasheet/2/400/DS-000069-ICS-43434-v1.1-1112243.pdf)
+    * [SPH0645LM4H-B](https://datasheet.octopart.com/SPH0645LM4H-B-Knowles-Acoustics-datasheet-67095867.pdf) Popularized by Adafruit.
+
 # Great projects
 
 * [Vector graphics laser projector](http://elm-chan.org/works/vlp/report_e.html) Uses galvanometers to deflect ray in x and y directions
