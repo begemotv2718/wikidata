@@ -164,6 +164,10 @@ I2S is a protocol for sending sound data. Has three wires: clock, channel and da
 
 * [STM32 AN5086: implementing I2S with SPI hardware and timers](https://www.st.com/content/ccc/resource/technical/document/application_note/group0/4a/aa/9f/64/4a/c3/49/57/DM00436604/files/DM00436604.pdf/jcr:content/translations/en.DM00436604.pdf)
 
+* [STM32F4 has native hardware for I2S](http://www.mind-dump.net/configuring-the-stm32f4-discovery-for-audio)
+
+Raspberry pi also has native hardware for 1 i2s port
+
 # Great projects
 
 * [Vector graphics laser projector](http://elm-chan.org/works/vlp/report_e.html) Uses galvanometers to deflect ray in x and y directions
