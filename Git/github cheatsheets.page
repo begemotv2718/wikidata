@@ -76,3 +76,9 @@ But using ```-Xignore-space-change``` is also a possibility
 Also    ```git merge master -s recursive -X renormalize```
 
 --[Is it possible for git-merge to ignore line-ending differences? - Stack Overflow](https://stackoverflow.com/questions/861995/is-it-possible-for-git-merge-to-ignore-line-ending-differences)
+
+# Display log with multiple branches pretty in terminal
+
+* All branches ```git log --graph --oneline --all```
+
+* Just two branches ```git log --graph --oneline currentbranch otherbranch```
