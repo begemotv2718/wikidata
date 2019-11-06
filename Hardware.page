@@ -158,6 +158,11 @@ continue to occur as soon as a data is writte
 * [Vishay: NEC protocol](http://www.vishay.com/docs/80071/dataform.pdf)
 * [arduino library: universal](https://github.com/z3t0/Arduino-IRremote)
 
+## I2S
+
+I2S is a protocol for sending sound data. Has three wires: clock, channel and data. Clock and data is similar to SPI.
+
+* [STM32 AN5086: implementing I2S with SPI hardware and timers](https://www.st.com/content/ccc/resource/technical/document/application_note/group0/4a/aa/9f/64/4a/c3/49/57/DM00436604/files/DM00436604.pdf/jcr:content/translations/en.DM00436604.pdf)
 
 # Great projects
 
