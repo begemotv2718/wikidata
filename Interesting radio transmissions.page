@@ -7,3 +7,32 @@ categories: SDR, radio
 * [ENIGMA 2000 list of stations and classification](http://www.signalshed.com/docs/ENIGMA%202000%20Active%20Stations%20List%20V1.3.pdf)
 * 4625kHz;)
 
+# Signal bases
+
+* fmscan.org
+* signal id wiki
+* [radioscanner.ru database](http://www.radioscanner.ru/base/)
+
+Script to scrap database
+
+```python
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import csv
+from time import sleep
+
+rows=[]
+
+for i in range(862):
+    response = urlopen("http://www.radioscanner.ru/base/index.php?action=list&sortBy=0&page=%d" % i)
+    html = response.read()
+    soup = BeautifulSoup(html, 'html.parser')
+    for table in soup.findAll('table', attrs={ "class" : "forums"}):
+        for row in table.findAll('tr', attrs={ "class" : "tbCel1"}):
+            rows.append([val.text for val in row.find_all('td')])
+    sleep(1)        
+with open('/tmp/csvfile.csv',"w") as f:
+    writer = csv.writer(f)
+    writer.writerows(rows)
+
+```
