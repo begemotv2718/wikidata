@@ -182,3 +182,24 @@ Usually linux kernel decides what binary to run using magic number in the start 
 One of the possible binfmt.d helpers is qemu-<arch>. [This Gentoo article](https://wiki.gentoo.org/wiki/Embedded_Handbook/General/Compiling_with_qemu_user_chroot) describes how to do this. Originally linked from ubuntu questions article [16.04 - LXD: Running an image with a foreign architecture - Ask Ubuntu](https://askubuntu.com/questions/1060089/lxd-running-an-image-with-a-foreign-architecture).
 
 It is possible to handle windows exe files with wine automatically.
+
+# Installing proprietary soft
+
+## Virtualbox
+
+* [Extension pack from command line](https://forums.virtualbox.org/viewtopic.php?f=7&t=44337)
+
+```
+#!/bin/bash
+version=$(vboxmanage -v)
+echo $version
+var1=$(echo $version | cut -d 'r' -f 1)
+echo $var1
+var2=$(echo $version | cut -d 'r' -f 2)
+echo $var2
+file="Oracle_VM_VirtualBox_Extension_Pack-$var1-$var2.vbox-extpack"
+echo $file
+wget http://download.virtualbox.org/virtualbox/$var1/$file -O /tmp/$file
+#sudo VBoxManage extpack uninstall "Oracle VM VirtualBox Extension Pack"
+sudo VBoxManage extpack install /tmp/$file --replace
+```
