@@ -27,6 +27,11 @@ categories: hardware
 * [STM32]()
 * [8-bit uC]()
 
+## Arduino like
+
+* [Makefile for compiling Arduino projects with avr-gcc, etc](https://github.com/sudar/Arduino-Makefile)
+
+
 # Theory
 
 * Noise protection
