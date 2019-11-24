@@ -29,7 +29,7 @@ categories: hardware
 
 ## Arduino like
 
-* [Makefile for compiling Arduino projects with avr-gcc, etc](https://github.com/sudar/Arduino-Makefile)
+* [Makefile for compiling Arduino projects with avr-gcc, etc](https://github.com/sudar/Arduino-Makefile) [See also this answer on stackexchange](https://arduino.stackexchange.com/questions/21492/will-a-ino-arduino-sketch-compile-directly-on-gcc-avr)
 
 
 # Theory
