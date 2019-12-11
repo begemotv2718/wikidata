@@ -196,6 +196,9 @@ Several instruments are suggested by Coccinela author to a) identify necessary c
 * [AHCI and SAS discussion](https://arstechnica.com/civis/viewtopic.php?f=11&t=1149772)
 * [PCI specifications](https://pcisig.com/specifications)
 * [PCI configuration space - Wikipedia](https://en.wikipedia.org/wiki/PCI_configuration_space)
+* Kernel driver for example pci device bt8xx gpio (this chip is commonly found on cheap PCI TV cards)
+    * [Description on author page](http://web.archive.org/web/20081001010819/http://bu3sch.de/btgpio.php)
+    * [Description on kernel page](https://www.kernel.org/doc/html/latest/driver-api/bt8xxgpio.html)
     
 
 # Kernel debug
