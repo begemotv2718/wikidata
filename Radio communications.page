@@ -7,7 +7,7 @@ categories: hardware, radio
 * [habr: Reverse engineering of ESP8266](https://habrahabr.ru/post/255135/)
 * [Running Wifi Microcontrollers on Battery](https://blog.voneicken.com/projects/low-power-wifi-intro/)
     * [github of the project](https://github.com/tve/low-power-wifi)
-    * Some major 
+* [Makefile for ESP8266 arduino projects](https://github.com/plerup/makeEspArduino)
 
 # NooLite
 
