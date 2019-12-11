@@ -9,6 +9,7 @@ categories: hardware, radio
     * [github of the project](https://github.com/tve/low-power-wifi)
 * [Makefile for ESP8266 arduino projects](https://github.com/plerup/makeEspArduino)
 * [Espressif get started](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html)
+* [ESP32/ESP8266 Arduino libraries](https://github.com/esp8266/Arduino) Also suitable for Arduino makefile mentioned above
 
 # NooLite
 
