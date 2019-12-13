@@ -48,4 +48,5 @@ Summary of mozilla team achievements is [here](https://hacks.mozilla.org/2017/11
 # Voice command interface research
 
 * [ML keyword search (KWS) for microcontrollers](https://github.com/ARM-software/ML-KWS-for-MCU)
-* [Deep voice conversion](https://github.com/andabi/deep-voice-conversion) Can it be used to extend dataset of the commands?
+* [Deep voice conversion](https://github.com/andabi/deep-voice-conversion) Can it be used to extend dataset of the commands? [General description](https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b)
+
