@@ -47,6 +47,7 @@ categories: SDR, hardware, programming
 * [Utilities for protocol reverse engineering in GNURadio](https://github.com/tkuester/gr-reveng)
 * Use bitslicer component before them
 * [SensePost | Decoding rf protocols within grc](https://sensepost.com/blog/2018/decoding-rf-protocols-within-grc/) (Many links above retrieved from that post)
+* [gr-ham](https://github.com/argilo/gr-ham) Currently it has a varicode encoder and decoder (useful for PSK31), a decoder for the CHU time signal, and a partial decoder for D-STAR. GNU Radio block for few ham protos.
 
 * [MULTI PSK](http://f6cte.free.fr/index_anglais.htm) MultiPSK is not free but versatile demodulator for various amateur protocols
 
