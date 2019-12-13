@@ -38,6 +38,7 @@ categories: SDR, hardware, programming
     * Decoder working on Linux [WSJTX](http://web.archive.org/web/20190422184715/https://physics.princeton.edu/pulsar/k1jt/wsjtx.html). Unfortunately, the real application makes too many assumptions (written in QT). Exists as Debian package. [Github mirror](https://github.com/mtharp/wsjtx-mirror/tree/wsjtx_k1jt_p1)
     * [List of frequencies to listen](http://hflink.com/jt65/)
 * [Signal id wiki](https://www.sigidwiki.com) Sigid wiki Identifying signal
+* [Meteor M2 decoder](https://www.rtl-sdr.com/a-lightweight-meteor-m2-demodulator/) Meteor M2 are modern Russian weather sattelites
 
 # Decoding
 
