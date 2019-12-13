@@ -44,3 +44,8 @@ Summary of mozilla team achievements is [here](https://hacks.mozilla.org/2017/11
         * [Speechmatics](https://app.speechmatics.com/)
         * [Vocapia](http://www.vocapia.com/speech-to-text-api.html)
     * Make your own google api -- [Cloud asr](https://github.com/UFAL-DSG/cloud-asr)
+
+# Voice command interface research
+
+* [ML keyword search (KWS) for microcontrollers](https://github.com/ARM-software/ML-KWS-for-MCU)
+
