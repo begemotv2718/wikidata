@@ -51,6 +51,7 @@ Summary of mozilla team achievements is [here](https://hacks.mozilla.org/2017/11
 * [Google speech commands dataset](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html) [Download link](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz)
 * [Hello Edge: Keyword Spotting on Microcontrollers arxiv paper](https://arxiv.org/pdf/1711.07128.pdf)
 * [SparkFun Edge Development Board - Apollo3 Blue](https://www.sparkfun.com/products/15170)
+* [Tensorflow lite speech recognition commands example](https://github.com/tensorflow/examples/tree/master/lite/examples/speech_commands)
 
 ## Possibility of extension
 
