@@ -26,7 +26,11 @@ categories: SDR, hardware, programming
 # Projects
 
 * [SatNOGs](https://satnogs.org/)
+
+# SDR hardware hacks
+
 * [Very simple SDR with 6GHz upper limit using Cypress USB3 chip: habr](https://habr.com/post/415033/)
+* [SDR HACK – Receive up to 4.5GHz on your RTLSDR](http://www.kd0cq.com/2016/04/sdr-hack-receive-up-to-4-5ghz-on-your-rtlsdr-for-5-00/) [part II](http://www.kd0cq.com/2016/04/part-ii-the-mod-receive-up-to-4-5ghz-on-your-rtlsdr-for-5-00/)
 
 # Theory
 
