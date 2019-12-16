@@ -12,6 +12,20 @@ categories: programming,programming_languages
 * [What Every C Programmer Should Know About Undefined Behavior #1/3](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html) Clang blog entry describing many optimizations possible because of UB.
     * [Second part](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
 * [Type punning](https://en.wikipedia.org/wiki/Type_punning#Floating-point_example) AKA violation of strict aliasing rules.
+* [Example of undefined behavior for integer overflow](https://www.airs.com/blog/archives/120)
+
+* Code
+
+```C
+int f()
+{
+int i;
+int j = 0;
+for (i = 1; i > 0; i += i)
+++j;
+return j;
+}
+```
 
 # Static checking
 
