@@ -146,3 +146,8 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 * [Converting OpenSSH public keys · The Odd Bit](https://blog.oddbit.com/post/2011-05-08-converting-openssh-public-keys/)
 * ```ssh-keygen -f key.pub -e -m pem```
 * Key in pem format can be parsed with openssl tools
+
+# Rfcat attack on car remote keys
+
+* [reverse engineering static key remotes with gnuradio and rfcat ·](https://leonjza.github.io/blog/2016/10/02/reverse-engineering-static-key-remotes-with-gnuradio-and-rfcat/)
+* 
