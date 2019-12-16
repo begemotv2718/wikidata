@@ -209,3 +209,13 @@ The cone's diameter and slant height are both 18cm and the disc diameter is 12.6
 # Uda-Yagi antenna
 
 * [NIST reference design for Uda-Yagi](https://tf.nist.gov/general/pdf/451.pdf)
+
+# Wave propagation
+
+* [Ionosphere propagation: basic theory](https://ppt-online.org/103514)
+
+Refraction index 
+
+$$n=\sqrt{1-80.8* n_e/f^2},$$ 
+
+where $n_e$ is electron concentration in $m^{-3}$.
