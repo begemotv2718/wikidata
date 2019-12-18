@@ -64,6 +64,9 @@ The main advantage of transformer -- it provides impedance matching in a wide ba
 * [One more example of transformer](http://www.ruqrz.com/soglasovanie-antenn-i-soglasuyushhie-us/)
 * [Extensive example of measurement for different constructions](https://drive.google.com/file/d/0B1q-psxlp3IwclNtSWVURUhQbk0/view)
 * [Ruthrofft original paper](http://sezador.radioscanner.ru/articles/Ruthroff_Aug-1959.pdf) IRE, 1959
+* [A 0.8–8 GHz Multi-Section Coupled Line Balun](https://www.mdpi.com/2079-9292/4/2/274/htm) [pdf](https://www.mdpi.com/2079-9292/4/2/274/pdf) Electronics 2015, 4(2), 274-282; https://doi.org/10.3390/electronics4020274
+    * Design and photo of the implementation on the pcb
+
 
 * [Design and Fabrication of High-Q Tuning Inductors for LF-MF Antennas](https://rudys.typepad.com/files/chapter-6--8.pdf)
 
