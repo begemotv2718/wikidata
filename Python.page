@@ -32,3 +32,15 @@ categories: programming, programming_languages
 
 * [package](https://pypi.org/project/python-daemon/)
 * [example in wayback machine](https://web.archive.org/web/20160320091458/http://www.jejik.com/files/examples/daemon3x.py) [Description?](https://web.archive.org/web/20160305151936/http://www.jejik.com/articles/2007/02/a_simple_unix_linux_daemon_in_python/)
+
+
+
+# Tricks
+
+## Save interactive session
+
+```python
+import readline
+
+readline.write_history_file('fname')
+```
