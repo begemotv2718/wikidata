@@ -50,3 +50,8 @@ Package name can be figured out with AppInspector App, but most likely just with
 * [Set static ip address using java reflections](https://stackoverflow.com/questions/27599564/how-to-configure-a-static-ip-address-netmask-gateway-dns-programmatically-on)
     * [Java reflections](http://www.quizful.net/post/java-reflection-api)
 * [scrcpy utility](https://github.com/Genymobile/scrcpy) Allows to record screen (scrcpy --record) and manipulate android with mouse.
+
+
+# OpenCV tutorial
+
+* [Example opencv application in android studio](https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c)
