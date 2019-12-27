@@ -66,7 +66,7 @@ The main advantage of transformer -- it provides impedance matching in a wide ba
 * [Ruthrofft original paper](http://sezador.radioscanner.ru/articles/Ruthroff_Aug-1959.pdf) IRE, 1959
 * [A 0.8–8 GHz Multi-Section Coupled Line Balun](https://www.mdpi.com/2079-9292/4/2/274/htm) [pdf](https://www.mdpi.com/2079-9292/4/2/274/pdf) Electronics 2015, 4(2), 274-282; https://doi.org/10.3390/electronics4020274
     * Design and photo of the implementation on the pcb
-
+* Gomez-Jimenez, P., Otero, P., & Marquez-Segura, E. (2008). Analysis and Design Procedure of Transmission-Line Transformers. IEEE Transactions on Microwave Theory and Techniques, 56(1), 163–171. doi:10.1109/tmtt.2007.912246 
 
 * [Design and Fabrication of High-Q Tuning Inductors for LF-MF Antennas](https://rudys.typepad.com/files/chapter-6--8.pdf)
 
