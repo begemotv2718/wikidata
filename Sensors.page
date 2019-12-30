@@ -247,12 +247,17 @@ This module was used to provide reference for internal oscillator on sound card 
 # FLIR -- Deep infrared cameras
 
 * [Github project with FLIR camera](https://github.com/maxritter/DIY-Thermocam)
+* [PureThermal Mini - FLIR Lepton Smart I/O Module by GetLab | GroupGets](https://groupgets.com/manufacturers/getlab/products/purethermal-mini-flir-lepton-smart-i-o-module)
+* [Lepton 3.5 datasheet](https://groupgets-files.s3.amazonaws.com/lepton/3.5/Lepton%20Engineering%20Datasheet%20Rev200.pdf)
+* [Lepton® 3.5 by FLIR | GroupGets](https://groupgets.com/manufacturers/flir/products/lepton-3-5)
 
 ## Shopping
 
 Currently 60x60 and 60x80 cameras became affordable.
 
 * [Sparkfun 60x80 FlIR camera](https://www.sparkfun.com/products/13233)
+
+* [Lepton 3.5 is $199 on digikey. Not sure about shipping.](https://www.digikey.com/product-detail/en/500-0771-01/500-0771-01-ND/7606616/?itemSeq=313129283)
 
 # MQ Sensors
 
