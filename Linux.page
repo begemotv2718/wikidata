@@ -203,3 +203,8 @@ wget http://download.virtualbox.org/virtualbox/$var1/$file -O /tmp/$file
 #sudo VBoxManage extpack uninstall "Oracle VM VirtualBox Extension Pack"
 sudo VBoxManage extpack install /tmp/$file --replace
 ```
+
+
+# Power management
+
+* [Power management from Linux kernel to Android](http://www.cse.bgu.ac.il/common/download.asp?FileName=power.pdf&AppID=2&MainID=552&SecID=4680&MinID=3)
