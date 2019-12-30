@@ -129,3 +129,9 @@ Some sites:
 * [Linux Native Firewall : Introduction to IPtables - GloboTech Blog](https://www.globo.tech/learning-center/linux-native-firewall-introduction-to-iptables/)
 * [Step-By-Step Configuration of NAT with iptables](https://www.howtoforge.com/nat_iptables)
 * [7.4. FORWARD and NAT Rules](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Security_Guide/s1-firewall-ipt-fwd.html)
+
+# Protocols 
+
+## TCP
+
+* [TCP in a nutshell](http://www.cs.miami.edu/home/burt/learning/Csc524.032/notes/tcp_nutshell.html) 
