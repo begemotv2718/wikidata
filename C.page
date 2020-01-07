@@ -70,3 +70,7 @@ https://github.com/bstarynk/bismon)
 * [CINT](http://www.hanno.jp/gotom/Cint.html) gcc based. It is used in CERN ROOT project.
 * Cling (clang based)
 * [bic](https://github.com/hexagonal-sun/bic)
+
+# Book of bad examples
+
+[Massacring C pointers](https://wozniak.ca/blog/2018/06/25/Massacring-C-Pointers/index.html)
