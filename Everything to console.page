@@ -13,6 +13,10 @@ Currently this is mostly console-based irc client. It is interesting to implemen
 * [Matrix seems to have plugin](https://matrix.org/docs/projects/client/weechat.html)
 * Telegram issue [reddit](https://www.reddit.com/r/unixporn/comments/4hwg08/hey_guys_i_had_looked_for_telegram_programs_for/) [beetlbe](https://wiki.archlinux.org/index.php/Bitlbee)
 
+# Urwid: framework for ncurses in python
+
+* [Urwid docs](https://urwid.readthedocs.io/en/latest/tutorial/)
+
 # See also
 
 [Linux Mutt](Linux#Mutt)
