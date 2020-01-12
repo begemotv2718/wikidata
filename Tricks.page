@@ -208,6 +208,10 @@ inotifywait -e access <executable path>; ps -ef | grep executable
 python -m SimpleHTTPServer <port>
 ```
 
+```bash
+python3 -m http.server <port> #default 8000
+```
+
 # Connecting to unix socket
 
 ```bash
