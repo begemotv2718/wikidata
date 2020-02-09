@@ -139,6 +139,10 @@ Some useful sites
 
 You need to activate Developer Mode first (tap the Build number entry in the About phone menu in Settings seven times) and then choose Developer options from the Settings menu. Choose Stay awake and as long as your phone or tablet is plugged in, the screen won't go to sleep after a certain period of time. [How to Keep Your Android Device's Screen From Ever Going to Sleep](https://gizmodo.com/how-to-keep-your-android-devices-screen-from-ever-going-1683127286)
 
+## VNC client in browser
+
+* [noVNC](https://github.com/novnc/noVNC) via [stackoverflow](https://unix.stackexchange.com/questions/262219/how-to-use-web-browser-as-vnc-client)
+
 # Transmitting X session to remote host with ffmpeg
 
 * [Xnee](https://xnee.wordpress.com/documentation/tips-and-tricks/) Tool for forwarding X events to remote host
