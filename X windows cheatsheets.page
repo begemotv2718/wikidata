@@ -81,6 +81,7 @@ Steps
 * Add virtual device to xrandr. This can be CPU only device ```apt install xserver-xorg-video-dummy``` or GPU backed device 
 
 In case of GPU based device create: ```/usr/share/X11/xorg.conf.d/20-intel.conf``` with the following content
+
 ```
 Section "Device"
     Identifier "intelgpu0"
@@ -88,30 +89,40 @@ Section "Device"
     Option "VirtualHeads" "2"
 EndSection
 ```
+
 After x11 restart there will be VIRTUAL1 and VIRTUAL2 devices in the list. This is via [x11 - Add VIRTUAL output to Xorg - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/378373/add-virtual-output-to-xorg)
 
 * Start x11vnc 
 
     * Pick a resolution for the screen of the vnc client, and generate a mode:
+
 ```bash
 $ cvt 1920 1080
 # 1920x1080 59.96 Hz (CVT 2.07M9) hsync: 67.16 kHz; pclk: 173.00 MHz
 Modeline "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
 ```
+
     * Add that mode to xrandr
+
 ```
 xrandr --newmode "1920x1080_60"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
 ```
+
     * Put e.g. VIRTUAL1 in that mode, and attach to the right of eDP1 (Main screen)
 
+```
 xrandr --addmode VIRTUAL1 1920x1080_60
 --output VIRTUAL1 --mode 1920x1080_60 --right-of eDP1
+```
 
     * Now export that with x11vnc, choosing the appropriate offset:
+
 ```
 x11vnc -display :0 -clip 1920x1080+1600+0 <other options>
 ```
+
 Note: Add desired encryption/authentication/other options to that command.
+
 
     * Now connect to with a VNC client to your "virtual monitor". (or modify above command to connect to a "listening" VNC-client.
 
@@ -128,3 +139,11 @@ Some useful sites
 
 You need to activate Developer Mode first (tap the Build number entry in the About phone menu in Settings seven times) and then choose Developer options from the Settings menu. Choose Stay awake and as long as your phone or tablet is plugged in, the screen won't go to sleep after a certain period of time. [How to Keep Your Android Device's Screen From Ever Going to Sleep](https://gizmodo.com/how-to-keep-your-android-devices-screen-from-ever-going-1683127286)
 
+# Transmitting X session to remote host with ffmpeg
+
+* [Xnee](https://xnee.wordpress.com/documentation/tips-and-tricks/) Tool for forwarding X events to remote host
+* ffmpeg settings
+
+```bash
+ffmpeg -video_size 1920x1080 -framerate 25 -f x11grab -i :0.0+0,0 -preset ultrafast -vcodec libx264 -tune zerolatency -b 900k -f mpegts udp://10.9.0.10:10001
+```
