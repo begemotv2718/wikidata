@@ -3,3 +3,4 @@ categories: programming, programming_languages
 ...
 
 * [BNF parsers for Javascript](https://github.com/erights/quasiParserGenerator) quasi parser generator
+* [nodeenv: analog of virtualenv for nodejs](https://github.com/ekalinin/nodeenv)
