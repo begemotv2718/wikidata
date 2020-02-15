@@ -258,6 +258,10 @@ Avarice is JTAG debugger for AVR. [Sources, project](http://avarice.sourceforge.
 avarice --mkI --jtag /dev/ttyUSB0 -p -e --file hello.hex -d :4242
 ```
 
+## JTAGEnum
+
+Test all pins for JTAG capabilities [Sources and examples](https://github.com/cyphunk/JTAGenum)
+
 # Power supplies and power electronics
 
 * [Power supply chip for circuits without galvanic decoupling MP100](https://www.monolithicpower.com/pub/media/document/MP100_r1.04_NRFND.pdf)
