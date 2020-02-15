@@ -248,6 +248,7 @@ Raspberry pi also has native hardware for 1 i2s port
 ## OpenOCD
 
 * [Looking up DMA transfers with openOCD](https://github.com/screwer/OpenOCD) via [habrahabr: Как я взломал паяльник](https://habrahabr.ru/post/350602/)
+* [Using openOCD with buspirate](https://research.kudelskisecurity.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/)
 
 ## Avarice
 
