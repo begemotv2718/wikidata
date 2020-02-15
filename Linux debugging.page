@@ -21,6 +21,10 @@ radare2 in its shell supports redirects to external programs
 ag > /tmp/gr.dat
 ```
 
+## Radare2 for avr hacking
+
+* [radare workshops hacking AVR](https://www.radare.org/get/avrworkshops2016.pdf) Quite full of tips and tricks for reverse engineering AVR code.
+
 # Kernel issues debugging
 
 [Kernel debug]()
