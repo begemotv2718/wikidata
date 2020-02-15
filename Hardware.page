@@ -243,10 +243,19 @@ Raspberry pi also has native hardware for 1 i2s port
 
 * [USB audio card](http://www.ti.com/lit/ds/symlink/pcm2707.pdf)
 
+# Debugging (JTAG)
 
-# OpenOCD
+## OpenOCD
 
 * [Looking up DMA transfers with openOCD](https://github.com/screwer/OpenOCD) via [habrahabr: Как я взломал паяльник](https://habrahabr.ru/post/350602/)
+
+## Avarice
+
+Avarice is JTAG debugger for AVR. [Sources, project](http://avarice.sourceforge.net/)
+
+```
+avarice --mkI --jtag /dev/ttyUSB0 -p -e --file hello.hex -d :4242
+```
 
 # Power supplies and power electronics
 
