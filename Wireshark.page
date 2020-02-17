@@ -14,3 +14,8 @@ export SSLKEYLOGFILE=~/path/to/sslkeylog.log
 
 Wireshark->Preferences->Protocols->SSL->(Pre)-Master-Secret log filename (/path/to/sslkeylog.log)
 
+# Tcpdump options
+
+```bash
+tcpdump -i <interface> -s 65535 -w <file>
+```
