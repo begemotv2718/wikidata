@@ -269,6 +269,7 @@ Test all pins for JTAG capabilities [Sources and examples](https://github.com/cy
 * [Small power supply IC: 5lo380r](http://www.vseprosto.net/2014/03/2898/) some schematics
 * [Частотник](http://pdf.datasheetcatalog.com/datasheet/irf/irams10up60b.pdf) -- main component
     * via [Частотный привод 5-200Гц (10-400Гц) своими руками](http://cxem.net/promelectr/promelectr27.php)
+* QC hacking [Hacking qualcom quick chare](https://www.hackster.io/PSoC_Rocks/hacking-qualcomm-quick-charge-qc-2-0-3-0-with-attiny85-b7627d)
 
 ## Batteries
 
