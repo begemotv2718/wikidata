@@ -2,6 +2,10 @@
 categories: graph
 ...
 
+# Graph algorithms
+
+* [FOSDEM talk on GraphBLAS](https://fosdem.org/2020/schedule/event/graphblas/) GraphBLAS is an analog of BLAS linear algebra algorithms for graph processing
+
 # See also
 
-[Graph databases]()
+* [Graph databases]()
