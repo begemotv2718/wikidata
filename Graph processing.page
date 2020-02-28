@@ -5,6 +5,7 @@ categories: graph
 # Graph algorithms
 
 * [FOSDEM talk on GraphBLAS](https://fosdem.org/2020/schedule/event/graphblas/) GraphBLAS is an analog of BLAS linear algebra algorithms for graph processing
+* [A Very general Method of Computing Shortest Paths](http://r6.ca/blog/20110808T035622Z.html) -- Floyd-Warshall algorithm and Gaussian elimination (also in [Algorithms]() [Haskell]() )
 
 # See also
 
