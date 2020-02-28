@@ -61,6 +61,9 @@ Obvious candidate is Gyoto. However, it doesn't support GPU rendering. Below are
 
 * Misha suggested UniverseSandbox 2 that possibly also do some raytracing in blackhole vicinity. They explicitly advice that they simulate only newtonian dynamics, however, but maybe this is not the whole story.
 
+# Lee Smolin
+
+* [Only local quantum mechanics](https://arxiv.org/pdf/1104.2822.pdf) Real ensemble interpretation of QM. Not clear if it explains Wick rotation success.
 
 # Weather
 
