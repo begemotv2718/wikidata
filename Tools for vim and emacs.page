@@ -24,6 +24,14 @@ categories: programming, vim
 
 * [Deoplete - alternative to your-complete-me AKA YCM](https://github.com/Shougo)
 
+* [Делаем из Vim-а конфетку / Хабр](https://habr.com/ru/post/468265/#section62)
+    * Coc. Coc seems to be autocompletion service working with VSCode
+       * coc-python?
+       * [Intelligent autocompletion in Vim | Always be programming](https://kimpers.com/vim-intelligent-autocompletion/)
+       * [Git page of coc.nvim](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions)
+    * [Clangd](http://llvm.org/viewvc/llvm-project/clang-tools-extra/trunk/clangd/). Pure clang based alternative to coc?
+       * [Using LSP & clangd in Vim](https://jonasdevlieghere.com/vim-lsp-clangd/)
+
 # See also
 
 * [Vim]()
