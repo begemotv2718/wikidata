@@ -76,3 +76,18 @@ It seems that for large distances this formula predict too good times, so for ma
 
 * [Alex Inside presentation](https://docs.google.com/presentation/d/1dXYW8pjnr-WNBCNODLUCVuDDAj-gIBM9YiLUonN2M8Y)
     * [biomindmap](https://biomindmap.com/intro)
+
+
+# Infectious diseases
+
+* [Notes On R0](https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf)
+
+Equations: Let $s$ be proportion of susceptible ($s=S/N$, $N$ - population size), $i$ - proportion of infected, $r$ - proportion of removed (either dead or immune recovered)
+
+$$
+   \frac{ds}{dt} = -\beta s i\\
+   \frac{di}{dt} = \beta s i - \nu i \\
+   \frac{dr}{dt} = \nu i 
+$$
+
+$R_0= \beta/\nu$
