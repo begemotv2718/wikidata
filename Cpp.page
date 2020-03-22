@@ -54,3 +54,7 @@ categories: programming
 # General rules
 
 * [The rule of three/five/zero - cppreference.com](https://en.cppreference.com/w/cpp/language/rule_of_three) -- about copy/move etc.
+
+# C++ insights
+
+This is a compiler/decompiler tool written in Clang. [Site](https://cppinsights.io/) [github](https://github.com/andreasfertig/cppinsights).
