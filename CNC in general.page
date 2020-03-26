@@ -45,6 +45,10 @@ Main mechanisms of energy drain
 * [bCNC](https://github.com/vlachoudis/bCNC) GRBL CNC command sender, autoleveler, g-code editor, digitizer, CAM and swiss army knife for all your CNC needs. Written in python, not in the enterprise shit in the list above.
 
 
+# LinuxCNC
+
+* [LinuxCNC on Raspberry Pi](http://wiki.linuxcnc.org/cgi-bin/wiki.pl?RPi3BPreemptRT)
+
 # CNC Firmware
 
 * Port of grbl to STM32F103 [original](https://github.com/usbcnc/grbl), [maybe? enhanced](https://github.com/yaroslavVl/6-AXIS-USBCNC-GRBL) (enhancement includes adding more axes, but removed makefile) [description of enhancement](http://robomechs.com/grbl-1-1-smt32f103c8t6/)
