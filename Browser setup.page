@@ -2,6 +2,14 @@
 categories: work, workspace, software, browser
 ...
 
+# List open tabs in google chrome
+
+* [Via SO superuser](https://superuser.com/questions/489207/get-the-currently-open-tabs-in-google-chrome-via-the-command-line)
+
+```bash
+strings ~/.config/google-chrome/Default/Current\ Session | grep -E '^https?://'
+```
+
 # Password decription for firefox
 
 * [github](https://github.com/unode/firefox_decrypt)
