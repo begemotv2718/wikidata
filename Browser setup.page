@@ -9,6 +9,7 @@ categories: work, workspace, software, browser
 ```bash
 strings ~/.config/google-chrome/Default/Current\ Session | grep -E '^https?://'
 ```
+* Should be possible via devtools?
 
 # Password decription for firefox
 
