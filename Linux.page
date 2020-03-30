@@ -25,17 +25,24 @@ categories: linux,OS
 * Another option: use ```rsync -a srcdir dstdir```. Note that srcdir is created inside dstdir. 
 * 'mv' usually preserve attributes
 
+# Embedded
 
-# Arm cross compilation
+## Arm cross compilation
 
 * [Recomendations on using qemu: mostly trivial](https://gist.github.com/Liryna/10710751)
     * Compiling with ```-static``` flag
     * Specifying library path on command line
 
-# uClinux
+## uClinux
 
 * [Getting started](http://www.uclinux.org/get_started/)
 * [Ported microcontrollers](http://www.uclinux.org/ports/) (DragonBall, ColdFire, BlackFin, ARM7TDMI, Microblaze, Intel i960)
+
+## Buildroot
+
+## Yocto
+
+* [Yocto cheat sheets]()
 
 # Useful blogs
 
