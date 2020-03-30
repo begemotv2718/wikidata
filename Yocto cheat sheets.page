@@ -2,3 +2,25 @@
 categories: linux,embedded
 ...
 
+# Finding root directory
+
+```bash
+bitbake -e <target> | grep '^IMAGE_ROOTFS='
+```
+
+# Finding package building desired task
+
+```bash
+oe-pkgdata-util find-path <path>
+```
+
+# Finding order of tasks for particular recipe
+
+* Finding all tasks 
+
+```bitbake -c listtasks <package>```
+
+* Finding task order
+
+BUILD_DIR/.../<pkg_name>/.../log.task_order
+
