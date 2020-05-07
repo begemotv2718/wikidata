@@ -42,6 +42,13 @@ categories: math
 
 * [Computer algebra and symbolic manipulation]()
 
+# Geometry
+
+## Voronoi diagrams 
+
+* Original paper by Fortune about sweepline algorithm [S. Fortune. A Sweepline Algorithm for Voronoi Diagrams. Algorithmica v.2, p. 153 (1987)](http://www.wias-berlin.de/people/si/course/files/Fortune87-SweepLine-Voronoi.pdf)
+
+
 # Information theory
 
 ## Sophistication
