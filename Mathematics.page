@@ -46,6 +46,8 @@ categories: math
 
 ## Voronoi diagrams 
 
+* Discussion in [avva lj](https://avva.livejournal.com/1886910.html)
+* AMS paper previous discussion refer to [Voronoi Diagrams and a Day at the Beach](http://www.ams.org/publicoutreach/feature-column/fcarc-voronoi)
 * Original paper by Fortune about sweepline algorithm [S. Fortune. A Sweepline Algorithm for Voronoi Diagrams. Algorithmica v.2, p. 153 (1987)](http://www.wias-berlin.de/people/si/course/files/Fortune87-SweepLine-Voronoi.pdf)
 * Modern implementation in [cgal](https://doc.cgal.org/Manual/3.1/doc_html/cgal_manual/Segment_Voronoi_diagram_2/Chapter_main.html)
     * [Paper on this implementation](http://users.math.uoc.gr/~mkaravel/files/papers/svd-impl.pdf)
