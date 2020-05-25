@@ -105,3 +105,10 @@ git clone https://github.com/FFmpeg/FFmpeg.git
 cd FFmpeg
 sudo ./configure --arch=armel --target-os=linux --enable-gpl --enable-omx --enable-omx-rpi --enable-nonfree
 ```
+
+## Libopenmax examples
+
+* [gagle/raspberrypi-openmax-h264](https://github.com/gagle/raspberrypi-openmax-h264)
+* [Introduction to OpenMAX on the Raspberry Pi | Kwasi-ich](https://kwasi-ich.de/blog/2017/11/26/omx/)
+* [tjormola/rpi-openmax-demos](https://github.com/tjormola/rpi-openmax-demos/) [Explanations](http://solitudo.net/software/raspberrypi/rpi-openmax-demos/)
+
