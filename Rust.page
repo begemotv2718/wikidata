@@ -1,5 +1,7 @@
-...
-categories: programming,rust
 ---
+categories: programming,rust
+...
 
-Test
+# Embedded Rust
+
+* [Roman Shulenkov -- stm32f4 stopwatch in Rust](http://www.mcu.by/rust-embedded-stopwatch/)
