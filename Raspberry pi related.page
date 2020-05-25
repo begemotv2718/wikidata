@@ -97,4 +97,11 @@ Spi speed
 # Hardware acceleration of encoding/decoding
 
 * [Build ffmpeg with openmax support](https://github.com/legotheboss/YouTube-files/wiki/(RPi)-Compile-FFmpeg-with-the-OpenMAX-H.264-GPU-acceleration)
+    * Summary
 
+```
+sudo apt-get install libomxil-bellagio-dev -y
+git clone https://github.com/FFmpeg/FFmpeg.git
+cd FFmpeg
+sudo ./configure --arch=armel --target-os=linux --enable-gpl --enable-omx --enable-omx-rpi --enable-nonfree
+```
