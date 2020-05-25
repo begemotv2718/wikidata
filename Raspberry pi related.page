@@ -92,3 +92,9 @@ Spi speed
 > This makes the frequency range be from 3.814 kHz to 125 MHz, with 32768 steps in between.
 
 [ref](https://raspberrypi.stackexchange.com/questions/699/what-spi-frequencies-does-raspberry-pi-support)
+
+
+# Hardware acceleration of encoding/decoding
+
+* [Build ffmpeg with openmax support](https://github.com/legotheboss/YouTube-files/wiki/(RPi)-Compile-FFmpeg-with-the-OpenMAX-H.264-GPU-acceleration)
+
