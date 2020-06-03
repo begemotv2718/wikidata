@@ -139,6 +139,10 @@ Summary:
 
 # Batteries
 
+## Accums
+
+* [Battery charging]()
+
 ## Fuel cells
 
 This is potentially great energy source, it should be even free from limitation of Carnot cycle for maximum efficiency, since the chemical energy is converted directly to electricity. Only energy conservation should apply. However, practically only hydrogen fuel cells work. But hydrogen is the wors substance for storage possible. There are continuing researchs on the other types of fuel cells.
