@@ -111,4 +111,4 @@ sudo ./configure --arch=armel --target-os=linux --enable-gpl --enable-omx --enab
 * [gagle/raspberrypi-openmax-h264](https://github.com/gagle/raspberrypi-openmax-h264)
 * [Introduction to OpenMAX on the Raspberry Pi | Kwasi-ich](https://kwasi-ich.de/blog/2017/11/26/omx/)
 * [tjormola/rpi-openmax-demos](https://github.com/tjormola/rpi-openmax-demos/) [Explanations](http://solitudo.net/software/raspberrypi/rpi-openmax-demos/)
-
+* [Openmax-il specifications pdf](https://www.khronos.org/files/openmax_il_spec_1_0.pdf)
