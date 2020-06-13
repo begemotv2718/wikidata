@@ -326,6 +326,7 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 * [Quora: Gaussian process algorithm](https://www.quora.com/Which-is-your-favorite-Machine-Learning-algorithm/answer/Duane-Rich?srid=ibVo)
 * [Probabilistic programming](http://v1.probmods.org/conditioning.html#example-reasoning-about-the-tug-of-war) Seems to be similar to probabilistic graphical models
 * [Proton: Multitouch Gestures as Regular Expressions](http://vis.berkeley.edu/papers/proton/)
+* [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf) -- this guys show that polynomial regression (being sufficiently non-linear) sometimes work no worse than a sophisticated NNs.
 
 ## Topological data analysis
 
