@@ -12,3 +12,4 @@ categories: programming, OS, RTOS
 
 * [Zephyr Project -- github](https://github.com/zephyrproject-rtos/zephyr) [Getting started guide](https://docs.zephyrproject.org/latest/getting_started/getting_started.html#build-and-run-an-application)
 * RIOT
+* [Embox](https://github.com/embox/embox) Small POSIX-compliant OS, which aims to run the same software linux run. Has a number of publications on habr.
