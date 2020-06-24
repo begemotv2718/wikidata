@@ -151,3 +151,10 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 
 * [reverse engineering static key remotes with gnuradio and rfcat ·](https://leonjza.github.io/blog/2016/10/02/reverse-engineering-static-key-remotes-with-gnuradio-and-rfcat/)
 * 
+
+# Telegram proxy
+
+```
+docker run -d -p443:443 --name=mtproto-proxy --restart=always -v proxy-config:/data telegrammessenger/proxy:latest
+docker logs mtproto-proxy
+```
