@@ -11,6 +11,10 @@ strings ~/.config/google-chrome/Default/Current\ Session | grep -E '^https?://'
 ```
 * Should be possible via devtools?
 
+# Extracting data from oneTab extension
+
+All oneTab data is stored in levelDB storage in ```.config/google-chrome/Default/Local\ Storage/leveldb/```. All files in this directory need to be copied somewhere if we have running chrome instance. I use plyvel python package to access database. The relevant key is ``` b'_chrome-extension://chphlpgkkbolifaimnlloiipkdnihall\x00\x01state'```. The data seems to be encoded with something like ucs-2be or utf-16be, but not exactly this. Also, the same data is available on the oneTab page, if one open console and type ```localStorage.state```
+
 # Password decription for firefox
 
 * [github](https://github.com/unode/firefox_decrypt)
