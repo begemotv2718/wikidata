@@ -158,3 +158,14 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 docker run -d -p443:443 --name=mtproto-proxy --restart=always -v proxy-config:/data telegrammessenger/proxy:latest
 docker logs mtproto-proxy
 ```
+
+# Secure storage of data on cloud services
+
+Three servers in different jurisdictions. 
+
+1. Stores key1 in memory. Use key1 as a key to decrypt one partition and serve it over iscsi
+2. Stores key2 locally. key2 exists only on this server. Mounts server1 over iscsi and encrypts/decrypts the volume with key2.
+3. (May be just an admin machine). Sends key1 to server1. May be even tor encrypted.
+
+Data is on server1 and it is doubly encrypted.
+Via amarao, habrahabr.
