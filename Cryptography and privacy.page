@@ -136,6 +136,10 @@ What has been proven is that you can create md5 collisions quite easily, for exa
 # DNS over TLS
 
 * [habr article](https://habr.com/post/427639/)
+    * Basic resolver: knot-resolver
+    * 1.1.1.1 and 8.8.8.8 (now) support DNS over TLS (port 853)
+    * DNS over HTTPS is even more unnoticeble
+    * [DNS over TLS for openwrt](https://blog.cloudflare.com/dns-over-tls-for-openwrt/)
 
 # Forensic prevention
 
