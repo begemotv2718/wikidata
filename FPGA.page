@@ -99,6 +99,8 @@ iceprog leds.bin
 # Hardware
 
 * [RggBer: open computer vision board Altera cyclone](https://www.hackster.io/RggBer/rggber-born-for-embedded-vision-24f7b5?ref=explore&ref_id=recent___&offset=6)
+* [Sipeed TANG Hex: A Raspberry Pi-Inspired FPGA - Hackster.io](https://www.hackster.io/news/sipeed-tang-hex-a-raspberry-pi-inspired-fpga-e6eba3861af3) Seems to be around 70 EUR
+* ["ZynqBerry" - Zynq-7010 in Raspberry Pi form factor | Trenz Electronic GmbH Online Shop (EN)](https://shop.trenz-electronic.de/en/TE0726-03M-ZynqBerry-Module-with-Xilinx-Zynq-7010-in-Raspberry-Pi-Form-Faktor)
 
 # Clash: haskell for hardware
 
