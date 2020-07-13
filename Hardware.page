@@ -227,8 +227,11 @@ Raspberry pi also has native hardware for 1 i2s port
 ## Displays
 
 * [RTD2660H/RTD2662 controller PCB](http://pccar.ru/showthread.php?t=22851)
-* [Waveshare e-ink](https://www.waveshare.com/product/modules/oleds-lcds/e-paper.htm)
-    * [python interface: github](https://github.com/joukos/PaperTTY)
+* E-ink
+    * [Waveshare e-ink](https://www.waveshare.com/product/modules/oleds-lcds/e-paper.htm)
+        * [python interface: github](https://github.com/joukos/PaperTTY)
+    * [Generic driver for different E-ink displays and ESP32](https://github.com/vroland/epdiy)
+        * [via habr](https://habr.com/ru/post/510102/) [Interesting bug report](https://github.com/vroland/epdiy/issues/15) 
 
 ## Chips
 
