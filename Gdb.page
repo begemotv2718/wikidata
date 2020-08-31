@@ -25,3 +25,11 @@ This is from [here](https://sourceware.org/gdb/onlinedocs/gdb/Source-Path.html)
 # Print C++ vector and other containers
 
 * [script](http://www.yolinux.com/TUTORIALS/src/dbinit_stl_views-1.03.txt)
+
+# Catch c++ exceptions
+
+* ```catch throw```
+
+# Show types
+
+* ```ptype x```
