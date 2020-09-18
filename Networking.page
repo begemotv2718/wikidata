@@ -2,6 +2,13 @@
 categories: programming,networking
 ...
 
+# WDS 
+
+Wireless distributed network. Useful to extend network without wired connection.
+
+* [Set up on TP-Link](https://www.tp-link.com/ru/support/faq/227/)
+* [Set up on openwrt](https://openwrt.org/docs/guide-user/network/wifi/relay_configuration)
+
 # Wifi packets sniffing 
 
 * Install aircrack-ng. Use airmon-ng to put card into monitor mode
