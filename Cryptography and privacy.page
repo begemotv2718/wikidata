@@ -176,3 +176,7 @@ Three servers in different jurisdictions.
 Data is on server1 and it is doubly encrypted.
 Via amarao, habrahabr.
 
+# Deanonimization
+
+* [Remote physical device fingerprinting](https://www.caida.org/publications/papers/2005/fingerprinting/KohnoBroidoClaffy05-devicefingerprinting.pdf) Using device clock skewness to identify device over network.
+* [Robust De-anonymization of Large Datasets (How to Break Anonymity of the Netflix Prize Dataset)](https://arxiv.org/pdf/cs/0610105.pdf)
