@@ -28,6 +28,8 @@ categories: crypto
 # Biometrics
 
 * [Keystroke dynamics](https://en.wikipedia.org/wiki/Keystroke_dynamics)
+* [Behavioral Patterns in Smartphone Usage Predict Big Five Personality Traits](file:///home/adamov/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/paper-2020-07-24T08_35_44.680Z.pdf) https://doi.org/10.1073/
+pnas.1920484117
 
 # Data footprint
 
@@ -173,3 +175,4 @@ Three servers in different jurisdictions.
 
 Data is on server1 and it is doubly encrypted.
 Via amarao, habrahabr.
+
