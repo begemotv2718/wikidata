@@ -186,3 +186,5 @@ Via amarao, habrahabr.
 
 * [SecLists repository](https://github.com/danielmiessler/SecLists) Common passwords, fuzzing, common sql injection patterns, etc.
 * [ffuf - Fast web fuzzer](https://github.com/ffuf/ffuf) -- Perform many web queries with predefined pattern and word substitution
+* [Google dork list](https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt) --Queries revealing insecure services
+* [tomnomnom/meg: Fetch many paths for many hosts - without killing the hosts](https://github.com/tomnomnom/meg)
