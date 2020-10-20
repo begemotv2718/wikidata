@@ -188,3 +188,11 @@ Via amarao, habrahabr.
 * [ffuf - Fast web fuzzer](https://github.com/ffuf/ffuf) -- Perform many web queries with predefined pattern and word substitution
 * [Google dork list](https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt) --Queries revealing insecure services
 * [tomnomnom/meg: Fetch many paths for many hosts - without killing the hosts](https://github.com/tomnomnom/meg)
+
+# Nuke cryptsetup password
+
+* [github kali linux - cryptsetup nuke keys](https://gitlab.com/kalilinux/packages/cryptsetup-nuke-keys)
+    * [Tutorial](https://www.kali.org/tutorials/emergency-self-destruction-luks-kali/)
+    * [Gitlab patch](https://gitlab.com/kalilinux/packages/cryptsetup-nuke-keys/-/blob/master/cryptsetup_1.4.3+nuke_keys.diff)
+Potential problems -- real forensic specialist will first make copy of the disk
+
