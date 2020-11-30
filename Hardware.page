@@ -231,7 +231,8 @@ Raspberry pi also has native hardware for 1 i2s port
     * [Waveshare e-ink](https://www.waveshare.com/product/modules/oleds-lcds/e-paper.htm)
         * [python interface: github](https://github.com/joukos/PaperTTY)
     * [Generic driver for different E-ink displays and ESP32](https://github.com/vroland/epdiy)
-        * [via habr](https://habr.com/ru/post/510102/) [Interesting bug report](https://github.com/vroland/epdiy/issues/15) 
+        * [via habr](https://habr.com/ru/post/510102/) [Interesting bug report](https://github.com/vroland/epdiy/issues/15)
+* [LCD wiki](http://www.lcdwiki.com/Main_Page#Raspberry_Pi_GPIO_Display)
 
 ## Chips
 
