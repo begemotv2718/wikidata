@@ -127,6 +127,12 @@ Rosette is a solver-aided programming language that extends Racket with language
 
 * [Python C parser -- github](https://github.com/albertz/PyCParser)
 
+# Code quality
+
+Besides cyclomatic complexity there is an interesting metric named [Cognitive complexity](https://www.sonarsource.com/docs/CognitiveComplexity.pdf)
+It is not clear if there is a tool for measuring this metrics
+
+
 # Compilers
 
 
