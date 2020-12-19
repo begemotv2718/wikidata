@@ -24,6 +24,11 @@ categories: programming, visualization, image_processing
 
 * [img2pdf.py Utility to convert image to pdf without re-encoding](http://manpages.ubuntu.com/manpages/xenial/man1/img2pdf.1.html) Suitable to packing JPEG2000 encoded images into pdf
 
+# Fast image processing
+
+* [Halide language for parallel image processing architectures](https://halide-lang.org/)
+
+Halide can be compiled to Vivado HLS [github Halide-HLS](https://github.com/jingpu/Halide-HLS)
 
 # WebRTC
 
