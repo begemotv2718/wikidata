@@ -35,3 +35,7 @@ https://tex.stackexchange.com/questions/52819/how-do-i-use-truetype-fonts-with-p
 * [Using relative paths for \include commands - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/25572/using-relative-paths-for-include-commands)
     * Suggest defining macros with relative path
 * [Import package solves the problem](http://ctan.ijs.si/tex-archive/macros/latex/contrib/import/import.pdf)
+
+# TTF fonts
+
+*[Using ttf fonts with TeX and Latex](http://c.caignaert.free.fr/ttf-english.html)
