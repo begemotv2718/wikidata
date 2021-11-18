@@ -32,3 +32,9 @@ categories: visualization
 [Citespace: download](http://cluster.ischool.drexel.edu/~cchen/citespace/download/) They use WoS formatted citations.
 
 [Pubmed: citation exporter api](https://github.com/ncbi/citation-exporter)
+
+# Motion amplification
+
+* [MIT page of the lab](http://people.csail.mit.edu/mrub/vidmag/)
+    * [github](https://github.com/12dmodel/deep_motion_mag/)
+    * [youtube presentation](https://www.youtube.com/watch?v=rEoc0YoALt0)
