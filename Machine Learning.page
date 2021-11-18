@@ -144,6 +144,11 @@ See [Language processing](), [Neural network and finite automata](), [Word2vec](
 * [Locally and globally consistent image completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)
 * [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) [Google AI Blog: Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://ai.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
 
+## Super resolution
+
+* [OpenCV superresolution tutorial](https://learnopencv.com/super-resolution-in-opencv/)
+* [habr: Апскейл, который смог](https://habr.com/ru/company/ruvds/blog/579972/)
+
 # Github
 
 * [Machine Learning Top 10 Open Source Projects](https://medium.mybridge.co/machine-learning-top-10-open-source-projects-v-feb-2018-d1d39062bd20)
