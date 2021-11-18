@@ -2,6 +2,10 @@
 category: projects
 ...
 
+# Board with SATA interface -- researching
+
+* [ODROID HC-4](https://www.cnx-software.com/2020/10/20/odroid-hc4-low-cost-dual-nas-comes-with-4gb-ram-supports-2-5-inch-and-3-5-inch-sata-drives/)
+
 # Laser cutter and boxes
 
 [Boxes repository](https://github.com/florianfesti/boxes) provide scripts to generate nice boxes for laser cutter. However, I need to manually rearrange the parts before cutting, because the boxes script does not attempt to fit the parts into available plywood sheet. Is it possible to automatically pack rectangles into a bigger rectangle?
