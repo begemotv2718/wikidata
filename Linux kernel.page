@@ -217,3 +217,9 @@ Several instruments are suggested by Coccinela author to a) identify necessary c
 # Gadgetfs, functionfs, linux usb gadget
 
 * [LVEE: Make your own usb gadget](https://lvee.org/ru/abstracts/241) Andrzej Pietrasiewicz, Warsaw, Poland
+    * [Pdf presentation](https://events.static.linuxfound.org/sites/events/files/slides/LinuxConNA-Make-your-own-USB-gadget-Andrzej.Pietrasiewicz.pdf)
+* [Overview | Turning your Raspberry Pi Zero into a USB Gadget | Adafruit Learning System](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget?view=all#other-modules)
+* [ Emulating a HID peripheral - ODROID](https://forum.odroid.com/viewtopic.php?t=30267)
+* [Create your own USB gadget with GadgetFS](https://blog.soutade.fr/post/2016/07/create-your-own-usb-gadget-with-gadgetfs.html)
+* [Linux USB HID gadget driver — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/usb/gadget_hid.html)
+* [Rpi usb keyboard hid](https://randomnerdtutorials.com/raspberry-pi-zero-usb-keyboard-hid/)
