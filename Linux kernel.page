@@ -213,3 +213,7 @@ Several instruments are suggested by Coccinela author to a) identify necessary c
 # Kernel modules in other languages
 
 * [Kernel module in Swift](https://habrahabr.ru/post/305530/)
+
+# Gadgetfs, functionfs, linux usb gadget
+
+* [LVEE: Make your own usb gadget](https://lvee.org/ru/abstracts/241) Andrzej Pietrasiewicz, Warsaw, Poland
