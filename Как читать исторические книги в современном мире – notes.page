@@ -12,6 +12,8 @@ categories: history, visualization, literature
 Кое-что какие костыли для этой задачи появились для меня где-то в 2007 году -- например, исторический атлас [centennia](http://www.clockwk.com/download.html).
 Сейчас, пока существует проект [geakron](http://geacron.com/home-en/), задача исторического атласа решена почти окончательно. Интересно было бы наложить на него карту астрономических явлений, но для слишком глубокого прошлого (более 1000 лет назад) это проблематично -- есть эффекты приливного замедления вращения Земли, которые не совсем чтобы чистые и аккуратные, и поэтому карты солнечных затмений имеют невероятную неопределенность по долготе. Сие, кстати, было одним из источников вдохновения академика Фоменко, который очень быстро объявил все затмения более чем 500-летней давности недостоверными.
 
+Интересный проект возник при
+
 Возвращаясь к чтению: читая книжки, хотелось бы видеть этакий executive summary того, что твориться в голове у героя.
 
 
@@ -49,6 +51,7 @@ Relevant links
 * [GDELT dataset -- historical events since 1979 until now covered in all type of media](http://gdeltproject.org/)
     * I know about this from [habr post](https://habrahabr.ru/post/224647/)
 
-* [chronas.org](http://chronas.org/history)
-* [Graph databases for knowledge]()
+* [chronas.org](http://chronas.org/) Good source for historic context, seems to be maintained similarly to wikipedia (although more curated) Maps, etc.
+* [Graph databases for knowledge]() -- Lot of things inspired by this article
+* [ChronoZoom project]()
 
