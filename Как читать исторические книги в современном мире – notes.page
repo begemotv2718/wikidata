@@ -50,43 +50,5 @@ Relevant links
     * I know about this from [habr post](https://habrahabr.ru/post/224647/)
 
 * [chronas.org](http://chronas.org/history)
+* [Graph databases for knowledge]()
 
-## Graph databases related
- 
-* [Influential thinkers map of influence, use of dbpedia data (influenced by, influence)](http://brendangriffen.com/assets/thinkers/)
-    * [Blog post about the relevant work on dbpedia: graphing the history of philosophy](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
-    * [Dbpedia query for philosophers](http://dbpedia.org/snorql/?query=SELECT+*%0D%0AWHERE+{%0D%0A%3Fp+a+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2FPhilosopher%3E+.%0D%0A%3Fp+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2Finfluenced%3E+%3Finfluenced.%0D%0A})
-* [Freebase+Science article: chart of cultural migration: youtube](https://www.youtube.com/watch?v=4gIhRkCcD4U)
-    * [Source: habr post](https://habrahabr.ru/post/232591/)
-    * referenced article [doi:10.1126/science.1240064](http://www.sciencemag.org/lookup/doi/10.1126/science.1240064)
-    * [freebase](https://github.com/nchah/freebase-triples) The site freebase.org is discontinued in 2016. The data dumps are available. Currently the dump is about 30Gb gzip, 400Gb uncompressed.
-        * [Some soft to work with freebase dump](https://github.com/nchah/freebase-triples) Suggests to use cayley and neo4j graph databases.
-* [Wikidata query service](https://query.wikidata.org/)
-
-### Neo4j
-
-* [Storing and quering rdf in Neo4j](http://www.snee.com/bobdc.blog/2014/01/storing-and-querying-rdf-in-ne.html) -- using just curl to post json
-* [Dbpedia2neo in java](https://github.com/claudiomartella/dbpedia4neo) Needs maven to build, seems to be quite bulky
-* [Turtle loader: also in java and needs maven](https://github.com/mybyte/tools/tree/master/Turtle%20loader)
-    * [Blog post explaining how this should work](http://michaelbloggs.blogspot.com.by/2013/05/importing-ttl-turtle-ontologies-in-neo4j.html)
-* [Stackoverflow: explanations how to import rdf into neo4j which leads to the links above](http://stackoverflow.com/questions/19676485/import-rdf-xml-or-turtle-into-neo4j)
-* [Neo4j python interface](https://neo4j.com/developer/python/)
-    * [Python rdf parser](https://github.com/RDFLib/rdflib)
-
-### Working with dbpedia
-
-* [Simple work with dbpedia: importing json](http://skipperkongen.dk/category/free-data/) [Example of getting json](http://dbpedia.org/data/Peter_the_Great.json)
-
-```python
-
-import requests
- 
-data = requests.get('http://dbpedia.org/data/Matteo_Donati.json').json()
-matteo = data['http://dbpedia.org/resource/Matteo_Donati']
- 
-# matteo is a dictionary with lots of keys
-# that correspond to the player's properties.
-# Each value is a list of dictionaries itself.
- 
-height = matteo['http://dbpedia.org/ontology/height'][0]['value']
-```
