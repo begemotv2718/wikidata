@@ -10,3 +10,11 @@ Barabasi is the founder, at least he claim so.
 * Barabasi first paper in this direction, not quite relevant [Invasion Percolation and Global Optimization](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.76.3750)
 
 * [Barabasi Network Science book online](http://networksciencebook.com/)
+
+# See also
+
+* Possibly related 
+    * [Graph databases]()
+    * [Graph databases for knowledge]()
+    * [Hypertext and related]()
+All this suggest extracting some invariants or properties from knowledge graphs. Can be related to my exploit of Google search history (where is the notebook, by the way?) What kind of algorithm was used there? 
