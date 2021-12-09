@@ -8,3 +8,7 @@ categories: ML, language_processing
     * [Compiled data](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md)
 * [Everything you know about word2vec is wrong](https://github.com/bollu/bollu.github.io#everything-you-know-about-word2vec-is-wrong) They actually use two vectors, not just one. [via habr](https://habr.com/ru/post/454926/)
 * [cpp implementation](https://github.com/maxoodf/word2vec)
+
+# See also
+
+* [Hypertext and related]() DevonThink(?) which allow associative search in pdf articles might be based on some kind of word2vec implementation
