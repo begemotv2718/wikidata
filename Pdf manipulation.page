@@ -16,6 +16,11 @@ This application allow to draw on pdf files, probably to add links as well
 
 * [Github source](https://github.com/xournalpp/xournalpp) It is highly recommended to have wacom drawing pad for use with this
 
+## See also
+
+* [Formatting own notes]()
+* [Hypertext and related]()
+
 # Extracting tables from pdf
 
 ```
