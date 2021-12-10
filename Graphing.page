@@ -2,6 +2,12 @@
 categories: visualization,ML
 ...
 
+Based on discussion with Misha Kurochkin about plotting data from sensors. Misha's suggestion: 
+a) ability to zoom in at any point
+b) easy to do this with mouse wheel
+c) ability to zoom out (loosing details)
+d) Low processor overhead 
+
 # Javascript libraries
 
 ## Time series
