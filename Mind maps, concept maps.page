@@ -1,0 +1,24 @@
+---
+category: mindmap,org
+...
+
+# Commercial software
+
+* [TheBrain](http://www.thebrain.com/) -- now free download (Linux included). Mindmapping etc. Implemented in Java. After 30 days trial require payment?
+    * [Tour](http://www.thebrain.com/support/tutorials/tour/)
+* [CMap: concept mapping](http://cmap.ihmc.us/?myPlat=Win) Also cross platform
+
+# Review of concept-mapping tools
+
+[Review](http://compress.ru/article.aspx?id=17383&iid=805)
+
+## Suggestions
+
+* TheBrain
+* FreeMind (GPL)
+* [Xebece](http://sourceforge.net/projects/xebece/) (GPL) Developed for projects Calientra and Ontographics
+* CmapTools (commercial crossplatform)
+* Mindjet MindManager Pro 6 (no Linux)
+* Aibase (win only, commercial) many features, not clear if good
+* 3D Topicscape (commercial, win only) Memory landscapes?
+* AXON Idea Processor (commercial, win only) not clear why good. 
