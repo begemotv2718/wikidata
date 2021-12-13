@@ -9,6 +9,7 @@ However, Bush was not the first to invent hypertext.
 # Predecessors of hypertext
 
 Paul Otlet, a Belgian bibliographer and entrepreneur who, in 1934, laid out a plan for a global network of “electric telescopes” that would allow anyone in the world to access to a vast library of books, articles, photographs, audio recordings, and films.Like Bush, Otlet explored the possibilities of storing data on microfilm and making it searchable, with a web of documents connected via a sophisticated linking system. [The Secret History of Hypertext - The Atlantic](https://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/)
+[Mother of all demos]() is a prototype system for all computer hypertext.
 
 # Experimental system without web: hypercards
 
@@ -27,7 +28,9 @@ Notable sets of hypercards: The Electronic whole earth catalog, Time table of hi
 * Similarity search for arxiv papers, like arxiv sanity preserver. Not sure if it like reaching cross domains.
 * [Zettelkasten]() -- concept related to hypertext.
 
+
 # See also
+
 
 * [Formatting own notes]()
 * [Pdf manipulation](Pdf manipulation#xournal) Xournal is a tool to add notes to pdf. Ideally could be useful to implement original idea of Vannevar Bush about hyperreferences between articles
