@@ -7,6 +7,9 @@ categories: hypertext
 
 What it looks like is definitely a hypertext system (there are much credits to Vannewar Bush in Augmenting Human Intellect). Interestingly enough they put hypertext into their programming language (called MOL, the references to it are lost). Mostly, what they developed is an early prototype of browser over a filesystem. It is a pity that we still have a little browser like capability on the filesystem level: need to invoke commands to do keyword search, etc. In principle, Apple Finder as well as infamous KDE Strigi/Nepomuk services seems to be useful to get around this, but still...
 
+Computer mouse was also first intoduced here. See [History of computer mouse]()
+
 # See also
 
 * [Hypertext and related]()
+* [Hardware history]()
