@@ -7,3 +7,7 @@ The idea was to create stepper with embedded encoder (to avoid missing step prob
 
 * [Stepper with encoder (usteper)](http://www.ustepper.com/index/) [kickstarter](https://www.kickstarter.com/projects/301805155/ustepper) via Boris
 * [github](https://github.com/uStepper/uStepper)
+
+# See also
+
+* [Magnetic rotational encoder]()
