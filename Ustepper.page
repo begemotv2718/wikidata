@@ -1,6 +1,9 @@
 ---
-categories: hardware,motors
+categories: hardware,motors,encoders
 ...
 
+This project was brought to my attention by Boris from EPAM.
+The idea was to create stepper with embedded encoder (to avoid missing step problem). Uses magnetic encoder (which?) and atmega328.
+
 * [Stepper with encoder (usteper)](http://www.ustepper.com/index/) [kickstarter](https://www.kickstarter.com/projects/301805155/ustepper) via Boris
-[github](https://github.com/uStepper/uStepper)
+* [github](https://github.com/uStepper/uStepper)
