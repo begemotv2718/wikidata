@@ -1,5 +1,5 @@
 ---
-categories: hardware
+categories: hardware, sensors
 ...
 
 # Gas sensors
@@ -355,12 +355,18 @@ General idea: SnO~2~ is a semiconductor with high affinity to oxigen. The agents
 * [Pixart](http://www.pixart.com.tw/product_data.asp?product_id=168&productclassify_id=19&productclassify2_id=53&productclassify_name=Optical%20Motion%20Tracking&productclassify2_name=Optical%20Flow&partnumber=PMW3901MB-TXQT)  small form factor sensor
 * [Pixart with pcb](https://www.tindie.com/products/onehorse/pmw3901-optical-flow-sensor/#product-name) PMW3901
 
+
 # Optical time of flight
 
 Time-of-Flight 8x8 multizone ranging sensor with wide field of view 
 
 * [Reference and datasheet](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) 
 8x8, range about 1-5m accuracy 5-10%.
+
+# Encoders
+
+* [Magnetic rotational encoder]()
+* Somewhat related, also magnetic encoder [Ustepper]()
 
 # See also
 
