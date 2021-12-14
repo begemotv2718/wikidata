@@ -7,3 +7,8 @@ categories: hardware, sensors
 This project uses LDC1101 inductivity sensor (which digitally encodes resonance frequency of external resonance contour) and a specially shaped pcb printed rotor + pcb coils for which we measure inductance. 
 
 The reference application note [TI app note](https://www.ti.com/lit/ug/tidu953/tidu953.pdf)
+
+# See also
+
+* [Ustepper]()
+* Parent [Sensors]()
