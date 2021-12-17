@@ -6,6 +6,13 @@ categories: mindmap,org,graph
 
 Closed source but free as a beer mind-mapping and wiki tool (actually allows creation of linked markdown pages, has tool for display them as graph). Written in electron, so available cross-platform. Seems to be a little bit inspired by TheBrain commercial tool, but currently has more features. The structure remains even if the tool will stop to be maintained, because this is plain-text markdown files. 
 
+    
+* [Habr article Воспитание Obsidian — вашего персонального информационного менеджера](https://habr.com/ru/company/macloud/blog/560776/)
+
+
 # See also
 
 * [Graph visualization tools]()
+* [Mind maps, concept maps]()
+* [Zettelkasten]()
+* [Hypertext and related]()
