@@ -1,0 +1,11 @@
+---
+categories: mindmap,org,graph
+...
+
+* [Home page for a tool](https://obsidian.md/)
+
+Closed source but free as a beer mind-mapping and wiki tool (actually allows creation of linked markdown pages, has tool for display them as graph). Written in electron, so available cross-platform. Seems to be a little bit inspired by TheBrain commercial tool, but currently has more features. The structure remains even if the tool will stop to be maintained, because this is plain-text markdown files. 
+
+# See also
+
+* [Graph visualization tools]()
