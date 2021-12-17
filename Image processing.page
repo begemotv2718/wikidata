@@ -60,3 +60,5 @@ mpost -s 'prologues=3"' -s 'outputtemplate="%j-%c.%o"' code.mp
 
 * [Visualization]()
 * [Machine Learning]()
+* [OpenCV]()
+* [Computer vision]()
