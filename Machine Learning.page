@@ -153,8 +153,7 @@ See [Language processing](), [Neural network and finite automata](), [Word2vec](
 
 # Whole body
 
-* General body pose estimation from CMU [github openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-* [MPI SMPL](http://smpl.is.tue.mpg.de/downloads) Automatic generation of rigged body from pose. Animation rigging?
+* [Pose estimation]()
 
 # Datasets, etc.
 
