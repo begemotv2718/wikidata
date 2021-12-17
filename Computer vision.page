@@ -1,0 +1,15 @@
+---
+categories: ML, image_processing
+...
+
+# Computer vision
+
+* [habrahabr: Smart bird feeder](https://habrahabr.ru/post/322520/)
+* [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) [Github page](https://github.com/jazzsaxmafia/show_and_tell.tensorflow)
+* [Locally and globally consistent image completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)
+* [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) [Google AI Blog: Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://ai.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
+
+## Super resolution
+
+* [OpenCV superresolution tutorial](https://learnopencv.com/super-resolution-in-opencv/)
+* [habr: Апскейл, который смог](https://habr.com/ru/company/ruvds/blog/579972/)
