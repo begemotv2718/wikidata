@@ -1,0 +1,25 @@
+---
+categories: ML
+...
+
+* [Paper](https://arxiv.org/pdf/1406.2661v1.pdf)
+* [Unsupervised Representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdf) [github](https://github.com/Newmu/dcgan_code) [tensorflow implementation of DCGAN](https://github.com/carpedm20/DCGAN-tensorflow)
+    * FaceApp seems to use something like this (google Yaroslav Goncharov)
+* [Open AI: some nice examples](https://blog.openai.com/generative-models/#contributions)
+* [DCGAN Tutorial — PyTorch Tutorials 1.0.0.dev20181002 documentation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+* Tricks to improve GAN training [Ganhacks github](https://github.com/soumith/ganhacks)
+* [Curated list of awesome GAN applications: github](https://github.com/nashory/gans-awesome-applications)
+* [AttnGAN: generate image from text](https://github.com/taoxugit/AttnGAN)
+* [Spectral normalization GAN for generating images from parameters: github](https://github.com/pfnet-research/sngan_projection)
+
+## Image completion with GANs
+
+* [Locally and globally consistent image completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) No code for discriminator
+* Simpler examples
+    * Generative face completion [paper](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit) [github](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
+
+
+# See also 
+
+* Parent [Machine Learning]()
+
