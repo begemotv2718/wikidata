@@ -1,0 +1,11 @@
+---
+categories: physics, holography
+...
+
+It is tempting to make holograms from computer generated code. The early attempts described in my early childhood holography book now should be greatly surpassed (since there is more than 1000-fold increase in computation power). However the sources on CGH are still scarce. Generally speaking this should be solution of wave equation with object models placed into solver.
+
+* An example of open source CGH now defunct [The CorticalCafe Computer Generated Hologram (CGH) Construction Kit](http://corticalcafe.com/prog_CGHmaker.htm)
+
+# See also
+
+* Parent [Holography]()
