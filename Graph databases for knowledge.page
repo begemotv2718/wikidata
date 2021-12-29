@@ -23,23 +23,13 @@ categories: org
 * [Neo4j python interface](https://neo4j.com/developer/python/)
     * [Python rdf parser](https://github.com/RDFLib/rdflib)
 
-### Working with dbpedia
+# Wiki databases
 
-* [Simple work with dbpedia: importing json](http://skipperkongen.dk/category/free-data/) [Example of getting json](http://dbpedia.org/data/Peter_the_Great.json)
+## Dbpedia
 
-```python
+* [Dbpedia]()
 
-import requests
- 
-data = requests.get('http://dbpedia.org/data/Matteo_Donati.json').json()
-matteo = data['http://dbpedia.org/resource/Matteo_Donati']
- 
-# matteo is a dictionary with lots of keys
-# that correspond to the player's properties.
-# Each value is a list of dictionaries itself.
- 
-height = matteo['http://dbpedia.org/ontology/height'][0]['value']
-```
+
 
 # See also
 
