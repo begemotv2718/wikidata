@@ -1,0 +1,26 @@
+---
+categories: wiki
+...
+
+#Working with dbpedia
+
+* [Simple work with dbpedia: importing json](http://skipperkongen.dk/category/free-data/) [Example of getting json](http://dbpedia.org/data/Peter_the_Great.json)
+
+```python
+
+import requests
+ 
+data = requests.get('http://dbpedia.org/data/Matteo_Donati.json').json()
+matteo = data['http://dbpedia.org/resource/Matteo_Donati']
+ 
+# matteo is a dictionary with lots of keys
+# that correspond to the player's properties.
+# Each value is a list of dictionaries itself.
+ 
+height = matteo['http://dbpedia.org/ontology/height'][0]['value']
+```
+
+# See also 
+
+* [Graph databases]()
+* [Wikidata]()
