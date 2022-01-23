@@ -1,0 +1,12 @@
+---
+categories: ML, hardware, MCU
+...
+
+Microcontrollers take trained models and sometimes successfully work with them. Usually support for MCU is based on [tflite-micro](Tflite-micro) platform. 
+The scratch space is at least largest convolution. 
+
+There is an interesting approach for reducing the memory footprint [MCUNet2](). However it is not available in functional form yet.
+
+* [Spresense Sony kit]()
+
+
