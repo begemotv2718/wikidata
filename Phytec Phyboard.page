@@ -1,0 +1,11 @@
+---
+categories: ML, hardware, linux
+...
+
+This is i.MX based platform. Linux support is based on Yocto. Looks very similar to Renesas.
+
+The ML model should be presented in onnx format and then converted.
+
+# See also
+
+* parent 
