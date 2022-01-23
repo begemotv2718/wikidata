@@ -8,4 +8,5 @@ The ML model should be presented in onnx format and then converted.
 
 # See also
 
-* parent 
+* parent [Linux based platforms for ML]()
+* [Renesas ML board]()
