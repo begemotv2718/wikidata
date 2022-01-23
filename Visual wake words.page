@@ -1,0 +1,11 @@
+---
+categories: ML, datasets, MCU
+...
+
+Visual wake words dataset is a tool for training small (a la [Tflite-micro]()) models on the coco dataset categories. The paper [Visual Wake Words Dataset](https://arxiv.org/pdf/1906.05721.pdf) contains many insights on how to run models on microcontrollers with low memory footprint.
+
+# See also
+
+* Parent [Datasets for ML]()
+* Parent [Microcontrollers for ML]()
+* Parent [Tflite-micro]()
