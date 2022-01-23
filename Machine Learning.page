@@ -260,20 +260,7 @@ Specifically, CRFs find applications in POS Tagging, shallow parsing,[3] named e
 
 # Hardware for ML
 
-* [Quora: What is the best GPU to be used for Deep Learning with budget 1000 ](https://www.quora.com/What-is-the-best-GPU-to-be-used-for-Deep-Learning-with-budget-1000)
-* [Quora: What is the typical computing power that needs to do well in most Kaggle competitions](https://www.quora.com/Whats-the-typical-computing-power-that-needs-to-do-well-in-most-Kaggle-competitions)
-
-## NVIDIA CUDA
-
-* [Installation guide](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/)
-
-## FPGA for ML
-
-* [Xilinx: FPGA for ML](https://www.xilinx.com/applications/data-center/machine-learning.html)
-* [Amazon: FPGA developer AMI](https://aws.amazon.com/marketplace/pp/B06VVYBLZZ) [README](https://s3.amazonaws.com/EULA/FPGA_README.txt)
-* [github: Xilinx ML suite](https://github.com/Xilinx/ml-suite) Summary: this is a compiler of tensorflow and caffe models to intermediate representation suitable to feed into Xilinx xDNN. Seems to be runnable on AWS F1 AMI. [Amazon link](https://aws.amazon.com/marketplace/pp/B077FM2JNS)
-* [Running Yolo on FPGA: issue on github](https://github.com/Xilinx/ml-suite/issues/39)
-    * [pdf with instructions](https://github.com/Xilinx/ml-suite/files/2365825/yolo_on_aws_f1.pdf)
+* [Hardware for ML]()
 
 # Fun
 
