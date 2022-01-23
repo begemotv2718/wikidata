@@ -1,0 +1,19 @@
+---
+categories: ML, tensorflow, MCU, NN
+...
+
+Tflite-micro is a framework for microcontrollers to deploy NNs. The result of translation is tflite code plus c++ framework.
+
+# List of models provided out of the box:
+
+## Person detection
+
+This model uses Visual wake words dataset. See the paper for many insights on how to deploy things with low memory footprint.
+
+* [Visual wake words]()
+
+
+# See also
+
+* [Tensorflow]()
+* [Microcontrollers for ML]()
