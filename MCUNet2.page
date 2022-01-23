@@ -8,4 +8,4 @@ MCUNet2 is a platform to optimize NNs for very low memory footprint of microcont
 # See also
 
 * [Tflite-micro]()
-* parent 
+* parent [Microcontrollers for ML]()
