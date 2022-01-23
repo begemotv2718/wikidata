@@ -6,7 +6,11 @@ This is i.MX based platform. Linux support is based on Yocto. Looks very similar
 
 The ML model should be presented in onnx format and then converted.
 
+* [Start page](https://www.phytec.de/en/produkte/development-kits/phyboard-pollux-ki-kit/?lang=en/)
+* [Manual page](https://www.phytec.de/en/cdocuments/?doc=fAC7E&cHash=1a26eeb5d9022ac78983000960f5f176)
+
 # See also
 
 * parent [Linux based platforms for ML]()
 * [Renesas ML board]()
+* [ONNX format]()
