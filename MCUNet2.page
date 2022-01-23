@@ -1,0 +1,11 @@
+---
+categories: ML, NN, MCU
+...
+
+MCUNet2 is a platform to optimize NNs for very low memory footprint of microcontrollers, by e.g. splitting the large convolutions into stages. I learned about this platform from this article [Improve Your Memory with This Simple Trick](hackster.io/news/improve-your-memory-with-this-simple-trick-859569855e56). Here is the reference to the original paper [MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning](https://arxiv.org/pdf/2110.15352.pdf). Here is their github repository [mcunet](https://github.com/rouyunpan/mcunet). [Web page for the project at MIT](https://mcunet.mit.edu/)
+
+
+# See also
+
+* [Tflite-micro]()
+* parent 
