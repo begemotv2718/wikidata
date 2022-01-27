@@ -1,8 +1,15 @@
 ---
-categories: wiki
+categories: wiki, graph_databases
 ...
 
-#Working with dbpedia
+
+
+* [Influential thinkers map of influence, use of dbpedia data (influenced by, influence)](http://brendangriffen.com/assets/thinkers/)
+    * [Blog post about the relevant work on dbpedia: graphing the history of philosophy](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
+    * [Dbpedia query for philosophers](http://dbpedia.org/snorql/?query=SELECT+*%0D%0AWHERE+{%0D%0A%3Fp+a+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2FPhilosopher%3E+.%0D%0A%3Fp+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2Finfluenced%3E+%3Finfluenced.%0D%0A})
+
+
+# Working with dbpedia
 
 * [Simple work with dbpedia: importing json](http://skipperkongen.dk/category/free-data/) [Example of getting json](http://dbpedia.org/data/Peter_the_Great.json)
 
@@ -22,5 +29,5 @@ height = matteo['http://dbpedia.org/ontology/height'][0]['value']
 
 # See also 
 
-* [Graph databases]()
+* [Graph databases for knowledge]()
 * [Wikidata]()
