@@ -1,0 +1,27 @@
+---
+categories: graph_database
+...
+
+
+* [Hackerspace talk on wikidata](https://www.youtube.com/watch?v=hY-1jcBxbbM)
+
+
+# Wikidata vs Dbpedia
+
+Dbpedia is data **extracted** from wikipedia using various machine learning and manual techniques. Wikidata is data **used** in wikipedia, mostly humanly created.
+
+See also [talk on quora](https://www.quora.com/What-is-the-difference-between-Wikidata-and-DBpedia)
+
+# Tools
+
+* [Wikidata query service](https://query.wikidata.org/)
+    * [Examples of queries](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples)
+
+
+
+
+# See also
+
+* Parent [Graph databases for knowledge]()
+* [Dbpedia]()
+* [Freebase]()
